@@ -15,6 +15,8 @@ SQLite database containing detailed specifications for naval guns, ammunition, t
 - **Time Period**: 1890-1990
 - **Completeness**: ~60% (ongoing research)
 
+**📄 View Complete Database**: [naval_guns_database.md](./naval_guns_database.md) (146KB markdown export with all tables)
+
 ---
 
 ## 🗂️ Repository Structure
@@ -22,6 +24,7 @@ SQLite database containing detailed specifications for naval guns, ammunition, t
 ```
 D:\Research\
 ├── naval_guns.db                    # Main SQLite database (not in repo)
+├── naval_guns_database.md           # Complete database as markdown (146KB) ⭐
 ├── *.sql                            # SQL import and update scripts
 ├── *.py                             # Python data processing scripts
 ├── *.md                             # Research documentation
