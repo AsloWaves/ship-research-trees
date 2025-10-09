@@ -1,0 +1,53 @@
+# USA Naval Weapons Research - Git Ignore
+
+# Database files (large binary, managed separately)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.temp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Archives (keep source data separately)
+archive/
+
+# Claude Code local files
+.claude/
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Agent results (will be generated)
+agent_results/*.md
+
+# Keep directory structure
+!agent_results/.gitkeep
+!config/.gitkeep
+!data/.gitkeep
+!docs/.gitkeep
+!scripts/.gitkeep
