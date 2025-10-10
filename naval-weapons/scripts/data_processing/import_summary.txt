@@ -1,0 +1,18 @@
+Naval Guns Database - Markdown Import Summary
+============================================================
+
+Source File: naval_guns_database.md
+Output SQL: import_from_markdown.sql
+
+Records Parsed:
+  Guns:           78
+  Ammunition:     72
+  Turrets:        1,700
+  Compatibility:  15,858
+  TOTAL:          17,708
+
+Sample Data:
+  First Gun: 18" Mark 1
+  Last Gun:  3" Mark 34
+  First Ammo: 16" Mark 8
+  First Turret: 16"/45 Mark 5/8 Twin Turret

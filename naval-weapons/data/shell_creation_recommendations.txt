@@ -1,0 +1,94 @@
+COMPREHENSIVE SHELL-GUN ANALYSIS RECOMMENDATIONS
+============================================================
+
+SHELLS TO CREATE: 46
+------------------------------
+18" Soviet AP* - No shells exist for 3 gun variant(s)
+18" Soviet HE* - No shells exist for 3 gun variant(s)
+15" Soviet AP* - No shells exist for 3 gun variant(s)
+15" Soviet HE* - No shells exist for 3 gun variant(s)
+14.96" German AP* - No shells exist for 2 gun variant(s)
+14.96" German HE* - No shells exist for 2 gun variant(s)
+12" US AP* - No shells exist for 1 gun variant(s)
+12" US HE* - No shells exist for 1 gun variant(s)
+18" German AP* - No shells exist for 3 gun variant(s)
+18" German HE* - No shells exist for 3 gun variant(s)
+13.39" British AP* - No shells exist for 1 gun variant(s)
+13.39" British HE* - No shells exist for 1 gun variant(s)
+12" Spain AP* - No shells exist for 3 gun variant(s)
+12" Spain HE* - No shells exist for 3 gun variant(s)
+20.1" Japanese AP* - No shells exist for 3 gun variant(s)
+20.1" Japanese HE* - No shells exist for 3 gun variant(s)
+13" French AP* - No shells exist for 1 gun variant(s)
+13" French HE* - No shells exist for 1 gun variant(s)
+16" German AP* - No shells exist for 2 gun variant(s)
+16" German HE* - No shells exist for 2 gun variant(s)
+12" Soviet AP* - No shells exist for 4 gun variant(s)
+12" Soviet HE* - No shells exist for 4 gun variant(s)
+18" Japanese AP* - No shells exist for 3 gun variant(s)
+18" Japanese HE* - No shells exist for 3 gun variant(s)
+15" Netherlands AP* - No shells exist for 3 gun variant(s)
+15" Netherlands HE* - No shells exist for 3 gun variant(s)
+3.54" British AP* - No shells exist for 1 gun variant(s)
+3.54" British HE* - No shells exist for 1 gun variant(s)
+3.94" British AP* - No shells exist for 1 gun variant(s)
+3.94" British HE* - No shells exist for 1 gun variant(s)
+18" US AP* - No shells exist for 6 gun variant(s)
+18" US HE* - No shells exist for 6 gun variant(s)
+5.98" British AP* - No shells exist for 1 gun variant(s)
+5.98" British HE* - No shells exist for 1 gun variant(s)
+14" Japanese AP* - No shells exist for 2 gun variant(s)
+14" Japanese HE* - No shells exist for 2 gun variant(s)
+20" German AP* - No shells exist for 3 gun variant(s)
+20" German HE* - No shells exist for 3 gun variant(s)
+14" Austria-Hungary AP* - No shells exist for 3 gun variant(s)
+14" Austria-Hungary HE* - No shells exist for 3 gun variant(s)
+4.1" British AP* - No shells exist for 1 gun variant(s)
+4.1" British HE* - No shells exist for 1 gun variant(s)
+14" Brazil AP* - No shells exist for 3 gun variant(s)
+14" Brazil HE* - No shells exist for 3 gun variant(s)
+12.6" Italian HE* - Missing HE for 1 gun variant(s)
+13.4" French HE* - Missing HE for 6 gun variant(s)
+14" Soviet HE* - Missing HE for 3 gun variant(s)
+14" US HE* - Missing HE for 2 gun variant(s)
+15" German HE* - Missing HE for 5 gun variant(s)
+15" Italian HE* - Missing HE for 8 gun variant(s)
+16" Soviet HE* - Missing HE for 1 gun variant(s)
+16" US HE* - Missing HE for 5 gun variant(s)
+16.1" Japanese HE* - Missing HE for 2 gun variant(s)
+16.5" German HE* - Missing HE for 4 gun variant(s)
+18.1" Japanese HE* - Missing HE for 2 gun variant(s)
+3" Japanese AP* - Missing AP for 1 gun variant(s)
+3.7" German AP* - Missing AP for 1 gun variant(s)
+3.9" French AP* - Missing AP for 1 gun variant(s)
+5" Japanese AP* - Missing AP for 1 gun variant(s)
+5" US AP* - Missing AP for 1 gun variant(s)
+5.1" French AP* - Missing AP for 1 gun variant(s)
+5.1" Soviet AP* - Missing AP for 1 gun variant(s)
+5.46" French AP* - Missing AP for 1 gun variant(s)
+6" Italian AP* - Missing AP for 1 gun variant(s)
+6" Soviet AP* - Missing AP for 1 gun variant(s)
+6" US AP* - Missing AP for 1 gun variant(s)
+8" French HE* - Missing HE for 1 gun variant(s)
+8" US HE* - Missing HE for 1 gun variant(s)
+
+ORPHAN SHELLS: 18
+------------------------------
+11" German: ['AP', 'HE']
+12" British: ['AP', 'Common', 'HE']
+12.01" French: ['AP', 'HE']
+13.39" French: ['AP', 'HE']
+13.5" British: ['AP', 'HE']
+2-pounder British: ['AP']
+3.54" French: ['AP', 'HE']
+3.94" French: ['AP', 'HE']
+4" British: ['SAP', 'HE']
+4.1" German: ['AP', 'HE']
+4.7" Italian: ['HE']
+5.12" French: ['HE']
+5.98" French: ['SAP', 'AP', 'HE']
+6.46" French: ['AP', 'HE']
+8" Italian: ['AP']
+8" Japanese: ['AP']
+8" Soviet: ['AP']
+8.0" French: ['SAP', 'AP', 'HE']
