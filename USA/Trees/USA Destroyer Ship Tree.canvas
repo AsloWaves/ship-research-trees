@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"4694a90b1425441e","type":"file","file":"USA/Overviews/00_Destroyer_Research_Tree.md","x":-416,"y":-840,"width":836,"height":400},
+		{"id":"f1ba6ec1ea117fdf","type":"file","file":"USA/USA Destroyers/Bainbridge-Class.md","x":-416,"y":-120,"width":400,"height":261},
+		{"id":"9ab5012544f722f2","type":"file","file":"USA/USA Destroyers/Cassin-Class.md","x":80,"y":-120,"width":400,"height":261}
+	],
+	"edges":[
+		{"id":"cfd9f404e8c62c95","fromNode":"f1ba6ec1ea117fdf","fromSide":"right","toNode":"9ab5012544f722f2","toSide":"left"}
+	]
+}

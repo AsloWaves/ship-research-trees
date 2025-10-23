@@ -1,0 +1,212 @@
+# US Navy Transport & Amphibious Ship Research Tree (1918-Present)
+
+## Era Overview
+
+| Era | Years | Key Innovation | Classes | Ships |
+|-----|-------|----------------|---------|-------|
+| **Early Transports** | 1918-1940 | First purpose-built transports | 4 classes | ~25 ships |
+| **WWII Attack Transports** | 1942-1946 | Mass production APA, converted | 15+ classes | 400+ ships |
+| **WWII Attack Cargo** | 1943-1945 | AKA cargo ships | 8+ classes | 108+ ships |
+| **High Speed Transports** | 1940-1945 | APD converted destroyers | 5 classes | 140+ ships |
+| **Landing Ship Tank** | 1942-1945 | LST mass production | 3 classes | 1,050+ ships |
+| **Landing Ship Dock** | 1943-1945 | LSD well decks | 3 classes | 37 ships |
+| **Cold War Amphibious** | 1950-1990 | LPH, LPD, LSD improvements | 10+ classes | 100+ ships |
+| **Modern Assault Ships** | 1976-Present | LHA/LHD helicopter carriers | 3 classes | 19+ ships |
+
+**Total:** 50+ major classes, ~2,000+ transport/amphibious ships built
+
+## Production Summary
+
+| Type | Classes | Total Ships | Peak Era |
+|------|---------|-------------|----------|
+| Early Transports (AP) | 4 | ~25 ships | 1918-1940 |
+| WWII Attack Transports (APA) | 15+ | 400+ ships | 1942-1946 (Haskell: 117, Bayfield: 62) |
+| WWII Attack Cargo (AKA) | 8+ | 108 ships | 1943-1945 (Andromeda: 35, Artemis: 41) |
+| High Speed Transports (APD) | 5 | 140+ ships | 1940-1945 (Converted DDs and DEs) |
+| Landing Ship Tank (LST) | 3 | 1,050+ ships | 1942-1945 (LST-1 to LST-1152) |
+| Landing Ship Dock (LSD) | 3 | 37 ships | 1943-1945 |
+| Amphibious Helicopter (LPH) | 2 | 12 ships | 1961-1970 (Iwo Jima: 7) |
+| Amphibious Transport Dock (LPD) | 4 | 29 ships | 1965-Present (San Antonio: 11) |
+| Amphibious Assault Ships (LHA/LHD) | 3 | 19 ships | 1976-Present (Wasp: 8, America: 2) |
+| **Grand Total** | **50+** | **~2,000+** | **107 years** |
+
+## Research Tree Diagram
+
+```mermaid
+graph TD
+    HEND[Henderson AP-1 1918<br/>First transport] --> HUN[Hunter Liggett 1923]
+    HUN --> HAR[Harris 1932]
+    HAR --> HEY[Heywood 1940]
+
+    HEY --> ART[Artemis AKA 1943<br/>Attack cargo]
+    HEY --> HASK[Haskell APA 1944<br/>117 ships]
+
+    HASK --> WIND[Windham Bay CVE<br/>Conversion base]
+    WIND --> IWO[Iwo Jima LPH-2 1961<br/>Helicopter carrier]
+
+    HEY --> WICK[Wickes DD<br/>APD conversion]
+    WICK --> BUCH[Buchanan APD 1943<br/>High speed transport]
+
+    HEY --> LST1[LST-1 1942<br/>1050+ ships]
+    LST1 --> LSD1[Ashland LSD-1 1943<br/>Dock landing ship]
+
+    IWO --> TAR[Tarawa LHA-1 1976<br/>Multi-purpose assault]
+    TAR --> WASP[Wasp LHD-1 1989<br/>8 ships active]
+    WASP --> AMER[America LHA-6 2014<br/>Aviation focus]
+
+    LSD1 --> WHID[Whidbey Island LSD-41 1985]
+    LSD1 --> SANAN[San Antonio LPD-17 2006<br/>11 ships]
+
+    style HEND fill:#f9f,color:#000
+    style HASK fill:#0f0,color:#000
+    style LST1 fill:#ff0,color:#000
+    style IWO fill:#0ff,color:#000
+    style WASP fill:#00f,color:#fff
+    style AMER fill:#f90,color:#000
+```
+
+## Major Milestones
+
+### Technological Firsts
+
+| Achievement | Class | Year |
+|-------------|-------|------|
+| **First purpose-built transport** | Henderson (AP-1) | 1918 |
+| **First attack transports (APA)** | Haskell-class | 1944 |
+| **Most numerous APA** | Haskell-class | 1944 (117 ships) |
+| **First attack cargo (AKA)** | Artemis-class | 1943 |
+| **High speed transports (APD)** | Converted destroyers | 1940 |
+| **Mass production LST** | LST-1 class | 1942 (1,050+ ships) |
+| **First landing ship dock** | Ashland (LSD-1) | 1943 |
+| **First helicopter assault ship** | Iwo Jima (LPH-2) | 1961 |
+| **First multi-purpose assault** | Tarawa (LHA-1) | 1976 |
+| **Current assault ships** | Wasp-class | 1989 |
+| **Aviation-focused assault** | America-class | 2014 |
+
+## Timeline
+
+```mermaid
+graph LR
+    A[1918<br/>Henderson AP-1<br/>First transport] --> B[1940<br/>Heywood class<br/>Pre-WWII]
+    B --> C[1943<br/>Artemis AKA<br/>Attack cargo]
+    C --> D[1944<br/>Haskell APA<br/>117 attack transports]
+    D --> E[1942<br/>LST-1<br/>1050+ landing ships]
+    E --> F[1943<br/>APD<br/>High speed transports]
+    F --> G[1943<br/>Ashland LSD<br/>Dock landing ship]
+    G --> H[1961<br/>Iwo Jima LPH<br/>Helicopter assault]
+    H --> I[1976<br/>Tarawa LHA<br/>Multi-purpose]
+    I --> J[1989<br/>Wasp LHD<br/>8 ships active]
+    J --> K[2014<br/>America LHA<br/>Aviation focused]
+
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style D fill:#0f0,stroke:#333,stroke-width:4px
+    style E fill:#ff0,stroke:#333,stroke-width:4px
+    style J fill:#00f,stroke:#fff,stroke-width:4px,color:#fff
+```
+
+## Class Listing by Era
+
+### Early Transports (1918-1940)
+1. [[Henderson-Class-AP]] (AP-1, 1918) - **First purpose-built transport**
+2. [[Hunter Liggett-Class]] (AP-27/28, 1923) - WWI conversions
+3. [[Harris-Class]] (AP-8/9, 1932) - Purpose-built transports
+4. [[Heywood-Class]] (AP-12 to AP-21, 1940) - 6 ships, pre-WWII
+
+### WWII Attack Transports (APA) (1942-1946)
+5. [[Arthur Middleton-Class]] (APA-25, 1942) - Early conversions
+6. [[Bayfield-Class]] (APA-33, 1943) - C2 conversions, 62 ships
+7. [[Haskell-Class]] (APA-117, 1944) - **Victory ship conversions, 117 ships**
+8. [[Gilliam-Class]] (APA-57, 1945) - Victory conversions, 54 ships
+
+### WWII Attack Cargo Ships (AKA) (1943-1945)
+9. [[Andromeda-Class]] (AKA-15, 1943) - C2 cargo, 35 ships
+10. [[Artemis-Class]] (AKA-21, 1943) - Victory cargo, 41 ships
+11. [[Tolland-Class]] (AKA-64, 1944) - 32 ships
+
+### High Speed Transports (APD) (1940-1945)
+12. [[APD-Wickes-Conversion]] (APD-1, 1940) - Converted flush-deck destroyers
+13. [[APD-Clemson-Conversion]] (APD-21, 1943) - Converted Clemson destroyers
+14. [[Charles Lawrence-Class]] (APD-37, 1943) - Converted destroyer escorts, 83 ships
+
+### Landing Ship Tank (LST) (1942-1945)
+15. [[LST-1-Class]] (LST-1, 1942) - **Mass production, 1,050+ ships**
+16. [[LST-491-Class]] (LST-491, 1944) - Improved design, 500+ ships
+17. [[Newport-Class-LST]] (LST-1179, 1969) - Modern LSTs, 20 ships
+
+### Landing Ship Dock (LSD) (1943-1945)
+18. [[Ashland-Class-LSD]] (LSD-1, 1943) - 8 ships, well deck
+19. [[Casa Grande-Class]] (LSD-13, 1944) - 10 ships
+20. [[Whidbey Island-Class]] (LSD-41, 1985) - Modern LSD, 8 ships
+
+### Amphibious Helicopter Carriers (LPH) (1961-1970)
+21. [[Iwo Jima-Class-LPH]] (LPH-2, 1961) - **First helicopter assault ships, 7 ships**
+
+### Amphibious Transport Docks (LPD) (1965-Present)
+22. [[Austin-Class]] (LPD-4, 1965) - 11 ships
+23. [[San Antonio-Class]] (LPD-17, 2006) - **Modern LPD, 11 ships**
+
+### Amphibious Assault Ships (LHA/LHD) (1976-Present)
+24. [[Tarawa-Class]] (LHA-1, 1976) - Multi-purpose, 5 ships
+25. [[Wasp-Class]] (LHD-1, 1989) - **8 ships, all active**
+26. [[America-Class-LHA]] (LHA-6, 2014) - Aviation-focused, 11 planned
+
+## Key Technologies
+
+### Transport Evolution
+- **1918-1940:** Converted civilian ships and purpose-built transports (AP)
+- **1942-1946:** Attack transports (APA) with landing craft
+- **1943-1945:** Attack cargo ships (AKA) for amphibious ops
+- **1940-1945:** High speed transports (APD) from destroyers
+
+### Landing Ship Evolution
+- **1942:** LST - beach directly, mass production (1,050+ ships)
+- **1943:** LSD - Well deck for landing craft
+- **1954:** LSD with ballast tanks for flooding well deck
+
+### Amphibious Assault Evolution
+- **1961:** LPH - Helicopter assault ships (Iwo Jima)
+- **1965:** LPD - Transport dock with well deck
+- **1976:** LHA - Multi-purpose: helos + landing craft + vehicles
+- **1989:** LHD - Improved LHA with better aviation
+- **2014:** America-class - Aviation-focused (no well deck on LHA-6/7)
+
+### Aircraft Capabilities
+- **LPH (Iwo Jima):** 20-25 helicopters
+- **LHA (Tarawa):** 19 CH-46 + 4 CH-53 + 6 AV-8B Harrier
+- **LHD (Wasp):** 30-40 helicopters or 20 helos + 6 F-35B
+- **LHA (America):** 25-30 helicopters or F-35B focused
+
+### Size Growth
+- **Henderson (1918):** 8,100 tons
+- **Haskell APA (1944):** 14,000 tons
+- **Iwo Jima LPH (1961):** 18,000 tons
+- **Tarawa LHA (1976):** 39,400 tons
+- **Wasp LHD (1989):** 40,500 tons
+- **America LHA (2014):** 45,000 tons
+
+## Notable Operations
+
+### World War II (1942-1945)
+- **Guadalcanal (1942):** First major amphibious assault
+- **Tarawa (1943):** LST and LSD debut
+- **Normandy (1944):** 2,700+ landing ships and craft
+- **Iwo Jima (1945):** 450 landing ships
+- **Okinawa (1945):** Largest amphibious assault (1,300+ ships)
+
+### Korean War (1950-1953)
+- **Inchon (1950):** LST and APA critical to landing
+
+### Vietnam War (1965-1975)
+- **Riverine operations:** LST and LPH operations
+- **Marine operations:** Iwo Jima-class LPH critical
+
+### Modern Era (1990-Present)
+- **Desert Storm (1991):** Amphibious threat pinned Iraqi forces
+- **Afghanistan/Iraq (2001-2011):** Aviation support from LHDs
+- **Humanitarian:** LHDs as hospital ships, disaster relief
+
+---
+
+**Tree:** Master Research Tree | **Classes:** 50+ | **Ships:** ~2,000+
+
+#transport #amphibious #apa #aka #apd #lst #lsd #lph #lpd #lha #lhd #assault-ship #landing-ship #us-navy
