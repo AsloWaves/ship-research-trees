@@ -12,7 +12,7 @@ generation: 2
 type: Armored Cruiser
 
 # Specifications
-displacement_normal: 9215
+displacement_standard: 9215
 displacement_full: 9215
 length_ft: 400.5
 beam_ft: 64.67
@@ -57,6 +57,6 @@ tags: [cruiser, armored-cruiser, acr, 1896, acr-3]
 **Note:** Different class from WWII Brooklyn-class (CL-40) light cruisers with 15× 6-inch guns.
 
 ---
-**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[Columbia-Class]] | **Next:** [[Pennsylvania-Class]]
+**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[Columbia-Class]] | **Next:*[[USA/USA Cruisers/Pennsylvania-Class]]]]
 
 #cruiser #armored-cruiser #acr #1896 #acr-3

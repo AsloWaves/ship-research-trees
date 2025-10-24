@@ -65,6 +65,6 @@ tags: [battleship, nevada, oklahoma, bb-36, bb-37, super-dreadnought, all-or-not
 **Legacy:** All-or-nothing armor became standard for all future battleships worldwide. Triple turrets used by many navies.
 
 ---
-**Tree:** [[00_Battleship_Research_Tree]] | **Previous:** [[Pennsylvania-Class]] | **Next:** [[New Mexico-Class]]
+**Tree:** [[00_Battleship_Research_Tree]] | **Previous:** [[USA/USA Battleships/Pennsylvania-Class]] | **Next:** [[New Mexico-Class]]
 
 #battleship #nevada #oklahoma #bb-36 #bb-37 #super-dreadnought #all-or-nothing #oil-fired #1916 #wwi #pearl-harbor #wwii #atomic-test #milestone

@@ -12,7 +12,7 @@ generation: 10
 type: Nuclear Guided Missile Cruiser
 
 # Specifications
-displacement_normal: 10150
+displacement_standard: 10150
 displacement_full: 10450
 length_ft: 596
 beam_ft: 61
@@ -61,6 +61,6 @@ tags: [cruiser, guided-missile, nuclear, cgn, standard-missile, cold-war, 1974]
 **Service:** Carrier battle group escorts. Reagan-era 600-ship navy. Decommissioned 1999 after Cold War ended.
 
 ---
-**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[USA/USA Cruisers/Truxtun-Class]] | **Next:** [[USA/USA Cruisers/Virginia-Class]]
+**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:*[[USA/USA Cruisers/Truxtun-Class]]]] | **Next:*[[USA/USA Cruisers/Virginia-Class]]]]
 
 #cruiser #guided-missile #nuclear #cgn #standard-missile #cold-war #1974 #milestone

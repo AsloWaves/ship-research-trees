@@ -12,7 +12,7 @@ generation: 5
 type: Light Cruiser
 
 # Specifications
-displacement_normal: 11744
+displacement_standard: 11744
 displacement_full: 14131
 length_ft: 610.08
 beam_ft: 66.33

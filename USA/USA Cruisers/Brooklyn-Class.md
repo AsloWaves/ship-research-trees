@@ -12,7 +12,7 @@ generation: 4
 type: Light Cruiser (Treaty)
 
 # Specifications
-displacement_normal: 9767
+displacement_standard: 9767
 displacement_full: 12207
 length_ft: 608.33
 beam_ft: 61.67

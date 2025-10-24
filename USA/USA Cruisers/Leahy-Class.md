@@ -12,7 +12,7 @@ generation: 9
 type: Guided Missile Cruiser
 
 # Specifications
-displacement_normal: 5670
+displacement_standard: 5670
 displacement_full: 7800
 length_ft: 533
 beam_ft: 54.83

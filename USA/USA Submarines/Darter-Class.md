@@ -23,7 +23,7 @@ crew: 85
 speed_surface: 16
 speed_submerged: 15
 propulsion_type: Diesel engine + electric motor
-propulsion_hp: 4500
+propulsion_shp: 4500
 shafts: 2
 fuel_type: Diesel
 range: 11000

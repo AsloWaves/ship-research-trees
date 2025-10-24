@@ -12,7 +12,7 @@ generation: 1
 type: Protected Cruiser
 
 # Specifications
-displacement_normal: 3189
+displacement_standard: 3189
 displacement_full: null
 length_ft: 283
 beam_ft: 42.17
@@ -23,7 +23,7 @@ crew: 284
 speed_design: 13
 speed_trial: 16.3
 propulsion_type: Horizontal compound steam engine
-propulsion_hp: 3500
+propulsion_shp: 3500
 shafts: 1
 fuel_type: Coal
 fuel_capacity: null

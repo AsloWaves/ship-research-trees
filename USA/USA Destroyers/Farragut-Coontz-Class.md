@@ -11,7 +11,7 @@ era: Guided Missile Age
 generation: 8
 
 # Specifications
-displacement_normal: 4167
+displacement_standard: 4167
 displacement_full: 5648
 length_ft: 512.5
 beam_ft: 52.33

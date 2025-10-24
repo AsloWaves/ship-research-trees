@@ -11,7 +11,7 @@ era: Post-WWII Conventional
 generation: 7
 
 # Specifications
-displacement_normal: 2800
+displacement_standard: 2800
 displacement_full: 4050
 length_ft: 418
 beam_ft: 45

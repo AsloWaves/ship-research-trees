@@ -12,7 +12,7 @@ generation: 8
 type: Guided Missile Cruiser (Conversion)
 
 # Specifications
-displacement_normal: 13700
+displacement_standard: 13700
 displacement_full: 17500
 length_ft: 673.5
 beam_ft: 70.83

@@ -12,7 +12,7 @@ generation: 2
 type: Unprotected Cruiser
 
 # Specifications
-displacement_normal: 2094
+displacement_standard: 2094
 displacement_full: 2094
 length_ft: 270
 beam_ft: 37

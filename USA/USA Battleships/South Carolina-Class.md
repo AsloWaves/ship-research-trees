@@ -23,7 +23,7 @@ crew: 869
 speed_design: 18.5
 speed_max: 19
 propulsion_type: Vertical triple-expansion engines
-propulsion_ihp: 16500
+propulsion_shp: 16500
 shafts: 2
 fuel_type: Coal
 range: 5000 nm at 10 knots

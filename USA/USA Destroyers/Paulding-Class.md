@@ -11,7 +11,7 @@ era: Thousand Tonners
 generation: 2
 
 # Specifications
-displacement_normal: 740
+displacement_standard: 740
 displacement_full: null
 length_ft: 293
 beam_ft: 26.25

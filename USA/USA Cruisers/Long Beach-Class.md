@@ -12,7 +12,7 @@ generation: 9
 type: Nuclear Guided Missile Cruiser
 
 # Specifications
-displacement_normal: 14200
+displacement_standard: 14200
 displacement_full: 17100
 length_ft: 721
 beam_ft: 73
@@ -62,6 +62,6 @@ tags: [cruiser, guided-missile, nuclear, cgn, talos, terrier, cold-war, 1961, le
 **Service:** Escorted Enterprise (CVN-65) in first all-nuclear task force. Vietnam service. Decommissioned 1995 after 34 years.
 
 ---
-**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[Belknap-Class]] | **Next:** [[USA/USA Cruisers/Bainbridge-Class]]
+**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[Belknap-Class]] | **Next:*[[USA/USA Cruisers/Bainbridge-Class]]]]
 
 #cruiser #guided-missile #nuclear #cgn #talos #terrier #cold-war #1961 #legendary #phased-array #milestone

@@ -11,7 +11,7 @@ era: Modern & Future
 generation: 10
 
 # Specifications
-displacement_normal: 15656
+displacement_standard: 15656
 displacement_full: 15995
 length_ft: 610
 beam_ft: 80.7

@@ -12,7 +12,7 @@ generation: 7
 type: Heavy Cruiser
 
 # Specifications
-displacement_normal: 17000
+displacement_standard: 17000
 displacement_full: 21500
 length_ft: 716.5
 beam_ft: 76.4
@@ -60,6 +60,6 @@ tags: [cruiser, heavy-cruiser, post-wwii, autoloading, 8-inch, 1948, legendary, 
 **Note:** Salem preserved as museum ship in Quincy, MA. Newport News served longest (1949-1975), last active gun cruiser.
 
 ---
-**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[Oregon City-Class]] | **Next:** [[USA/USA Cruisers/Alaska-Class]]
+**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[Oregon City-Class]] | **Next:*[[USA/USA Cruisers/Alaska-Class]]]]
 
 #cruiser #heavy-cruiser #post-wwii #autoloading #8-inch #1948 #legendary #museum-ship #milestone

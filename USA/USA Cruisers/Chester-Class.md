@@ -12,7 +12,7 @@ generation: 3
 type: Scout Cruiser (Protected)
 
 # Specifications
-displacement_normal: 3750
+displacement_standard: 3750
 displacement_full: 3750
 length_ft: 423.83
 beam_ft: 47

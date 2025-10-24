@@ -12,7 +12,7 @@ generation: 2
 type: Armored Cruiser
 
 # Specifications
-displacement_normal: 8150
+displacement_standard: 8150
 displacement_full: 8150
 length_ft: 384
 beam_ft: 64

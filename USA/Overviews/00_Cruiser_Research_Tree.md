@@ -163,7 +163,7 @@ graph LR
 15. [[New York-Class]] - First armored cruiser, ACR-2 (1893)
 16. [[Brooklyn-Class-ACR]] - 6 ships, ACR-3 to ACR-8 (1896)
 17. [[Maine-Class]] - 10" guns, 3 ships (1903)
-18. [[Pennsylvania-Class]] - 5 ships, 8" guns (1905)
+18. [[USA/USA Cruisers/Pennsylvania-Class]] - 5 ships, 8" guns (1905)
 19. [[Tennessee-Class]] - 10" guns (1906)
 
 ### Post-WWI Light Cruisers (1923)

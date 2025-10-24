@@ -11,7 +11,7 @@ era: WWII Destroyers
 generation: 6
 
 # Specifications
-displacement_normal: 2200
+displacement_standard: 2200
 displacement_full: 3218
 length_ft: 376.5
 beam_ft: 40-41.25

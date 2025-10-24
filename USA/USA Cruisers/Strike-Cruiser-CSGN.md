@@ -141,6 +141,6 @@ Had 8 CSGNs been built:
 - US Navy committed to conventional power for escorts
 
 ---
-**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[Virginia-Class]] | **Next:** [[Ticonderoga-Class]]
+**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[USA/USA Cruisers/Virginia-Class]] | **Next:** [[Ticonderoga-Class]]
 
 #cruiser #strike-cruiser #csgn #cancelled #nuclear #tomahawk #1970s #experimental #unbuilt #concept

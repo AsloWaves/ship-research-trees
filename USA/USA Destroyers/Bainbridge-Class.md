@@ -11,7 +11,7 @@ era: Early Destroyers
 generation: 1
 
 # Specifications
-displacement_normal: 420
+displacement_standard: 420
 displacement_full: 630
 length_ft: 250
 beam_ft: 23.1

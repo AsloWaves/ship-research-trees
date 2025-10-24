@@ -11,7 +11,7 @@ era: Interwar Treaty Ships
 generation: 5
 
 # Specifications
-displacement_normal: 1500
+displacement_standard: 1500
 displacement_full: null
 length_ft: 341.25
 beam_ft: 34.25

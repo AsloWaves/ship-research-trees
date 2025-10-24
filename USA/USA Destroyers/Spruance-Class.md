@@ -11,7 +11,7 @@ era: Gas Turbine Era
 generation: 9
 
 # Specifications
-displacement_normal: 8040
+displacement_standard: 8040
 displacement_full: 9600
 length_ft: 563
 beam_ft: 55

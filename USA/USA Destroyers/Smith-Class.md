@@ -11,7 +11,7 @@ era: Early Destroyers
 generation: 2
 
 # Specifications
-displacement_normal: 700
+displacement_standard: 700
 displacement_full: 902
 length_ft: 293.83
 beam_ft: 26
@@ -64,12 +64,12 @@ tags: [destroyer, coal-fired, turbine, milestone, second-generation]
 - 🌊 **First Ocean-going** - True blue-water capability
 - 📈 **+60% Displacement** - 700t vs 420-433t predecessors
 
-**vs [[USA/USA Destroyers/Bainbridge-Class]]/[[USA/USA Destroyers/Truxtun-Class]]:** +280t | 2.5× firepower (5 vs 2 guns) | +20-40% power | Triple-screw turbines
+**v[[USA/USA Destroyers/Bainbridge-Class]]][[USA/USA Destroyers/Truxtun-Class]]]]:** +280t | 2.5× firepower (5 vs 2 guns) | +20-40% power | Triple-screw turbines
 
 **1916 Modification:** 5 guns → 4 guns | Single torpedo tubes → 2× twin mounts
 **WWI:** Depth charge racks added
 
 ---
-**Tree:** [[00_Destroyer_Research_Tree]] | **Previous:** [[USA/USA Destroyers/Truxtun-Class]] | **Next:** [[Paulding-Class]]
+**Tree:** [[00_Destroyer_Research_Tree]] | **Previous:*[[USA/USA Destroyers/Truxtun-Class]]]] | **Next:** [[Paulding-Class]]
 
 #destroyer #us-navy #coal-fired #turbine #milestone #1909 #revolutionary

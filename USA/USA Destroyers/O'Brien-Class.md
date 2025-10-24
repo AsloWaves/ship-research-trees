@@ -11,7 +11,7 @@ era: Thousand Tonners
 generation: 3
 
 # Specifications
-displacement_normal: 1050
+displacement_standard: 1050
 displacement_full: null
 length_ft: 305.42
 beam_ft: 31.17

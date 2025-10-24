@@ -12,7 +12,7 @@ generation: 2
 type: Protected Cruiser
 
 # Specifications
-displacement_normal: 5586
+displacement_standard: 5586
 displacement_full: 6558
 length_ft: 344
 beam_ft: 53
@@ -23,7 +23,7 @@ crew: 411
 speed_design: 20
 speed_trial: 21.69
 propulsion_type: Vertical triple-expansion engines
-propulsion_hp: 13500
+propulsion_shp: 13500
 shafts: 2
 fuel_type: Coal
 fuel_capacity: 700

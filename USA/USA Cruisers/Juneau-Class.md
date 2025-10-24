@@ -12,7 +12,7 @@ generation: 6
 type: Anti-Aircraft Light Cruiser
 
 # Specifications
-displacement_normal: 6000
+displacement_standard: 6000
 displacement_full: 8000
 length_ft: 541.5
 beam_ft: 53.17

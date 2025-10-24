@@ -12,7 +12,7 @@ generation: 8
 type: Guided Missile Heavy Cruiser (Conversion)
 
 # Specifications
-displacement_normal: 14600
+displacement_standard: 14600
 displacement_full: 17500
 length_ft: 673.5
 beam_ft: 70.83
@@ -61,6 +61,6 @@ tags: [cruiser, heavy-cruiser, guided-missile, cag, terrier, conversion, cold-wa
 **Note:** Retained forward 8-inch turrets. "Double-ender" configuration came later with purpose-built ships.
 
 ---
-**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[USA/USA Cruisers/Alaska-Class]] | **Next:** [[Galveston-Class]]
+**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:*[[USA/USA Cruisers/Alaska-Class]]]] | **Next:** [[Galveston-Class]]
 
 #cruiser #heavy-cruiser #guided-missile #cag #terrier #conversion #cold-war #1955 #milestone

@@ -123,7 +123,7 @@ graph LR
 11. [[Wyoming-Class]] (BB-32/33, 1912) - 12× 12-inch guns
 12. [[New York-Class-BB]] (BB-34/35, 1914) - **First 14-inch guns**
 13. [[Nevada-Class]] (BB-36/37, 1916) - **All-or-nothing armor, oil-fired**
-14. [[Pennsylvania-Class]] (BB-38/39, 1916) - 12× 14-inch guns
+14. [[USA/USA Cruisers/Pennsylvania-Class]] (BB-38/39, 1916) - 12× 14-inch guns
 
 ### Super-Dreadnought Battleships (1916-1923)
 15. [[New Mexico-Class]] (BB-40/41/42, 1918) - Turbo-electric, 3 ships

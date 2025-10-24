@@ -12,7 +12,7 @@ generation: 2
 type: Protected Cruiser
 
 # Specifications
-displacement_normal: 7375
+displacement_standard: 7375
 displacement_full: 7375
 length_ft: 412
 beam_ft: 58

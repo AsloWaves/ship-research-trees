@@ -12,7 +12,7 @@ generation: 3
 type: Armored Cruiser
 
 # Specifications
-displacement_normal: 12500
+displacement_standard: 12500
 displacement_full: 12500
 length_ft: 502.5
 beam_ft: 72.17
@@ -57,6 +57,6 @@ tags: [cruiser, armored-cruiser, acr, 10-inch, 1903, acr-1]
 **Service:** "Great White Fleet" world cruise (1907-1909). World War I service.
 
 ---
-**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[Brooklyn-Class-ACR]] | **Next:** [[Pennsylvania-Class]]
+**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[Brooklyn-Class-ACR]] | **Next:*[[USA/USA Cruisers/Pennsylvania-Class]]]]
 
 #cruiser #armored-cruiser #acr #10-inch #1903 #acr-1

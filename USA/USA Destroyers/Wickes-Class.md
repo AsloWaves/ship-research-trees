@@ -11,7 +11,7 @@ era: WWI Flush-Deckers
 generation: 4
 
 # Specifications
-displacement_normal: 1154
+displacement_standard: 1154
 displacement_full: 1247
 length_ft: 314.38
 beam_ft: 30.94

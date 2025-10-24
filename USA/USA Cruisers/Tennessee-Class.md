@@ -12,7 +12,7 @@ generation: 1
 type: Armored Cruiser
 
 # Specifications
-displacement_normal: 14500
+displacement_standard: 14500
 displacement_full: 16350
 length_ft: 504.5
 beam_ft: 72.83
@@ -23,7 +23,7 @@ crew: 857
 speed_design: 22
 speed_trial: 22.16
 propulsion_type: Vertical triple-expansion engines
-propulsion_hp: 23500
+propulsion_shp: 23500
 shafts: 2
 fuel_type: Coal
 fuel_capacity: 2290
@@ -59,7 +59,7 @@ tags: [cruiser, armored-cruiser, pre-dreadnought-era, 10-inch-guns, 1906]
 - 🛡️ **9-inch Turret Armor** - Enhanced protection
 - 🎖️ **4 Ships** - Substantial class
 
-**vs [[Pennsylvania-Class]]:** +820t | 8"→**10" main guns** | +2× 6" guns | Heavier turret armor
+**vs [[USA/USA Cruisers/Pennsylvania-Class]]:** +820t | 8"→**10" main guns** | +2× 6" guns | Heavier turret armor
 
 **Ships of the Class:**
 - **Tennessee (ACR-10)** - Later CA-10, renamed Memphis (1916)
@@ -121,6 +121,6 @@ The Tennessee-class represented an attempt to create armored cruisers powerful e
 **Legacy:** Tennessee-class represented the apex and end of armored cruiser development. The 10-inch guns were never surpassed on a US cruiser. By WWI, the type was obsolete, replaced by fast battleships and battlecruisers.
 
 ---
-**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[Pennsylvania-Class]] | **Next:** [[Omaha-Class]]
+**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[USA/USA Cruisers/Pennsylvania-Class]] | **Next:** [[Omaha-Class]]
 
 #cruiser #us-navy #armored-cruiser #10-inch-guns #pre-dreadnought #1906 #last-armored-cruisers

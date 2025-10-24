@@ -11,7 +11,7 @@ era: Aegis Era
 generation: 10
 
 # Specifications
-displacement_normal: 8315-9800
+displacement_standard: 8315-9800
 displacement_full: 9200-10000
 length_ft: 505-509.5
 beam_ft: 66.9

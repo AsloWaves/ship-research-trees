@@ -12,7 +12,7 @@ generation: 1
 type: Armored Cruiser
 
 # Specifications
-displacement_normal: 13680
+displacement_standard: 13680
 displacement_full: 15138
 length_ft: 504
 beam_ft: 69.67
@@ -23,7 +23,7 @@ crew: 828-842
 speed_design: 22
 speed_trial: 22.47
 propulsion_type: Vertical triple-expansion engines
-propulsion_hp: 23000
+propulsion_shp: 23000
 shafts: 2
 fuel_type: Coal
 fuel_capacity: 2025

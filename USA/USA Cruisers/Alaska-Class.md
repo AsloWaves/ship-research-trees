@@ -12,7 +12,7 @@ generation: 7
 type: Large Cruiser (Battlecruiser)
 
 # Specifications
-displacement_normal: 27000
+displacement_standard: 27000
 displacement_full: 34253
 length_ft: 808.5
 beam_ft: 91

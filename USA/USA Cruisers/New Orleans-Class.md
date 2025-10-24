@@ -12,7 +12,7 @@ generation: 4
 type: Heavy Cruiser (Treaty)
 
 # Specifications
-displacement_normal: 9950
+displacement_standard: 9950
 displacement_full: 12463
 length_ft: 588
 beam_ft: 61.75

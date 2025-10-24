@@ -12,7 +12,7 @@ generation: 11
 type: Guided Missile Cruiser (Aegis)
 
 # Specifications
-displacement_normal: 9600
+displacement_standard: 9600
 displacement_full: 9800
 length_ft: 567
 beam_ft: 55

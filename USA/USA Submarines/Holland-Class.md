@@ -23,7 +23,7 @@ crew: 6
 speed_surface: 6
 speed_submerged: 5
 propulsion_type: Gasoline engine + electric motor
-propulsion_hp: 45
+propulsion_shp: 45
 shafts: 1
 fuel_type: Gasoline
 range: 200

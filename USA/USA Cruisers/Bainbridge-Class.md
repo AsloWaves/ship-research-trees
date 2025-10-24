@@ -12,7 +12,7 @@ generation: 9
 type: Nuclear Guided Missile Cruiser
 
 # Specifications
-displacement_normal: 7600
+displacement_standard: 7600
 displacement_full: 8592
 length_ft: 565
 beam_ft: 57.83
@@ -60,6 +60,6 @@ tags: [cruiser, guided-missile, nuclear, cgn, terrier, cold-war, 1962]
 **Service:** Part of first all-nuclear task force with Enterprise (CVN-65) and Long Beach (CGN-9). Served 34 years until 1996.
 
 ---
-**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[Long Beach-Class]] | **Next:** [[USA/USA Cruisers/Truxtun-Class]]
+**Tree:** [[00_Cruiser_Research_Tree]] | **Previous:** [[Long Beach-Class]] | **Next:*[[USA/USA Cruisers/Truxtun-Class]]]]
 
 #cruiser #guided-missile #nuclear #cgn #terrier #cold-war #1962

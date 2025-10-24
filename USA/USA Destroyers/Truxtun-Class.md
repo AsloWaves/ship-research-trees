@@ -11,7 +11,7 @@ era: Early Destroyers
 generation: 1
 
 # Specifications
-displacement_normal: 433
+displacement_standard: 433
 displacement_full: null
 length_ft: 259.5
 beam_ft: 22.25
@@ -52,11 +52,11 @@ tags: [destroyer, coal-fired, triple-expansion, first-generation]
 
 **Contemporary to Bainbridge** - Minor improvements: slightly larger (+13t), faster (+1kn), more powerful (+1,300 ihp), one additional 6-pounder gun.
 
-**vs [[USA/USA Destroyers/Bainbridge-Class]]:** +13t displacement | +9.5ft length | +1kn speed | +1 gun (6× vs 5× 6-pounders)
+**v[[USA/USA Destroyers/Bainbridge-Class]]]]:** +13t displacement | +9.5ft length | +1kn speed | +1 gun (6× vs 5× 6-pounders)
 
 **WWI (1917-18):** Depth charge racks added, some torpedo tube reconfigurations to twin mounts
 
 ---
-**Tree:** [[00_Destroyer_Research_Tree]] | **Previous:** [[USA/USA Destroyers/Bainbridge-Class]] | **Next:** [[Smith-Class]]
+**Tree:** [[00_Destroyer_Research_Tree]] | **Previous:*[[USA/USA Destroyers/Bainbridge-Class]]]] | **Next:** [[Smith-Class]]
 
 #destroyer #us-navy #coal-fired #1902 #first-generation

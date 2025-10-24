@@ -12,7 +12,7 @@ generation: 9
 type: Nuclear Guided Missile Cruiser
 
 # Specifications
-displacement_normal: 8200
+displacement_standard: 8200
 displacement_full: 9127
 length_ft: 564
 beam_ft: 58

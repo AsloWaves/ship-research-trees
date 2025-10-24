@@ -12,7 +12,7 @@ generation: 6
 type: Heavy Cruiser
 
 # Specifications
-displacement_normal: 13600
+displacement_standard: 13600
 displacement_full: 17031
 length_ft: 673.5
 beam_ft: 70.83
