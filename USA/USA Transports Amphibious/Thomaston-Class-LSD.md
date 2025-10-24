@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Thomaston-Class
+class_name: Thomaston-Class-LSD
 hull_numbers: LSD-28 to LSD-35
 ships_built: 8
 commissioned: 1954-1957

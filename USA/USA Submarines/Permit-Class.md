@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Permit-Class (Thresher-Class)
+class_name: Permit-Class
 hull_numbers: SSN-593 to SSN-621
 ships_built: 14
 commissioned: 1961-1968

@@ -107,48 +107,62 @@ graph LR
 ## Class Listing by Era
 
 ### Early Transports (1918-1940)
-1. [[Henderson-Class-AP]] (AP-1, 1918) - **First purpose-built transport**
-2. [[Hunter Liggett-Class]] (AP-27/28, 1923) - WWI conversions
-3. [[Harris-Class]] (AP-8/9, 1932) - Purpose-built transports
-4. [[Heywood-Class]] (AP-12 to AP-21, 1940) - 6 ships, pre-WWII
+1. [[Admiral W.S. Benson-Class-AP]] (AP-120, 1943) - C3 transport conversions
+2. [[Doyen-Class-APA]] (APA-1, 1940) - Early attack transports
+3. [[Harris-Class-APA]] (AP-8/9, 1932) - Purpose-built transports
 
 ### WWII Attack Transports (APA) (1942-1946)
-5. [[Arthur Middleton-Class]] (APA-25, 1942) - Early conversions
-6. [[Bayfield-Class]] (APA-33, 1943) - C2 conversions, 62 ships
+4. [[Arthur Middleton-Class-APA]] (APA-25, 1942) - Early C3 conversions
+5. [[Bayfield-Class-APA]] (APA-33, 1943) - C2 conversions, 62 ships
+6. [[Crescent City-Class-APA]] (APA-21, 1942) - Converted passenger ships
 7. [[Haskell-Class]] (APA-117, 1944) - **Victory ship conversions, 117 ships**
-8. [[Gilliam-Class]] (APA-57, 1945) - Victory conversions, 54 ships
 
-### WWII Attack Cargo Ships (AKA) (1943-1945)
-9. [[Andromeda-Class]] (AKA-15, 1943) - C2 cargo, 35 ships
-10. [[Artemis-Class]] (AKA-21, 1943) - Victory cargo, 41 ships
-11. [[Tolland-Class]] (AKA-64, 1944) - 32 ships
+### WWII Attack Cargo Ships (AKA/LKA) (1943-1945)
+8. [[Andromeda-Class-LKA]] (AKA-15, 1943) - C2 cargo conversions, 35 ships
+9. [[Artemis-Class-AKA]] (AKA-21, 1943) - Victory cargo conversions, 41 ships
+10. [[Charleston-Class-LKA]] (LKA-113, 1968) - Modern amphibious cargo ships
+11. [[Tolland-Class-AKA]] (AKA-64, 1944) - C2 cargo conversions, 32 ships
+12. [[Tulare-Class-LKA]] (AKA-112, 1954) - Mariner-class conversions
 
 ### High Speed Transports (APD) (1940-1945)
-12. [[APD-Wickes-Conversion]] (APD-1, 1940) - Converted flush-deck destroyers
-13. [[APD-Clemson-Conversion]] (APD-21, 1943) - Converted Clemson destroyers
-14. [[Charles Lawrence-Class]] (APD-37, 1943) - Converted destroyer escorts, 83 ships
+13. [[Charles Lawrence-Class]] (APD-37, 1943) - Converted destroyer escorts, 83 ships
 
-### Landing Ship Tank (LST) (1942-1945)
-15. [[LST-1-Class]] (LST-1, 1942) - **Mass production, 1,050+ ships**
-16. [[LST-491-Class]] (LST-491, 1944) - Improved design, 500+ ships
-17. [[Newport-Class-LST]] (LST-1179, 1969) - Modern LSTs, 20 ships
+### Landing Craft Infantry (LCI) (1943-1945)
+14. [[LCI(G)-Class]] (LCI(G), 1943) - Gunboat support craft
+15. [[LCI(L)-1-Class]] (LCI(L)-1, 1943) - Large landing craft, 350+ built
+16. [[LCI(L)-351-Class]] (LCI(L)-351, 1944) - Improved LCI(L), 272 built
+17. [[LCI(M)-Class]] (LCI(M), 1943) - Mortar support craft
+18. [[LCI(R)-Class]] (LCI(R), 1943) - Rocket support craft
 
-### Landing Ship Dock (LSD) (1943-1945)
-18. [[Ashland-Class-LSD]] (LSD-1, 1943) - 8 ships, well deck
-19. [[Casa Grande-Class]] (LSD-13, 1944) - 10 ships
-20. [[Whidbey Island-Class]] (LSD-41, 1985) - Modern LSD, 8 ships
+### Landing Ship Medium (LSM) (1944-1945)
+19. [[LSM-1-Class]] (LSM-1, 1944) - Medium landing ships, 500+ built
+20. [[LSM(R)-188-Class]] (LSM(R)-188, 1944) - Rocket support ships
+
+### Landing Ship Tank (LST) (1942-Present)
+21. [[LST-1-Class]] (LST-1, 1942) - **Mass production, 1,050+ ships**
+22. [[LST-542-Class]] (LST-542, 1944) - Improved LST design
+23. [[De Soto County-Class-LST]] (LST-1171, 1958) - Post-war LST, 7 ships
+24. [[Terrebonne Parish-Class-LST]] (LST-1156, 1952) - Modernized LST, 15 ships
+25. [[Newport-Class-LST]] (LST-1179, 1969) - Modern LST, 20 ships
+
+### Landing Ship Dock (LSD) (1943-Present)
+26. [[Ashland-Class-LSD]] (LSD-1, 1943) - **First LSD, 8 ships**
+27. [[Casa Grande-Class-LSD]] (LSD-13, 1944) - 10 ships
+28. [[Thomaston-Class-LSD]] (LSD-28, 1954) - 8 ships
+29. [[Anchorage-Class-LSD]] (LSD-36, 1969) - 5 ships
+30. [[Whidbey Island-Class-LSD]] (LSD-41, 1985) - 8 ships
+31. [[Harpers Ferry-Class-LSD]] (LSD-49, 1995) - Cargo variant LSD, 4 ships
 
 ### Amphibious Helicopter Carriers (LPH) (1961-1970)
-21. [[Iwo Jima-Class-LPH]] (LPH-2, 1961) - **First helicopter assault ships, 7 ships**
+32. [[Iwo Jima-Class-LPH]] (LPH-2, 1961) - **First helicopter assault ships, 7 ships**
 
 ### Amphibious Transport Docks (LPD) (1965-Present)
-22. [[Austin-Class]] (LPD-4, 1965) - 11 ships
-23. [[San Antonio-Class]] (LPD-17, 2006) - **Modern LPD, 11 ships**
+33. [[San Antonio-Class]] (LPD-17, 2006) - **Modern LPD, 11 ships**
 
 ### Amphibious Assault Ships (LHA/LHD) (1976-Present)
-24. [[Tarawa-Class]] (LHA-1, 1976) - Multi-purpose, 5 ships
-25. [[Wasp-Class]] (LHD-1, 1989) - **8 ships, all active**
-26. [[America-Class-LHA]] (LHA-6, 2014) - Aviation-focused, 11 planned
+34. [[Tarawa-Class]] (LHA-1, 1976) - Multi-purpose assault, 5 ships
+35. [[Wasp-Class]] (LHD-1, 1989) - **8 ships, all active**
+36. [[America-Class-LHA]] (LHA-6, 2014) - Aviation-focused LHA, 2 active + more planned
 
 ## Key Technologies
 

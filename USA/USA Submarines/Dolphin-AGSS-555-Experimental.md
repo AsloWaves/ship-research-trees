@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Dolphin Deep Diving Submarine
+class_name: Dolphin-AGSS-555-Experimental
 hull_numbers: AGSS-555
 ships_built: 1 (experimental)
 commissioned: 1968

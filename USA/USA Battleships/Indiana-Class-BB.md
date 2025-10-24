@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Indiana-Class
+class_name: Indiana-Class-BB
 hull_numbers: BB-1, BB-2, BB-3
 ships_built: 3
 commissioned: 1895-1896

@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: United States-Class
+class_name: United States-Class-CVA-58
 hull_numbers: CVA-58
 ships_built: 0 (cancelled)
 commissioned: Never

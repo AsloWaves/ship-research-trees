@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Brooklyn-Class (Armored Cruiser)
+class_name: Brooklyn-Class-ACR
 hull_numbers: ACR-3 to ACR-8
 ships_built: 6
 commissioned: 1896-1908

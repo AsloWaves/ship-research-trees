@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Tillman "Maximum" Battleships
+class_name: Tillman-Maximum-Battleships
 hull_numbers: None assigned (design studies only)
 ships_built: 0 (never built, design studies only)
 commissioned: Never

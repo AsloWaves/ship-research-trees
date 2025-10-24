@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: James Madison-Class
+class_name: James Madison-Class-SSBN
 hull_numbers: SSBN-627 to SSBN-636
 ships_built: 10
 commissioned: 1964

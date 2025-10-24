@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Charleston-Class
+class_name: Charleston-Class-LKA
 hull_numbers: LKA-113 to LKA-117
 ships_built: 5
 commissioned: 1968-1970

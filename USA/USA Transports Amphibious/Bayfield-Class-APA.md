@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Bayfield-Class
+class_name: Bayfield-Class-APA
 hull_numbers: APA-33 to APA-116
 ships_built: 34
 commissioned: 1943-1944

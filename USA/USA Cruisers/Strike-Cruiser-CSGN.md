@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Strike Cruiser
+class_name: Strike-Cruiser-CSGN
 hull_numbers: CSGN-1 to CSGN-8 (proposed)
 ships_built: 0 (cancelled)
 commissioned: Never

@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Benjamin Franklin-Class
+class_name: Benjamin Franklin-Class-SSBN
 hull_numbers: SSBN-640 to SSBN-659
 ships_built: 12
 commissioned: 1965-1967

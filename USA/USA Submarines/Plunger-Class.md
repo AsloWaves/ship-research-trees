@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Plunger-Class (A-Class)
+class_name: Plunger-Class
 hull_numbers: SS-2 to SS-8
 ships_built: 7
 commissioned: 1903

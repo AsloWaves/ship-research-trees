@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Ohio-Class
+class_name: Ohio-Class-SSBN
 hull_numbers: SSBN-726 to SSBN-743 (14 SSBN), SSGN-726 to SSGN-729 (4 SSGN)
 ships_built: 18 (14 SSBN, 4 SSGN)
 commissioned: 1981-1997

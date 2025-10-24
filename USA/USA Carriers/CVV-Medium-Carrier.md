@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: CVV Medium Carrier
+class_name: CVV-Medium-Carrier
 hull_numbers: CVV-1 to CVV-4+ (proposed)
 ships_built: 0 (cancelled)
 commissioned: Never

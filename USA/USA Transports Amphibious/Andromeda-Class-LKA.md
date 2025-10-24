@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Andromeda/Achernar-Class
+class_name: Andromeda-Class-LKA
 hull_numbers: AKA-15 to AKA-20, AKA-53 to AKA-111
 ships_built: 35
 commissioned: 1943-1945

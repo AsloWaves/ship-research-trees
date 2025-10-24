@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Baltimore-Class (Protected Cruiser)
+class_name: Baltimore-Class-PC
 hull_numbers: C-3
 ships_built: 1
 commissioned: 1890

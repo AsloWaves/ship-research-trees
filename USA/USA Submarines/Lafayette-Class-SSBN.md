@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Lafayette-Class
+class_name: Lafayette-Class-SSBN
 hull_numbers: SSBN-616 to SSBN-636
 ships_built: 9
 commissioned: 1963-1964

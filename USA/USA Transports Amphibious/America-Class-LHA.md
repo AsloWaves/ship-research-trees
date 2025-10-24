@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: America-Class
+class_name: America-Class-LHA
 hull_numbers: LHA-6, LHA-7, LHA-8, LHA-9, LHA-10 (building), LHA-11 (planned)
 ships_built: 2 (11 planned)
 commissioned: 2014-2024

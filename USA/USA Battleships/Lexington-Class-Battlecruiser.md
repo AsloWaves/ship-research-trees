@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Lexington-Class Battlecruisers
+class_name: Lexington-Class-Battlecruiser
 hull_numbers: CC-1 to CC-6
 ships_built: 0 as battlecruisers (2 completed as aircraft carriers)
 commissioned: Never as battlecruisers / 1927 as carriers

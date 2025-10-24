@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Sea Control Ship
+class_name: Sea-Control-Ship-SCS
 hull_numbers: SCS (proposed, none assigned)
 ships_built: 0 (cancelled)
 commissioned: Never

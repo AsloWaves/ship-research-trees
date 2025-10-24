@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: South Dakota-Class (1920)
+class_name: South Dakota-Class-1920
 hull_numbers: BB-49 to BB-54
 ships_built: 0 (cancelled)
 commissioned: Never

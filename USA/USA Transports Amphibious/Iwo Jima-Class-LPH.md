@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Iwo Jima-Class
+class_name: Iwo Jima-Class-LPH
 hull_numbers: LPH-2, LPH-3, LPH-7, LPH-9, LPH-10, LPH-11, LPH-12
 ships_built: 7
 commissioned: 1961-1970

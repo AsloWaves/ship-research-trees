@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Farragut/Coontz-Class
+class_name: Farragut-Coontz-Class
 hull_numbers: DDG-37 to DDG-46
 ships_built: 10
 commissioned: 1960-1961

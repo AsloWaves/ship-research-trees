@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Harpers Ferry-Class
+class_name: Harpers Ferry-Class-LSD
 hull_numbers: LSD-49 to LSD-52
 ships_built: 4
 commissioned: 1995-1998

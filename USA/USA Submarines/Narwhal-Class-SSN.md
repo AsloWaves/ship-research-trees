@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Narwhal-Class (SSN-671)
+class_name: Narwhal-Class-SSN
 hull_numbers: SSN-671
 ships_built: 1
 commissioned: 1969

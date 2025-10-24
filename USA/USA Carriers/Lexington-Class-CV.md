@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Lexington-Class
+class_name: Lexington-Class-CV
 hull_numbers: CV-2, CV-3
 ships_built: 2
 commissioned: 1927

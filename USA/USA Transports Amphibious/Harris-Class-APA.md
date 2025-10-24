@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Harris-Class
+class_name: Harris-Class-APA
 hull_numbers: APA-2, APA-3, APA-12 to APA-17
 ships_built: 8
 commissioned: 1919-1922 (original), 1941-1943 (as APA)

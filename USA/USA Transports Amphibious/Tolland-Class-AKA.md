@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Tolland-Class
+class_name: Tolland-Class-AKA
 hull_numbers: AKA-64 to AKA-108
 ships_built: 32 (1 cancelled)
 commissioned: 1944-1945

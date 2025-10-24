@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Newport-Class
+class_name: Newport-Class-LST
 hull_numbers: LST-1179 to LST-1198
 ships_built: 20
 commissioned: 1969-1972

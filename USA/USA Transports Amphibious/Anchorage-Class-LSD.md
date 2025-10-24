@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Anchorage-Class
+class_name: Anchorage-Class-LSD
 hull_numbers: LSD-36 to LSD-40
 ships_built: 5
 commissioned: 1969-1972

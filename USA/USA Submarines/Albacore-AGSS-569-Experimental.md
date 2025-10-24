@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Albacore Experimental Submarine
+class_name: Albacore-AGSS-569-Experimental
 hull_numbers: AGSS-569
 ships_built: 1 (experimental)
 commissioned: 1953

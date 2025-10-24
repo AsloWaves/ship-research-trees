@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Tulare-Class
+class_name: Tulare-Class-LKA
 hull_numbers: LKA-112
 ships_built: 1
 commissioned: 1956

@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: De Soto County-Class
+class_name: De Soto County-Class-LST
 hull_numbers: LST-1171 to LST-1178 (LST-1172 cancelled)
 ships_built: 7
 commissioned: 1957-1959

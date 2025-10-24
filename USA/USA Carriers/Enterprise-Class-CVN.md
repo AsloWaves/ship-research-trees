@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Enterprise-Class
+class_name: Enterprise-Class-CVN
 hull_numbers: CVN-65
 ships_built: 1
 commissioned: 1961

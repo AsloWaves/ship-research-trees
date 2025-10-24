@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Ethan Allen-Class
+class_name: Ethan Allen-Class-SSBN
 hull_numbers: SSBN-608 to SSBN-618
 ships_built: 5
 commissioned: 1961-1963

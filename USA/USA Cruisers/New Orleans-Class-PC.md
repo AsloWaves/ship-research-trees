@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: New Orleans-Class (Protected Cruiser)
+class_name: New Orleans-Class-PC
 hull_numbers: No hull number
 ships_built: 2
 commissioned: 1898

@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Arthur Middleton-Class
+class_name: Arthur Middleton-Class-APA
 hull_numbers: APA-25, APA-26, APA-27
 ships_built: 3
 commissioned: 1942

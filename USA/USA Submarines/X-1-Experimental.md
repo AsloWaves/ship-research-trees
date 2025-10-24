@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: X-1 Midget Submarine
+class_name: X-1-Experimental
 hull_numbers: X-1
 ships_built: 1 (experimental)
 commissioned: 1955 (placed in service)

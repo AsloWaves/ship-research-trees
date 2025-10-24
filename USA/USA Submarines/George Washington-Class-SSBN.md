@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: George Washington-Class
+class_name: George Washington-Class-SSBN
 hull_numbers: SSBN-598 to SSBN-602
 ships_built: 5
 commissioned: 1959-1961

@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Columbia-Class
+class_name: Columbia-Class-SSBN
 hull_numbers: SSBN-826 to SSBN-837 (planned)
 ships_built: 0 (12 planned)
 commissioned: 2031 (planned)

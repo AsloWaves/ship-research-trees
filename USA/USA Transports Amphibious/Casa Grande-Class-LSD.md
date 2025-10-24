@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Casa Grande-Class
+class_name: Casa Grande-Class-LSD
 hull_numbers: LSD-13 to LSD-27
 ships_built: 15
 commissioned: 1944-1946

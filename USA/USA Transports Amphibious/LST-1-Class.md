@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: LST-1 Class
+class_name: LST-1-Class
 hull_numbers: LST-1 to LST-1152
 ships_built: 1051
 commissioned: 1942-1945

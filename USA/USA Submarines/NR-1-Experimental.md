@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: NR-1 Research Submarine
+class_name: NR-1-Experimental
 hull_numbers: NR-1
 ships_built: 1 (experimental)
 commissioned: 1969 (placed in service, never formally commissioned)

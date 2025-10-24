@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Crescent City-Class
+class_name: Crescent City-Class-APA
 hull_numbers: APA-21, APA-28, APA-31, APA-32
 ships_built: 4
 commissioned: 1941-1942

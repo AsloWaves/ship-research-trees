@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Terrebonne Parish-Class
+class_name: Terrebonne Parish-Class-LST
 hull_numbers: LST-1156 to LST-1170
 ships_built: 15
 commissioned: 1952-1954

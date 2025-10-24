@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Ashland-Class
+class_name: Ashland-Class-LSD
 hull_numbers: LSD-1 to LSD-12
 ships_built: 8
 commissioned: 1943-1944

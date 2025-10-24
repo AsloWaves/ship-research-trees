@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Atlanta and Boston-Class
+class_name: Atlanta-Boston-Class
 hull_numbers: Atlanta, Boston
 ships_built: 2
 commissioned: 1886-1887

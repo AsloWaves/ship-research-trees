@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: SSN(X)-Class
+class_name: SSN-X-Class
 hull_numbers: SSN-808+ (projected)
 ships_built: 0 (future program)
 commissioned: 2040s (projected)

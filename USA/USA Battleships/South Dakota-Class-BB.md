@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: South Dakota-Class
+class_name: South Dakota-Class-BB
 hull_numbers: BB-57, BB-58, BB-59, BB-60
 ships_built: 4
 commissioned: 1942

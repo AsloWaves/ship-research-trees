@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Artemis-Class
+class_name: Artemis-Class-AKA
 hull_numbers: AKA-21 to AKA-52
 ships_built: 32
 commissioned: 1944-1945

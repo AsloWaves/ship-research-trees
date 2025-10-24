@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Barracuda-Class (K-Class)
+class_name: Barracuda-Class-SSK
 hull_numbers: SSK-1, SSK-2, SSK-3
 ships_built: 3
 commissioned: 1951-1952

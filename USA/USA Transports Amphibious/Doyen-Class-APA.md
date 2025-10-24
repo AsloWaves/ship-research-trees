@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Doyen-Class
+class_name: Doyen-Class-APA
 hull_numbers: APA-1, APA-11
 ships_built: 2
 commissioned: 1943

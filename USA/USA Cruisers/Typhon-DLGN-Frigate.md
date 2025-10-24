@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Typhon DLGN Frigate
+class_name: Typhon-DLGN-Frigate
 hull_numbers: DLGN (proposed, no hull numbers assigned)
 ships_built: 0 (cancelled)
 commissioned: Never

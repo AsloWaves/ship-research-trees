@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Seawolf-Class (SSN-575)
+class_name: Seawolf-Class-SSN-575
 hull_numbers: SSN-575
 ships_built: 1
 commissioned: 1957

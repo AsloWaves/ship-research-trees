@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Whidbey Island-Class
+class_name: Whidbey Island-Class-LSD
 hull_numbers: LSD-41 to LSD-48
 ships_built: 8
 commissioned: 1985-1994

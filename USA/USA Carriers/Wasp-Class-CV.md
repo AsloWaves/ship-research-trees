@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Wasp-Class
+class_name: Wasp-Class-CV
 hull_numbers: CV-7
 ships_built: 1
 commissioned: 1940

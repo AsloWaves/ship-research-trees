@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Yorktown-Class
+class_name: Yorktown-Class-CV
 hull_numbers: CV-5, CV-6, CV-8
 ships_built: 3
 commissioned: 1937-1941

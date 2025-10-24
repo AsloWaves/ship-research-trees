@@ -129,16 +129,91 @@ graph LR
     style N fill:#0f0,stroke:#333,stroke-width:4px
 ```
 
+## Class Listing by Era
+
+### Early Diesel Submarines (1900-1918)
+1. [[Holland-Class]] (SS-1, 1900) - **First US submarine**
+2. [[Plunger-Class]] (A-Class, SS-2 to SS-7, 1903) - First large submarines
+3. [[B-Class]] (SS-8 to SS-10, 1907) - 3 boats
+4. [[C-Class]] (SS-9 to SS-13, 1909) - 5 boats
+5. [[D-Class]] (SS-17 to SS-19, 1909) - First diesel submarines
+6. [[E-Class]] (SS-24, SS-25, 1911) - 2 boats
+7. [[F-Class]] (SS-20 to SS-23, 1912) - 4 boats
+8. [[G-Class]] (SS-19½ to SS-31, 1913) - 4 boats
+9. [[H-Class]] (SS-28 to SS-32, 1913) - 9 boats (some Canadian, Chilean)
+10. [[K-Class]] (SS-32 to SS-39, 1914) - 8 boats
+11. [[L-Class]] (SS-40 to SS-51, 1915) - 11 boats
+12. [[M-Class]] (SS-47 to SS-48, 1915) - 2 boats
+13. [[N-Class]] (SS-53 to SS-57, 1917) - 7 boats
+14. [[O-Class]] (SS-62 to SS-77, 1918) - 16 boats
+15. [[R-Class]] (SS-78 to SS-97, 1918) - **20 boats, first 21-inch torpedoes**
+
+### WWI Mass Production (1917-1925)
+16. [[S-Class]] (SS-105 to SS-162, 1920) - **51 boats, largest class until WWII**
+
+### Interwar Fleet Submarines (1921-1941)
+17. [[Barracuda-Class-V]] (V-1 to V-3, 1924) - **First fleet submarines**
+18. [[Argonaut-Class]] (V-4, 1928) - Minelayer submarine
+19. [[Narwhal-Class]] (V-5, V-6, 1930) - 2 boats, cruiser submarines
+20. [[Dolphin-Class]] (V-7, 1932) - Experimental
+21. [[Cachalot-Class]] (SS-170, SS-171, 1933) - 2 boats
+22. [[Porpoise-Class]] (SS-172 to SS-176, 1935) - 10 boats
+23. [[Salmon-Class]] (SS-182 to SS-187, 1938) - **6 boats, first 8 torpedo tubes**
+24. [[Sargo-Class]] (SS-188 to SS-197, 1939) - 10 boats
+25. [[Tambor-Class]] (SS-198 to SS-203, 1940) - **12 boats, first 10 torpedo tubes**
+26. [[Mackerel-Class]] (SS-204, SS-205, 1940) - 2 small boats
+27. [[Darter-Class]] (SS-227, 1941) - 1 boat only
+
+### WWII Mass Production (1941-1951)
+28. [[Gato-Class]] (SS-212 to SS-285, 1941) - **77 boats, backbone of WWII Pacific war**
+29. [[Balao-Class]] (SS-285 to SS-416, 1943) - **120 boats, most numerous class**
+30. [[Tench-Class]] (SS-417 to SS-525, 1944) - 31 boats (most cancelled)
+31. [[Barracuda-Class-SSK]] (SSK-1 to SSK-3, 1951) - Hunter-killer submarines
+
+### Post-WWII Diesel (1951-1959)
+32. [[Tang-Class]] (SS-563 to SS-568, 1951) - 6 boats, improved design
+33. [[Grayback-Class]] (SS-574, SS-577, 1954) - Cruise missile submarines
+34. [[Halibut-Class]] (SSGN-587, 1959) - Guided missile submarine
+35. [[Barbel-Class]] (SS-580 to SS-582, 1959) - **Last diesel submarines, teardrop hull**
+
+### First Nuclear Attack Submarines (1954-1961)
+36. [[Nautilus-Class]] (SSN-571, 1954) - **First nuclear submarine**
+37. [[Seawolf-Class-SSN-575]] (SSN-575, 1957) - Sodium-cooled reactor (failed)
+38. [[Skate-Class]] (SSN-578 to SSN-583, 1957) - 4 boats, production nuclear
+39. [[Triton-Class]] (SSRN-586, 1959) - Radar picket submarine
+40. [[Skipjack-Class]] (SSN-585 to SSN-592, 1959) - **6 boats, teardrop hull, revolutionary**
+41. [[Tullibee-Class]] (SSN-597, 1960) - Quiet submarine prototype
+42. [[Permit-Class]] (SSN-594 to SSN-621, 1961) - **14 boats, deep-diving, quiet**
+
+### Cold War Nuclear Attack Submarines (1961-1996)
+43. [[Narwhal-Class-SSN]] (SSN-671, 1969) - Natural circulation reactor
+44. [[Sturgeon-Class]] (SSN-637 to SSN-687, 1967) - **37 boats, long production run**
+45. [[Lipscomb-Class]] (SSN-685, 1974) - Turbo-electric drive
+46. [[Los Angeles-Class]] (SSN-688 to SSN-773, 1976) - **62 boats, largest SSN class**
+
+### Modern Nuclear Attack Submarines (1997-Present)
+47. [[Seawolf-Class]] (SSN-21 to SSN-23, 1997) - **3 boats, quietest/fastest**
+48. [[Virginia-Class]] (SSN-774+, 2004) - **24+ boats in service, ongoing production**
+49. [[SSN-X-Class]] (2040s+) - **Future SSN program**
+
+### Ballistic Missile Submarines (1959-Present)
+50. [[George Washington-Class-SSBN]] (SSBN-598 to SSBN-602, 1959) - **First SSBNs, 5 boats**
+51. [[Ethan Allen-Class-SSBN]] (SSBN-608 to SSBN-611, 1961) - 5 boats
+52. [[Lafayette-Class-SSBN]] (SSBN-616 to SSBN-636, 1963) - **9 boats**
+53. [[James Madison-Class-SSBN]] (SSBN-627 to SSBN-629, 1964) - 10 boats
+54. [[Benjamin Franklin-Class-SSBN]] (SSBN-640 to SSBN-645, 1965) - **12 boats (total 41 for Freedom)**
+55. [[Ohio-Class-SSBN]] (SSBN-726 to SSBN-743, 1981) - **18 boats, largest SSBNs**
+56. [[Columbia-Class-SSBN]] (SSBN-826+, 2031+) - **Future SSBN program, 12 planned**
+
+### Experimental Submarines (1953-2008)
+57. [[Albacore-AGSS-569-Experimental]] (AGSS-569, 1953) - **Revolutionary teardrop hull**
+58. [[X-1-Experimental]] (X-1, 1955) - Only midget submarine
+59. [[Triton-SSRN-586-Experimental]] (SSRN-586, 1959) - Twin-reactor radar picket
+60. [[Dolphin-AGSS-555-Experimental]] (AGSS-555, 1968) - **Deepest diving, 3,000+ ft**
+61. [[NR-1-Experimental]] (NR-1, 1969) - **Smallest nuclear submarine**
+
 ---
 
-**Tree:** Master Research Tree | **Classes:** 62 | **Boats:** ~750
+**Tree:** Master Research Tree | **Classes:** 61 | **Boats:** ~750
 
 #submarine #research-tree #us-navy #naval-history #ssn #ssbn #diesel #nuclear #experimental
-
-## Experimental Submarines
-Five unique experimental submarines documented separately:
-- [[Albacore-AGSS-569-Experimental]] - Revolutionary teardrop hull (1953-1972) - **Influenced ALL modern submarines**
-- [[X-1-Experimental]] - Only midget submarine (1955-1973)
-- [[Triton-SSRN-586-Experimental]] - Only twin-reactor submarine, first submerged circumnavigation (1959-1969)
-- [[Dolphin-AGSS-555-Experimental]] - Deepest diving submarine, 3,000+ ft (1968-2007)
-- [[NR-1-Experimental]] - Smallest nuclear submarine, ocean floor wheels (1969-2008)

@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Barracuda-Class (V-Boats)
+class_name: Barracuda-Class-V
 hull_numbers: SS-163, SS-164, SS-166
 ships_built: 3
 commissioned: 1924-1926

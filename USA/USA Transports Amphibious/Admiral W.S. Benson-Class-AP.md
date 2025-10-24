@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Admiral W.S. Benson-Class
+class_name: Admiral W.S. Benson-Class-AP
 hull_numbers: AP-120 to AP-127
 ships_built: 8
 commissioned: 1944-1945

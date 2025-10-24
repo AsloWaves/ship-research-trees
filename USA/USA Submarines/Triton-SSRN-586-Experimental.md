@@ -2,7 +2,7 @@
 
 ```yaml
 ---
-class_name: Triton Radar Picket Submarine
+class_name: Triton-SSRN-586-Experimental
 hull_numbers: SSRN-586 (later SSN-586)
 ships_built: 1 (unique)
 commissioned: 1959
