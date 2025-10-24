@@ -42,10 +42,13 @@ graph TD
     ESS --> IND[Independence CVL-22 1943<br/>9 light carriers]
     ESS --> MID[Midway CV-41 1945<br/>Armored deck]
 
+    MID --> US58[United States CVA-58 1949<br/>CANCELLED]
     MID --> FOR[Forrestal CV-59 1955<br/>First supercarrier]
     FOR --> KHAWK[Kitty Hawk CV-63 1961<br/>4 ships]
 
     KHAWK --> ENT[Enterprise CVN-65 1961<br/>First nuclear]
+    ENT --> SCS[Sea Control Ship 1970s<br/>CANCELLED mini-carrier]
+    ENT --> CVV[CVV Medium Carrier 1970s<br/>CANCELLED affordable CV]
     ENT --> NIM[Nimitz CVN-68 1975<br/>10 ships]
     NIM --> FORD[Gerald R. Ford CVN-78 2017<br/>Future class]
 
@@ -55,6 +58,9 @@ graph TD
     style ENT fill:#0ff,color:#000
     style NIM fill:#00f,color:#fff
     style FORD fill:#f90,color:#000
+    style US58 fill:#ddd,color:#888,stroke-dasharray: 5 5
+    style SCS fill:#ddd,color:#888,stroke-dasharray: 5 5
+    style CVV fill:#ddd,color:#888,stroke-dasharray: 5 5
 ```
 
 ## Major Milestones
@@ -86,9 +92,11 @@ graph LR
     D --> E[1942<br/>Essex<br/>24 ships]
     E --> F[1943<br/>Independence<br/>9 CVLs]
     F --> G[1945<br/>Midway<br/>Armored deck]
+    G --> G1[1949<br/>United States<br/>CANCELLED]
     G --> H[1955<br/>Forrestal<br/>Supercarrier]
     H --> I[1961<br/>Kitty Hawk<br/>4 ships]
     I --> J[1961<br/>Enterprise<br/>First nuclear]
+    J --> J1[1970s<br/>SCS+CVV<br/>CANCELLED]
     J --> K[1975<br/>Nimitz<br/>10 ships]
     K --> L[2017<br/>Ford<br/>EMALS cats]
 
@@ -96,6 +104,8 @@ graph LR
     style E fill:#0f0,stroke:#333,stroke-width:4px
     style J fill:#0ff,stroke:#333,stroke-width:4px
     style K fill:#00f,stroke:#fff,stroke-width:4px,color:#fff
+    style G1 fill:#ddd,color:#888,stroke-dasharray: 5 5
+    style J1 fill:#ddd,color:#888,stroke-dasharray: 5 5
 ```
 
 ## Class Listing by Era
