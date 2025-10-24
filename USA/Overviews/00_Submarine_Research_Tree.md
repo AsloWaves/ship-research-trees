@@ -16,7 +16,7 @@
 | **Experimental Submarines** | 1953-2008 | Research and development | 5 submarines | 5 boats |
 | **Future Programs** | 2040s+ | Next-generation submarines | TBD | Future |
 
-**Total:** 62 submarine classes built (including experimental), plus future programs, ~750 submarines built
+**Total:** 61 submarine classes built (including experimental), plus future programs, ~750 submarines built
 
 ## Production Summary
 
@@ -26,7 +26,7 @@
 | Nuclear Attack (SSN) | 13 | ~160 boats | 1976-1996 (Los Angeles: 62 boats) |
 | Ballistic Missile (SSBN) | 7 | 55 boats | 1963-1967 (41 for Freedom) |
 | Experimental (AGSS/SSRN/NR/X) | 5 | 5 boats | 1953-2008 (Albacore, Dolphin, Triton, NR-1, X-1) |
-| **Grand Total** | **62** | **~750** | **125 years** |
+| **Grand Total** | **61** | **~750** | **125 years** |
 
 ## Research Tree Diagram
 

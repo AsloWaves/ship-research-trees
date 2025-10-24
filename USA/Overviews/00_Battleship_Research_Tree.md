@@ -10,7 +10,7 @@
 | **Cancelled/Design Studies** | 1916-1943 | Various cancelled programs and design studies | 4 designs | 0 built |
 | **Treaty Battleships** | 1941-1944 | Fast battleships, WWII | 3 classes | 10 ships |
 
-**Total:** 27 major classes (23 built, 4 cancelled/design studies), 62 battleships built
+**Total:** 25 major classes (21 built, 4 cancelled/design studies), 62 battleships built
 
 ## Production Summary
 
@@ -21,7 +21,7 @@
 | Super-Dreadnoughts | 6 | 12 ships | 1916-1923 (Post-WWI, 16-inch guns) |
 | Cancelled/Design Studies | 4 | 0 ships | 1916-1943 (Tillman, Lexington BC, SD 1920, Montana) |
 | Treaty Battleships | 3 | 10 ships | 1941-1944 (WWII fast battleships) |
-| **Grand Total** | **27** | **62** | **97 years** |
+| **Grand Total** | **25** | **62** | **97 years** |
 
 ## Research Tree Diagram
 
