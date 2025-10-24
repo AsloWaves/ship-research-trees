@@ -13,7 +13,7 @@
 | **Cold War Amphibious** | 1950-1990 | LPH, LPD, LSD improvements | 10+ classes | 100+ ships |
 | **Modern Assault Ships** | 1976-Present | LHA/LHD helicopter carriers | 3 classes | 19+ ships |
 
-**Total:** 50+ major classes, ~2,000+ transport/amphibious ships built
+**Total:** 44 major classes, ~2,000+ transport/amphibious ships built
 
 ## Production Summary
 
@@ -28,34 +28,37 @@
 | Amphibious Helicopter (LPH) | 2 | 12 ships | 1961-1970 (Iwo Jima: 7) |
 | Amphibious Transport Dock (LPD) | 4 | 29 ships | 1965-Present (San Antonio: 11) |
 | Amphibious Assault Ships (LHA/LHD) | 3 | 19 ships | 1976-Present (Wasp: 8, America: 2) |
-| **Grand Total** | **50+** | **~2,000+** | **107 years** |
+| **Grand Total** | **44** | **~2,000+** | **107 years** |
 
 ## Research Tree Diagram
 
 ```mermaid
 graph TD
-    HEND[Henderson AP-1 1918<br/>First transport] --> HUN[Hunter Liggett 1923]
+    HEND[Henderson AP-1 1918<br/>First transport] --> HUN[Hunter Liggett 1923<br/>2 WWI conversions]
     HUN --> HAR[Harris 1932]
-    HAR --> HEY[Heywood 1940]
+    HAR --> HEY[Heywood 1940<br/>6 pre-WWII ships]
 
     HEY --> ART[Artemis AKA 1943<br/>Attack cargo]
     HEY --> HASK[Haskell APA 1944<br/>117 ships]
+    HASK --> GILL[Gilliam APA 1945<br/>54 Victory conversions]
 
-    HASK --> WIND[Windham Bay CVE<br/>Conversion base]
+    GILL --> WIND[Windham Bay CVE<br/>Conversion base]
     WIND --> IWO[Iwo Jima LPH-2 1961<br/>Helicopter carrier]
 
-    HEY --> WICK[Wickes DD<br/>APD conversion]
-    WICK --> BUCH[Buchanan APD 1943<br/>High speed transport]
+    HEY --> WICK[APD-Wickes 1940<br/>~32 DD conversions]
+    WICK --> CLEM[APD-Clemson 1943<br/>~30 DD conversions]
 
     HEY --> LST1[LST-1 1942<br/>1050+ ships]
-    LST1 --> LSD1[Ashland LSD-1 1943<br/>Dock landing ship]
+    LST1 --> LST491[LST-491 1944<br/>500+ improved LSTs]
+    LST491 --> LSD1[Ashland LSD-1 1943<br/>Dock landing ship]
 
     IWO --> TAR[Tarawa LHA-1 1976<br/>Multi-purpose assault]
     TAR --> WASP[Wasp LHD-1 1989<br/>8 ships active]
     WASP --> AMER[America LHA-6 2014<br/>Aviation focus]
 
     LSD1 --> WHID[Whidbey Island LSD-41 1985]
-    LSD1 --> SANAN[San Antonio LPD-17 2006<br/>11 ships]
+    LSD1 --> AUST[Austin LPD-4 1965<br/>11 ships]
+    AUST --> SANAN[San Antonio LPD-17 2006<br/>11 ships]
 
     style HEND fill:#f9f,color:#000
     style HASK fill:#0f0,color:#000
@@ -229,6 +232,6 @@ graph LR
 
 ---
 
-**Tree:** Master Research Tree | **Classes:** 50+ | **Ships:** ~2,000+
+**Tree:** Master Research Tree | **Classes:** 44 | **Ships:** ~2,000+
 
 #transport #amphibious #apa #aka #apd #lst #lsd #lph #lpd #lha #lhd #assault-ship #landing-ship #us-navy
