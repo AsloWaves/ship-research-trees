@@ -24,8 +24,6 @@ desktop.ini
 *.temp
 ~$*.md
 
-# Export artifacts
-*.png
-*.jpg
+# Export artifacts (keeping images, excluding generated docs)
 *.pdf
 *.html
