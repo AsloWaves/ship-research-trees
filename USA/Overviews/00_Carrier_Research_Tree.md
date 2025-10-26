@@ -8,12 +8,19 @@
 | **Pre-WWII Fleet Carriers** | 1934-1940 | Purpose-built carriers | 3 classes | 5 ships |
 | **WWII Fleet Carriers** | 1942-1945 | Mass production, Essex class | 1 class | 24 ships |
 | **WWII Light Carriers** | 1943-1945 | Converted cruisers, CVLs | 1 class | 9 ships |
+| **WWII Escort Carriers** | 1942-1945 | Convoy escort, mass production | 3 classes | 114 ships |
 | **Late WWII** | 1945-1947 | Armored flight decks | 1 class | 3 ships |
+| **Postwar Light Carriers** | 1946-1947 | Purpose-built CVLs | 1 class | 2 ships |
+| **Essex Modernizations** | 1951-1959 | Jet conversion, angled decks | 2 variants | 17 conversions |
+| **Midway Modernizations** | 1960-1970 | Angled deck, aluminum deck | 1 variant | 2 conversions |
+| **Helicopter Carriers** | 1956 | First helo assault carrier | 1 conversion | 1 ship |
 | **Cancelled Carriers** | 1949, 1970s | Various cancelled programs | 3 designs | 0 ships |
-| **Supercarriers** | 1955-1968 | Angled decks, steam catapults | 2 classes | 8 ships |
-| **Nuclear Carriers** | 1961-Present | Nuclear propulsion | 3 classes | 14+ ships |
+| **Supercarriers** | 1955-1968 | Angled decks, steam catapults | 3 classes | 9 ships |
+| **Nuclear Carriers** | 1961-1975 | Nuclear propulsion | 2 classes | 9 ships |
+| **Improved Nuclear** | 1986-1998 | Enhanced Nimitz variant | 1 subclass | 5 ships |
+| **Future Nuclear** | 2017-Present | EMALS catapults | 1 class | 3+ ships |
 
-**Total:** 16 major classes (13 built, 3 cancelled), ~66+ aircraft carriers built
+**Total:** 26 major classes/variants (23 built, 3 cancelled), ~184+ aircraft carriers built
 
 ## Production Summary
 
@@ -23,44 +30,118 @@
 | Pre-WWII Fleet Carriers | 3 | 5 ships | 1934-1940 |
 | WWII Fleet Carriers (CV) | 1 | 24 ships | 1942-1945 (Essex class) |
 | WWII Light Carriers (CVL) | 1 | 9 ships | 1943-1945 (Independence) |
+| WWII Escort Carriers (CVE) | 3 | 114 ships | 1942-1945 (Bogue, Casablanca, Commencement Bay) |
 | Late WWII Heavy Carriers | 1 | 3 ships | 1945-1947 (Midway) |
+| Postwar Light Carriers (CVL) | 1 | 2 ships | 1946-1947 (Saipan) |
+| Essex Modernizations | 2 | 17 conversions | 1951-1959 (SCB-27A, SCB-27C) |
+| Midway Modernizations | 1 | 2 conversions | 1960-1970 (SCB-110) |
+| Helicopter Assault Carriers | 1 | 1 ship | 1956 (Thetis Bay CVHA-1) |
 | Cancelled Carriers | 3 | 0 ships (cancelled) | 1949, 1970s (United States, SCS, CVV) |
-| Conventional Supercarriers | 2 | 8 ships | 1955-1968 (Forrestal, Kitty Hawk) |
-| Nuclear Supercarriers | 3 | 14 ships | 1961-Present (Enterprise, Nimitz, Ford) |
-| **Grand Total** | **16** | **~66+** | **102 years** |
+| Conventional Supercarriers | 3 | 9 ships | 1955-1968 (Forrestal, Kitty Hawk, JFK) |
+| Nuclear Supercarriers (Early) | 2 | 9 ships | 1961-1975 (Enterprise, Nimitz CVN-68-70) |
+| Improved Nuclear Carriers | 1 | 5 ships | 1986-1998 (Nimitz CVN-71-75) |
+| Future Nuclear Carriers | 1 | 3+ ships | 2017-Present (Ford) |
+| **Grand Total** | **26** | **~184+** | **102 years** |
 
 ## Research Tree Diagram
 
 ```mermaid
 graph TD
-    LANG[Langley CV-1 1922<br/>First carrier] --> LEX[Lexington CV-2 1927<br/>Converted battlecruisers]
-    LEX --> RAN[Ranger CV-4 1934<br/>First purpose-built]
-    RAN --> YORK[Yorktown CV-5 1937<br/>3 ships]
-    YORK --> WASP[Wasp CV-7 1940]
-    WASP --> ESS[Essex CV-9 1942<br/>24 ships]
+    %% ============================================================
+    %% BRANCH 1: FLEET CARRIER MAIN LINE
+    %% ============================================================
+    LANG[Langley CV-1 1922<br/>FIRST US CARRIER<br/>FREE<br/>Converted collier]
+    LANG --> LEX[Lexington CV-2 1927<br/>Converted BC<br/>8x8in guns<br/>2 ships]
+    LEX --> RAN[Ranger CV-4 1934<br/>FIRST PURPOSE-BUILT<br/>14,500 tons]
 
-    ESS --> IND[Independence CVL-22 1943<br/>9 light carriers]
-    ESS --> MID[Midway CV-41 1945<br/>Armored deck]
+    RAN --> YORK[Yorktown CV-5 1937<br/>Fleet carrier<br/>3 SHIPS]
+    YORK --> WASP[Wasp CV-7 1940<br/>Treaty tonnage<br/>Single ship]
+    WASP --> ESS[Essex CV-9 1942<br/>24 SHIPS<br/>MASS PRODUCTION]
 
-    MID --> US58[United States CVA-58 1949<br/>CANCELLED]
-    MID --> FOR[Forrestal CV-59 1955<br/>First supercarrier]
-    FOR --> KHAWK[Kitty Hawk CV-63 1961<br/>4 ships]
+    %% Essex modernizations
+    ESS --> ESSMOD[Essex SCB-27A 1950s<br/>Jet conversion<br/>9 ships]
+    ESSMOD --> ESSA[Essex SCB-27C 1955<br/>Angled deck<br/>8 ships]
 
-    KHAWK --> ENT[Enterprise CVN-65 1961<br/>First nuclear]
-    ENT --> SCS[Sea Control Ship 1970s<br/>CANCELLED mini-carrier]
-    ENT --> CVV[CVV Medium Carrier 1970s<br/>CANCELLED affordable CV]
-    ENT --> NIM[Nimitz CVN-68 1975<br/>10 ships]
-    NIM --> FORD[Gerald R. Ford CVN-78 2017<br/>Future class]
+    %% To Heavy Carriers
+    ESS --> MID[Midway CV-41 1945<br/>ARMORED DECK<br/>64,000 tons<br/>3 ships]
+    MID --> MIDMOD[Midway SCB-110 1970<br/>Angled deck modernization]
 
-    style LANG fill:#f9f,color:#000
-    style ESS fill:#0f0,color:#000
-    style FOR fill:#ff0,color:#000
-    style ENT fill:#0ff,color:#000
-    style NIM fill:#00f,color:#fff
-    style FORD fill:#f90,color:#000
-    style US58 fill:#ddd,color:#888,stroke-dasharray: 5 5
-    style SCS fill:#ddd,color:#888,stroke-dasharray: 5 5
-    style CVV fill:#ddd,color:#888,stroke-dasharray: 5 5
+    %% To Supercarriers
+    MID --> FOR[Forrestal CV-59 1955<br/>FIRST SUPERCARRIER<br/>Angled deck<br/>4 ships]
+    ESSA -.-> FOR
+
+    FOR --> KHAWK[Kitty Hawk CV-63 1961<br/>Improved Forrestal<br/>4 ships]
+    KHAWK --> JFK[John F. Kennedy CV-67 1968<br/>Modified Kitty Hawk]
+
+    %% To Nuclear Carriers
+    KHAWK --> ENT[Enterprise CVN-65 1961<br/>FIRST NUCLEAR<br/>8 reactors]
+    ENT --> NIM[Nimitz CVN-68 1975<br/>10 SHIPS<br/>A4W reactors]
+    NIM --> NIMTD[Nimitz CVN-71+ 1986<br/>Improved variant<br/>Theodore Roosevelt subclass]
+    NIMTD --> FORD[Gerald R. Ford CVN-78 2017<br/>EMALS/AAG<br/>FUTURE CLASS]
+
+    %% ============================================================
+    %% BRANCH 2: LIGHT/ESCORT CARRIER LINE
+    %% ============================================================
+    %% Light carriers from cruiser conversions
+    ESS --> IND[Independence CVL-22 1943<br/>LIGHT CARRIER<br/>Converted CL<br/>9 ships]
+    IND --> SAIP[Saipan CVL-48 1946<br/>Purpose-built CVL<br/>2 ships]
+
+    %% Escort carriers (CVE)
+    LANG -.-> BOGUE[Bogue CVE 1942<br/>ESCORT CARRIER<br/>Merchant conversion<br/>45 ships]
+    BOGUE --> CASAB[Casablanca CVE 1943<br/>PURPOSE CVE<br/>50 SHIPS<br/>Largest class ever]
+    CASAB --> COMM[Commencement Bay CVE 1944<br/>Ultimate CVE<br/>19 ships]
+
+    %% CVE to support carriers
+    COMM -.-> THET[Thetis Bay CVHA-1 1956<br/>First helicopter carrier<br/>CVE conversion]
+
+    %% Light carriers merge to supercarriers
+    SAIP -.-> FOR
+
+    %% ============================================================
+    %% BRANCH 3: EXPERIMENTAL/CANCELLED LINE
+    %% ============================================================
+    %% Cancelled programs
+    MID -.-> US58[United States CVA-58 1949<br/>CANCELLED<br/>Revolt of Admirals<br/>65,000 tons]
+    US58 -.-> FOR
+
+    ENT -.-> SCS[Sea Control Ship 1970s<br/>CANCELLED<br/>Mini-carrier 17,000 tons<br/>Sold to Spain]
+    ENT -.-> CVV[CVV Medium Carrier 1975<br/>CANCELLED<br/>Affordable CV 65,000 tons]
+
+    %% ============================================================
+    %% STYLING
+    %% ============================================================
+
+    %% First carrier
+    style LANG fill:#f9f,stroke:#333,stroke-width:3px,color:#000
+
+    %% Mass production
+    style ESS fill:#0f0,stroke:#333,stroke-width:3px,color:#000
+    style CASAB fill:#0f0,stroke:#333,stroke-width:2px,color:#000
+
+    %% Supercarrier revolution
+    style FOR fill:#ff0,stroke:#333,stroke-width:3px,color:#000
+
+    %% First nuclear
+    style ENT fill:#0ff,stroke:#333,stroke-width:3px,color:#000
+
+    %% Nimitz class
+    style NIM fill:#00f,stroke:#333,stroke-width:3px,color:#fff
+
+    %% Future
+    style FORD fill:#f90,stroke:#333,stroke-width:4px,color:#000
+
+    %% Cancelled designs
+    style US58 fill:#DC143C,stroke:#333,stroke-width:2px,color:#fff
+    style SCS fill:#DC143C,stroke:#333,stroke-width:2px,color:#fff
+    style CVV fill:#DC143C,stroke:#333,stroke-width:2px,color:#fff
+
+    %% Escort carriers
+    style BOGUE fill:#87CEEB,stroke:#333,stroke-width:2px,color:#000
+    style COMM fill:#87CEEB,stroke:#333,stroke-width:2px,color:#000
+
+    %% Light carriers
+    style IND fill:#9370DB,stroke:#333,stroke-width:2px,color:#fff
+    style SAIP fill:#9370DB,stroke:#333,stroke-width:2px,color:#fff
 ```
 
 ## Major Milestones
@@ -125,24 +206,48 @@ graph LR
 ### WWII Light Carriers (1943-1945)
 7. [[Independence-Class]] (CVL-22, 1943) - 9 light carriers, converted cruisers
 
+### WWII Escort Carriers (1942-1945)
+8. [[Bogue-Class]] (CVE-9+, 1942) - **45 ships, first mass-produced CVE, merchant conversions**
+9. [[Casablanca-Class]] (CVE-55+, 1943) - **50 ships, largest class ever built**
+10. [[Commencement-Bay-Class]] (CVE-105+, 1944) - **19 ships, ultimate CVE design**
+
 ### Late WWII Heavy Carriers (1945-1947)
-8. [[Midway-Class]] (CV-41, 1945) - 3 ships, armored flight deck
+11. [[Midway-Class]] (CV-41, 1945) - 3 ships, armored flight deck
+
+### Postwar Light Carriers (1946-1947)
+12. [[Saipan-Class]] (CVL-48, 1946) - **2 ships, first purpose-built light carriers**
+
+### Essex Modernizations (1951-1959)
+13. [[Essex-SCB-27A-Class]] (SCB-27A, 1951) - **9 ships, jet conversion, H-8 hydraulic catapults**
+14. [[Essex-SCB-27C-Class]] (SCB-27C, 1955) - **8 ships, angled deck, steam catapults**
+
+### Midway Modernizations (1960-1970)
+15. [[Midway-SCB-110-Class]] (SCB-110, 1960-1970) - **2 ships, angled deck, aluminum flight deck**
+
+### Helicopter Assault Carriers (1956)
+16. [[Thetis-Bay-Class]] (CVHA-1, 1956) - **First helicopter assault carrier, CVE conversion**
 
 ### Cancelled Supercarriers (1949)
-9. [[United States-Class-CVA-58]] (CVA-58, 1949) - **CANCELLED after 5 days, "Revolt of the Admirals"**
+17. [[United States-Class-CVA-58]] (CVA-58, 1949) - **CANCELLED after 5 days, "Revolt of the Admirals"**
 
 ### Conventional Supercarriers (1955-1968)
-10. [[Forrestal-Class]] (CV-59, 1955) - **First supercarriers, 4 ships**
-11. [[Kitty Hawk-Class]] (CV-63, 1961) - 4 ships
+18. [[Forrestal-Class]] (CV-59, 1955) - **First supercarriers, 4 ships**
+19. [[Kitty Hawk-Class]] (CV-63, 1961) - 4 ships
+20. [[John-F-Kennedy-Class]] (CV-67, 1968) - **Last conventional carrier, 1 ship**
 
 ### Cancelled Mini-Carriers (1970s)
-12. [[Sea-Control-Ship-SCS]] (SCS, 1970s) - **CANCELLED mini-carrier, 17,000 tons, Harriers + helicopters**
-13. [[CVV-Medium-Carrier]] (CVV-1+, 1970s) - **CANCELLED "affordable" medium carrier concept**
+21. [[Sea-Control-Ship-SCS]] (SCS, 1970s) - **CANCELLED mini-carrier, 17,000 tons, Harriers + helicopters**
+22. [[CVV-Medium-Carrier]] (CVV-1+, 1970s) - **CANCELLED "affordable" medium carrier concept**
 
-### Nuclear Supercarriers (1961-Present)
-14. [[Enterprise-Class-CVN]] (CVN-65, 1961) - **First nuclear carrier, 1 ship**
-15. [[Nimitz-Class]] (CVN-68, 1975) - **10 ships, still active**
-16. [[Gerald R. Ford-Class]] (CVN-78, 2017) - 3+ ships under construction
+### Nuclear Supercarriers (1961-1975)
+23. [[Enterprise-Class-CVN]] (CVN-65, 1961) - **First nuclear carrier, 1 ship**
+24. [[Nimitz-Class]] (CVN-68, 1975) - **4 ships, CVN-68 through CVN-70**
+
+### Improved Nuclear Carriers (1986-1998)
+25. [[Nimitz-CVN-71-Class]] (CVN-71+, 1986) - **5 ships, improved Nimitz variant, Theodore Roosevelt subclass**
+
+### Future Nuclear Carriers (2017-Present)
+26. [[Gerald R. Ford-Class]] (CVN-78, 2017) - **3+ ships under construction, EMALS catapults**
 
 ## Key Technologies
 
@@ -171,9 +276,9 @@ graph LR
 
 ---
 
-**Tree:** Master Research Tree | **Classes:** 16 | **Ships:** ~66+
+**Tree:** Master Research Tree | **Classes:** 22 | **Ships:** ~184+
 
-#carrier #aircraft-carrier #us-navy #research-tree #cv #cvn #cvl #naval-aviation
+#carrier #aircraft-carrier #us-navy #research-tree #cv #cvn #cvl #cve #naval-aviation
 
 ## Cancelled Carrier Programs
 Three cancelled carrier programs documented separately:
