@@ -1,0 +1,39 @@
+CLEAN DATABASE IMPORT INSTRUCTIONS
+=====================================
+
+IMPORT ORDER:
+1. Import Complete_Shell_Specifications_Database.csv into Shell Specifications
+2. Import Gun_Variants_Clean_For_Import.csv into Gun Variants
+
+FILE DETAILS:
+=============
+
+SHELL SPECIFICATIONS DATABASE:
+- File: Complete_Shell_Specifications_Database.csv
+- Total shells: 215 (147 real + 68 fake*)
+- Format: Caliber Mark_Designation Type
+- Examples: "16.5\" SK C/34 AP", "4.5\" QF Mark I-IV HE"
+- Status: Ready for import
+
+GUN VARIANTS DATABASE (CLEAN):
+- File: Gun_Variants_Clean_For_Import.csv
+- Total gun variants: 142
+- Compatible_Shells: Shell names only (no URLs)
+- URLs removed: 175 references cleaned
+- Status: Ready for import
+
+POST-IMPORT MANUAL LINKING:
+===========================
+
+After importing both databases:
+1. Open Gun Variants database in Notion
+2. For each gun variant, manually link Compatible_Shells to actual shell pages
+3. Use shell names to find matching shells in Shell Specifications database
+4. Create proper Notion relations between guns and shells
+
+EXAMPLE MANUAL LINKING:
+- Gun: "13.4"/52 Model 1912 Enhanced"
+- Compatible_Shells: "13.4" M1912 AP"
+- Action: Link to the "13.4" M1912 AP" page in Shell Specifications
+
+This approach ensures proper Notion relations while avoiding URL import issues.

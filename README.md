@@ -1,24 +1,38 @@
-# Ship Research Trees
+# Naval Warfare Research Database
 
 Comprehensive research database for naval warfare systems including ships, aircraft, and weapons.
+
+**Consolidated from**: ship-research-trees + usa-naval-weapons-research
 
 ## Repository Structure
 
 ```
-├── Ships/               # Naval vessel research
-│   ├── USA/            # United States Navy vessels
-│   └── Great Britain/  # Royal Navy vessels
+├── Ships/                  # Naval vessel research (300+ classes)
+│   ├── USA/               # United States Navy
+│   ├── Great Britain/     # Royal Navy
+│   ├── Japan/             # Imperial Japanese Navy
+│   └── Germany/           # Kriegsmarine
 │
-├── Aircraft/           # Carrier-based aircraft research
-│   ├── research.db     # SQLite database (113 aircraft, 142 weapons)
-│   ├── 00_US_Aircraft_Research_Tree.md
-│   ├── 00_GB_Aircraft_Research_Tree.md
-│   └── 00_GB_Weapons_Overview.md
+├── Aircraft/              # Carrier-based aircraft (113 aircraft)
+│   ├── research.db        # SQLite: aircraft + aircraft weapons
+│   └── *.md               # Research trees and overviews
 │
-└── Weapons/            # Naval weapons systems (future)
+└── Weapons/               # Weapons systems
+    ├── Naval-Guns/        # Ship-based weapons
+    │   ├── database/      # 278 guns, 217 ammo, 1132 turrets
+    │   ├── scripts/       # Analysis tools
+    │   └── reports/       # Research findings
+    │
+    └── Aircraft-Weapons/  # Air-launched weapons (in research.db)
 ```
 
 ## Database Contents
+
+### Ships (300+ classes)
+- **USA**: 250+ ship classes (1890-2020)
+- **UK**: 50+ ship classes (1900-2020)
+- **Japan**: Multiple IJN classes
+- **Germany**: Kriegsmarine vessels
 
 ### Aircraft (113 total)
 - **USA**: 46 aircraft (35 production + 11 experimental)
@@ -26,9 +40,20 @@ Comprehensive research database for naval warfare systems including ships, aircr
 - **Japan**: 27 aircraft (20 production + 7 experimental)
 - **Germany**: 8 aircraft (2 production + 6 experimental)
 
-### Weapons (142 total)
-- **USA**: 112 weapons
+### Weapons Systems
+
+#### Aircraft Weapons (142 total)
+**Location**: `Aircraft/research.db`
+- **USA**: 112 weapons (bombs, torpedoes, rockets, missiles)
 - **UK**: 30 weapons
+
+#### Naval Guns (278 total)
+**Location**: `Weapons/Naval-Guns/database/`
+- **Calibers**: 3" to 18" (1890-1990)
+- **Nations**: USA, British, German, Japanese
+- **Ammunition**: 217 projectile types
+- **Turrets**: 1132 mount configurations
+- **Compatibility**: 321 gun-ammo pairings
 
 ### Aircraft Status Categories
 - **Production**: Operational service aircraft
@@ -75,10 +100,38 @@ WHERE aircraft_status != 'Production';
 SELECT designation, common_name, nation FROM weapons;
 ```
 
-## Contributing
+## Research Status & Future Work
 
-Research is ongoing. Current focus areas:
-- Japanese and German weapons systems
+### Completed ✅
+- USA ships (250+ classes, 1890-2020)
+- UK ships (50+ classes)
+- Aircraft database (113 aircraft, 4 nations)
+- Aircraft weapons (142 weapons, 2 nations)
+- Naval guns (278 guns, 4 nations)
+- Naval ammunition & turrets
+
+### In Progress 🔄
+- Converting naval guns from markdown to SQLite
+- Japan & Germany ship research
+- Expanding aircraft weapons to all 4 nations
+
+### Future Priorities 📋
+- Ship-to-weapon linking (which ships carried which guns)
+- Aircraft-to-weapon compatibility
+- Naval missiles (SAMs, cruise missiles, ASROCs)
+- Ship-launched torpedoes
 - Additional nations (France, Italy, Soviet Union)
-- Modern aircraft (post-2019)
-- Ship weapons integration
+- Modern systems (post-1990)
+
+## Repository Consolidation
+
+This repository consolidates research from two previously separate projects:
+
+1. **ship-research-trees**: Ships & aircraft research
+2. **usa-naval-weapons-research**: Naval guns & ammunition systems
+
+Combined into a unified naval warfare research database covering all aspects of naval combat systems from 1890-2020.
+
+## Related Repositories
+
+- Original usa-naval-weapons-research: [archived after merge]
