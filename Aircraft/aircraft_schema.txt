@@ -1,0 +1,103 @@
+CREATE TABLE aircraft (
+    -- Identity
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    designation TEXT NOT NULL,  -- e.g., "F4U-4", "F-14A", "Curtiss A-1"
+    common_name TEXT,            -- e.g., "Corsair", "Tomcat", "Triad"
+    manufacturer TEXT NOT NULL,
+    year_introduced INTEGER,
+    year_retired INTEGER,
+    
+    -- Role & Classification
+    primary_role TEXT NOT NULL,  -- Fighter, Bomber, Torpedo, Scout, ASW, Multi-role
+    secondary_role TEXT,
+    
+    -- Dimensions (feet)
+    length_ft REAL NOT NULL,
+    wingspan_ft REAL NOT NULL,
+    height_ft REAL,
+    wingspan_folded_ft REAL,     -- NULL if no folding wings
+    deck_footprint_sq_ft REAL,   -- Total deck space occupied
+    hangar_footprint_sq_ft REAL, -- Folded dimensions for storage
+    
+    -- Weight (tons)
+    empty_weight_tons REAL NOT NULL,
+    max_weight_tons REAL NOT NULL,
+    
+    -- Performance - Speed (knots)
+    cruise_speed_knots REAL NOT NULL,
+    max_speed_knots REAL NOT NULL,
+    stall_speed_knots REAL NOT NULL,
+    
+    -- Performance - Other
+    service_ceiling_ft INTEGER,
+    climb_rate_fpm INTEGER,       -- feet per minute
+    range_nm INTEGER,              -- nautical miles, combat radius
+    ferry_range_nm INTEGER,        -- max range with no payload
+    
+    -- Fuel
+    fuel_capacity_gallons REAL NOT NULL,
+    fuel_consumption_idle_gph REAL,      -- gallons per hour
+    fuel_consumption_taxi_gph REAL,
+    fuel_consumption_takeoff_gal REAL,   -- total for takeoff
+    fuel_consumption_cruise_gph REAL,
+    fuel_consumption_combat_gph REAL,
+    fuel_consumption_max_gph REAL,
+    fuel_consumption_loiter_gph REAL,
+    optimal_cruise_altitude_ft INTEGER,  -- most fuel efficient
+    
+    -- Carrier Operations
+    min_takeoff_ft_no_catapult INTEGER,
+    min_takeoff_ft_with_catapult INTEGER,
+    min_landing_ft INTEGER,
+    catapult_compatible BOOLEAN DEFAULT 0,
+    arresting_hook BOOLEAN DEFAULT 0,
+    arresting_gear_strength_required TEXT, -- "Light", "Medium", "Heavy"
+    
+    -- Combat Capabilities
+    maneuverability_rating INTEGER,  -- 1-10 scale
+    hit_points INTEGER NOT NULL,
+    critical_resistance_pct INTEGER, -- 0-100, chance to resist critical damage
+    armor_rating INTEGER,            -- 0-10 scale
+    
+    -- Armament - Guns
+    gun_armament TEXT,              -- e.g., "6x .50 cal M2", "1x 20mm cannon"
+    gun_ammunition_rounds INTEGER,
+    
+    -- Armament - Ordnance
+    hardpoints INTEGER,             -- number of weapon stations
+    max_ordnance_weight_lbs INTEGER,
+    bomb_types_compatible TEXT,     -- JSON or comma-separated
+    torpedo_compatible BOOLEAN DEFAULT 0,
+    rocket_compatible BOOLEAN DEFAULT 0,
+    missile_compatible BOOLEAN DEFAULT 0,
+    typical_loadout_description TEXT,
+    
+    -- Crew
+    crew_size INTEGER NOT NULL,
+    crew_positions TEXT,            -- e.g., "Pilot, RIO", "Pilot, Gunner"
+    
+    -- Weather & Night Operations
+    night_capable BOOLEAN DEFAULT 0,
+    all_weather_capable BOOLEAN DEFAULT 0,
+    min_visibility_required_miles REAL,
+    min_ceiling_required_ft INTEGER,
+    max_crosswind_knots REAL,
+    deicing_equipped BOOLEAN DEFAULT 0,
+    
+    -- Sensors & Electronics (later era)
+    radar_equipped BOOLEAN DEFAULT 0,
+    radar_type TEXT,
+    radar_range_nm REAL,
+    electronic_warfare BOOLEAN DEFAULT 0,
+    ew_capabilities TEXT,
+    
+    -- Operational
+    reliability_rating INTEGER,     -- 1-10 scale
+    maintenance_hours_per_flight_hour REAL,
+    defense_rating INTEGER,         -- 1-10 (evasiveness, ECM, etc.)
+    visibility_rating INTEGER,      -- 1-10, how easily spotted
+    
+    -- Historical
+    total_produced INTEGER,
+    notes TEXT
+, fire_control_generation INTEGER DEFAULT 0);
