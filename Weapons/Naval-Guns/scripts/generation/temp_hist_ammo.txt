@@ -1,0 +1,187 @@
+================================================================================
+BRITISH AMMUNITION RESEARCH - COMPLETE
+================================================================================
+
+Total ammunition types researched: 22
+
+Ammunition by gun:
+  Gun 501 (18"/40 Mark I            ):  3 ammunition types
+  Gun 503 (16"/45 Mark I            ):  2 ammunition types
+  Gun 505 (13.5"/45 Mark V          ):  3 ammunition types
+  Gun 506 (12"/45 Mark X            ):  2 ammunition types
+  Gun 520 (8"/50 Mark VIII          ):  2 ammunition types
+  Gun 530 (6"/50 Mark XXIII         ):  2 ammunition types
+  Gun 540 (5.25"/50 Mark I          ):  2 ammunition types
+  Gun 545 (4.7"/45 Mark IX/XII      ):  2 ammunition types
+  Gun 550 (4.5"/45 Mark V           ):  2 ammunition types
+  Gun 555 (4"/45 QF Mark V/XVI      ):  2 ammunition types
+
+================================================================================
+AMMUNITION TABLE (SQL-READY)
+================================================================================
+
+| Ammunition_ID | Gun_ID | Caliber | Projectile_Type | Weight (lbs) | Muzzle_Velocity_FPS | Muzzle_Velocity_MPS | Max_Range_Yards | Modded | Notes |
+|---------------|--------|---------|-----------------|--------------|---------------------|---------------------|-----------------|--------|-------|
+| 112 | 501 | 18"    | APC    |   3320.0 |   2270.0 |    691.9 |    28900 | 0 | 18"/40 Mark I APC shell (HMS Furious), 4crh, standard charge |
+| 113 | 501 | 18"    | APC    |   3320.0 |   2420.0 |    737.6 |    36900 | 0 | 18"/40 Mark I APC shell, supercharge (690 lbs cordite total) |
+| 114 | 501 | 18"    | CPC    |   3320.0 |   2270.0 |    691.9 |    28900 | 0 | 18"/40 Mark I CPC (Common Pointed Capped - semi-AP), standard charge |
+| 115 | 503 | 16"    | AP     |   2048.0 |   2525.0 |    769.6 |    35000 | 0 | 16"/45 Mark I AP shell (Nelson/Rodney), reduced velocity due to barrel wear |
+| 116 | 503 | 16"    | HE     |   2048.0 |   2525.0 |    769.6 |    35000 | 0 | 16"/45 Mark I HE shell, operational velocity |
+| 117 | 505 | 13.5"  | APC    |   1250.0 |   2582.0 |    787.0 |    23820 | 0 | 13.5"/45 Mark V(L) "Light" APC shell (WWI superdreadnoughts, Jutland) |
+| 118 | 505 | 13.5"  | APC    |   1400.0 |   2491.0 |    759.3 |    23740 | 0 | 13.5"/45 Mark V(H) "Heavy" APC shell, increased weight variant |
+| 119 | 505 | 13.5"  | HE     |   1250.0 |   2582.0 |    787.0 |    23820 | 0 | 13.5"/45 Mark V(L) "Light" HE shell |
+| 120 | 506 | 12"    | AP     |    850.0 |   2725.0 |    830.6 |    20000 | 0 | 12"/45 Mark X AP shell (HMS Dreadnought), revolutionary design |
+| 121 | 506 | 12"    | HE     |    850.0 |   2725.0 |    830.6 |    20000 | 0 | 12"/45 Mark X HE shell |
+| 122 | 520 | 8"     | SAPC   |    256.0 |   2725.0 |    830.6 |    30000 | 0 | 8"/50 Mark VIII SAPC shell (County-class heavy cruisers), 2x15kg cordite bags |
+| 123 | 520 | 8"     | HE     |    256.0 |   2725.0 |    830.6 |    30000 | 0 | 8"/50 Mark VIII HE shell |
+| 124 | 530 | 6"     | AP     |    112.0 |   2760.0 |    841.2 |    25480 | 0 | 6"/50 Mark XXIII AP shell (Crown Colony light cruisers), 14kg cordite charge |
+| 125 | 530 | 6"     | HE     |    112.0 |   2760.0 |    841.2 |    25480 | 0 | 6"/50 Mark XXIII HE shell |
+| 126 | 540 | 5.25"  | HE     |     80.0 |   2672.0 |    814.4 |    24070 | 0 | 5.25"/50 Mark I HE shell (KGV secondary, Dido-class), dual-purpose |
+| 127 | 540 | 5.25"  | SAP    |     80.0 |   2672.0 |    814.4 |    24070 | 0 | 5.25"/50 Mark I SAP shell |
+| 128 | 545 | 4.7"   | HE     |     50.0 |   2650.0 |    807.7 |    16970 | 0 | 4.7"/45 Mark IX/XII HE shell (standard WWI/WWII destroyers) |
+| 129 | 545 | 4.7"   | SAP    |     50.0 |   2650.0 |    807.7 |    16970 | 0 | 4.7"/45 Mark IX/XII SAP shell |
+| 130 | 550 | 4.5"   | HE     |     55.0 |   2449.0 |    746.5 |    20750 | 0 | 4.5"/45 Mark V HE shell (Daring-class, post-war automated destroyers) |
+| 131 | 550 | 4.5"   | SAP    |     55.0 |   2449.0 |    746.5 |    20750 | 0 | 4.5"/45 Mark V SAP shell |
+| 132 | 555 | 4"     | HE     |     35.0 |   2660.0 |    810.8 |    19850 | 0 | 4"/45 QF Mark XVI HE shell (primary AA gun), high-angle capable |
+| 133 | 555 | 4"     | SAP    |     38.2 |   2660.0 |    810.8 |    19850 | 0 | 4"/45 QF Mark XVI SAP shell, heavier projectile |
+
+================================================================================
+COMPATIBILITY RECORDS GENERATION
+================================================================================
+
+| Compatibility_ID | Gun_ID | Ammunition_ID | Caliber | Muzzle_Velocity_FPS | Muzzle_Velocity_MPS | Max_Range_Yards | Notes |
+|------------------|--------|---------------|---------|---------------------|---------------------|-----------------|-------|
+| 10009 | 501 | 112 | 18"    |   2270.0 |    691.9 |    28900 | 18"/40 Mark I APC shell (HMS Furious), 4crh, standard charge |
+| 10010 | 501 | 113 | 18"    |   2420.0 |    737.6 |    36900 | 18"/40 Mark I APC shell, supercharge (690 lbs cordite total) |
+| 10011 | 501 | 114 | 18"    |   2270.0 |    691.9 |    28900 | 18"/40 Mark I CPC (Common Pointed Capped - semi-AP), standard charge |
+| 10012 | 503 | 115 | 16"    |   2525.0 |    769.6 |    35000 | 16"/45 Mark I AP shell (Nelson/Rodney), reduced velocity due to barrel wear |
+| 10013 | 503 | 116 | 16"    |   2525.0 |    769.6 |    35000 | 16"/45 Mark I HE shell, operational velocity |
+| 10014 | 505 | 117 | 13.5"  |   2582.0 |    787.0 |    23820 | 13.5"/45 Mark V(L) "Light" APC shell (WWI superdreadnoughts, Jutland) |
+| 10015 | 505 | 118 | 13.5"  |   2491.0 |    759.3 |    23740 | 13.5"/45 Mark V(H) "Heavy" APC shell, increased weight variant |
+| 10016 | 505 | 119 | 13.5"  |   2582.0 |    787.0 |    23820 | 13.5"/45 Mark V(L) "Light" HE shell |
+| 10017 | 506 | 120 | 12"    |   2725.0 |    830.6 |    20000 | 12"/45 Mark X AP shell (HMS Dreadnought), revolutionary design |
+| 10018 | 506 | 121 | 12"    |   2725.0 |    830.6 |    20000 | 12"/45 Mark X HE shell |
+| 10019 | 520 | 122 | 8"     |   2725.0 |    830.6 |    30000 | 8"/50 Mark VIII SAPC shell (County-class heavy cruisers), 2x15kg cordite bags |
+| 10020 | 520 | 123 | 8"     |   2725.0 |    830.6 |    30000 | 8"/50 Mark VIII HE shell |
+| 10021 | 530 | 124 | 6"     |   2760.0 |    841.2 |    25480 | 6"/50 Mark XXIII AP shell (Crown Colony light cruisers), 14kg cordite charge |
+| 10022 | 530 | 125 | 6"     |   2760.0 |    841.2 |    25480 | 6"/50 Mark XXIII HE shell |
+| 10023 | 540 | 126 | 5.25"  |   2672.0 |    814.4 |    24070 | 5.25"/50 Mark I HE shell (KGV secondary, Dido-class), dual-purpose |
+| 10024 | 540 | 127 | 5.25"  |   2672.0 |    814.4 |    24070 | 5.25"/50 Mark I SAP shell |
+| 10025 | 545 | 128 | 4.7"   |   2650.0 |    807.7 |    16970 | 4.7"/45 Mark IX/XII HE shell (standard WWI/WWII destroyers) |
+| 10026 | 545 | 129 | 4.7"   |   2650.0 |    807.7 |    16970 | 4.7"/45 Mark IX/XII SAP shell |
+| 10027 | 550 | 130 | 4.5"   |   2449.0 |    746.5 |    20750 | 4.5"/45 Mark V HE shell (Daring-class, post-war automated destroyers) |
+| 10028 | 550 | 131 | 4.5"   |   2449.0 |    746.5 |    20750 | 4.5"/45 Mark V SAP shell |
+| 10029 | 555 | 132 | 4"     |   2660.0 |    810.8 |    19850 | 4"/45 QF Mark XVI HE shell (primary AA gun), high-angle capable |
+| 10030 | 555 | 133 | 4"     |   2660.0 |    810.8 |    19850 | 4"/45 QF Mark XVI SAP shell, heavier projectile |
+
+Total compatibility records: 22
+Compatibility ID range: 10009-10030
+
+================================================================================
+SQL INSERT STATEMENTS
+================================================================================
+
+-- AMMUNITION INSERTS
+
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (112, '18"', 'APC', 3320.0, '18"/40 Mark I APC shell (HMS Furious), 4crh, standard charge', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (113, '18"', 'APC', 3320.0, '18"/40 Mark I APC shell, supercharge (690 lbs cordite total)', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (114, '18"', 'CPC', 3320.0, '18"/40 Mark I CPC (Common Pointed Capped - semi-AP), standard charge', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (115, '16"', 'AP', 2048.0, '16"/45 Mark I AP shell (Nelson/Rodney), reduced velocity due to barrel wear', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (116, '16"', 'HE', 2048.0, '16"/45 Mark I HE shell, operational velocity', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (117, '13.5"', 'APC', 1250.0, '13.5"/45 Mark V(L) "Light" APC shell (WWI superdreadnoughts, Jutland)', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (118, '13.5"', 'APC', 1400.0, '13.5"/45 Mark V(H) "Heavy" APC shell, increased weight variant', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (119, '13.5"', 'HE', 1250.0, '13.5"/45 Mark V(L) "Light" HE shell', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (120, '12"', 'AP', 850.0, '12"/45 Mark X AP shell (HMS Dreadnought), revolutionary design', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (121, '12"', 'HE', 850.0, '12"/45 Mark X HE shell', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (122, '8"', 'SAPC', 256.0, '8"/50 Mark VIII SAPC shell (County-class heavy cruisers), 2x15kg cordite bags', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (123, '8"', 'HE', 256.0, '8"/50 Mark VIII HE shell', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (124, '6"', 'AP', 112.0, '6"/50 Mark XXIII AP shell (Crown Colony light cruisers), 14kg cordite charge', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (125, '6"', 'HE', 112.0, '6"/50 Mark XXIII HE shell', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (126, '5.25"', 'HE', 80.0, '5.25"/50 Mark I HE shell (KGV secondary, Dido-class), dual-purpose', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (127, '5.25"', 'SAP', 80.0, '5.25"/50 Mark I SAP shell', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (128, '4.7"', 'HE', 50.0, '4.7"/45 Mark IX/XII HE shell (standard WWI/WWII destroyers)', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (129, '4.7"', 'SAP', 50.0, '4.7"/45 Mark IX/XII SAP shell', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (130, '4.5"', 'HE', 55.0, '4.5"/45 Mark V HE shell (Daring-class, post-war automated destroyers)', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (131, '4.5"', 'SAP', 55.0, '4.5"/45 Mark V SAP shell', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (132, '4"', 'HE', 35.0, '4"/45 QF Mark XVI HE shell (primary AA gun), high-angle capable', 0);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (133, '4"', 'SAP', 38.25, '4"/45 QF Mark XVI SAP shell, heavier projectile', 0);
+
+-- COMPATIBILITY INSERTS
+
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10009, 501, 112, '18"', 2270.0, 691.9, 28900.0, '18"/40 Mark I APC shell (HMS Furious), 4crh, standard charge');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10010, 501, 113, '18"', 2420.0, 737.6, 36900.0, '18"/40 Mark I APC shell, supercharge (690 lbs cordite total)');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10011, 501, 114, '18"', 2270.0, 691.9, 28900.0, '18"/40 Mark I CPC (Common Pointed Capped - semi-AP), standard charge');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10012, 503, 115, '16"', 2525.0, 769.6, 35000.0, '16"/45 Mark I AP shell (Nelson/Rodney), reduced velocity due to barrel wear');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10013, 503, 116, '16"', 2525.0, 769.6, 35000.0, '16"/45 Mark I HE shell, operational velocity');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10014, 505, 117, '13.5"', 2582.0, 787.0, 23820.0, '13.5"/45 Mark V(L) "Light" APC shell (WWI superdreadnoughts, Jutland)');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10015, 505, 118, '13.5"', 2491.0, 759.3, 23740.0, '13.5"/45 Mark V(H) "Heavy" APC shell, increased weight variant');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10016, 505, 119, '13.5"', 2582.0, 787.0, 23820.0, '13.5"/45 Mark V(L) "Light" HE shell');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10017, 506, 120, '12"', 2725.0, 830.6, 20000.0, '12"/45 Mark X AP shell (HMS Dreadnought), revolutionary design');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10018, 506, 121, '12"', 2725.0, 830.6, 20000.0, '12"/45 Mark X HE shell');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10019, 520, 122, '8"', 2725.0, 830.6, 30000.0, '8"/50 Mark VIII SAPC shell (County-class heavy cruisers), 2x15kg cordite bags');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10020, 520, 123, '8"', 2725.0, 830.6, 30000.0, '8"/50 Mark VIII HE shell');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10021, 530, 124, '6"', 2760.0, 841.2, 25480.0, '6"/50 Mark XXIII AP shell (Crown Colony light cruisers), 14kg cordite charge');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10022, 530, 125, '6"', 2760.0, 841.2, 25480.0, '6"/50 Mark XXIII HE shell');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10023, 540, 126, '5.25"', 2672.0, 814.4, 24070.0, '5.25"/50 Mark I HE shell (KGV secondary, Dido-class), dual-purpose');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10024, 540, 127, '5.25"', 2672.0, 814.4, 24070.0, '5.25"/50 Mark I SAP shell');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10025, 545, 128, '4.7"', 2650.0, 807.7, 16970.0, '4.7"/45 Mark IX/XII HE shell (standard WWI/WWII destroyers)');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10026, 545, 129, '4.7"', 2650.0, 807.7, 16970.0, '4.7"/45 Mark IX/XII SAP shell');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10027, 550, 130, '4.5"', 2449.0, 746.5, 20750.0, '4.5"/45 Mark V HE shell (Daring-class, post-war automated destroyers)');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10028, 550, 131, '4.5"', 2449.0, 746.5, 20750.0, '4.5"/45 Mark V SAP shell');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10029, 555, 132, '4"', 2660.0, 810.8, 19850.0, '4"/45 QF Mark XVI HE shell (primary AA gun), high-angle capable');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10030, 555, 133, '4"', 2660.0, 810.8, 19850.0, '4"/45 QF Mark XVI SAP shell, heavier projectile');
+
+================================================================================
+SUMMARY
+================================================================================
+
+[OK] Ammunition researched:          22 types
+[OK] Compatibility records generated: 22 records
+[OK] Gun coverage:                    10/10 guns (100%)
+
+Status: COMPLETE - Ready for database import
+

@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "88dfb8823026413e",
+    "type": "split",
+    "children": [
+      {
+        "id": "32eb126c56f5eb91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82718f3161a06f4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aircraft/00_US_Aircraft_Research_Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_US_Aircraft_Research_Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea021c4a8cfde5a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "30e8fbabeca16ab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67ece1643beaca7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f882b2b91700d843",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5c7b916280f223f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "right": {
+    "id": "fb5b74a3fc407eeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fc3eb1b1fc48185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccf20082c123e1a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "USA/Trees/USA Destroyer Ship Tree.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for USA Destroyer Ship Tree"
+            }
+          },
+          {
+            "id": "0d0919864706269e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "USA Destroyer Ship Tree.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from USA Destroyer Ship Tree"
+            }
+          },
+          {
+            "id": "d302a09af781ec8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0baa68366ded64bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "USA Destroyer Ship Tree.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of USA Destroyer Ship Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "82718f3161a06f4c",
+  "lastOpenFiles": [
+    "Aircraft/00_US_Aircraft_Research_Tree.md",
+    "Aircraft/00_GB_Weapons_Overview.md",
+    "Aircraft/00_GB_Aircraft_Research_Tree.md",
+    "Ships/Great Britain/GB Battleships/HMS-Dreadnought.md",
+    "Ships/Great Britain/GB Battleships/G3-Battlecruiser.md",
+    "CODECKS_IMPORT_INSTRUCTIONS.md",
+    "README.md",
+    "SAMPLE_CARD_PREVIEW.md",
+    "USA/Overviews/00_Transport_Amphibious_Research_Tree.md",
+    "USA/Trees/USA Destroyer Ship Tree.canvas",
+    "USA/Overviews/00_Destroyer_Research_Tree.md",
+    "USA/Overviews/00_Submarine_Research_Tree.md",
+    "USA/Overviews/00_Cruiser_Research_Tree.md",
+    "USA/Overviews/00_Carrier_Research_Tree.md",
+    "USA/Overviews/00_Battleship_Research_Tree.md",
+    "Harris-Class.md",
+    "USA/USA Transports Amphibious/Tulare-Class-LKA.md",
+    "USA/USA Transports Amphibious/Admiral W.S. Benson-Class-AP.md",
+    "USA/USA Transports Amphibious/America-Class-LHA.md",
+    "USA/USA Destroyers/Truxtun-Class.md",
+    "USA/USA Destroyers/Aylwin-Class.md",
+    "USA/USA Destroyers/Arleigh Burke-Class.md",
+    "USA/USA Destroyers/Allen M. Sumner-Class.md",
+    "USA/USA Destroyers/Bagley-Class.md",
+    "DIAGRAM_COMPLETENESS_REPORT.md",
+    "USA/USA Battleships/Delaware-Class.md",
+    "USA/USA Battleships/Florida-Class.md",
+    "USA/USA Transports Amphibious/LCI(M)-Class.md.tmp.23672.1761256450595",
+    "USA/USA Transports Amphibious/LCI(R)-Class.md.tmp.23672.1761256408940",
+    "USA/USA Transports Amphibious/LCI(G)-Class.md.tmp.23672.1761256369339",
+    "USA/USA Transports Amphibious/LCI(L)-351-Class.md.tmp.23672.1761256325423",
+    "USA/USA Transports Amphibious/LCI(L)-1-Class.md.tmp.23672.1761256288332",
+    "USA/USA Transports Amphibious/LSM(R)-188-Class.md.tmp.23672.1761256208680",
+    "USA/USA Transports Amphibious/LSM-1-Class.md.tmp.23672.1761256170716",
+    "USA/USA Transports Amphibious/Newport-Class-LST.md.tmp.23672.1761255955236",
+    "USA/USA Transports Amphibious/De Soto County-Class-LST.md.tmp.23672.1761255918933",
+    "USA/USA Transports Amphibious/LST-542-Class.md.tmp.23672.1761255866510"
+  ]
+}

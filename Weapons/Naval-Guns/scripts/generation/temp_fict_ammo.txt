@@ -1,0 +1,374 @@
+================================================================================
+BRITISH FICTIONAL AMMUNITION GENERATION
+================================================================================
+
+Total fictional ammunition: 50
+
+Fictional ammunition by gun:
+  Gun 501 (18"/40 Mark I            ):  5 fictional types
+  Gun 502 (15"/42 Mark I            ):  4 fictional types
+  Gun 503 (16"/45 Mark I            ):  5 fictional types
+  Gun 504 (14"/45 Mark VII          ):  4 fictional types
+  Gun 505 (13.5"/45 Mark V          ):  4 fictional types
+  Gun 506 (12"/45 Mark X            ):  4 fictional types
+  Gun 520 (8"/50 Mark VIII          ):  4 fictional types
+  Gun 530 (6"/50 Mark XXIII         ):  4 fictional types
+  Gun 540 (5.25"/50 Mark I          ):  4 fictional types
+  Gun 545 (4.7"/45 Mark IX/XII      ):  4 fictional types
+  Gun 550 (4.5"/45 Mark V           ):  4 fictional types
+  Gun 555 (4"/45 QF Mark V/XVI      ):  4 fictional types
+
+Fictional ammunition by projectile type:
+  AP        :  4 types
+  APC       : 14 types
+  APCBC     :  8 types
+  HE        : 15 types
+  HE-VT     :  5 types
+  SAPC      :  4 types
+
+================================================================================
+AMMUNITION TABLE (SQL-READY)
+================================================================================
+
+| Ammunition_ID | Gun_ID | Caliber | Projectile_Type | Weight (lbs) | Muzzle_Velocity_FPS | Muzzle_Velocity_MPS | Max_Range_Yards | Modded | Notes |
+|---------------|--------|---------|-----------------|--------------|---------------------|---------------------|-----------------|--------|-------|
+| 134 | 501 | 18"    | APC        |   3800.0 |   2100.0 |    640.1 |    27000 | 1 | 18"/40 Mark IIa "Dreadnought" APC - super-heavy penetration shell, sacrifices velocity for mass |
+| 135 | 501 | 18"    | APC        |   2900.0 |   2600.0 |    792.5 |    32000 | 1 | 18"/40 Mark IIb "Thunderer" HV-APC - high-velocity variant, flatter trajectory |
+| 136 | 501 | 18"    | APC        |   3320.0 |   2550.0 |    777.2 |    38500 | 1 | 18"/40 Mark III Experimental - maximum charge (750 lbs cordite), extreme range |
+| 137 | 501 | 18"    | HE         |   3200.0 |   2300.0 |    701.0 |    29500 | 1 | 18"/40 Mark IV HE/HC - high-capacity explosive, 550 lbs bursting charge |
+| 138 | 501 | 18"    | APCBC      |   3320.0 |   2420.0 |    737.6 |    37200 | 1 | 18"/40 Mark Va APCBC - late-war ballistic cap, improved penetration at range |
+| 139 | 503 | 16"    | APC        |   2400.0 |   2350.0 |    716.3 |    33500 | 1 | 16"/45 Mark IIa "Nelson Heavy" APC - super-heavy shell, improved penetration |
+| 140 | 503 | 16"    | APC        |   2048.0 |   2700.0 |    823.0 |    38000 | 1 | 16"/45 Mark IIb "Rodney Improved" - improved barrel lining, full velocity without wear |
+| 141 | 503 | 16"    | AP         |   1800.0 |   2850.0 |    868.7 |    40000 | 1 | 16"/45 Mark III "Velocity" - lightweight high-velocity shell, extreme range |
+| 142 | 503 | 16"    | APCBC      |   2048.0 |   2525.0 |    769.6 |    35500 | 1 | 16"/45 Mark IVa APCBC - late-war ballistic cap design, better penetration |
+| 143 | 503 | 16"    | HE         |   2000.0 |   2550.0 |    777.2 |    35200 | 1 | 16"/45 Mark V HE/HC - high-capacity explosive, 320 lbs bursting charge |
+| 144 | 502 | 15"    | APC        |   2100.0 |   2500.0 |    762.0 |    36000 | 1 | 15"/42 Mark XVIII "Jutland" APC - super-heavy shell, maximum penetration |
+| 145 | 502 | 15"    | APC        |   1750.0 |   2750.0 |    838.2 |    39000 | 1 | 15"/42 Mark XIX "Hood" HV-APC - high-velocity light shell, long range |
+| 146 | 502 | 15"    | APCBC      |   1938.0 |   2680.0 |    816.9 |    38200 | 1 | 15"/42 Mark XXa "Vanguard Experimental" - post-war superior ballistic cap |
+| 147 | 502 | 15"    | HE         |   1900.0 |   2480.0 |    755.9 |    34000 | 1 | 15"/42 Mark XXI HE/HC - high-capacity explosive, 280 lbs bursting charge |
+| 148 | 504 | 14"    | APC        |   1750.0 |   2350.0 |    716.3 |    34500 | 1 | 14"/45 Mark VIIIa "King George" APC - super-heavy variant, improved penetration |
+| 149 | 504 | 14"    | APC        |   1450.0 |   2650.0 |    807.7 |    38000 | 1 | 14"/45 Mark VIIIb HV-APC - high-velocity shell, extended range |
+| 150 | 504 | 14"    | APCBC      |   1590.0 |   2483.0 |    756.8 |    36500 | 1 | 14"/45 Mark IXa APCBC - late-war improved ballistic cap, superior penetration |
+| 151 | 504 | 14"    | HE         |   1580.0 |   2450.0 |    746.8 |    36200 | 1 | 14"/45 Mark X HE/HC - high-capacity explosive, 130 lbs bursting charge |
+| 152 | 505 | 13.5"  | APC        |   1550.0 |   2400.0 |    731.5 |    23000 | 1 | 13.5"/45 Mark VI(SH) "Orion" - super-heavy post-Jutland design |
+| 153 | 505 | 13.5"  | APC        |   1150.0 |   2700.0 |    823.0 |    25500 | 1 | 13.5"/45 Mark VII HV - high-velocity interwar improvement |
+| 154 | 505 | 13.5"  | APCBC      |   1400.0 |   2520.0 |    768.1 |    24200 | 1 | 13.5"/45 Mark VIII APCBC - 1920s ballistic cap retrofit, "Iron Duke Improved" |
+| 155 | 505 | 13.5"  | HE         |   1250.0 |   2600.0 |    792.5 |    24000 | 1 | 13.5"/45 Mark IX HE/HC - improved high-explosive, 180 lbs bursting charge |
+| 156 | 506 | 12"    | APC        |    950.0 |   2600.0 |    792.5 |    21500 | 1 | 12"/45 Mark XIa "Dreadnought Heavy" - super-heavy interwar variant |
+| 157 | 506 | 12"    | AP         |    750.0 |   2900.0 |    883.9 |    23000 | 1 | 12"/45 Mark XIb HV - high-velocity lightweight shell, 1920s design |
+| 158 | 506 | 12"    | APCBC      |    850.0 |   2750.0 |    838.2 |    21000 | 1 | 12"/45 Mark XII APCBC - interwar ballistic cap modernization |
+| 159 | 506 | 12"    | HE         |    850.0 |   2750.0 |    838.2 |    20500 | 1 | 12"/45 Mark XIII HE/HC - improved high-explosive, 120 lbs bursting charge |
+| 160 | 520 | 8"     | APC        |    280.0 |   2600.0 |    792.5 |    29000 | 1 | 8"/50 Mark IX "County" APC - heavy shell for improved penetration |
+| 161 | 520 | 8"     | AP         |    230.0 |   2900.0 |    883.9 |    32000 | 1 | 8"/50 Mark X HV - high-velocity shell, extended range for cruiser duels |
+| 162 | 520 | 8"     | APCBC      |    256.0 |   2750.0 |    838.2 |    30500 | 1 | 8"/50 Mark XIa APCBC - late-war ballistic cap, "Kent Improved" |
+| 163 | 520 | 8"     | HE         |    256.0 |   2750.0 |    838.2 |    30200 | 1 | 8"/50 Mark XII HE/HC - improved high-explosive, 35 lbs bursting charge |
+| 164 | 530 | 6"     | APC        |    125.0 |   2650.0 |    807.7 |    24500 | 1 | 6"/50 Mark XXIVa "Fiji" APC - heavy shell for improved penetration |
+| 165 | 530 | 6"     | AP         |    100.0 |   2950.0 |    899.2 |    27000 | 1 | 6"/50 Mark XXIVb HV - high-velocity lightweight, extended range |
+| 166 | 530 | 6"     | APCBC      |    112.0 |   2800.0 |    853.4 |    26000 | 1 | 6"/50 Mark XXVa APCBC - late-war ballistic cap design |
+| 167 | 530 | 6"     | HE-VT      |    112.0 |   2760.0 |    841.2 |    25480 | 1 | 6"/50 Mark XXVI HE-VT - proximity-fused HE for AA use, "Ceylon Special" |
+| 168 | 540 | 5.25"  | HE-VT      |     80.0 |   2672.0 |    814.4 |    24070 | 1 | 5.25"/50 Mark II HE-VT - proximity-fused AA shell, "Dido Special" |
+| 169 | 540 | 5.25"  | SAPC       |     80.0 |   2672.0 |    814.4 |    24070 | 1 | 5.25"/50 Mark IIIa SAPC - improved semi-armor-piercing with cap |
+| 170 | 540 | 5.25"  | HE         |     70.0 |   2850.0 |    868.7 |    26000 | 1 | 5.25"/50 Mark IV "King George" HV - experimental lightweight high-velocity |
+| 171 | 540 | 5.25"  | HE         |     80.0 |   2800.0 |    853.4 |    25500 | 1 | 5.25"/50 Mark Va Supercharge - overcharge for maximum range |
+| 172 | 545 | 4.7"   | HE-VT      |     50.0 |   2650.0 |    807.7 |    16970 | 1 | 4.7"/45 Mark XIIIa HE-VT - proximity-fused AA shell, "Tribal Special" |
+| 173 | 545 | 4.7"   | SAPC       |     50.0 |   2650.0 |    807.7 |    16970 | 1 | 4.7"/45 Mark XIVa SAPC - improved semi-armor-piercing with cap |
+| 174 | 545 | 4.7"   | HE         |     45.0 |   2800.0 |    853.4 |    18500 | 1 | 4.7"/45 Mark XV HV - high-velocity lightweight, extended range |
+| 175 | 545 | 4.7"   | HE         |     50.0 |   2750.0 |    838.2 |    17500 | 1 | 4.7"/45 Mark XVI "Battle" - late-war improved HE, Battle-class destroyers |
+| 176 | 550 | 4.5"   | HE-VT      |     55.0 |   2449.0 |    746.5 |    20750 | 1 | 4.5"/45 Mark VIa HE-VT - proximity-fused AA shell, "Daring Special" |
+| 177 | 550 | 4.5"   | SAPC       |     55.0 |   2449.0 |    746.5 |    20750 | 1 | 4.5"/45 Mark VIb SAPC - improved semi-armor-piercing with cap |
+| 178 | 550 | 4.5"   | HE         |     48.0 |   2650.0 |    807.7 |    22500 | 1 | 4.5"/45 Mark VII HV - high-velocity lightweight, 1950s design |
+| 179 | 550 | 4.5"   | HE         |     55.0 |   2550.0 |    777.2 |    21500 | 1 | 4.5"/45 Mark VIII Experimental - automated loading optimized, maximum ROF |
+| 180 | 555 | 4"     | HE-VT      |     35.0 |   2660.0 |    810.8 |    19850 | 1 | 4"/45 QF Mark XVII HE-VT - proximity-fused AA shell, superior AA performance |
+| 181 | 555 | 4"     | SAPC       |     40.0 |   2600.0 |    792.5 |    19500 | 1 | 4"/45 QF Mark XVIIIa SAPC - improved semi-armor-piercing with cap |
+| 182 | 555 | 4"     | HE         |     31.0 |   2800.0 |    853.4 |    21000 | 1 | 4"/45 QF Mark XIX HV - high-velocity lightweight for AA use |
+| 183 | 555 | 4"     | HE         |     35.0 |   2700.0 |    823.0 |    20200 | 1 | 4"/45 QF Mark XXa "Carlisle" - improved HE, better fragmentation pattern |
+
+================================================================================
+COMPATIBILITY RECORDS GENERATION
+================================================================================
+
+| Compatibility_ID | Gun_ID | Ammunition_ID | Caliber | Muzzle_Velocity_FPS | Muzzle_Velocity_MPS | Max_Range_Yards | Notes |
+|------------------|--------|---------------|---------|---------------------|---------------------|-----------------|-------|
+| 10031 | 501 | 134 | 18"    |   2100.0 |    640.1 |    27000 | 18"/40 Mark IIa "Dreadnought" APC - super-heavy penetration ... |
+| 10032 | 501 | 135 | 18"    |   2600.0 |    792.5 |    32000 | 18"/40 Mark IIb "Thunderer" HV-APC - high-velocity variant, ... |
+| 10033 | 501 | 136 | 18"    |   2550.0 |    777.2 |    38500 | 18"/40 Mark III Experimental - maximum charge (750 lbs cordi... |
+| 10034 | 501 | 137 | 18"    |   2300.0 |    701.0 |    29500 | 18"/40 Mark IV HE/HC - high-capacity explosive, 550 lbs burs... |
+| 10035 | 501 | 138 | 18"    |   2420.0 |    737.6 |    37200 | 18"/40 Mark Va APCBC - late-war ballistic cap, improved pene... |
+| 10036 | 503 | 139 | 16"    |   2350.0 |    716.3 |    33500 | 16"/45 Mark IIa "Nelson Heavy" APC - super-heavy shell, impr... |
+| 10037 | 503 | 140 | 16"    |   2700.0 |    823.0 |    38000 | 16"/45 Mark IIb "Rodney Improved" - improved barrel lining, ... |
+| 10038 | 503 | 141 | 16"    |   2850.0 |    868.7 |    40000 | 16"/45 Mark III "Velocity" - lightweight high-velocity shell... |
+| 10039 | 503 | 142 | 16"    |   2525.0 |    769.6 |    35500 | 16"/45 Mark IVa APCBC - late-war ballistic cap design, bette... |
+| 10040 | 503 | 143 | 16"    |   2550.0 |    777.2 |    35200 | 16"/45 Mark V HE/HC - high-capacity explosive, 320 lbs burst... |
+| 10041 | 502 | 144 | 15"    |   2500.0 |    762.0 |    36000 | 15"/42 Mark XVIII "Jutland" APC - super-heavy shell, maximum... |
+| 10042 | 502 | 145 | 15"    |   2750.0 |    838.2 |    39000 | 15"/42 Mark XIX "Hood" HV-APC - high-velocity light shell, l... |
+| 10043 | 502 | 146 | 15"    |   2680.0 |    816.9 |    38200 | 15"/42 Mark XXa "Vanguard Experimental" - post-war superior ... |
+| 10044 | 502 | 147 | 15"    |   2480.0 |    755.9 |    34000 | 15"/42 Mark XXI HE/HC - high-capacity explosive, 280 lbs bur... |
+| 10045 | 504 | 148 | 14"    |   2350.0 |    716.3 |    34500 | 14"/45 Mark VIIIa "King George" APC - super-heavy variant, i... |
+| 10046 | 504 | 149 | 14"    |   2650.0 |    807.7 |    38000 | 14"/45 Mark VIIIb HV-APC - high-velocity shell, extended ran... |
+| 10047 | 504 | 150 | 14"    |   2483.0 |    756.8 |    36500 | 14"/45 Mark IXa APCBC - late-war improved ballistic cap, sup... |
+| 10048 | 504 | 151 | 14"    |   2450.0 |    746.8 |    36200 | 14"/45 Mark X HE/HC - high-capacity explosive, 130 lbs burst... |
+| 10049 | 505 | 152 | 13.5"  |   2400.0 |    731.5 |    23000 | 13.5"/45 Mark VI(SH) "Orion" - super-heavy post-Jutland desi... |
+| 10050 | 505 | 153 | 13.5"  |   2700.0 |    823.0 |    25500 | 13.5"/45 Mark VII HV - high-velocity interwar improvement... |
+| 10051 | 505 | 154 | 13.5"  |   2520.0 |    768.1 |    24200 | 13.5"/45 Mark VIII APCBC - 1920s ballistic cap retrofit, "Ir... |
+| 10052 | 505 | 155 | 13.5"  |   2600.0 |    792.5 |    24000 | 13.5"/45 Mark IX HE/HC - improved high-explosive, 180 lbs bu... |
+| 10053 | 506 | 156 | 12"    |   2600.0 |    792.5 |    21500 | 12"/45 Mark XIa "Dreadnought Heavy" - super-heavy interwar v... |
+| 10054 | 506 | 157 | 12"    |   2900.0 |    883.9 |    23000 | 12"/45 Mark XIb HV - high-velocity lightweight shell, 1920s ... |
+| 10055 | 506 | 158 | 12"    |   2750.0 |    838.2 |    21000 | 12"/45 Mark XII APCBC - interwar ballistic cap modernization... |
+| 10056 | 506 | 159 | 12"    |   2750.0 |    838.2 |    20500 | 12"/45 Mark XIII HE/HC - improved high-explosive, 120 lbs bu... |
+| 10057 | 520 | 160 | 8"     |   2600.0 |    792.5 |    29000 | 8"/50 Mark IX "County" APC - heavy shell for improved penetr... |
+| 10058 | 520 | 161 | 8"     |   2900.0 |    883.9 |    32000 | 8"/50 Mark X HV - high-velocity shell, extended range for cr... |
+| 10059 | 520 | 162 | 8"     |   2750.0 |    838.2 |    30500 | 8"/50 Mark XIa APCBC - late-war ballistic cap, "Kent Improve... |
+| 10060 | 520 | 163 | 8"     |   2750.0 |    838.2 |    30200 | 8"/50 Mark XII HE/HC - improved high-explosive, 35 lbs burst... |
+| 10061 | 530 | 164 | 6"     |   2650.0 |    807.7 |    24500 | 6"/50 Mark XXIVa "Fiji" APC - heavy shell for improved penet... |
+| 10062 | 530 | 165 | 6"     |   2950.0 |    899.2 |    27000 | 6"/50 Mark XXIVb HV - high-velocity lightweight, extended ra... |
+| 10063 | 530 | 166 | 6"     |   2800.0 |    853.4 |    26000 | 6"/50 Mark XXVa APCBC - late-war ballistic cap design... |
+| 10064 | 530 | 167 | 6"     |   2760.0 |    841.2 |    25480 | 6"/50 Mark XXVI HE-VT - proximity-fused HE for AA use, "Ceyl... |
+| 10065 | 540 | 168 | 5.25"  |   2672.0 |    814.4 |    24070 | 5.25"/50 Mark II HE-VT - proximity-fused AA shell, "Dido Spe... |
+| 10066 | 540 | 169 | 5.25"  |   2672.0 |    814.4 |    24070 | 5.25"/50 Mark IIIa SAPC - improved semi-armor-piercing with ... |
+| 10067 | 540 | 170 | 5.25"  |   2850.0 |    868.7 |    26000 | 5.25"/50 Mark IV "King George" HV - experimental lightweight... |
+| 10068 | 540 | 171 | 5.25"  |   2800.0 |    853.4 |    25500 | 5.25"/50 Mark Va Supercharge - overcharge for maximum range... |
+| 10069 | 545 | 172 | 4.7"   |   2650.0 |    807.7 |    16970 | 4.7"/45 Mark XIIIa HE-VT - proximity-fused AA shell, "Tribal... |
+| 10070 | 545 | 173 | 4.7"   |   2650.0 |    807.7 |    16970 | 4.7"/45 Mark XIVa SAPC - improved semi-armor-piercing with c... |
+| 10071 | 545 | 174 | 4.7"   |   2800.0 |    853.4 |    18500 | 4.7"/45 Mark XV HV - high-velocity lightweight, extended ran... |
+| 10072 | 545 | 175 | 4.7"   |   2750.0 |    838.2 |    17500 | 4.7"/45 Mark XVI "Battle" - late-war improved HE, Battle-cla... |
+| 10073 | 550 | 176 | 4.5"   |   2449.0 |    746.5 |    20750 | 4.5"/45 Mark VIa HE-VT - proximity-fused AA shell, "Daring S... |
+| 10074 | 550 | 177 | 4.5"   |   2449.0 |    746.5 |    20750 | 4.5"/45 Mark VIb SAPC - improved semi-armor-piercing with ca... |
+| 10075 | 550 | 178 | 4.5"   |   2650.0 |    807.7 |    22500 | 4.5"/45 Mark VII HV - high-velocity lightweight, 1950s desig... |
+| 10076 | 550 | 179 | 4.5"   |   2550.0 |    777.2 |    21500 | 4.5"/45 Mark VIII Experimental - automated loading optimized... |
+| 10077 | 555 | 180 | 4"     |   2660.0 |    810.8 |    19850 | 4"/45 QF Mark XVII HE-VT - proximity-fused AA shell, superio... |
+| 10078 | 555 | 181 | 4"     |   2600.0 |    792.5 |    19500 | 4"/45 QF Mark XVIIIa SAPC - improved semi-armor-piercing wit... |
+| 10079 | 555 | 182 | 4"     |   2800.0 |    853.4 |    21000 | 4"/45 QF Mark XIX HV - high-velocity lightweight for AA use... |
+| 10080 | 555 | 183 | 4"     |   2700.0 |    823.0 |    20200 | 4"/45 QF Mark XXa "Carlisle" - improved HE, better fragmenta... |
+
+Total compatibility records: 50
+Compatibility ID range: 10031-10080
+
+================================================================================
+SQL INSERT STATEMENTS
+================================================================================
+
+-- FICTIONAL AMMUNITION INSERTS
+
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (134, '18"', 'APC', 3800.0, '18"/40 Mark IIa "Dreadnought" APC - super-heavy penetration shell, sacrifices velocity for mass', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (135, '18"', 'APC', 2900.0, '18"/40 Mark IIb "Thunderer" HV-APC - high-velocity variant, flatter trajectory', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (136, '18"', 'APC', 3320.0, '18"/40 Mark III Experimental - maximum charge (750 lbs cordite), extreme range', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (137, '18"', 'HE', 3200.0, '18"/40 Mark IV HE/HC - high-capacity explosive, 550 lbs bursting charge', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (138, '18"', 'APCBC', 3320.0, '18"/40 Mark Va APCBC - late-war ballistic cap, improved penetration at range', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (139, '16"', 'APC', 2400.0, '16"/45 Mark IIa "Nelson Heavy" APC - super-heavy shell, improved penetration', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (140, '16"', 'APC', 2048.0, '16"/45 Mark IIb "Rodney Improved" - improved barrel lining, full velocity without wear', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (141, '16"', 'AP', 1800.0, '16"/45 Mark III "Velocity" - lightweight high-velocity shell, extreme range', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (142, '16"', 'APCBC', 2048.0, '16"/45 Mark IVa APCBC - late-war ballistic cap design, better penetration', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (143, '16"', 'HE', 2000.0, '16"/45 Mark V HE/HC - high-capacity explosive, 320 lbs bursting charge', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (144, '15"', 'APC', 2100.0, '15"/42 Mark XVIII "Jutland" APC - super-heavy shell, maximum penetration', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (145, '15"', 'APC', 1750.0, '15"/42 Mark XIX "Hood" HV-APC - high-velocity light shell, long range', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (146, '15"', 'APCBC', 1938.0, '15"/42 Mark XXa "Vanguard Experimental" - post-war superior ballistic cap', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (147, '15"', 'HE', 1900.0, '15"/42 Mark XXI HE/HC - high-capacity explosive, 280 lbs bursting charge', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (148, '14"', 'APC', 1750.0, '14"/45 Mark VIIIa "King George" APC - super-heavy variant, improved penetration', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (149, '14"', 'APC', 1450.0, '14"/45 Mark VIIIb HV-APC - high-velocity shell, extended range', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (150, '14"', 'APCBC', 1590.0, '14"/45 Mark IXa APCBC - late-war improved ballistic cap, superior penetration', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (151, '14"', 'HE', 1580.0, '14"/45 Mark X HE/HC - high-capacity explosive, 130 lbs bursting charge', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (152, '13.5"', 'APC', 1550.0, '13.5"/45 Mark VI(SH) "Orion" - super-heavy post-Jutland design', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (153, '13.5"', 'APC', 1150.0, '13.5"/45 Mark VII HV - high-velocity interwar improvement', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (154, '13.5"', 'APCBC', 1400.0, '13.5"/45 Mark VIII APCBC - 1920s ballistic cap retrofit, "Iron Duke Improved"', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (155, '13.5"', 'HE', 1250.0, '13.5"/45 Mark IX HE/HC - improved high-explosive, 180 lbs bursting charge', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (156, '12"', 'APC', 950.0, '12"/45 Mark XIa "Dreadnought Heavy" - super-heavy interwar variant', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (157, '12"', 'AP', 750.0, '12"/45 Mark XIb HV - high-velocity lightweight shell, 1920s design', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (158, '12"', 'APCBC', 850.0, '12"/45 Mark XII APCBC - interwar ballistic cap modernization', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (159, '12"', 'HE', 850.0, '12"/45 Mark XIII HE/HC - improved high-explosive, 120 lbs bursting charge', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (160, '8"', 'APC', 280.0, '8"/50 Mark IX "County" APC - heavy shell for improved penetration', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (161, '8"', 'AP', 230.0, '8"/50 Mark X HV - high-velocity shell, extended range for cruiser duels', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (162, '8"', 'APCBC', 256.0, '8"/50 Mark XIa APCBC - late-war ballistic cap, "Kent Improved"', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (163, '8"', 'HE', 256.0, '8"/50 Mark XII HE/HC - improved high-explosive, 35 lbs bursting charge', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (164, '6"', 'APC', 125.0, '6"/50 Mark XXIVa "Fiji" APC - heavy shell for improved penetration', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (165, '6"', 'AP', 100.0, '6"/50 Mark XXIVb HV - high-velocity lightweight, extended range', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (166, '6"', 'APCBC', 112.0, '6"/50 Mark XXVa APCBC - late-war ballistic cap design', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (167, '6"', 'HE-VT', 112.0, '6"/50 Mark XXVI HE-VT - proximity-fused HE for AA use, "Ceylon Special"', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (168, '5.25"', 'HE-VT', 80.0, '5.25"/50 Mark II HE-VT - proximity-fused AA shell, "Dido Special"', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (169, '5.25"', 'SAPC', 80.0, '5.25"/50 Mark IIIa SAPC - improved semi-armor-piercing with cap', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (170, '5.25"', 'HE', 70.0, '5.25"/50 Mark IV "King George" HV - experimental lightweight high-velocity', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (171, '5.25"', 'HE', 80.0, '5.25"/50 Mark Va Supercharge - overcharge for maximum range', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (172, '4.7"', 'HE-VT', 50.0, '4.7"/45 Mark XIIIa HE-VT - proximity-fused AA shell, "Tribal Special"', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (173, '4.7"', 'SAPC', 50.0, '4.7"/45 Mark XIVa SAPC - improved semi-armor-piercing with cap', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (174, '4.7"', 'HE', 45.0, '4.7"/45 Mark XV HV - high-velocity lightweight, extended range', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (175, '4.7"', 'HE', 50.0, '4.7"/45 Mark XVI "Battle" - late-war improved HE, Battle-class destroyers', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (176, '4.5"', 'HE-VT', 55.0, '4.5"/45 Mark VIa HE-VT - proximity-fused AA shell, "Daring Special"', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (177, '4.5"', 'SAPC', 55.0, '4.5"/45 Mark VIb SAPC - improved semi-armor-piercing with cap', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (178, '4.5"', 'HE', 48.0, '4.5"/45 Mark VII HV - high-velocity lightweight, 1950s design', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (179, '4.5"', 'HE', 55.0, '4.5"/45 Mark VIII Experimental - automated loading optimized, maximum ROF', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (180, '4"', 'HE-VT', 35.0, '4"/45 QF Mark XVII HE-VT - proximity-fused AA shell, superior AA performance', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (181, '4"', 'SAPC', 40.0, '4"/45 QF Mark XVIIIa SAPC - improved semi-armor-piercing with cap', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (182, '4"', 'HE', 31.0, '4"/45 QF Mark XIX HV - high-velocity lightweight for AA use', 1);
+INSERT INTO Ammunition (Ammunition_ID, Caliber, Projectile_Type, Projectile_Weight_LBS, Notes, Modded)
+  VALUES (183, '4"', 'HE', 35.0, '4"/45 QF Mark XXa "Carlisle" - improved HE, better fragmentation pattern', 1);
+
+-- FICTIONAL COMPATIBILITY INSERTS
+
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10031, 501, 134, '18"', 2100.0, 640.1, 27000.0, '18"/40 Mark IIa "Dreadnought" APC - super-heavy penetration shell, sacrifices velocity for mass');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10032, 501, 135, '18"', 2600.0, 792.5, 32000.0, '18"/40 Mark IIb "Thunderer" HV-APC - high-velocity variant, flatter trajectory');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10033, 501, 136, '18"', 2550.0, 777.2, 38500.0, '18"/40 Mark III Experimental - maximum charge (750 lbs cordite), extreme range');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10034, 501, 137, '18"', 2300.0, 701.0, 29500.0, '18"/40 Mark IV HE/HC - high-capacity explosive, 550 lbs bursting charge');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10035, 501, 138, '18"', 2420.0, 737.6, 37200.0, '18"/40 Mark Va APCBC - late-war ballistic cap, improved penetration at range');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10036, 503, 139, '16"', 2350.0, 716.3, 33500.0, '16"/45 Mark IIa "Nelson Heavy" APC - super-heavy shell, improved penetration');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10037, 503, 140, '16"', 2700.0, 823.0, 38000.0, '16"/45 Mark IIb "Rodney Improved" - improved barrel lining, full velocity without wear');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10038, 503, 141, '16"', 2850.0, 868.7, 40000.0, '16"/45 Mark III "Velocity" - lightweight high-velocity shell, extreme range');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10039, 503, 142, '16"', 2525.0, 769.6, 35500.0, '16"/45 Mark IVa APCBC - late-war ballistic cap design, better penetration');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10040, 503, 143, '16"', 2550.0, 777.2, 35200.0, '16"/45 Mark V HE/HC - high-capacity explosive, 320 lbs bursting charge');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10041, 502, 144, '15"', 2500.0, 762.0, 36000.0, '15"/42 Mark XVIII "Jutland" APC - super-heavy shell, maximum penetration');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10042, 502, 145, '15"', 2750.0, 838.2, 39000.0, '15"/42 Mark XIX "Hood" HV-APC - high-velocity light shell, long range');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10043, 502, 146, '15"', 2680.0, 816.9, 38200.0, '15"/42 Mark XXa "Vanguard Experimental" - post-war superior ballistic cap');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10044, 502, 147, '15"', 2480.0, 755.9, 34000.0, '15"/42 Mark XXI HE/HC - high-capacity explosive, 280 lbs bursting charge');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10045, 504, 148, '14"', 2350.0, 716.3, 34500.0, '14"/45 Mark VIIIa "King George" APC - super-heavy variant, improved penetration');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10046, 504, 149, '14"', 2650.0, 807.7, 38000.0, '14"/45 Mark VIIIb HV-APC - high-velocity shell, extended range');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10047, 504, 150, '14"', 2483.0, 756.8, 36500.0, '14"/45 Mark IXa APCBC - late-war improved ballistic cap, superior penetration');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10048, 504, 151, '14"', 2450.0, 746.8, 36200.0, '14"/45 Mark X HE/HC - high-capacity explosive, 130 lbs bursting charge');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10049, 505, 152, '13.5"', 2400.0, 731.5, 23000.0, '13.5"/45 Mark VI(SH) "Orion" - super-heavy post-Jutland design');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10050, 505, 153, '13.5"', 2700.0, 823.0, 25500.0, '13.5"/45 Mark VII HV - high-velocity interwar improvement');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10051, 505, 154, '13.5"', 2520.0, 768.1, 24200.0, '13.5"/45 Mark VIII APCBC - 1920s ballistic cap retrofit, "Iron Duke Improved"');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10052, 505, 155, '13.5"', 2600.0, 792.5, 24000.0, '13.5"/45 Mark IX HE/HC - improved high-explosive, 180 lbs bursting charge');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10053, 506, 156, '12"', 2600.0, 792.5, 21500.0, '12"/45 Mark XIa "Dreadnought Heavy" - super-heavy interwar variant');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10054, 506, 157, '12"', 2900.0, 883.9, 23000.0, '12"/45 Mark XIb HV - high-velocity lightweight shell, 1920s design');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10055, 506, 158, '12"', 2750.0, 838.2, 21000.0, '12"/45 Mark XII APCBC - interwar ballistic cap modernization');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10056, 506, 159, '12"', 2750.0, 838.2, 20500.0, '12"/45 Mark XIII HE/HC - improved high-explosive, 120 lbs bursting charge');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10057, 520, 160, '8"', 2600.0, 792.5, 29000.0, '8"/50 Mark IX "County" APC - heavy shell for improved penetration');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10058, 520, 161, '8"', 2900.0, 883.9, 32000.0, '8"/50 Mark X HV - high-velocity shell, extended range for cruiser duels');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10059, 520, 162, '8"', 2750.0, 838.2, 30500.0, '8"/50 Mark XIa APCBC - late-war ballistic cap, "Kent Improved"');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10060, 520, 163, '8"', 2750.0, 838.2, 30200.0, '8"/50 Mark XII HE/HC - improved high-explosive, 35 lbs bursting charge');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10061, 530, 164, '6"', 2650.0, 807.7, 24500.0, '6"/50 Mark XXIVa "Fiji" APC - heavy shell for improved penetration');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10062, 530, 165, '6"', 2950.0, 899.2, 27000.0, '6"/50 Mark XXIVb HV - high-velocity lightweight, extended range');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10063, 530, 166, '6"', 2800.0, 853.4, 26000.0, '6"/50 Mark XXVa APCBC - late-war ballistic cap design');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10064, 530, 167, '6"', 2760.0, 841.2, 25480.0, '6"/50 Mark XXVI HE-VT - proximity-fused HE for AA use, "Ceylon Special"');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10065, 540, 168, '5.25"', 2672.0, 814.4, 24070.0, '5.25"/50 Mark II HE-VT - proximity-fused AA shell, "Dido Special"');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10066, 540, 169, '5.25"', 2672.0, 814.4, 24070.0, '5.25"/50 Mark IIIa SAPC - improved semi-armor-piercing with cap');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10067, 540, 170, '5.25"', 2850.0, 868.7, 26000.0, '5.25"/50 Mark IV "King George" HV - experimental lightweight high-velocity');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10068, 540, 171, '5.25"', 2800.0, 853.4, 25500.0, '5.25"/50 Mark Va Supercharge - overcharge for maximum range');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10069, 545, 172, '4.7"', 2650.0, 807.7, 16970.0, '4.7"/45 Mark XIIIa HE-VT - proximity-fused AA shell, "Tribal Special"');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10070, 545, 173, '4.7"', 2650.0, 807.7, 16970.0, '4.7"/45 Mark XIVa SAPC - improved semi-armor-piercing with cap');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10071, 545, 174, '4.7"', 2800.0, 853.4, 18500.0, '4.7"/45 Mark XV HV - high-velocity lightweight, extended range');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10072, 545, 175, '4.7"', 2750.0, 838.2, 17500.0, '4.7"/45 Mark XVI "Battle" - late-war improved HE, Battle-class destroyers');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10073, 550, 176, '4.5"', 2449.0, 746.5, 20750.0, '4.5"/45 Mark VIa HE-VT - proximity-fused AA shell, "Daring Special"');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10074, 550, 177, '4.5"', 2449.0, 746.5, 20750.0, '4.5"/45 Mark VIb SAPC - improved semi-armor-piercing with cap');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10075, 550, 178, '4.5"', 2650.0, 807.7, 22500.0, '4.5"/45 Mark VII HV - high-velocity lightweight, 1950s design');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10076, 550, 179, '4.5"', 2550.0, 777.2, 21500.0, '4.5"/45 Mark VIII Experimental - automated loading optimized, maximum ROF');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10077, 555, 180, '4"', 2660.0, 810.8, 19850.0, '4"/45 QF Mark XVII HE-VT - proximity-fused AA shell, superior AA performance');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10078, 555, 181, '4"', 2600.0, 792.5, 19500.0, '4"/45 QF Mark XVIIIa SAPC - improved semi-armor-piercing with cap');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10079, 555, 182, '4"', 2800.0, 853.4, 21000.0, '4"/45 QF Mark XIX HV - high-velocity lightweight for AA use');
+INSERT INTO Gun_Ammunition_Compatibility (Compatibility_ID, Gun_ID, Ammunition_ID, Caliber, Muzzle_Velocity_FPS, Muzzle_Velocity_MPS, Max_Range_Yards, Notes)
+  VALUES (10080, 555, 183, '4"', 2700.0, 823.0, 20200.0, '4"/45 QF Mark XXa "Carlisle" - improved HE, better fragmentation pattern');
+
+================================================================================
+SUMMARY
+================================================================================
+
+[OK] Fictional ammunition generated:     50 types
+[OK] Fictional compatibility records:    50 records
+[OK] Gun coverage:                        12/12 guns (100%)
+
+COMBINED TOTALS (Historical + Fictional):
+  Historical ammunition:   30 types (IDs 101-133)
+  Fictional ammunition:    50 types (IDs 134-183)
+  TOTAL AMMUNITION:        80 types
+
+  Historical compatibility: 30 records (IDs 10001-10030)
+  Fictional compatibility:  50 records (IDs 10031-10080)
+  TOTAL COMPATIBILITY:      80 records
+
+Status: COMPLETE - Ready for database import
+

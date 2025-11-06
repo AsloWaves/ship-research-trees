@@ -1,4 +1,20 @@
-# USA Naval Weapons Research - Git Ignore
+# Naval Warfare Research - Git Ignore
+
+# Obsidian workspace files (machine-specific, user preferences)
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+.obsidian/graph.json
+
+# Obsidian cache
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Trash
+.trash/
 
 # Database files (large binary, managed separately)
 *.db
@@ -23,6 +39,7 @@ logs/
 *.log
 *.tmp
 *.temp
+~$*.md
 
 # IDE and editor files
 .vscode/
@@ -30,7 +47,11 @@ logs/
 *.swp
 *.swo
 *~
+
+# System files
 .DS_Store
+Thumbs.db
+desktop.ini
 
 # Archives (keep source data separately)
 archive/
@@ -38,12 +59,14 @@ archive/
 # Claude Code local files
 .claude/
 
-# OS files
-Thumbs.db
-desktop.ini
-
 # Agent results (will be generated)
 agent_results/*.md
+
+# Export artifacts
+*.png
+*.jpg
+*.pdf
+*.html
 
 # Keep directory structure
 !agent_results/.gitkeep

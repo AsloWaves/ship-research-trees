@@ -1,0 +1,143 @@
+﻿Gun_Variant,Accuracy,Barrel_Life_rounds,Caliber_Length,Compatible_Shells,Muzzle_Velocity_fps,Nation,Performance_Category,Period,Upgrade_Features,Upgrade_Type
+"13.4""/52 Model 1912 Enhanced",Enhanced,320,"13.4""/52",,2675,🇫🇷 French,Balanced,1919-1920,"Improved propellant, better metallurgy",Enhanced Metallurgy
+"13.4""/52 Model 1916",Standard,290,"13.4""/52",,2657,🇫🇷 French,Balanced,1917-1921,Lyon cancelled design,Standard
+"13.4""/52 Model 1916 Quad",Enhanced,340,"13.4""/52",,2640,🇫🇷 French,Balanced,1918-1921,"Quad mount optimization, balanced charges",Enhanced Metallurgy
+"13.4""/52 Model 1912 Moderne",Superior,380,"13.4""/52",,2640,🇫🇷 French,Long Life,Projected 1925,"Extended range, improved accuracy",Enhanced Metallurgy
+"14.96""/50 Model 1936",Standard,280,"14.96""/50",,2723,🇫🇷 French,High Velocity,1940-1942,Richelieu original quad mount,Standard
+"13.4""/52 Model 1912",Standard,280,"13.4""/52",,2657,🇫🇷 French,Balanced,1914-1920,Normandie original specification,Standard
+"14.96""/50 Model 1936 Improved",Enhanced,350,"14.96""/50",,2690,🇫🇷 French,High Velocity,1943-1950,"Improved accuracy, extended barrel life",Enhanced Metallurgy
+"13.4""/52 Model 1916 Super",Superior,310,"13.4""/52",,2695,🇫🇷 French,High Velocity,Planned 1920,Maximum performance variant,Enhanced Metallurgy
+"13""/50 Model 1931",Enhanced,300,"13""/50",,2690,🇫🇷 French,Balanced,1937-1945,Dunkerque quad mount innovation,Standard
+"15""/47 SK C/34 Mod",Enhanced,400,"15""/47",,2700,🇩🇪 German,Long Life,1941,"Improved steel, better metallurgy",Enhanced Metallurgy
+"16""/52 SK C/34 Adolf",Long-range,250,"16""/52",,3281,🇩🇪 German,High Velocity,Planned 1941,Light shell extended range capability,Enhanced Metallurgy
+"15""/47 SK C/34 (1940)",Standard,300,"15""/47",,2690,🇩🇪 German,High Velocity,1940-1941,Bismarck original specification,Standard
+"15""/47 SK C/34 Triple",Standard,280,"15""/47",,2690,🇩🇪 German,High Velocity,Planned 1940,Triple mount adaptation,Standard
+"15""/47 SK C/34 Triple Super",Superior,320,"15""/47",,2730,🇩🇪 German,High Velocity,Planned 1942,Maximum performance triple,Enhanced Metallurgy
+"16""/52 SK C/34 (planned)",Superior,350,"16""/52",,2657,🇩🇪 German,High Velocity,Planned 1939-1941,H-class battleship design,Standard
+"14.96""/45 SK L/45 Improved",Enhanced,180,"14.96""/45",,2920,🇩🇪 German,High Velocity,1918,"Enhanced propellant, higher velocity",Enhanced Metallurgy
+"15""/47 SK C/34 Triple Enhanced",Enhanced,380,"15""/47",,2710,🇩🇪 German,Long Life,Planned 1941,"Improved loading, enhanced metallurgy",Enhanced Metallurgy
+"14.96""/45 SK L/45 (1916)",Standard,200,"14.96""/45",,2640,🇩🇪 German,Balanced,1916-1917,Bayern-class original,Standard
+"18""/48 SK C/42 Ultimate",Superior,220,"18""/48",,2540,🇩🇪 German,High Velocity,Planned 1945,Maximum theoretical performance,Enhanced Metallurgy
+"20""/50 SK C/44",Standard,150,"20""/50",,2350,🇩🇪 German,Balanced,Planned 1944-1945,H-44 ultimate design,Standard
+"16.5""/50 SK C/40 Super",Superior,310,"16.5""/50",,2700,🇩🇪 German,High Velocity,Planned 1944,Maximum velocity variant,Enhanced Metallurgy
+"18""/48 SK C/42",Standard,200,"18""/48",,2460,🇩🇪 German,Balanced,Planned 1943-1944,H-43 design specification,Standard
+"16.5""/50 SK C/40 Enhanced",Enhanced,350,"16.5""/50",,2650,🇩🇪 German,Long Life,Planned 1943,"Advanced steel, improved rifling",Enhanced Metallurgy
+"16.5""/50 SK C/40",Standard,280,"16.5""/50",,2624,🇩🇪 German,High Velocity,Planned 1942-1943,H-42 design specification,Standard
+"20""/50 SK C/44 Advanced",Enhanced,180,"20""/50",,2400,🇩🇪 German,Balanced,Planned 1945,Ultimate German technology,Enhanced Metallurgy
+"20""/50 SK C/44 Experimental",Superior,160,"20""/50",,2450,🇩🇪 German,Balanced,Theoretical 1946,Experimental maximum performance,Enhanced Metallurgy
+"18""/48 SK C/42 Improved",Enhanced,250,"18""/48",,2500,🇩🇪 German,Balanced,Planned 1944,Advanced propellant better barrel,Enhanced Metallurgy
+"14""/45 Mark VII (1940)",Standard,250,"14""/45",,2483,🇬🇧 British,Balanced,1940-1941,King George V original,Standard
+"14""/45 Mark VII*",Enhanced,340,"14""/45",,2500,🇬🇧 British,Balanced,1942-1945,"Improved cordite, better performance",Enhanced Metallurgy
+"15""/42 Mark I N",Enhanced,280,"15""/42",,2450,🇬🇧 British,Long Life,1930s modernization,"Improved rifling, longer life",Improved Rifling
+"15""/42 Mark I Triple",Standard,260,"15""/42",,2450,🇬🇧 British,Balanced,Planned 1915,Triple mount adaptation,Standard
+"15""/42 Mark I Super",Superior,250,"15""/42",,2640,🇬🇧 British,High Velocity,1940-1945,Supercharge capability max performance,Enhanced Metallurgy
+"15""/42 Mark I Triple Enhanced",Enhanced,320,"15""/42",,2480,🇬🇧 British,Long Life,Planned 1930s,Triple loading optimization,Enhanced Metallurgy
+"15""/42 Mark I (1915)",Standard,180,"15""/42",,2450,🇬🇧 British,Balanced,1915-1929,Original Queen Elizabeth,Standard
+"15""/42 Mark I Triple Super",Superior,280,"15""/42",,2640,🇬🇧 British,High Velocity,Planned 1940s,Supercharge triple capability,Enhanced Metallurgy
+"16""/45 Mark I Quad",Standard,200,"16""/45",,2480,🇬🇧 British,Balanced,Planned 1922,Experimental quad mount,Standard
+"16""/45 Mark II G3 Advanced",Enhanced,340,"16""/45",,2540,🇬🇧 British,Long Life,Planned 1923,Advanced fire control integration,Enhanced Metallurgy
+"16""/45 Mark II G3",Standard,280,"16""/45",,2500,🇬🇧 British,Balanced,Planned 1921-1922,G3 battlecruiser design,Standard
+"18""/48 Mark I N3",Standard,200,"18""/48",,2675,🇬🇧 British,High Velocity,Planned 1921-1922,N3 super-battleship design,Standard
+"16""/45 Mark I Quad Ultimate",Superior,240,"16""/45",,2550,🇬🇧 British,High Velocity,Planned 1930s,Maximum quad performance,Enhanced Metallurgy
+"18""/48 Mark I N3 Enhanced",Enhanced,250,"18""/48",,2720,🇬🇧 British,High Velocity,Planned 1923,Improved propellant better barrel,Enhanced Metallurgy
+"18""/48 Mark I N3 Ultimate",Superior,220,"18""/48",,2750,🇬🇧 British,High Velocity,Planned 1925,Ultimate British naval gun,Enhanced Metallurgy
+"16""/45 Mark II G3 Super",Superior,310,"16""/45",,2575,🇬🇧 British,High Velocity,Planned 1925,Maximum G3 performance,Enhanced Metallurgy
+"16""/45 Mark I Quad Enhanced",Enhanced,260,"16""/45",,2520,🇬🇧 British,Balanced,Planned 1925,Improved quad loading system,Enhanced Metallurgy
+"15""/50 Model 1914 Enhanced",Enhanced,240,"15""/50",,2750,🇮🇹 Italian,High Velocity,1918-1920,"Improved metallurgy, better rifling",Enhanced Metallurgy
+"12.6""/44 Model 1934",Enhanced,220,"12.6""/44",,2600,🇮🇹 Italian,Balanced,1937-1940,"13.4% more energy than original 12""",Standard
+"15""/50 Model UP.41",Standard,160,"15""/50",,2750,🇮🇹 Italian,High Velocity,Planned 1941-1942,Experimental quad mount,Standard
+"15""/50 Model UP.41 Ultimate",Superior,170,"15""/50",,2854,🇮🇹 Italian,High Velocity,Planned 1943,Maximum quad performance,Enhanced Metallurgy
+"15""/50 Model 1914",Standard,200,"15""/50",,2700,🇮🇹 Italian,High Velocity,1917-1920,Caracciolo original specification,Standard
+"15""/50 Model 1934",Superior,180,"15""/50",,2854,🇮🇹 Italian,High Velocity,1940-1941,High velocity long range (42.26km),Standard
+"15""/50 Model 1934 Reduced",Enhanced,250,"15""/50",,2789,🇮🇹 Italian,Balanced,1941-1943,Reduced charge for accuracy longer life,Standard
+"15""/50 Model 1914 Modernized",Superior,210,"15""/50",,2820,🇮🇹 Italian,High Velocity,Projected 1925,Post-war modernization potential,Enhanced Metallurgy
+"15""/50 Model UP.41 Advanced",Enhanced,200,"15""/50",,2800,🇮🇹 Italian,High Velocity,Planned 1942,Quad loading optimization,Enhanced Metallurgy
+"18.1""/45 Type 94 Mod A",Standard,500,"18.1""/45",,2559,🇯🇵 Japanese,Balanced,1942-1943,Original specification,Standard
+"18""/45 Type 13 Ultimate",Superior,300,"18""/45",,2700,🇯🇵 Japanese,High Velocity,Theoretical 1925,Maximum Type 13 performance,Enhanced Metallurgy
+"16.1""/45 Type 94 Mod",Enhanced,450,"16.1""/45",,2575,🇯🇵 Japanese,Long Life,1936-1945,"Improved metallurgy, better rifling",Enhanced Metallurgy
+"20.1""/45 Type 99",Standard,200,"20.1""/45",,2500,🇯🇵 Japanese,Balanced,1941-1946,A-150 super-battleship design,Standard
+"14""/45 Type 41 Mod",Enhanced,400,"14""/45",,2625,🇯🇵 Japanese,Long Life,1936-1945,Japanese improved rifling,Improved Rifling
+"16.1""/45 Type 94 (1920)",Standard,300,"16.1""/45",,2559,🇯🇵 Japanese,Balanced,1920-1935,Original Nagato specification,Standard
+"18""/45 Type 13 Enhanced",Enhanced,320,"18""/45",,2650,🇯🇵 Japanese,High Velocity,Planned 1923,Improved Japanese metallurgy,Enhanced Metallurgy
+"14""/45 Type 41 (1913)",Standard,250,"14""/45",,2592,🇯🇵 Japanese,Balanced,1913-1935,British Vickers design,Standard
+"18""/45 Type 13",Standard,280,"18""/45",,2600,🇯🇵 Japanese,High Velocity,1921-1923,Number 13 super-battlecruiser,Standard
+"18.1""/45 Type 94 Mod B",Enhanced,600,"18.1""/45",,2575,🇯🇵 Japanese,Long Life,1944-1945,Improved rifling enhanced metallurgy,Enhanced Metallurgy
+"20.1""/45 Type 99 Improved",Enhanced,250,"20.1""/45",,2550,🇯🇵 Japanese,Balanced,Planned 1946,"Enhanced propellant, better barrel",Enhanced Metallurgy
+"20.1""/45 Type 99 Ultimate",Superior,220,"20.1""/45",,2600,🇯🇵 Japanese,High Velocity,Theoretical 1947,Ultimate Japanese naval gun,Enhanced Metallurgy
+"14""/50 B-31 Improved",Superior,400,"14""/50",,2850,🇷🇺 Soviet,Long Life,Planned 1940,"Improved metallurgy, better rifling",Enhanced Metallurgy
+"12""/55 B-50",Superior,320,"12""/55",,2950,🇷🇺 Soviet,High Velocity,1949-1953,Stalingrad cruiser-killer design,Standard
+"12""/55 B-50 Enhanced",Superior,380,"12""/55",,3000,🇷🇺 Soviet,Long Life,Planned 1954,Improved propellant extended range,Enhanced Metallurgy
+"12""/52 Pattern 1907 Model 1911",Standard,250,"12""/52",,2500,🇷🇺 Soviet,Balanced,1914-1945,Imperial Russian design Soviet service,Standard
+"14""/50 B-31",Enhanced,350,"14""/50",,2800,🇷🇺 Soviet,High Velocity,Planned 1935-1940,"Soviet 14"" alternative design",Standard
+"14""/50 B-31 Modern",Superior,380,"14""/50",,2900,🇷🇺 Soviet,High Velocity,Theoretical 1945,Post-war modernization potential,Enhanced Metallurgy
+"12""/55 B-50 Ultimate",Superior,350,"12""/55",,3050,🇷🇺 Soviet,High Velocity,Theoretical 1955,"Maximum Soviet 12"" technology",Enhanced Metallurgy
+"18""/50 B-50",Standard,250,"18""/50",,2650,🇷🇺 Soviet,High Velocity,1945-1950,Project 24 super-battleship design,Standard
+"18""/50 B-50 Improved",Enhanced,300,"18""/50",,2700,🇷🇺 Soviet,High Velocity,Planned 1950,Improved Soviet metallurgy,Enhanced Metallurgy
+"16""/50 B-37 Pattern 1937",Superior,400,"16""/50",,2700,🇷🇺 Soviet,High Velocity,Planned 1938-1941,Maximum theoretical range 45600m,Standard
+"15""/50 B-50 Ultimate",Superior,320,"15""/50",,2950,🇷🇺 Soviet,High Velocity,Theoretical 1945,"Maximum Soviet 15"" capability",Enhanced Metallurgy
+"18""/50 B-50 Ultimate",Superior,280,"18""/50",,2750,🇷🇺 Soviet,High Velocity,Theoretical 1955,Maximum Soviet naval gun,Enhanced Metallurgy
+"15""/50 B-50",Enhanced,300,"15""/50",,2850,🇷🇺 Soviet,High Velocity,1939-1941,Kronshtadt battlecruiser design,Standard
+"15""/50 B-50 Enhanced",Superior,350,"15""/50",,2900,🇷🇺 Soviet,Long Life,Planned 1942,"Enhanced propellant, improved barrel",Enhanced Metallurgy
+"16""/50 Mark 7 Mod 1",Enhanced,500,"16""/50",,2500,🇺🇸 United States,Long Life,1944-1945,"Chrome-plated bore, extended life",Enhanced Metallurgy
+"16""/45 Mark 6 (1941)",Standard,250,"16""/45",,2300,🇺🇸 United States,Balanced,1941-1942,North Carolina original,Standard
+"16""/50 Mark 7 Mod 0",Standard,300,"16""/50",,2500,🇺🇸 United States,Balanced,1943-1944,Original Iowa specification,Standard
+"18""/48 Mark 2 Super",Superior,220,"18""/48",,2750,🇺🇸 United States,High Velocity,Theoretical 1930,Maximum performance variant,Enhanced Metallurgy
+"16""/45 Mark 6 Mod 1",Enhanced,350,"16""/45",,2350,🇺🇸 United States,Long Life,1943-1945,"Improved powder, better performance",Enhanced Metallurgy
+"12""/50 Mark 8",Superior,400,"12""/50",,2500,🇺🇸 United States,Long Life,1944-1946,Large cruiser rapid fire capability,Standard
+"14""/50 Mark 11 Mod 1",Enhanced,300,"14""/50",,2650,🇺🇸 United States,Balanced,1930s-1945,Improved metallurgy modernization,Enhanced Metallurgy
+"18""/48 Mark 2",Standard,200,"18""/48",,2650,🇺🇸 United States,High Velocity,1917-1920,Tillman IV design study,Standard
+"18""/48 Mark 2 Improved",Enhanced,250,"18""/48",,2700,🇺🇸 United States,High Velocity,Projected 1925,"Enhanced metallurgy, better rifling",Enhanced Metallurgy
+"16""/50 Mark 7 Mod 2",Superior,600,"16""/50",,2520,🇺🇸 United States,Long Life,1945-1950,Improved rifling accuracy upgrade,Improved Rifling
+"14""/50 Mark 11 (1916)",Standard,200,"14""/50",,2600,🇺🇸 United States,Balanced,1916-1929,Pennsylvania original,Standard
+"18""/50 Mark 7 Mod 3",Enhanced,280,"18""/50",,2700,🇺🇸 United States,High Velocity,1945 Study,Iowa-class conversion proposal,Enhanced Metallurgy
+"18""/50 Mark 7 Mod 4",Superior,350,"18""/50",,2750,🇺🇸 United States,Long Life,Projected 1950,"Chrome-plated bore, advanced rifling",Enhanced Metallurgy
+"18""/50 Mark 7 Ultimate",Superior,300,"18""/50",,2800,🇺🇸 United States,High Velocity,Theoretical 1955,Maximum US technology,Enhanced Metallurgy
+"14""/50 EOC Pattern P",Standard,280,"14""/50",,2650,🇧🇷 Brazil,Balanced,1910-1915,Riachuelo-class specification,Standard
+"14""/50 EOC Pattern P+",Enhanced,320,"14""/50",,2700,🇧🇷 Brazil,High Velocity,1920s upgrade,Brazilian naval improvements,Enhanced Metallurgy
+"14""/45 Škoda K10",Standard,250,"14""/45",,2600,🇦🇹 Austria-Hungary,Balanced,1914-1917,Ersatz Monarch design,Standard
+"12""/50 Vickers Mark H Mod",Enhanced,350,"12""/50",,2850,🇪🇸 Spain,Long Life,1920s modernization,"Spanish improvements, better maintenance",Enhanced Metallurgy
+"12""/50 Vickers Mark H+",Superior,320,"12""/50",,2900,🇪🇸 Spain,High Velocity,Theoretical 1930s,Maximum Spanish upgrade,Enhanced Metallurgy
+"14""/45 Škoda K10 Improved",Enhanced,300,"14""/45",,2650,🇦🇹 Austria-Hungary,Balanced,Planned 1918,Austro-Hungarian metallurgy,Enhanced Metallurgy
+"14""/50 EOC Pattern P Ultra",Superior,300,"14""/50",,2750,🇧🇷 Brazil,High Velocity,Theoretical 1930,Maximum Brazilian capability,Enhanced Metallurgy
+"12""/50 Vickers Mark H",Standard,300,"12""/50",,2800,🇪🇸 Spain,High Velocity,1913-1920,España-class original,Standard
+"14""/45 Škoda K10 Modern",Superior,280,"14""/45",,2700,🇦🇹 Austria-Hungary,High Velocity,Theoretical 1920,Post-war modernization concept,Enhanced Metallurgy
+"15""/50 Bofors M/42 Ultimate",Superior,380,"15""/50",,2850,🇳🇱 Netherlands,High Velocity,Theoretical 1945,Maximum Dutch technology,Enhanced Metallurgy
+"15""/50 Bofors M/42",Enhanced,350,"15""/50",,2750,🇳🇱 Netherlands,High Velocity,1940-1943,Design 1047 battlecruiser,Standard
+"15""/50 Bofors M/42 Improved",Superior,400,"15""/50",,2800,🇳🇱 Netherlands,Long Life,Planned 1943,Swedish-Dutch collaboration,Enhanced Metallurgy
+"4.7""/50 QF Mark XII",Standard,500,"4.7""/50",,2650,🇬🇧 British,Long Life,1930-1945,Destroyer main armament,Standard
+"6""/50 Mark XXIII",Standard,400,"6""/50",,2758,🇬🇧 British,Balanced,1930-1945,Light cruiser standard,Standard
+"5.25""/50 QF Mark I",Enhanced,450,"5.25""/50",,2850,🇬🇧 British,High Velocity,1937-1945,Dual-purpose heavy AA,Standard
+"8""/50 Mark IX",Enhanced,350,"8""/50",,2725,🇬🇧 British,Balanced,1930-1945,Heavy cruiser main gun,Standard
+"4.5""/45 QF Mark IV",Standard,450,"4.5""/45",,2650,🇬🇧 British,Balanced,1940-1945,Fleet destroyer standard,Standard
+"6""/47 Mark 16",Standard,450,"6""/47",,2800,🇺🇸 United States,High Velocity,1940-1945,Light cruiser rapid fire,Standard
+"8""/55 Mk 16",Enhanced,400,"8""/55",,2800,🇺🇸 United States,High Velocity,1940-1945,Super-heavy cruiser gun,Standard
+"5""/54 Mark 16",Enhanced,500,"5""/54",,2600,🇺🇸 United States,Long Life,1940-1945,Dual-purpose destroyer,Standard
+"3.7""/83 SK C/30",Enhanced,600,"3.7""/83",,2953,🇩🇪 German,Long Life,1930-1945,Anti-aircraft automatic,Standard
+"4.7""/50 SK L/50",Standard,450,"4.7""/50",,2395,🇩🇪 German,Balanced,1920-1945,Coastal/secondary,Standard
+"5""/45 SK C/34",Standard,400,"5""/45",,2750,🇩🇪 German,Balanced,1935-1945,Destroyer secondary,Standard
+"5.9""/60 SK C/28",Standard,350,"5.9""/60",,2887,🇩🇪 German,High Velocity,1925-1945,Light cruiser main gun,Standard
+"8""/50 SK C/34",Enhanced,300,"8""/50",,3035,🇩🇪 German,High Velocity,1935-1945,Admiral Hipper-class,Standard
+"5.1""/45 Model 1932",Standard,380,"5.1""/45",,2756,🇫🇷 French,High Velocity,1932-1945,Destroyer main gun,Standard
+"14.96""/50 Model 1936",Standard,250,"14.96""/50",,2723,🇫🇷 French,High Velocity,1936-1940,Richelieu-class main gun,Standard
+"9.45""/50 Model 1902",Standard,300,"9.45""/50",,2625,🇫🇷 French,Balanced,1902-1920,Pre-dreadnought main gun,Standard
+"8""/50 Model 1931",Enhanced,320,"8""/50",,2854,🇫🇷 French,High Velocity,1931-1945,Heavy cruiser semi-AP,Standard
+"5.46""/50 Model 1929",Standard,400,"5.46""/50",,2625,🇫🇷 French,Balanced,1929-1945,Destroyer dual-purpose,Standard
+"5.1""/50 B-13",Standard,420,"5.1""/50",,2756,🇷🇺 Soviet,High Velocity,1936-1945,Destroyer main gun,Standard
+"3""/50 Type 3",Standard,600,"3""/50",,2690,🇯🇵 Japanese,Long Life,1940-1945,Anti-aircraft incendiary,Standard
+"5""/40 Type 0",Enhanced,500,"5""/40",,2953,🇯🇵 Japanese,Long Life,1940-1945,Dual-purpose AA gun,Standard
+"6""/50 Model 1930",Standard,400,"6""/50",,2953,🇮🇹 Italian,High Velocity,1930-1945,Light cruiser standard,Standard
+"6""/57 B-38",Enhanced,380,"6""/57",,2953,🇷🇺 Soviet,High Velocity,1938-1945,Chapayev-class cruiser,Standard
+"3.5""/45 SK C/35",Enhanced,650,"3.5""/45",,2300,🇩🇪 German,Long Life,1935-1945,Anti-aircraft automatic,Standard
+2-pounder QF Mark VIII,Standard,800,2-pounder/39,,2365,🇬🇧 British,Long Life,1930-1945,Pom-pom anti-aircraft,Standard
+"14.57""/45 Model 1915",Standard,200,"14.57""/45",,1969,🇫🇷 French,Balanced,1915-1920,Railway/coastal gun,Standard
+"9.4""/40 SK L/40",Standard,280,"9.4""/40",,2740,🇩🇪 German,Balanced,1900-1920,Pre-dreadnought main gun,Standard
+"3.9""/50 Model 1930",Enhanced,500,"3.9""/50","3.94"" Mle 1930 AP (https://www.notion.so/3-94-Mle-1930-AP-2750ddf7bbe581bb9e53fc4e0b10be37?pvs=21), 3.94"" Mle 1930 HE (https://www.notion.so/3-94-Mle-1930-HE-2750ddf7bbe58139aa2ef454cbb4d85d?pvs=21)",2461,🇫🇷 French,Long Life,1930-1945,Anti-aircraft dual purpose,Standard
+"7.64""/50 Railway Gun",Standard,250,"7.64""/50",,2400,🇫🇷 French,Balanced,1915-1925,Railway/coastal defense,Standard
+"3.54""/50 QF Pattern",Standard,600,"3.54""/50",,2200,🇬🇧 British,Long Life,1920-1940,Light AA/patrol,Standard
+"4.1""/50 Dual Purpose",Standard,500,"4.1""/50",,2400,🇬🇧 British,Long Life,1935-1945,Light AA/coastal,Standard
+"6.7""/45 Coastal Defense",Standard,400,"6.7""/45",,2525,🇩🇪 German,Balanced,1920-1945,Coastal defense gun,Standard
+"5.98""/45 Pattern N",Standard,350,"5.98""/45",,2650,🇬🇧 British,Balanced,1920-1930,Export cruiser gun,Standard
+"3.94""/50 Pattern M",Standard,550,"3.94""/50",,2300,🇬🇧 British,Long Life,1925-1940,Light cruiser secondary,Standard
+"13.0""/50 Model 1931",Enhanced,300,"13.0""/50",,2690,🇫🇷 French,High Velocity,1931-1940,Dunkerque-class main gun,Standard
+"16.5""/50 SK C/40",Enhanced,250,"16.5""/50",,2700,🇩🇪 German,High Velocity,Planned 1940,H-class super-battleship,Standard
+"13.39""/50 Pattern X",Standard,280,"13.39""/50",,2600,🇬🇧 British,Balanced,1920-1925,Experimental battlecruiser,Standard
