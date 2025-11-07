@@ -3,7 +3,7 @@
 ```yaml
 class_name: H-42 Battleship (Massive H-Class Study - 90,000 Tons!)
 hull_numbers: None (theoretical study only, no ships planned)
-boats_built: 0 (pure theoretical study, never planned for construction)
+ships_built: 0 (pure theoretical study, never planned for construction)
 commissioned: Never (study project only)
 decommissioned: Never built
 era: WWII Theoretical (Paper Ship)
@@ -19,7 +19,7 @@ draft_ft: 36.1 (11m)
 crew: 3000+ (estimated)
 
 # Performance (Theoretical!)
-speed_knots: 30
+speed_design: 30
 propulsion_type: Steam turbines (3× turbine sets theoretical)
 propulsion_hp: 200000 shp (theoretical, massive power!)
 shafts: 3

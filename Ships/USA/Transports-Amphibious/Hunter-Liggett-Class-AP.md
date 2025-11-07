@@ -15,7 +15,7 @@ displacement_full: 16500
 length_ft: 522
 beam_ft: 62
 draft_ft: 26
-speed_knots: 16
+speed_design: 16
 crew: 450
 troop_capacity: 2200
 tags: [transport, ap, wwi-conversion, 1923]

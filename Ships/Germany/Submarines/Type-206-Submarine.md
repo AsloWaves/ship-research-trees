@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type 206 Submarine (Bundesmarine Enhanced)
 hull_numbers: U-13 to U-30
-boats_built: 18 (ACTUALLY BUILT!)
+ships_built: 18 (ACTUALLY BUILT!)
 commissioned: 1973-1975
 decommissioned: 2010-2013
 era: Cold War

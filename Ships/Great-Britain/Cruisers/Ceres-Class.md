@@ -17,7 +17,7 @@ draft_ft: 14
 propulsion_type: Steam turbines
 boilers: 6× Yarrow
 shp: 40000
-speed_knots: 29
+speed_design: 29
 range_nm: 4900
 range_speed: 16
 crew: 400

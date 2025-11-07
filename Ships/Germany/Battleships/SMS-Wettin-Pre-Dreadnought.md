@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Wettin (Wittelsbach-class - Improved Design!)
 hull_numbers: SMS Wettin
-boats_built: 1 (second Wittelsbach-class ship)
+ships_built: 1 (second Wittelsbach-class ship)
 commissioned: 1902 (October 1, 1902)
 decommissioned: 1921 (scrapped 1921-1922 - 19 years service!)
 era: Pre-Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 26.2 (8m maximum)
 crew: 650 (officers + men)
 
 # Performance (Triple-Expansion Engines!)
-speed_knots: 18 (design), 18.5 (trials)
+speed_design: 18 (design), 18.5 (trials)
 propulsion_type: Triple-expansion steam engines
 propulsion_hp: 14000 ihp
 shafts: 3

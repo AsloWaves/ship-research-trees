@@ -3,7 +3,7 @@
 ```yaml
 class_name: Tirpitz (Bismarck-class - "The Lone Queen of the North"!)
 hull_numbers: Tirpitz
-boats_built: 1 (sister ship to Bismarck)
+ships_built: 1 (sister ship to Bismarck)
 commissioned: 1941 (February 25, 1941)
 decommissioned: 1944 (sunk November 12, 1944)
 era: WWII Ultimate
@@ -19,7 +19,7 @@ draft_ft: 34.1 (10.4m maximum)
 crew: 2608 (108 officers + 2,500 men)
 
 # Performance (Slightly Different from Bismarck!)
-speed_knots: 30.1 (slightly slower due to modifications)
+speed_design: 30.1 (slightly slower due to modifications)
 propulsion_type: Steam turbines (3× Blohm & Voss geared turbines)
 propulsion_hp: 163000 shp (slightly more than Bismarck)
 shafts: 3

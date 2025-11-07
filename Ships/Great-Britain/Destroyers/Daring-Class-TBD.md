@@ -17,7 +17,7 @@ draft_ft: 7.8
 propulsion_type: Triple expansion engines
 boilers: 2× Thornycroft
 ihp: 4200
-speed_knots: 26
+speed_design: 26
 range_nm: 2200
 range_speed: 10
 crew: 53

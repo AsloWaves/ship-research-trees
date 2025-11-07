@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type XVII Submarine (Walter HTP Experimental)
 hull_numbers: V-80 (prototype), U-1405 to U-1407 (Type XVIIB)
-boats_built: 4 (1 prototype + 3 Type XVIIB)
+ships_built: 4 (1 prototype + 3 Type XVIIB)
 commissioned: 1940 (V-80), 1944-1945 (XVIIB)
 decommissioned: 1945
 era: WWII

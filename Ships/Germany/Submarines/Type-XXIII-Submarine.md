@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type XXIII Submarine (Coastal Elektroboot)
 hull_numbers: U-2321 to U-2371, U-4701 to U-4712
-boats_built: 61
+ships_built: 61
 commissioned: 1944-1945
 decommissioned: 1945 (surrendered), some post-war service
 era: WWII

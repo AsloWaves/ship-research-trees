@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type IID Submarine (Final Type II)
 hull_numbers: U-137 to U-152
-boats_built: 16
+ships_built: 16
 commissioned: 1940-1941
 decommissioned: 1944-1945
 era: WWII

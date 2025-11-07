@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type IXA Submarine (First Type IX)
 hull_numbers: U-37 to U-44
-boats_built: 8
+ships_built: 8
 commissioned: 1938-1939
 decommissioned: 1940-1943
 era: Interwar / WWII

@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Wittelsbach Battleship
 hull_numbers: SMS Wittelsbach, SMS Wettin, SMS Zähringen, SMS Schwaben, SMS Mecklenburg
-boats_built: 5
+ships_built: 5
 commissioned: 1902-1904
 decommissioned: 1919-1921
 era: Pre-Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 26.1 (7.95m forward)
 crew: 683
 
 # Performance
-speed_knots: 18
+speed_design: 18
 propulsion_type: Triple expansion steam engines
 propulsion_hp: 15000
 shafts: 3

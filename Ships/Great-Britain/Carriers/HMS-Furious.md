@@ -19,7 +19,7 @@ propulsion_type: Steam turbines
 boilers: 18× Yarrow
 turbines: 4× Brown-Curtis (geared)
 shp: 90000
-speed_knots: 31.5
+speed_design: 31.5
 range_nm: 6000
 range_speed: 20
 crew: 880-1200

@@ -3,7 +3,7 @@
 ```yaml
 class_name: Europa Conversion Carrier (Auxiliary Carrier Concept)
 hull_numbers: None (conversion study only)
-boats_built: 0 (theoretical conversion)
+ships_built: 0 (theoretical conversion)
 commissioned: Never
 decommissioned: N/A
 era: WWII (1942 study)
@@ -27,7 +27,7 @@ draft_ft: 34 (estimated with conversion weight)
 crew: 1200 (estimated)
 
 # Performance (Converted)
-speed_knots: 27 (original liner speed)
+speed_design: 27 (original liner speed)
 propulsion_type: Steam turbines (original)
 propulsion_hp: 130000 (original)
 shafts: 4 (original)

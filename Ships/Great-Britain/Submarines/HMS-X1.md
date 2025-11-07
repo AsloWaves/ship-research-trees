@@ -16,7 +16,7 @@ beam_ft: 29.83
 draft_ft: 15.75
 propulsion_type: Diesel-electric (2× diesels, 2× electric motors, 2 shafts)
 power_hp: 6000
-speed_knots: 19.5
+speed_design: 19.5
 range_nm: 12000
 endurance_days: 80
 crew: 109

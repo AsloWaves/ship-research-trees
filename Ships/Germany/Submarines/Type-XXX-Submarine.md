@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type XXX Submarine (Post-War Concept)
 hull_numbers: None assigned
-boats_built: 0 (theoretical concept)
+ships_built: 0 (theoretical concept)
 commissioned: Never
 decommissioned: N/A
 era: Post-WWII (concept)

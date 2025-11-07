@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Elsass (Braunschweig-class - Improved Armor!)
 hull_numbers: SMS Elsass
-boats_built: 1 (second Braunschweig-class ship)
+ships_built: 1 (second Braunschweig-class ship)
 commissioned: 1904 (November 25, 1904)
 decommissioned: 1931 (target ship until 1931, scrapped 1936)
 era: Pre-Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 27.2 (8.1m maximum)
 crew: 743 (officers + men)
 
 # Performance (Triple-Expansion!)
-speed_knots: 18 (design), 18.7 (trials)
+speed_design: 18 (design), 18.7 (trials)
 propulsion_type: Triple-expansion steam engines
 propulsion_hp: 16000 ihp
 shafts: 3

@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type IA Submarine (Post-Versailles Experimental)
 hull_numbers: U-25, U-26
-boats_built: 2
+ships_built: 2
 commissioned: 1936
 decommissioned: 1940 (both lost in combat)
 era: Interwar / WWII

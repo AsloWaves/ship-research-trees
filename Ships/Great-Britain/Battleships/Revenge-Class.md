@@ -17,7 +17,7 @@ draft_ft: 28.5
 propulsion_type: Geared steam turbines
 boilers: 18× Babcock & Wilcox
 shp: 40000
-speed_knots: 21
+speed_design: 21
 range_nm: 4200
 range_speed: 10
 crew: 997-1146

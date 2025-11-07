@@ -3,7 +3,7 @@
 ```yaml
 class_name: Plan Z Super Carrier (Ultimate WWII Design)
 hull_numbers: None (paper ship)
-boats_built: 0 (paper design)
+ships_built: 0 (paper design)
 commissioned: Never
 decommissioned: N/A
 era: WWII (1945 design)
@@ -19,7 +19,7 @@ draft_ft: 32
 crew: 2200
 
 # Performance (Ultimate WWII Design)
-speed_knots: 34
+speed_design: 34
 propulsion_type: Steam turbines + advanced boilers
 propulsion_hp: 240000 (maximum power!)
 shafts: 4

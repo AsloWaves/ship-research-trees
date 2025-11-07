@@ -3,7 +3,7 @@
 ```yaml
 class_name: H-41 Battleship (Improved H-Class - Larger Guns!)
 hull_numbers: None assigned (6 ships planned, designation only)
-boats_built: 0 (pure paper design, never laid down)
+ships_built: 0 (pure paper design, never laid down)
 commissioned: Never (design study only)
 decommissioned: Never built
 era: WWII Plan Z Extension (Paper Ship)
@@ -19,7 +19,7 @@ draft_ft: 34.1 (10.4m)
 crew: 2800 (estimated)
 
 # Performance (Powerful Design!)
-speed_knots: 30
+speed_design: 30
 propulsion_type: Steam turbines (3× turbine sets planned)
 propulsion_hp: 176000 shp (planned, +11,000 shp over H-39!)
 shafts: 3

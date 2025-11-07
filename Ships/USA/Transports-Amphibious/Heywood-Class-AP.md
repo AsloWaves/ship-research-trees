@@ -15,7 +15,7 @@ displacement_full: 14100
 length_ft: 492
 beam_ft: 69
 draft_ft: 26
-speed_knots: 18
+speed_design: 18
 crew: 460
 troop_capacity: 1450
 tags: [transport, ap, pre-wwii, 1940, purpose-built]

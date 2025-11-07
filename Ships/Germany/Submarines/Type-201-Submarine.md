@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type 201 Submarine (Post-War Modern)
 hull_numbers: None (theoretical)
-boats_built: 0 (concept)
+ships_built: 0 (concept)
 commissioned: Never
 decommissioned: N/A
 era: 1950s (concept)

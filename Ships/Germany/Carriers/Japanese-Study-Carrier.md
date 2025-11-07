@@ -3,7 +3,7 @@
 ```yaml
 class_name: Japanese Study Carrier (Learning from Experts)
 hull_numbers: None (study program only)
-boats_built: 0 (research study)
+ships_built: 0 (research study)
 commissioned: Never
 decommissioned: N/A
 era: Interwar (1928)

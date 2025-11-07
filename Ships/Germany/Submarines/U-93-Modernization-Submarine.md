@@ -3,7 +3,7 @@
 ```yaml
 class_name: U-93 Class Modernization (1918 Refit)
 hull_numbers: U-93 to U-116 (24 boats modernized)
-boats_built: 24 (refits of existing U-93 class)
+ships_built: 24 (refits of existing U-93 class)
 commissioned: 1918
 decommissioned: 1919-1920 (post-WWI decommissioning)
 era: WWI

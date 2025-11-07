@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Deutschland Pre-Dreadnought Battleship (Last Pre-Dreadnoughts!)
 hull_numbers: SMS Deutschland, SMS Hannover, SMS Pommern, SMS Schleswig-Holstein, SMS Schlesien
-boats_built: 5
+ships_built: 5
 commissioned: 1906-1908
 decommissioned: 1919-1945 (Schlesien survived to 1945!)
 era: Pre-Dreadnought (Immediately Obsolete!)
@@ -19,7 +19,7 @@ draft_ft: 26.9 (8.21m forward)
 crew: 743
 
 # Performance
-speed_knots: 18
+speed_design: 18
 propulsion_type: Triple expansion steam engines
 propulsion_hp: 19000
 shafts: 3

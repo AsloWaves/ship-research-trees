@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Bayern Super-Dreadnought Battleship (Best WWI German BB!)
 hull_numbers: SMS Bayern, SMS Baden, (SMS Sachsen cancelled), (SMS Württemberg cancelled)
-boats_built: 2 (of 4 planned - 2 cancelled for U-boat priority)
+ships_built: 2 (of 4 planned - 2 cancelled for U-boat priority)
 commissioned: 1916
 decommissioned: 1919-1921 (Bayern scrapped, Baden scuttled/salvaged)
 era: Ultimate WWI
@@ -19,7 +19,7 @@ draft_ft: 30.7 (9.4m)
 crew: 1171 (42 officers + 1129 men)
 
 # Performance
-speed_knots: 22
+speed_design: 22
 propulsion_type: Steam turbines
 propulsion_hp: 56000 shp
 shafts: 3

@@ -3,7 +3,7 @@
 ```yaml
 class_name: Plan Z Concept Carrier (Plan Z Initiative)
 hull_numbers: None (design concept)
-boats_built: 0 (concept design)
+ships_built: 0 (concept design)
 commissioned: Never (led to Graf Zeppelin)
 decommissioned: N/A
 era: Interwar (1935)
@@ -18,7 +18,7 @@ draft_ft: 26 (estimated)
 crew: 1500 (estimated)
 
 # Performance (Concept)
-speed_knots: 33
+speed_design: 33
 propulsion_type: Steam turbines
 propulsion_hp: 200000 (estimated)
 range_nm: 8000 (estimated)

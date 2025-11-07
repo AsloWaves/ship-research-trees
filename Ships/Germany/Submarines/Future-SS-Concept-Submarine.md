@@ -3,7 +3,7 @@
 ```yaml
 class_name: Future SS Concept Submarine
 hull_numbers: None
-boats_built: 0 (future concept)
+ships_built: 0 (future concept)
 commissioned: Never
 decommissioned: N/A
 era: Future (1970s concept)

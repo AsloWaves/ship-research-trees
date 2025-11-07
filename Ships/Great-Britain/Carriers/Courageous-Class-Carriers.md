@@ -18,7 +18,7 @@ propulsion_type: Steam turbines
 boilers: 18× Yarrow
 turbines: 4× Parsons geared
 shp: 90000
-speed_knots: 30.5
+speed_design: 30.5
 range_nm: 5500
 range_speed: 18
 crew: 1216

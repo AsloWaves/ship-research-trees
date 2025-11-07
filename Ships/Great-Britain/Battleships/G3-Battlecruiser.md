@@ -20,7 +20,7 @@ draft_ft: 32.5
 propulsion_type: Steam turbines, geared
 boilers: Yarrow small-tube boilers
 shp: 160000
-speed_knots: 32
+speed_design: 32
 range_nm: 7000
 range_speed: 16
 crew: 1800

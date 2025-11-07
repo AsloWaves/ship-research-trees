@@ -3,7 +3,7 @@
 ```yaml
 class_name: H-44 Battleship (LARGEST BATTLESHIP DESIGN EVER CONCEIVED!)
 hull_numbers: None (ultimate fantasy, no designation)
-boats_built: 0 (absolute fantasy, never planned)
+ships_built: 0 (absolute fantasy, never planned)
 commissioned: Never (ultimate fantasy only)
 decommissioned: Never built
 era: WWII Ultimate Fantasy (Paper Ship)
@@ -19,7 +19,7 @@ draft_ft: 40 (12.2m)
 crew: 4000+ (estimated)
 
 # Performance (Ultimate Theoretical!)
-speed_knots: 30
+speed_design: 30
 propulsion_type: Steam turbines (3× turbine sets ultimate fantasy)
 propulsion_hp: 280000+ shp (ULTIMATE fantasy power!)
 shafts: 3

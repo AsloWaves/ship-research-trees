@@ -18,7 +18,7 @@ propulsion_type: COGAG + Diesel-Electric
 gas_turbines: 2× Rolls-Royce WR-21 ICR
 diesel_generators: 2× (being replaced with 3× under PIP)
 power_mw: 50 (25 MW per turbine)
-speed_knots: 29+
+speed_design: 29+
 range_nm: 7000
 range_speed: 18
 crew: 191 (accommodation for 235)

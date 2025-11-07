@@ -19,7 +19,7 @@ propulsion_type: Steam turbines
 boilers: 12× Scotch cylindrical
 turbines: 4× Parsons
 shp: 21376
-speed_knots: 20.5
+speed_design: 20.5
 range_nm: 3600
 range_speed: 10
 crew: 495

@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Nassau Dreadnought Battleship (First German Dreadnought!)
 hull_numbers: SMS Nassau, SMS Westfalen, SMS Rheinland, SMS Posen
-boats_built: 4
+ships_built: 4
 commissioned: 1909-1910
 decommissioned: 1919-1924
 era: First Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 27.1 (8.3m)
 crew: 963
 
 # Performance
-speed_knots: 19.5
+speed_design: 19.5
 propulsion_type: Triple expansion steam engines (still reciprocating!)
 propulsion_hp: 22000
 shafts: 3

@@ -3,7 +3,7 @@
 ```yaml
 class_name: SM UB-II-Class (Improved Coastal)
 hull_numbers: UB-18 to UB-47
-boats_built: 30
+ships_built: 30
 commissioned: 1915-1916
 decommissioned: 1918-1920
 era: WWI

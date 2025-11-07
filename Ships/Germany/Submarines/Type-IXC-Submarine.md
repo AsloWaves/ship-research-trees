@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type IXC Submarine (Standard Long-Range)
 hull_numbers: U-66 to U-68, U-125 to U-131, U-153 to U-166, U-171 to U-176, U-501 to U-524
-boats_built: 54
+ships_built: 54
 commissioned: 1940-1942
 decommissioned: 1942-1945
 era: WWII

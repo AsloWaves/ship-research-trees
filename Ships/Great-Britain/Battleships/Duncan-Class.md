@@ -16,7 +16,7 @@ beam_ft: 75.5
 draft_ft: 25.75
 propulsion_type: Triple expansion steam engines (24 Belleville boilers, 2 shafts)
 power_hp: 18000
-speed_knots: 19
+speed_design: 19
 range_nm: 5000
 endurance_days: 35
 crew: 750

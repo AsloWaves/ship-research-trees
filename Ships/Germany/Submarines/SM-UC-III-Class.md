@@ -3,7 +3,7 @@
 ```yaml
 class_name: SM UC-III-Class (Ultimate Minelayer)
 hull_numbers: UC-80 to UC-175 (planned)
-boats_built: 11 (96 planned, war ended)
+ships_built: 11 (96 planned, war ended)
 commissioned: 1918
 decommissioned: 1919-1920
 era: WWI

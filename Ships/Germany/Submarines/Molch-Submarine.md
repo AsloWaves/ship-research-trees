@@ -3,7 +3,7 @@
 ```yaml
 class_name: Molch Midget Submarine (Single-Man Variant)
 hull_numbers: Multiple series (393 boats total)
-boats_built: 393
+ships_built: 393
 commissioned: 1944
 decommissioned: 1945
 era: WWII

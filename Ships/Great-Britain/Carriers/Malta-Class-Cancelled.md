@@ -18,7 +18,7 @@ draft_ft: 35
 propulsion_type: Steam turbines (proposed)
 turbines: 4× Parsons geared (proposed)
 shp: 200000
-speed_knots: 32
+speed_design: 32
 range_nm: 8000
 range_speed: 20
 crew: 2750 (estimated)

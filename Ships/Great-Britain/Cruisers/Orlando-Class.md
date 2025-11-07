@@ -17,7 +17,7 @@ draft_ft: 24
 propulsion_type: Triple expansion engines
 boilers: 8× cylindrical
 shp: 8500
-speed_knots: 18
+speed_design: 18
 range_nm: 10000
 range_speed: 10
 crew: 484

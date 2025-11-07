@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type 205 Submarine (Bundesmarine)
 hull_numbers: U-1 to U-12
-boats_built: 12 (ACTUALLY BUILT!)
+ships_built: 12 (ACTUALLY BUILT!)
 commissioned: 1962-1969
 decommissioned: 1974-1993
 era: Cold War

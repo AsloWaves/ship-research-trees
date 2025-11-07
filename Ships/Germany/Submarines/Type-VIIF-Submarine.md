@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type VIIF Submarine (Tanker/Transport Variant)
 hull_numbers: U-1059, U-1060, U-1061, U-1062
-boats_built: 4
+ships_built: 4
 commissioned: 1943
 decommissioned: 1944 (all lost in combat)
 era: WWII

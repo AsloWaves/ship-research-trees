@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Großer Kurfürst (König-class - Jutland Heavy Combat!)
 hull_numbers: SMS Großer Kurfürst ("Great Elector")
-boats_built: 1 (third König-class ship)
+ships_built: 1 (third König-class ship)
 commissioned: 1914 (July 30, 1914 - WWI OUTBREAK!)
 decommissioned: 1919 (scuttled June 21, 1919 - Scapa Flow)
 era: WWI Super-Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 30.5 (9.19m maximum)
 crew: 1136 (officers + men)
 
 # Performance (Fast Super-Dreadnought!)
-speed_knots: 21 (design), 23.4 (trials)
+speed_design: 21 (design), 23.4 (trials)
 propulsion_type: Steam turbines (3× Parsons sets)
 propulsion_hp: 43300 shp (32,000 kW)
 shafts: 3

@@ -3,7 +3,7 @@
 ```yaml
 class_name: Nuclear Concept Submarine (Theoretical)
 hull_numbers: None
-boats_built: 0 (theoretical concept)
+ships_built: 0 (theoretical concept)
 commissioned: Never
 decommissioned: N/A
 era: 1960s (concept)

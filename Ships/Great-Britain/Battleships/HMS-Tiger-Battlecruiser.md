@@ -19,7 +19,7 @@ propulsion_type: Steam turbines
 boilers: 39× Yarrow or Babcock & Wilcox
 turbines: 4× Brown-Curtis (direct-drive)
 shp: 85000
-speed_knots: 28
+speed_design: 28
 range_nm: 4650
 range_speed: 10
 crew: 1121

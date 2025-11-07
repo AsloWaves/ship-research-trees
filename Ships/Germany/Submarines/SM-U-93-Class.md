@@ -3,7 +3,7 @@
 ```yaml
 class_name: SM U-93-Class (Ultimate WWI Ocean-Going)
 hull_numbers: U-93 to U-116
-boats_built: 24
+ships_built: 24
 commissioned: 1917-1918
 decommissioned: 1918-1920
 era: WWI

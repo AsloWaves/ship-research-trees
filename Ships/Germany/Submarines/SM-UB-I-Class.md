@@ -3,7 +3,7 @@
 ```yaml
 class_name: SM UB-I-Class (Small Coastal)
 hull_numbers: UB-1 to UB-17
-boats_built: 17
+ships_built: 17
 commissioned: 1915
 decommissioned: 1918-1919
 era: WWI

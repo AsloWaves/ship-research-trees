@@ -3,7 +3,7 @@
 ```yaml
 class_name: SM U-9 (Early Diesel U-boat)
 hull_numbers: U-9
-boats_built: 1
+ships_built: 1
 commissioned: 1910
 decommissioned: 1919
 era: Pre-WWI / WWI

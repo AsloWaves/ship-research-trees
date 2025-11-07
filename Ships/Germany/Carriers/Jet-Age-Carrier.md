@@ -3,7 +3,7 @@
 ```yaml
 class_name: Jet Age Carrier (1955 Advanced Jet Design)
 hull_numbers: None (theoretical concept)
-boats_built: 0 (pure speculation)
+ships_built: 0 (pure speculation)
 commissioned: Never
 decommissioned: N/A
 era: Cold War (1955)
@@ -19,7 +19,7 @@ draft_ft: 36
 crew: 2800
 
 # Performance (Jet Age Technology)
-speed_knots: 32
+speed_design: 32
 propulsion_type: Steam turbines (high-pressure)
 propulsion_hp: 280000
 shafts: 4

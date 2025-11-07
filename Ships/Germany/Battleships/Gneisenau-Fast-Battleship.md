@@ -3,7 +3,7 @@
 ```yaml
 class_name: Gneisenau Fast Battleship (32 knots - Channel Dash Survivor!)
 hull_numbers: Gneisenau
-boats_built: 1 (second Scharnhorst-class, sister to Scharnhorst)
+ships_built: 1 (second Scharnhorst-class, sister to Scharnhorst)
 commissioned: 1938 (May 21, 1938 - earlier than Scharnhorst!)
 decommissioned: 1945 (deactivated 1942, scuttled March 1945)
 era: WWII Fast Battleship
@@ -19,7 +19,7 @@ draft_ft: 32.2 (9.86m maximum)
 crew: 1968 (60 officers + 1908 men)
 
 # Performance (FASTEST GERMAN BATTLESHIP!)
-speed_knots: 32 (could outrun most battleships!)
+speed_design: 32 (could outrun most battleships!)
 propulsion_type: Steam turbines + diesel engines (hybrid propulsion!)
 propulsion_hp: 165000 shp (123,000 kW) - 3× turbine sets
 shafts: 3

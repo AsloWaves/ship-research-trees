@@ -3,7 +3,7 @@
 ```yaml
 class_name: SM UC-II-Class (Advanced Minelayer)
 hull_numbers: UC-16 to UC-79
-boats_built: 64
+ships_built: 64
 commissioned: 1916-1917
 decommissioned: 1918-1920
 era: WWI

@@ -3,7 +3,7 @@
 ```yaml
 class_name: Improved Graf Zeppelin Carrier (Enhanced Design)
 hull_numbers: None (paper ship)
-boats_built: 0 (paper design)
+ships_built: 0 (paper design)
 commissioned: Never
 decommissioned: N/A
 era: WWII (1943 design)
@@ -19,7 +19,7 @@ draft_ft: 29
 crew: 1900
 
 # Performance (Designed)
-speed_knots: 34 (improved)
+speed_design: 34 (improved)
 propulsion_type: Steam turbines + improved boilers
 propulsion_hp: 220000 (increased)
 shafts: 4

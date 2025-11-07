@@ -21,7 +21,7 @@ propulsion_type: Steam turbines
 boilers: 32× Yarrow (originally 24 for battleship)
 turbines: 4× Brown-Curtis geared
 shp: 50000
-speed_knots: 24
+speed_design: 24
 range_nm: 4800
 range_speed: 16
 crew: 791 (plus 419 Fleet Air Arm)

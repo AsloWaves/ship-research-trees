@@ -16,7 +16,7 @@ beam_ft: 32
 draft_ft: 12.25
 propulsion_type: Steam turbines (Thornycroft high-pressure, 3 boilers, 2 shafts)
 power_hp: 37500
-speed_knots: 37.5
+speed_design: 37.5
 range_nm: 5000
 endurance_days: 10
 crew: 138

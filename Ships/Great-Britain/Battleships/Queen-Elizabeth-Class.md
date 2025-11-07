@@ -17,7 +17,7 @@ draft_ft: 33.6
 propulsion_type: Direct-drive steam turbines
 boilers: 24× Babcock & Wilcox (or Yarrow)
 shp: 75000
-speed_knots: 24
+speed_design: 24
 range_nm: 5000
 range_speed: 12
 crew: 951-1262

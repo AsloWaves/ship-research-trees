@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type VIIA Submarine (First Production Type VII)
 hull_numbers: U-27 to U-36
-boats_built: 10
+ships_built: 10
 commissioned: 1936
 decommissioned: 1940-1941 (all lost in combat)
 era: Interwar / WWII

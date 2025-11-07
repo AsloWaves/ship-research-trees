@@ -3,7 +3,7 @@
 ```yaml
 class_name: P-Class Battlecruiser (Improved O-Class - Diesel Power!)
 hull_numbers: None assigned (3 ships planned, designation only)
-boats_built: 0 (planned but never laid down, cancelled 1939)
+ships_built: 0 (planned but never laid down, cancelled 1939)
 commissioned: Never (cancelled before construction)
 decommissioned: Never built
 era: WWII Plan Z (Paper Ship)
@@ -19,7 +19,7 @@ draft_ft: 29.5 (9m)
 crew: 2000 (estimated)
 
 # Performance (DIESEL REVOLUTIONARY!)
-speed_knots: 35.5
+speed_design: 35.5
 propulsion_type: **DIESEL ENGINES!** (Primary) + Steam turbines (boost)
 diesel_engines: 12× MAN diesel engines (primary propulsion!)
 turbine_boost: 3× steam turbines (sprint speed boost)

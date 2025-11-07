@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Pommern (Deutschland-class - Jutland Victim!)
 hull_numbers: SMS Pommern
-boats_built: 1 (third Deutschland-class ship)
+ships_built: 1 (third Deutschland-class ship)
 commissioned: 1907 (April 6, 1907)
 decommissioned: 1916 (sunk June 1, 1916 - Battle of Jutland!)
 era: Pre-Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 26.11 (8.21m)
 crew: 839 (officers + men - ALL LOST AT JUTLAND!)
 
 # Performance (Pre-Dreadnought Standard)
-speed_knots: 18.5 (design), 19 (trials)
+speed_design: 18.5 (design), 19 (trials)
 propulsion_type: Triple-expansion steam engines
 propulsion_hp: 19000 ihp
 shafts: 3

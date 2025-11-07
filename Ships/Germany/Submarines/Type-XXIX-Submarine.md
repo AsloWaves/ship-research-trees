@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type XXIX Submarine (Ultimate WWII Design)
 hull_numbers: None assigned (never built)
-boats_built: 0 (paper ship)
+ships_built: 0 (paper ship)
 commissioned: Never
 decommissioned: N/A (cancelled 1945)
 era: WWII (planned)

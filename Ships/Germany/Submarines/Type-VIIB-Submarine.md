@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type VIIB Submarine (Improved Type VII)
 hull_numbers: U-45 to U-55, U-73 to U-76, U-83 to U-87, U-99 to U-102
-boats_built: 24
+ships_built: 24
 commissioned: 1939-1940
 decommissioned: 1940-1945
 era: WWII

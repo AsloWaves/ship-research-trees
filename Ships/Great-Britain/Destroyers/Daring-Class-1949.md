@@ -17,7 +17,7 @@ draft_ft: 18
 propulsion_type: Steam turbines
 boilers: 2× Foster Wheeler
 shp: 54000
-speed_knots: 34.75
+speed_design: 34.75
 range_nm: 3000
 range_speed: 20
 crew: 297

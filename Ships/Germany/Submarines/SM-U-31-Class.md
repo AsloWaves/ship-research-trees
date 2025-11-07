@@ -3,7 +3,7 @@
 ```yaml
 class_name: SM U-31-Class (WWI Ocean-Going)
 hull_numbers: U-31 to U-41
-boats_built: 11
+ships_built: 11
 commissioned: 1914-1915
 decommissioned: 1918-1920
 era: WWI

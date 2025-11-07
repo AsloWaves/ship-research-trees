@@ -17,7 +17,7 @@ draft_ft: 8
 propulsion_type: Triple expansion engines
 boilers: 2× Laird
 ihp: 3800
-speed_knots: 26
+speed_design: 26
 range_nm: 2100
 range_speed: 10
 crew: 50

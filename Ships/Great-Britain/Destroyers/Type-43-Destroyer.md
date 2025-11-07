@@ -16,7 +16,7 @@ beam_ft: 55
 draft_ft: 20
 propulsion_type: Nuclear or COGAG (2× Rolls-Royce Olympus gas turbines, 2× Tyne cruise turbines)
 power_hp: 54000
-speed_knots: 30
+speed_design: 30
 range_nm: 5000
 endurance_days: 45
 crew: 350

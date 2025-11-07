@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type IXD Submarine (Ultra Long-Range)
 hull_numbers: U-177 to U-182, U-195 to U-200, U-847 to U-852, U-859 to U-864, U-871 to U-876, U-883, U-1231
-boats_built: 28+
+ships_built: 28+
 commissioned: 1942-1944
 decommissioned: 1943-1945
 era: WWII

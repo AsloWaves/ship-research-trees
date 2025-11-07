@@ -3,7 +3,7 @@
 ```yaml
 class_name: Deutschland Panzerschiff (Pocket Battleship!)
 hull_numbers: Deutschland (later Lützow), Admiral Scheer, Admiral Graf Spee
-boats_built: 3
+ships_built: 3
 commissioned: 1933-1936
 decommissioned: 1945-1947 (Graf Spee scuttled 1939, Scheer bombed 1945, Lützow to USSR 1946)
 era: Interwar / Early WWII
@@ -19,7 +19,7 @@ draft_ft: 24 (7.3m)
 crew: 1150
 
 # Performance (DIESEL REVOLUTION!)
-speed_knots: 28.5
+speed_design: 28.5
 propulsion_type: **DIESEL ENGINES!** (First major warship with all-diesel!)
 propulsion_hp: 54000 PS (40,000 kW) - 8× MAN 9-cylinder diesels!
 shafts: 2

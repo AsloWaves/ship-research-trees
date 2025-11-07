@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Friedrich der Große (Kaiser-class - Jutland Flagship!)
 hull_numbers: SMS Friedrich der Große ("Frederick the Great")
-boats_built: 1 (fourth Kaiser-class ship)
+ships_built: 1 (fourth Kaiser-class ship)
 commissioned: 1912 (October 10, 1912)
 decommissioned: 1919 (scuttled June 21, 1919 - Scapa Flow)
 era: WWI Super-Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 30.2 (9.19m maximum)
 crew: 1084 (officers + men)
 
 # Performance (First German Turbine BB!)
-speed_knots: 21 (design), 23.4 (trials - FAST!)
+speed_design: 21 (design), 23.4 (trials - FAST!)
 propulsion_type: Steam turbines (3× Parsons sets)
 propulsion_hp: 31000 shp (23,000 kW)
 shafts: 3

@@ -17,7 +17,7 @@ draft_ft: 7.5
 propulsion_type: Triple expansion engines
 boilers: Various water-tube types
 ihp: 4000
-speed_knots: 27
+speed_design: 27
 range_nm: 2000
 range_speed: 10
 crew: 53

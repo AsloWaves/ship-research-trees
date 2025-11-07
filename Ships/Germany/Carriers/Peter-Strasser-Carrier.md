@@ -3,7 +3,7 @@
 ```yaml
 class_name: Peter Strasser Aircraft Carrier (Flugzeugträger B)
 hull_numbers: Flugzeugträger B (Aircraft Carrier B)
-boats_built: 1 (early construction, scrapped 1940)
+ships_built: 1 (early construction, scrapped 1940)
 commissioned: Never (construction halted September 1939)
 decommissioned: Scrapped February 28, 1940
 era: WWII (1938-1940)
@@ -19,7 +19,7 @@ draft_ft: 28 (8.5m)
 crew: 1760 (planned)
 
 # Performance (Designed - Same as Graf Zeppelin)
-speed_knots: 33.8
+speed_design: 33.8
 propulsion_type: Steam turbines + 16 boilers
 propulsion_hp: 200000
 shafts: 4

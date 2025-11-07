@@ -3,7 +3,7 @@
 ```yaml
 class_name: Biber Midget Submarine
 hull_numbers: Multiple series (324 boats total!)
-boats_built: 324
+ships_built: 324
 commissioned: 1944
 decommissioned: 1945
 era: WWII

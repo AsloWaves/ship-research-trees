@@ -3,7 +3,7 @@
 ```yaml
 class_name: SM U-87-Class (Advanced Ocean-Going)
 hull_numbers: U-87 to U-92
-boats_built: 6
+ships_built: 6
 commissioned: 1916-1917
 decommissioned: 1918-1920
 era: WWI

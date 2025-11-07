@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Helgoland Dreadnought Battleship (Improved Dreadnought)
 hull_numbers: SMS Helgoland, SMS Ostfriesland, SMS Thüringen, SMS Oldenburg
-boats_built: 4
+ships_built: 4
 commissioned: 1911-1912
 decommissioned: 1919-1924 (Ostfriesland sunk 1921 in Mitchell tests!)
 era: Improved Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 29.3 (8.94m)
 crew: 1113
 
 # Performance
-speed_knots: 20.5
+speed_design: 20.5
 propulsion_type: Triple expansion steam engines (improved power!)
 propulsion_hp: 28000
 shafts: 3

@@ -3,7 +3,7 @@
 ```yaml
 class_name: Admiral Graf Spee (Panzerschiff - River Plate Legend!)
 hull_numbers: Admiral Graf Spee
-boats_built: 1 (third and last Deutschland-class)
+ships_built: 1 (third and last Deutschland-class)
 commissioned: 1936 (January 6, 1936)
 decommissioned: 1939 (scuttled December 17, 1939)
 era: Interwar / Early WWII
@@ -19,7 +19,7 @@ draft_ft: 24 (7.3m)
 crew: 1150 (officers + men)
 
 # Performance (Diesel Commerce Raider!)
-speed_knots: 28.5 (could run from battleships!)
+speed_design: 28.5 (could run from battleships!)
 propulsion_type: Diesel engines (8× MAN 9-cylinder diesels!)
 propulsion_hp: 54000 PS (40,000 kW)
 shafts: 2

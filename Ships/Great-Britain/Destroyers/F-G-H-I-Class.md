@@ -17,7 +17,7 @@ draft_ft: 12.5
 propulsion_type: Steam turbines
 boilers: 3× Admiralty 3-drum
 shp: 36000
-speed_knots: 36
+speed_design: 36
 range_nm: 6350
 range_speed: 15
 crew: 145

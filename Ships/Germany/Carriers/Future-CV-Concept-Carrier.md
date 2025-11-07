@@ -3,7 +3,7 @@
 ```yaml
 class_name: Future CV Concept Carrier (Advanced Future Technology)
 hull_numbers: None (future concept)
-boats_built: 0 (future technology vision)
+ships_built: 0 (future technology vision)
 commissioned: Never
 decommissioned: N/A
 era: Future (1970s concept)
@@ -19,7 +19,7 @@ draft_ft: 40
 crew: 2500 (reduced by automation!)
 
 # Performance (Advanced Future Technology)
-speed_knots: 35
+speed_design: 35
 propulsion_type: Nuclear reactors OR advanced conventional (future power!)
 propulsion_hp: 350000 (maximum power!)
 shafts: 4

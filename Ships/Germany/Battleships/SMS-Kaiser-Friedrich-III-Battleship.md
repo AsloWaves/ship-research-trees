@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Kaiser Friedrich III Battleship
 hull_numbers: SMS Kaiser Friedrich III, SMS Kaiser Wilhelm II, SMS Kaiser Wilhelm der Grosse, SMS Kaiser Barbarossa, SMS Kaiser Karl der Grosse
-boats_built: 5
+ships_built: 5
 commissioned: 1898-1902
 decommissioned: 1919-1920
 era: Pre-Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 27.1 (8.25m aft, 25.9 ft forward)
 crew: 651
 
 # Performance
-speed_knots: 17.5
+speed_design: 17.5
 propulsion_type: Triple expansion steam engines
 propulsion_hp: 13000
 shafts: 3

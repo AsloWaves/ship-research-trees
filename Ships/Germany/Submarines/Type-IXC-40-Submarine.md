@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type IXC/40 Submarine (Enhanced Type IX)
 hull_numbers: U-167 to U-170, U-183 to U-194, U-525 to U-550, U-801 to U-806, U-841 to U-846, U-853 to U-858, U-865 to U-870, U-877, U-879, U-881, U-889, U-1221 to U-1235
-boats_built: 87
+ships_built: 87
 commissioned: 1941-1944
 decommissioned: 1943-1945
 era: WWII

@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type XXI Submarine (Elektroboot Revolution)
 hull_numbers: U-2501 to U-2546, U-3001 to U-3035, U-3501 to U-3530
-boats_built: 118
+ships_built: 118
 commissioned: 1944-1945
 decommissioned: 1945 (surrendered), some post-war service
 era: WWII

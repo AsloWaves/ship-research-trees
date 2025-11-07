@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type IIC Submarine (Enhanced Coastal)
 hull_numbers: U-56 to U-63
-boats_built: 8
+ships_built: 8
 commissioned: 1938
 decommissioned: 1941-1945
 era: Interwar / WWII

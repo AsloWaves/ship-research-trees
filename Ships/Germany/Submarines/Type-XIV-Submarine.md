@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type XIV Submarine ("Milchkuh" Tanker)
 hull_numbers: U-459 to U-464, U-487 to U-490
-boats_built: 10
+ships_built: 10
 commissioned: 1941-1942
 decommissioned: 1943-1944 (all lost in combat!)
 era: WWII

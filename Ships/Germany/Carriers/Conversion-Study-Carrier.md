@@ -3,7 +3,7 @@
 ```yaml
 class_name: Conversion Study Carrier (Early Concepts)
 hull_numbers: None (theoretical study only)
-boats_built: 0 (concept study)
+ships_built: 0 (concept study)
 commissioned: Never
 decommissioned: N/A
 era: Post-WWI (1918)
@@ -18,7 +18,7 @@ draft_ft: Variable
 crew: Unknown
 
 # Performance (Theoretical)
-speed_knots: Variable (based on merchant ships)
+speed_design: Variable (based on merchant ships)
 propulsion_type: Steam turbines (merchant conversion)
 aircraft_capacity: 15-20 (estimated)
 aircraft_types: Theoretical biplane fighters/scouts

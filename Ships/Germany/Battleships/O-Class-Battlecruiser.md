@@ -3,7 +3,7 @@
 ```yaml
 class_name: O-Class Battlecruiser (Plan Z Fast Commerce Raider!)
 hull_numbers: O, P, Q (3 ships planned)
-boats_built: 0 (planned but never laid down, cancelled 1939)
+ships_built: 0 (planned but never laid down, cancelled 1939)
 commissioned: Never (cancelled before construction)
 decommissioned: Never built
 era: WWII Plan Z (Paper Ship)
@@ -19,7 +19,7 @@ draft_ft: 28.9 (8.8m)
 crew: 1965 (estimated)
 
 # Performance (FAST RAIDER!)
-speed_knots: 35 (VERY FAST for capital ship!)
+speed_design: 35 (VERY FAST for capital ship!)
 propulsion_type: Steam turbines
 propulsion_hp: 176000 shp
 shafts: 3

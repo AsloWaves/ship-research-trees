@@ -15,7 +15,7 @@ displacement_full: 16900
 length_ft: 569
 beam_ft: 84
 draft_ft: 23
-speed_knots: 21
+speed_design: 21
 crew: 420
 troop_capacity: 930
 vehicle_capacity: 4 LCU or 9 LCM-6 or 24 LCM-3

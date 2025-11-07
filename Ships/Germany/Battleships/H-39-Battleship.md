@@ -3,7 +3,7 @@
 ```yaml
 class_name: H-39 Battleship (Plan Z Super Battleship - Actually Laid Down!)
 hull_numbers: H, J, K, L, M, N (6 ships planned, 2 laid down)
-boats_built: 0 (2 laid down 1939, construction cancelled, 4 planned but never started)
+ships_built: 0 (2 laid down 1939, construction cancelled, 4 planned but never started)
 commissioned: Never (construction cancelled September 1939)
 decommissioned: Never built
 era: WWII Plan Z (Paper Ship)
@@ -19,7 +19,7 @@ draft_ft: 32.5 (9.9m)
 crew: 2603 (estimated)
 
 # Performance (Powerful Plan Z!)
-speed_knots: 30
+speed_design: 30
 propulsion_type: Steam turbines (3× turbine sets planned)
 propulsion_hp: 165000 shp (planned)
 shafts: 3

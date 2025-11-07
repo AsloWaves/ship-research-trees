@@ -19,7 +19,7 @@ propulsion_type: Steam turbines
 boilers: 42× Yarrow (Lion), 42× Babcock & Wilcox (others)
 turbines: 4× Parsons direct-drive
 shp: 70000
-speed_knots: 27
+speed_design: 27
 range_nm: 5610
 range_speed: 10
 crew: 997-1070

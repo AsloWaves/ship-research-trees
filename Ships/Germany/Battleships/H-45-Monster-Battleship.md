@@ -3,7 +3,7 @@
 ```yaml
 class_name: H-45 "Monster" Battleship (BEYOND ULTIMATE - Pure Fantasy!)
 hull_numbers: None (pure fantasy, "Monster" designation)
-boats_built: 0 (absolute fantasy, never conceived for construction)
+ships_built: 0 (absolute fantasy, never conceived for construction)
 commissioned: Never (pure fantasy only)
 decommissioned: Never built
 era: WWII Fantasy Beyond (Paper Ship)
@@ -19,7 +19,7 @@ draft_ft: 42+ (12.8m+)
 crew: 4500+ (pure speculation)
 
 # Performance (Pure Speculation!)
-speed_knots: 28-30 (speculation - probably slower due to size!)
+speed_design: 28-30 (speculation - probably slower due to size!)
 propulsion_type: Steam turbines (fantasy beyond fantasy!)
 propulsion_hp: 300000+ shp (pure speculation!)
 shafts: 3 (or 4? - pure speculation)

@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type IIB Submarine (Improved Type II)
 hull_numbers: U-7 to U-24, U-120, U-121
-boats_built: 20
+ships_built: 20
 commissioned: 1936-1937
 decommissioned: 1940-1945
 era: Interwar / WWII

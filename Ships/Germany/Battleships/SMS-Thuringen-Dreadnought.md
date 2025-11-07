@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Thüringen (Nassau-class - Jutland Heavy Combat!)
 hull_numbers: SMS Thüringen
-boats_built: 1 (fourth and FINAL Nassau-class ship)
+ships_built: 1 (fourth and FINAL Nassau-class ship)
 commissioned: 1911 (July 1, 1911)
 decommissioned: 1919 (scuttled June 21, 1919 - Scapa Flow)
 era: WWI First Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 27.1 (8.9m maximum)
 crew: 963 (officers + men)
 
 # Performance (Early Dreadnought!)
-speed_knots: 19.5 (design), 20.1 (trials)
+speed_design: 19.5 (design), 20.1 (trials)
 propulsion_type: Triple-expansion steam engines
 propulsion_hp: 22000 ihp
 shafts: 3

@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Derfflinger Battlecruiser (Iron Dog of Jutland!)
 hull_numbers: SMS Derfflinger, SMS Lützow, SMS Hindenburg
-boats_built: 3
+ships_built: 3
 commissioned: 1914-1917
 decommissioned: 1919 (All scuttled at Scapa Flow!)
 era: WWI Battlecruiser
@@ -19,7 +19,7 @@ draft_ft: 30.8 (9.4m)
 crew: 1112
 
 # Performance (Fast & Powerful!)
-speed_knots: 26.5
+speed_design: 26.5
 propulsion_type: Steam turbines (4× Parsons turbines)
 propulsion_hp: 76634 shp
 shafts: 4

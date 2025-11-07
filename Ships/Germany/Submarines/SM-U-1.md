@@ -3,7 +3,7 @@
 ```yaml
 class_name: SM U-1 (First German Submarine)
 hull_numbers: U-1
-boats_built: 1
+ships_built: 1
 commissioned: 1906
 decommissioned: 1919
 era: Pre-WWI

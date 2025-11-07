@@ -15,7 +15,7 @@ displacement_full: 12450
 length_ft: 459
 beam_ft: 63
 draft_ft: 26
-speed_knots: 17
+speed_design: 17
 crew: 536
 troop_capacity: 1560
 boat_davits: 12 LCVPs, 4 LCMs

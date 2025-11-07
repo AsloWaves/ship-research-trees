@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Hannover (Deutschland-class - Longest Service!)
 hull_numbers: SMS Hannover
-boats_built: 1 (second Deutschland-class ship)
+ships_built: 1 (second Deutschland-class ship)
 commissioned: 1907 (September 19, 1907)
 decommissioned: 1946 (scrapped 1946-1947 - 39 YEARS SERVICE!)
 era: Pre-Dreadnought / Interwar / Target Ship
@@ -19,7 +19,7 @@ draft_ft: 26.11 (8.21m)
 crew: 839 (wartime), reduced post-WWI
 
 # Performance (Pre-Dreadnought Standard)
-speed_knots: 18.5 (design), 19 (trials), reduced by 1940s
+speed_design: 18.5 (design), 19 (trials), reduced by 1940s
 propulsion_type: Triple-expansion steam engines
 propulsion_hp: 19000 ihp
 shafts: 3

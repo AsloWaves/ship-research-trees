@@ -18,7 +18,7 @@ propulsion_type: Integrated Electric Propulsion (IEP)
 gas_turbines: 2× Rolls-Royce MT30
 diesel_generators: 4× Wärtsilä 38
 shp: 108000
-speed_knots: 25+
+speed_design: 25+
 range_nm: 10000
 crew: 679 (ship) + 915 (air wing) = 1594
 aircraft: 40 (typical), 72 (maximum surge)

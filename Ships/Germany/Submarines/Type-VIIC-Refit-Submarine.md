@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type VIIC Refit (1943 Modernization)
 hull_numbers: Multiple Type VIIC boats (hundreds modernized!)
-boats_built: 300+ (refits of existing Type VIIC boats)
+ships_built: 300+ (refits of existing Type VIIC boats)
 commissioned: 1943-1945 (refit program)
 decommissioned: 1945
 era: WWII

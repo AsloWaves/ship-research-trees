@@ -3,7 +3,7 @@
 ```yaml
 class_name: Graf Zeppelin Aircraft Carrier
 hull_numbers: Flugzeugträger A (Aircraft Carrier A)
-boats_built: 1 (85% complete, never commissioned!)
+ships_built: 1 (85% complete, never commissioned!)
 commissioned: Never (construction suspended 1940)
 decommissioned: Scuttled April 25, 1945
 era: WWII (1938-1945)
@@ -19,7 +19,7 @@ draft_ft: 28 (8.5m)
 crew: 1760 (planned)
 
 # Performance (Designed)
-speed_knots: 33.8
+speed_design: 33.8
 propulsion_type: Steam turbines + 16 boilers
 propulsion_hp: 200000
 shafts: 4

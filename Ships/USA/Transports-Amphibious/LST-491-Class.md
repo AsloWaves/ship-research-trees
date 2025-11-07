@@ -15,7 +15,7 @@ displacement_full: 4080
 length_ft: 328
 beam_ft: 50
 draft_ft: 14
-speed_knots: 11
+speed_design: 11
 crew: 110
 vehicle_capacity: 20 Sherman tanks or 163 troops
 cargo_capacity: 2100 tons

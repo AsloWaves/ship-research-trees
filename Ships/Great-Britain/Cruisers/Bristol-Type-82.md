@@ -17,7 +17,7 @@ draft_ft: 21.5
 propulsion_type: COSAG (Combined Steam and Gas)
 boilers: 2× Babcock
 shp: 74600
-speed_knots: 30
+speed_design: 30
 range_nm: 5000
 range_speed: 18
 crew: 407

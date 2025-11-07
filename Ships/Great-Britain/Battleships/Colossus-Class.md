@@ -16,7 +16,7 @@ beam_ft: 85
 draft_ft: 28.5
 propulsion_type: Steam turbines (Parsons), 18 Babcock boilers, 4 shafts
 power_hp: 25000
-speed_knots: 21
+speed_design: 21
 range_nm: 6600
 endurance_days: 35
 crew: 755

@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type VIID Submarine (Minelayer Variant)
 hull_numbers: U-213 to U-218
-boats_built: 6
+ships_built: 6
 commissioned: 1942
 decommissioned: 1944-1945
 era: WWII

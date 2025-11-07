@@ -17,7 +17,7 @@ draft_ft: 20
 propulsion_type: Compound steam engines
 boilers: 12× cylindrical
 shp: 7700
-speed_knots: 18
+speed_design: 18
 range_nm: 7000
 range_speed: 10
 crew: 275

@@ -3,7 +3,7 @@
 ```yaml
 class_name: H-43 Battleship (Ultimate H-Class Study - 111,000 Tons!)
 hull_numbers: None (pure fantasy, no designation)
-boats_built: 0 (pure fantasy study, never planned)
+ships_built: 0 (pure fantasy study, never planned)
 commissioned: Never (fantasy project only)
 decommissioned: Never built
 era: WWII Ultimate Fantasy (Paper Ship)
@@ -19,7 +19,7 @@ draft_ft: 38.7 (11.8m)
 crew: 3500+ (estimated)
 
 # Performance (Theoretical Fantasy!)
-speed_knots: 30
+speed_design: 30
 propulsion_type: Steam turbines (3× turbine sets fantasy)
 propulsion_hp: 230000+ shp (fantasy power!)
 shafts: 3

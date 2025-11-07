@@ -15,7 +15,7 @@ displacement_full: 6600
 length_ft: 420
 beam_ft: 54
 draft_ft: 23
-speed_knots: 15
+speed_design: 15
 crew: 247
 cargo_capacity_tons: 2500
 boat_davits: 8 LCVPs, 2 LCMs

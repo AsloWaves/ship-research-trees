@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Braunschweig Battleship
 hull_numbers: SMS Braunschweig, SMS Elsass, SMS Hessen, SMS Preussen, SMS Lothringen
-boats_built: 5
+ships_built: 5
 commissioned: 1904-1906
 decommissioned: 1919-1931
 era: Pre-Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 26.7 (8.1-8.16m)
 crew: 743
 
 # Performance
-speed_knots: 18
+speed_design: 18
 propulsion_type: Triple expansion steam engines
 propulsion_hp: 16000
 shafts: 3

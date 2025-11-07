@@ -3,7 +3,7 @@
 ```yaml
 class_name: Armored Deck Carrier (British-Influenced Design)
 hull_numbers: None (paper ship)
-boats_built: 0 (paper design)
+ships_built: 0 (paper design)
 commissioned: Never
 decommissioned: N/A
 era: WWII (1944 design)
@@ -19,7 +19,7 @@ draft_ft: 30
 crew: 2000
 
 # Performance (Designed)
-speed_knots: 32.5 (slightly reduced for armor weight)
+speed_design: 32.5 (slightly reduced for armor weight)
 propulsion_type: Steam turbines + improved boilers
 propulsion_hp: 200000 (reduced for armor trade-off)
 shafts: 4

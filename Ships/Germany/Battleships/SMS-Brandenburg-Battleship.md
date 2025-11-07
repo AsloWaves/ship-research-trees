@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Brandenburg Battleship
 hull_numbers: SMS Brandenburg, SMS Wörth, SMS Weißenburg, SMS Kurfürst Friedrich Wilhelm
-boats_built: 4
+ships_built: 4
 commissioned: 1893-1894
 decommissioned: 1910-1920
 era: Early Pre-Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 26.9 (8.2m)
 crew: 568
 
 # Performance
-speed_knots: 16.9
+speed_design: 16.9
 propulsion_type: Triple expansion steam engines
 propulsion_hp: 10000
 shafts: 2

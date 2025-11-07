@@ -19,7 +19,7 @@ draft_ft: 29.6
 propulsion_type: Steam turbines, direct-drive
 boilers: 18× Babcock & Wilcox
 shp: 23000
-speed_knots: 21
+speed_design: 21
 speed_achieved: 21.6
 range_nm: 6620
 range_speed: 10

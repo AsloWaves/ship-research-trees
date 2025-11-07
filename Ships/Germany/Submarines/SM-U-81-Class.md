@@ -3,7 +3,7 @@
 ```yaml
 class_name: SM U-81-Class (Mid-War Ocean-Going)
 hull_numbers: U-81 to U-86
-boats_built: 6
+ships_built: 6
 commissioned: 1916
 decommissioned: 1918-1920
 era: WWI

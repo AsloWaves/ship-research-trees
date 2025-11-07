@@ -19,7 +19,7 @@ propulsion_type: Steam turbines
 boilers: 8× Admiralty 3-drum
 turbines: 4× Parsons geared
 shp: 152000
-speed_knots: 31.5
+speed_design: 31.5
 range_nm: 5000
 range_speed: 20
 crew: 2637 (Eagle), 2640 (Ark Royal after modernization)

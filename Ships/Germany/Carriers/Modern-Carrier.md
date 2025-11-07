@@ -3,7 +3,7 @@
 ```yaml
 class_name: Modern Carrier (1960 Modern Systems)
 hull_numbers: None (theoretical concept)
-boats_built: 0 (pure speculation)
+ships_built: 0 (pure speculation)
 commissioned: Never
 decommissioned: N/A
 era: Cold War (1960)
@@ -19,7 +19,7 @@ draft_ft: 38
 crew: 3000
 
 # Performance (Modern Technology)
-speed_knots: 32
+speed_design: 32
 propulsion_type: Steam turbines (high-pressure)
 propulsion_hp: 300000
 shafts: 4

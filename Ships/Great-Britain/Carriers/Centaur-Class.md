@@ -18,7 +18,7 @@ propulsion_type: Steam turbines
 boilers: 4× Admiralty 3-drum
 turbines: 2× Parsons geared
 shp: 76000
-speed_knots: 28
+speed_design: 28
 range_nm: 6000
 range_speed: 20
 crew: 1,390

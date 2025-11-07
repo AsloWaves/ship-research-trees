@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Ostfriesland (Helgoland-class - Billy Mitchell Legend!)
 hull_numbers: SMS Ostfriesland
-boats_built: 1 (second Helgoland-class ship)
+ships_built: 1 (second Helgoland-class ship)
 commissioned: 1911 (August 1, 1911)
 decommissioned: 1921 (sunk July 21, 1921 - Billy Mitchell tests!)
 era: WWI Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 29.3 (8.94m maximum)
 crew: 1113 (officers + men)
 
 # Performance (Improved Dreadnought!)
-speed_knots: 20.5
+speed_design: 20.5
 propulsion_type: Triple expansion steam engines
 propulsion_hp: 28000 ihp
 shafts: 3

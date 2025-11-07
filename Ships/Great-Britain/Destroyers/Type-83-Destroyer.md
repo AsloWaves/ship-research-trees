@@ -16,7 +16,7 @@ beam_ft: 65
 draft_ft: 22
 propulsion_type: Integrated Electric Propulsion or hybrid (design TBD)
 power_hp: 80000
-speed_knots: 30
+speed_design: 30
 range_nm: 7000
 endurance_days: 60
 crew: 200

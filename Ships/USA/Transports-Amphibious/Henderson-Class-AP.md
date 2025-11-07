@@ -21,7 +21,7 @@ propulsion_type: Steam turbines
 boilers: 4× Babcock & Wilcox
 turbines: 2× Curtis geared
 shp: 4900
-speed_knots: 14
+speed_design: 14
 range_nm: 8000
 range_speed: 12
 crew: 304 (ship's company)

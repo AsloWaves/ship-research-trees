@@ -3,7 +3,7 @@
 ```yaml
 class_name: Flugzeugträger D Aircraft Carrier (Plan Z Fourth Carrier)
 hull_numbers: Flugzeugträger D (Aircraft Carrier D)
-boats_built: 0 (never started)
+ships_built: 0 (never started)
 commissioned: Never
 decommissioned: N/A
 era: WWII (1940 planned)
@@ -19,7 +19,7 @@ draft_ft: 28 (estimated)
 crew: 1800 (estimated)
 
 # Performance (Planned)
-speed_knots: 34
+speed_design: 34
 propulsion_type: Steam turbines + 16 boilers
 propulsion_hp: 210000 (estimated)
 shafts: 4

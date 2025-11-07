@@ -3,7 +3,7 @@
 ```yaml
 class_name: SM UB-III-Class (Advanced Coastal)
 hull_numbers: UB-48 to UB-143
-boats_built: 96
+ships_built: 96
 commissioned: 1917-1918
 decommissioned: 1918-1920
 era: WWI

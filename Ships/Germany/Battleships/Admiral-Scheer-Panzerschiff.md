@@ -3,7 +3,7 @@
 ```yaml
 class_name: Admiral Scheer (Panzerschiff - Most Successful Raider!)
 hull_numbers: Admiral Scheer
-boats_built: 1 (second Deutschland-class)
+ships_built: 1 (second Deutschland-class)
 commissioned: 1934 (November 12, 1934)
 decommissioned: 1945 (bombed April 9, 1945, capsized)
 era: Interwar / WWII
@@ -19,7 +19,7 @@ draft_ft: 24 (7.3m)
 crew: 1150 (officers + men)
 
 # Performance (Diesel Raider!)
-speed_knots: 28.5 (could run from battleships!)
+speed_design: 28.5 (could run from battleships!)
 propulsion_type: Diesel engines (8× MAN 9-cylinder diesels!)
 propulsion_hp: 54000 PS (40,000 kW)
 shafts: 2

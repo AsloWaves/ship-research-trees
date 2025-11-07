@@ -18,7 +18,7 @@ propulsion_type: Steam turbines (COSAG)
 boilers: 2× Babcock & Wilcox
 shp: 30000
 gas_turbines: 4× G.6 (30,000 shp total)
-speed_knots: 32.5
+speed_design: 32.5
 range_nm: 3500
 range_speed: 28
 crew: 471

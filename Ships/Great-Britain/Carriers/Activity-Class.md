@@ -16,7 +16,7 @@ beam_ft: 66.5
 draft_ft: 25
 propulsion_type: Steam turbines (2× Scotch boilers, 2 shafts)
 power_hp: 12000
-speed_knots: 18
+speed_design: 18
 range_nm: 28000
 endurance_days: 90
 crew: 700

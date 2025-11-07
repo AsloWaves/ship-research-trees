@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type VIIC Submarine (THE Workhorse)
 hull_numbers: U-69 to U-1279 (hundreds of numbers)
-boats_built: 577-593
+ships_built: 577-593
 commissioned: 1941-1945
 decommissioned: 1945 (war's end)
 era: WWII

@@ -19,7 +19,7 @@ propulsion_type: Steam turbines
 boilers: 18× Babcock & Wilcox
 turbines: 4× Parsons direct-drive
 shp: 29000
-speed_knots: 21.25
+speed_design: 21.25
 range_nm: 7800
 range_speed: 10
 crew: 925-1022

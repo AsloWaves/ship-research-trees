@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Kaiser Super-Dreadnought Battleship (First Turbines!)
 hull_numbers: SMS Kaiser, SMS Friedrich der Große, SMS Kaiserin, SMS Prinzregent Luitpold, SMS König Albert
-boats_built: 5
+ships_built: 5
 commissioned: 1912-1913
 decommissioned: 1919 (All scuttled at Scapa Flow!)
 era: Super-Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 30.2 (9.1m)
 crew: 1084
 
 # Performance (TURBINE REVOLUTION!)
-speed_knots: 23.4
+speed_design: 23.4
 propulsion_type: STEAM TURBINES! (First German turbine battleships!)
 propulsion_hp: 46000 shp (turbines, vs 28,000 ihp triple expansion!)
 shafts: 3

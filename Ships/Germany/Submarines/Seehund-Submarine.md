@@ -3,7 +3,7 @@
 ```yaml
 class_name: Seehund Type XXVII Midget Submarine
 hull_numbers: Multiple series (285 boats total!)
-boats_built: 285
+ships_built: 285
 commissioned: 1944-1945
 decommissioned: 1945
 era: WWII

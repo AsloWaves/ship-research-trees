@@ -3,7 +3,7 @@
 ```yaml
 class_name: Scharnhorst Fast Battleship (32 knots - Fastest German BB!)
 hull_numbers: Scharnhorst, Gneisenau
-boats_built: 2
+ships_built: 2
 commissioned: 1939 (January 7, 1939 & May 21, 1938)
 decommissioned: 1943-1945 (Scharnhorst sunk 1943, Gneisenau scrapped 1947)
 era: WWII Fast Battleship
@@ -19,7 +19,7 @@ draft_ft: 32.2 (9.86m maximum)
 crew: 1968 (60 officers + 1908 men)
 
 # Performance (FASTEST GERMAN BATTLESHIP!)
-speed_knots: 32
+speed_design: 32
 propulsion_type: Steam turbines + diesel engines (hybrid propulsion!)
 propulsion_hp: 165000 shp (123,000 kW) - 3× turbine sets
 shafts: 3

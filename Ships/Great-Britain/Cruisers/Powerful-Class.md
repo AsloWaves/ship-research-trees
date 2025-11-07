@@ -17,7 +17,7 @@ draft_ft: 27
 propulsion_type: Triple expansion engines
 boilers: 48× Belleville
 shp: 25000
-speed_knots: 22
+speed_design: 22
 range_nm: 7000
 range_speed: 10
 crew: 894

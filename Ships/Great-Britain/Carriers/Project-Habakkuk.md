@@ -19,7 +19,7 @@ draft_ft: 150
 hull_thickness_ft: 40
 propulsion_type: Electric motors
 shp: 33000
-speed_knots: 7
+speed_design: 7
 crew: 3600
 aircraft: 150-200
 hull_material: Pykrete (14% wood pulp, 86% water)

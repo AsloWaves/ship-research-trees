@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type IXB Submarine (Improved Type IX)
 hull_numbers: U-64, U-65, U-103 to U-111, U-122, U-123, U-124
-boats_built: 14
+ships_built: 14
 commissioned: 1939-1940
 decommissioned: 1941-1945
 era: WWII

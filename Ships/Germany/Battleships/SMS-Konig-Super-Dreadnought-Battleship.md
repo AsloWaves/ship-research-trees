@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS König Super-Dreadnought Battleship (All-Centerline Layout!)
 hull_numbers: SMS König, SMS Großer Kurfürst, SMS Markgraf, SMS Kronprinz
-boats_built: 4
+ships_built: 4
 commissioned: 1914
 decommissioned: 1919 (All scuttled at Scapa Flow!)
 era: Super-Dreadnought
@@ -19,7 +19,7 @@ draft_ft: 30.2 (9.19m)
 crew: 1136
 
 # Performance
-speed_knots: 21
+speed_design: 21
 propulsion_type: Steam turbines
 propulsion_hp: 46000 shp
 shafts: 3

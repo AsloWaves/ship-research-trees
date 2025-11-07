@@ -17,7 +17,7 @@ draft_ft: 27
 propulsion_type: Triple expansion engines
 boilers: 19× Yarrow
 shp: 23500
-speed_knots: 23
+speed_design: 23
 range_nm: 7730
 range_speed: 10
 crew: 790

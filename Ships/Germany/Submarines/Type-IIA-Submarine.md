@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type IIA Submarine (Small Coastal)
 hull_numbers: U-1 to U-6
-boats_built: 6
+ships_built: 6
 commissioned: 1935
 decommissioned: 1940-1944
 era: Interwar / WWII

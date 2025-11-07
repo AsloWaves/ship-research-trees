@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Schleswig-Holstein (Deutschland-class - Started WWII!)
 hull_numbers: SMS Schleswig-Holstein
-boats_built: 1 (fourth Deutschland-class ship)
+ships_built: 1 (fourth Deutschland-class ship)
 commissioned: 1908 (July 6, 1908)
 decommissioned: 1945 (scuttled May 4, 1945) / scrapped 1960s
 era: Pre-Dreadnought / WWII Training Ship
@@ -19,7 +19,7 @@ draft_ft: 26.11 (8.21m)
 crew: 743 (peacetime), reduced in WWII
 
 # Performance (Pre-Dreadnought Standard)
-speed_knots: 18.5 (design), 19 (trials), ~16 by WWII (age!)
+speed_design: 18.5 (design), 19 (trials), ~16 by WWII (age!)
 propulsion_type: Triple-expansion steam engines
 propulsion_hp: 19000 ihp
 shafts: 3

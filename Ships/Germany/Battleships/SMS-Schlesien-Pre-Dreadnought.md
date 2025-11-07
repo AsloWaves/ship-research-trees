@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Schlesien (Deutschland-class - Last Survivor!)
 hull_numbers: SMS Schlesien
-boats_built: 1 (fifth Deutschland-class ship - final ship!)
+ships_built: 1 (fifth Deutschland-class ship - final ship!)
 commissioned: 1908 (May 28, 1908)
 decommissioned: 1945 (surrendered May 1945, scrapped 1947-1949)
 era: Pre-Dreadnought / WWII Survivor
@@ -19,7 +19,7 @@ draft_ft: 26.11 (8.21m)
 crew: 743 (peacetime), reduced in WWII
 
 # Performance (Pre-Dreadnought Standard)
-speed_knots: 18.5 (design), 19 (trials), ~16 by WWII (age!)
+speed_design: 18.5 (design), 19 (trials), ~16 by WWII (age!)
 propulsion_type: Triple-expansion steam engines
 propulsion_hp: 19000 ihp
 shafts: 3

@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type XXVI Submarine (Advanced Elektroboot)
 hull_numbers: None assigned (never built)
-boats_built: 0 (paper ship - never completed)
+ships_built: 0 (paper ship - never completed)
 commissioned: Never (war ended before construction)
 decommissioned: N/A (cancelled 1945)
 era: WWII (planned)

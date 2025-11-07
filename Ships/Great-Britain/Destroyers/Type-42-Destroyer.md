@@ -16,7 +16,7 @@ beam_ft: 47
 draft_ft: 19
 propulsion_type: COGOG (gas turbines)
 gas_turbines: 4× Rolls-Royce Olympus TM3B (56,000 shp total)
-speed_knots: 30
+speed_design: 30
 range_nm: 4500
 range_speed: 18
 crew: 287

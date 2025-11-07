@@ -3,7 +3,7 @@
 ```yaml
 class_name: Type XXI Refit (Post-War Elektroboot Upgrade)
 hull_numbers: Selected Type XXI boats (Allied post-war service)
-boats_built: 15-20 (estimates of Type XXI boats refitted post-war)
+ships_built: 15-20 (estimates of Type XXI boats refitted post-war)
 commissioned: 1945-1960s (post-war Allied service)
 decommissioned: 1960s-1980s
 era: Post-WWII

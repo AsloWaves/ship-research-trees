@@ -3,7 +3,7 @@
 ```yaml
 class_name: Post-War Carrier (1950 Concept)
 hull_numbers: None (theoretical concept)
-boats_built: 0 (pure speculation)
+ships_built: 0 (pure speculation)
 commissioned: Never
 decommissioned: N/A
 era: Post-War (1950)
@@ -19,7 +19,7 @@ draft_ft: 34
 crew: 2400
 
 # Performance (Post-War Technology)
-speed_knots: 33
+speed_design: 33
 propulsion_type: Steam turbines (conventional)
 propulsion_hp: 250000
 shafts: 4

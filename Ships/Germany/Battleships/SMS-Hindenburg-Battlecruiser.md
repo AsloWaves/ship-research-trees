@@ -3,7 +3,7 @@
 ```yaml
 class_name: SMS Hindenburg (Derfflinger-class - Last WWI German BC!)
 hull_numbers: SMS Hindenburg
-boats_built: 1 (third and FINAL Derfflinger-class)
+ships_built: 1 (third and FINAL Derfflinger-class)
 commissioned: 1917 (May 10, 1917 - TOO LATE FOR JUTLAND!)
 decommissioned: 1919 (scuttled June 21, 1919 - Scapa Flow)
 era: WWI Battlecruiser
@@ -19,7 +19,7 @@ draft_ft: 30.5 (9.29m maximum)
 crew: 1068 (officers + men)
 
 # Performance (Fast Battlecruiser!)
-speed_knots: 26.5 (design), 27.3 (trials - FASTEST of class!)
+speed_design: 26.5 (design), 27.3 (trials - FASTEST of class!)
 propulsion_type: Steam turbines (4× Parsons)
 propulsion_hp: 72000 shp (54,000 kW)
 shafts: 4

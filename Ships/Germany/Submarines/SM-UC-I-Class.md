@@ -3,7 +3,7 @@
 ```yaml
 class_name: SM UC-I-Class (Early Minelayer)
 hull_numbers: UC-1 to UC-15
-boats_built: 15
+ships_built: 15
 commissioned: 1915
 decommissioned: 1917-1919
 era: WWI
