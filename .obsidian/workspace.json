@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "32eb126c56f5eb91",
+        "id": "cabc0c294ff346a8",
         "type": "tabs",
         "children": [
           {
-            "id": "82718f3161a06f4c",
+            "id": "15672ac5c7e6ea25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weapons/Naval-Guns/Turrets/USA/311-16inch-Quad.md",
+                "file": "Ships/Germany/Battleships/Bismarck-Class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "311-16inch-Quad"
+              "title": "Bismarck-Class"
+            }
+          },
+          {
+            "id": "8a69bc49883a3d72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weapons/Naval-Guns/database/naval_guns_database.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "naval_guns_database"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +72,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -171,42 +186,42 @@
   },
   "active": "67ece1643beaca7f",
   "lastOpenFiles": [
-    "Aircraft/USA/Naval-Scout-Bomber/SB2A.md",
+    "_Scripts/cleanup_duplicates.py",
+    "nul",
+    "_Reports/DUPLICATE_FILES_ANALYSIS.md",
+    "Weapons/Aircraft-Weapons/Torpedoes/USA/Mk 50.md",
+    "Weapons/Aircraft-Weapons/Torpedoes/USA/Mk 54.md",
+    "Weapons/Aircraft-Weapons/Torpedoes/USA/Mk 46.md",
+    "Weapons/Aircraft-Weapons/Torpedoes/USA/Mk 44.md",
+    "Weapons/Aircraft-Weapons/Torpedoes/USA/Mk 24.md",
+    "Weapons/Aircraft-Weapons/Torpedoes/USA/Mk 13.md",
+    "Weapons/Aircraft-Weapons/Torpedoes/USA/Mk 13-3.md",
+    "Weapons/Aircraft-Weapons/Torpedoes/USA",
+    "Weapons/Aircraft-Weapons/Mines/USA/Mk 64.md",
+    "Weapons/Aircraft-Weapons/Mines/USA/Mk 63.md",
+    "Weapons/Aircraft-Weapons/Mines/USA/Mk 62.md",
+    "Weapons/Aircraft-Weapons/Mines/USA/Mk 52.md",
+    "Weapons/Aircraft-Weapons/Mines/USA/Mk 36.md",
+    "Weapons/Aircraft-Weapons/Mines/USA",
+    "Weapons/Aircraft-Weapons/Depth-Charges/USA/Mk 9.md",
+    "Weapons/Aircraft-Weapons/Depth-Charges/USA/Mk 90.md",
+    "Weapons/Aircraft-Weapons/Depth-Charges/USA/Mk 17.md",
+    "Weapons/Aircraft-Weapons/Depth-Charges/USA/Mk 101.md",
+    "Weapons/Aircraft-Weapons/Depth-Charges/USA/AN-Mk 54.md",
+    "Weapons/Aircraft-Weapons/Depth-Charges/USA/AN-Mk 47.md",
+    "Weapons/Aircraft-Weapons/Depth-Charges/USA/AN-Mk 44.md",
+    "Weapons/Aircraft-Weapons/Depth-Charges/USA/AN-Mk 41.md",
+    "Weapons/Aircraft-Weapons/Depth-Charges/USA",
+    "_Reports",
+    "_Scripts/find_duplicates.py",
+    "_Templates/TEMPLATE-Overview.md",
+    "_Templates/TEMPLATE-Research-Tree.md",
+    "_Templates/TEMPLATE-Weapon-Missile.md",
+    "_Templates/TEMPLATE-Weapon-Bomb.md",
+    "_Templates",
+    "Untitled.base",
     "Aircraft/USA/Naval-Scout-Bomber",
-    "Aircraft/USA/Naval-Scout/C-1.md",
     "Aircraft/USA/Naval-Scout",
-    "Aircraft/USA/Land-Patrol/NC-4.md",
-    "Aircraft/USA/Land-Patrol/HS-2L.md",
-    "Aircraft/USA/Land-Patrol/H-16.md",
-    "Aircraft/USA/Land-Patrol",
-    "Aircraft/Great-Britain/Naval-VSTOL-Fighter/BAe Sea Harrier FRS.1.md",
-    "Aircraft/Great-Britain/Naval-VSTOL-Fighter",
-    "Aircraft/Great-Britain/Naval-Reconnaissance/Parnall Panther.md",
-    "Aircraft/Great-Britain/Naval-Reconnaissance/Fairey IIID.md",
-    "Aircraft/Great-Britain/Naval-Reconnaissance/Fairey Campania.md",
-    "Aircraft/Great-Britain/Naval-Reconnaissance",
-    "Aircraft/Great-Britain/Naval-Low-Level-Strike/Blackburn Buccaneer S.2.md",
-    "Aircraft/Great-Britain/Naval-Low-Level-Strike",
-    "Aircraft/Great-Britain/Naval-Fighter-Reconnaissance/Hawker Osprey.md",
-    "Aircraft/Great-Britain/Naval-Fighter-Reconnaissance",
-    "Aircraft/Great-Britain/Naval-All-Weather-Fighter/De Havilland Sea Venom FAW.21.md",
-    "Aircraft/Great-Britain/Naval-All-Weather-Fighter",
-    "Aircraft/Great-Britain/Land-Reconnaissance/Short 184.md",
-    "Aircraft/Great-Britain/Land-Reconnaissance/B-20.md",
-    "Aircraft/Great-Britain/Land-Reconnaissance",
-    "Aircraft/USA/Land-Trainer/Model 39B.md",
-    "Aircraft/USA/Land-Trainer",
-    "Aircraft/Japan/Naval-Torpedo-Bomber/B1M.md",
-    "Aircraft/Japan/Land-Reconnaissance/R2Y1.md",
-    "Aircraft/Japan/Naval-Reconnaissance/F1M.md",
-    "Aircraft/Japan/Naval-Reconnaissance/E15K1.md",
-    "Aircraft/Japan/Naval-Reconnaissance/E13A.md",
-    "Aircraft/Japan/Naval-Reconnaissance/C6N.md",
-    "Aircraft/Japan/Land-Interceptor/J5N1.md",
-    "Aircraft/Japan/Naval-Fighter/N1K1.md",
-    "Aircraft/Germany/Naval-Torpedo-Bomber/Fi 167.md",
-    "Aircraft/Germany/Naval-Torpedo-Bomber/Ar 195.md",
-    "Aircraft/Germany/Naval-Reconnaissance/He 114.md",
     "Ships/Research-Trees/USA Destroyer Ship Tree.canvas",
     "Ships/USA/USA Ship Tree.canvas",
     "Ships/Great Britain/GB Ship Tree 1.canvas",
