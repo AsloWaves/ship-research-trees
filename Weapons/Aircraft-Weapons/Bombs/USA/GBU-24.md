@@ -7,7 +7,7 @@ introduced: 1983
 retired: Active
 service_life: 1983-Present
 tags: [laser-guided-bomb, paveway-iii-(2000lb), usa, laser-guided]
-completeness: partial
+completeness: complete
 ---
 
 # GBU-24 Paveway III (2000lb)

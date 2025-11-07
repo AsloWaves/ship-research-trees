@@ -6,7 +6,7 @@ caliber: 5"
 mark: Mark 9
 year: 1910
 tags: [naval-gun, usa, 5inch]
-completeness: stub
+completeness: partial
 ---
 
 # 5"/51 Mark 9

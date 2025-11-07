@@ -6,7 +6,7 @@ nation: USA
 caliber: 8"
 turret_type: Quad
 tags: [8inch, quad, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 8" Mark Mark 11 Quad Turret

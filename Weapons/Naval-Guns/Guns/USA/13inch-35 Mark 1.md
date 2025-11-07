@@ -6,7 +6,7 @@ caliber: 13"
 mark: Mark 1
 year: 1895
 tags: [naval-gun, usa, 13inch]
-completeness: stub
+completeness: partial
 ---
 
 # 13"/35 Mark 1

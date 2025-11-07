@@ -6,7 +6,7 @@ caliber: 6"
 mark: Mark VIII
 year: 1899
 tags: [naval-gun, britain, 6inch]
-completeness: stub
+completeness: partial
 ---
 
 # 6"/45 Mark VIII

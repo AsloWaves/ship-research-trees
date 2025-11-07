@@ -5,7 +5,7 @@ nation: British
 type: SSM
 introduced: 1982
 tags: [missile, ssm, british]
-completeness: stub
+completeness: partial
 ---
 
 # Sea Skua CL834

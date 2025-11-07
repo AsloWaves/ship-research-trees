@@ -7,7 +7,7 @@ introduced: 1944
 retired: 1960
 service_life: 1944-1960
 tags: [torpedo, aerial-torpedo, uk]
-completeness: partial
+completeness: complete
 ---
 
 # 18-in Mk XV Aerial Torpedo

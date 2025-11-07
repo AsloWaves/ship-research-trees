@@ -7,7 +7,7 @@ introduced: 1985
 retired: Active
 service_life: 1985-Present
 tags: [practice-munition, captive-sidewinder-trainer, usa]
-completeness: partial
+completeness: complete
 ---
 
 # CATM-9M Captive Sidewinder Trainer

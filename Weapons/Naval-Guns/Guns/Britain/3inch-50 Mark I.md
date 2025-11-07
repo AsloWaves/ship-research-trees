@@ -6,7 +6,7 @@ caliber: 3"
 mark: Mark I
 year: 1943
 tags: [naval-gun, britain, 3inch]
-completeness: stub
+completeness: partial
 ---
 
 # 3"/50 Mark I

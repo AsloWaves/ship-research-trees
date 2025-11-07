@@ -6,7 +6,7 @@ caliber: 12"
 mark: Mark XIV
 year: 1916
 tags: [naval-gun, britain, 12inch]
-completeness: stub
+completeness: partial
 ---
 
 # 12"/50 Mark XIV

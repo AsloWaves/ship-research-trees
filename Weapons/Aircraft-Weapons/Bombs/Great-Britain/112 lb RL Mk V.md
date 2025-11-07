@@ -7,7 +7,7 @@ introduced: 1915
 retired: 1925
 service_life: 1915-1925
 tags: [gravity-bomb, royal-laboratory-bomb, uk]
-completeness: partial
+completeness: complete
 ---
 
 # 112 lb RL Mk V Royal Laboratory Bomb

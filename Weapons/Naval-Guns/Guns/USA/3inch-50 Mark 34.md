@@ -6,7 +6,7 @@ caliber: 3"
 mark: Mark 34
 year: 1962
 tags: [naval-gun, usa, 3inch]
-completeness: stub
+completeness: partial
 ---
 
 # 3"/50 Mark 34

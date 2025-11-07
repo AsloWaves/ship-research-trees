@@ -7,7 +7,7 @@ introduced: 1998
 retired: Active
 service_life: 1998-Present
 tags: [anti-ship-missile, jsow, usa, gps-guided]
-completeness: partial
+completeness: complete
 ---
 
 # AGM-154A JSOW

@@ -8,7 +8,7 @@ projectile_type: AP
 introduced: 1906
 service_life: 1906-Present
 tags: [12inch, ap, mark-15, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 12" Mark 15 (AP)

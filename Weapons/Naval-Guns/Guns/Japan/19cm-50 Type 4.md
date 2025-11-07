@@ -6,7 +6,7 @@ caliber: 19cm
 mark: Type 4
 year: 1940
 tags: [naval-gun, japan, 19cm]
-completeness: stub
+completeness: partial
 ---
 
 # 19cm/50 Type 4

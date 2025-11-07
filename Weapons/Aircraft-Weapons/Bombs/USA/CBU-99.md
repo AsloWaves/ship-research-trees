@@ -7,7 +7,7 @@ introduced: 1968
 retired: Active
 service_life: 1968-Present
 tags: [gravity-bomb, rockeye-ii, usa]
-completeness: partial
+completeness: complete
 ---
 
 # CBU-99 Rockeye II

@@ -6,7 +6,7 @@ caliber: 8"
 mark: Mark XII
 year: 1941
 tags: [naval-gun, britain, 8inch]
-completeness: stub
+completeness: partial
 ---
 
 # 8"/50 Mark XII

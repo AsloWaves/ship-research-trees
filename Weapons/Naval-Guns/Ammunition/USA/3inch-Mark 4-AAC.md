@@ -8,7 +8,7 @@ projectile_type: AAC
 introduced: 1915
 service_life: 1915-Present
 tags: [3inch, aac, mark-4, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 3" Mark 4 (AAC)

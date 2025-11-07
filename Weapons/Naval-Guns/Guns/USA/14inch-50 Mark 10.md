@@ -6,7 +6,7 @@ caliber: 14"
 mark: Mark 10
 year: 1942
 tags: [naval-gun, usa, 14inch]
-completeness: stub
+completeness: partial
 ---
 
 # 14"/50 Mark 10

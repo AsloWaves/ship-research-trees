@@ -5,7 +5,7 @@ nation: USA
 type: SSM
 introduced: 1989
 tags: [missile, ssm, usa]
-completeness: stub
+completeness: partial
 ---
 
 # AGM-119 Penguin Mk 2

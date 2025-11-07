@@ -30,4 +30,5 @@ completeness: partial
 - **Platform**: Aircraft (carrier-based)
 
 ## Notes
-9
+
+*No additional historical notes available.*

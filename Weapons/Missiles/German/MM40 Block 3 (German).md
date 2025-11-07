@@ -5,7 +5,7 @@ nation: German
 type: SSM
 introduced: 2010
 tags: [missile, ssm, german]
-completeness: stub
+completeness: partial
 ---
 
 # MM40 Block 3 (German)

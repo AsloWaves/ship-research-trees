@@ -6,7 +6,7 @@ caliber: 4"
 mark: QF Mark XII
 year: 1918
 tags: [naval-gun, britain, 4inch]
-completeness: stub
+completeness: partial
 ---
 
 # 4"/40 QF Mark XII

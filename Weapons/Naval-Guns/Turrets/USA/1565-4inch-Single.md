@@ -6,7 +6,7 @@ nation: USA
 caliber: 4"
 turret_type: Single
 tags: [4inch, single, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 4" Mark Mark 8 Single SP Turret

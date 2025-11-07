@@ -30,4 +30,5 @@ completeness: partial
 - **Platform**: Surface ships (destroyers, cruisers)
 
 ## Notes
-16
+
+*No additional historical notes available.*

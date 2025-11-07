@@ -6,7 +6,7 @@ caliber: 18cm
 mark: Type 5
 year: 1943
 tags: [naval-gun, japan, 18cm]
-completeness: stub
+completeness: partial
 ---
 
 # 18cm/55 Type 5

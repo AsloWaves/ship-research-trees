@@ -6,7 +6,7 @@ caliber: 36cm
 mark: 41st Year Kai
 year: 1930
 tags: [naval-gun, japan, 36cm]
-completeness: stub
+completeness: partial
 ---
 
 # 36cm/45 41st Year Kai

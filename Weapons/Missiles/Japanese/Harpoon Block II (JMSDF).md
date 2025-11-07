@@ -5,7 +5,7 @@ nation: Japanese
 type: SSM
 introduced: 2005
 tags: [missile, ssm, japanese]
-completeness: stub
+completeness: partial
 ---
 
 # Harpoon Block II (JMSDF)

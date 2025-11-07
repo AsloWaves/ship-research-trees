@@ -7,7 +7,7 @@ introduced: 1944
 retired: 1950
 service_life: 1944-1950
 tags: [unguided-rocket, 11.75-inch-rocket, usa]
-completeness: partial
+completeness: complete
 ---
 
 # Tiny Tim 11.75-inch Rocket

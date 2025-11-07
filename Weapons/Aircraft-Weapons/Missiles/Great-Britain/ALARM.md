@@ -7,7 +7,7 @@ introduced: 1990
 retired: 2013
 service_life: 1990-2013
 tags: [anti-radar-missile, air-launched-anti-radiation-missile, uk, radar-required]
-completeness: partial
+completeness: complete
 ---
 
 # ALARM Air Launched Anti-Radiation Missile

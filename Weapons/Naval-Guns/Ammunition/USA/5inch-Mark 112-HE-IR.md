@@ -8,7 +8,7 @@ projectile_type: HE-IR
 introduced: 1970
 service_life: 1970-Present
 tags: [5inch, he-ir, mark-112, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 5" Mark 112 (HE-IR)

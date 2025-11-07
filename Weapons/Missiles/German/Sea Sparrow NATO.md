@@ -5,7 +5,7 @@ nation: German
 type: SAM
 introduced: 1976
 tags: [missile, sam, german]
-completeness: stub
+completeness: partial
 ---
 
 # Sea Sparrow NATO

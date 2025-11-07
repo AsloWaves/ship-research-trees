@@ -7,7 +7,7 @@ introduced: 1914
 retired: 1918
 service_life: 1914-1918
 tags: [gravity-bomb, hales-bomb, uk]
-completeness: partial
+completeness: complete
 ---
 
 # Hales 20 lb Hales Bomb

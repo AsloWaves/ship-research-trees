@@ -6,7 +6,7 @@ caliber: 4"
 mark: Mark 10
 year: 1920
 tags: [naval-gun, usa, 4inch]
-completeness: stub
+completeness: partial
 ---
 
 # 4"/50 Mark 10

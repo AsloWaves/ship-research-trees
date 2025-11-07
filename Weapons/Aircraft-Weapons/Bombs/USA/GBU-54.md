@@ -7,7 +7,7 @@ introduced: 2008
 retired: Active
 service_life: 2008-Present
 tags: [laser-guided-bomb, laser-jdam-(500lb), usa, laser-guided, gps-guided]
-completeness: partial
+completeness: complete
 ---
 
 # GBU-54 Laser JDAM (500lb)

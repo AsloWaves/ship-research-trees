@@ -6,7 +6,7 @@ caliber: 15"
 mark: Mark III
 year: 1930
 tags: [naval-gun, britain, 15inch]
-completeness: stub
+completeness: partial
 ---
 
 # 15"/42 Mark III

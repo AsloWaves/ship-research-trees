@@ -6,7 +6,7 @@ caliber: 5"
 mark: Mark I
 year: 1943
 tags: [naval-gun, britain, 5inch]
-completeness: stub
+completeness: partial
 ---
 
 # 5"/45 Mark I

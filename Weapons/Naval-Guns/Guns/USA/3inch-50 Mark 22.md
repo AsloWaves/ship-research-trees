@@ -6,7 +6,7 @@ caliber: 3"
 mark: Mark 22
 year: 1941
 tags: [naval-gun, usa, 3inch]
-completeness: stub
+completeness: partial
 ---
 
 # 3"/50 Mark 22

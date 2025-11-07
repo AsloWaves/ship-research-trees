@@ -5,7 +5,7 @@ nation: British
 type: SAM
 introduced: 1958
 tags: [missile, sam, british]
-completeness: stub
+completeness: partial
 ---
 
 # Bloodhound Mk I

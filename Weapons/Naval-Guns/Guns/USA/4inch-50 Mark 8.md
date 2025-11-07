@@ -6,7 +6,7 @@ caliber: 4"
 mark: Mark 8
 year: 1913
 tags: [naval-gun, usa, 4inch]
-completeness: stub
+completeness: partial
 ---
 
 # 4"/50 Mark 8

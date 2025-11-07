@@ -6,7 +6,7 @@ caliber: 46cm
 mark: Type 94 Kai
 year: 1943
 tags: [naval-gun, japan, 46cm]
-completeness: stub
+completeness: partial
 ---
 
 # 46cm/45 Type 94 Kai

@@ -5,7 +5,7 @@ nation: USA
 type: Cruise
 introduced: 1990
 tags: [missile, cruise, usa]
-completeness: stub
+completeness: partial
 ---
 
 # AGM-129A ACM

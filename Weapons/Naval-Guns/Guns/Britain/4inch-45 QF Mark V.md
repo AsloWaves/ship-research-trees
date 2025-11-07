@@ -6,7 +6,7 @@ caliber: 4"
 mark: QF Mark V
 year: 1911
 tags: [naval-gun, britain, 4inch]
-completeness: stub
+completeness: partial
 ---
 
 # 4"/45 QF Mark V

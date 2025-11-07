@@ -7,7 +7,7 @@ introduced: 1978
 retired: Active
 service_life: 1978-Present
 tags: [unguided-rocket, 30mm-gun-pod, usa]
-completeness: partial
+completeness: complete
 ---
 
 # GPU-5/A 30mm Gun Pod

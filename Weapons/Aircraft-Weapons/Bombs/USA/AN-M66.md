@@ -7,7 +7,7 @@ introduced: 1943
 retired: 1970
 service_life: 1943-1970
 tags: [gravity-bomb, 2000lb-gp, usa]
-completeness: partial
+completeness: complete
 ---
 
 # AN-M66 2000lb GP

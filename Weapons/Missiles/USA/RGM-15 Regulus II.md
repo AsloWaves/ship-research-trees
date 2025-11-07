@@ -5,7 +5,7 @@ nation: USA
 type: SSM
 introduced: 1958
 tags: [missile, ssm, usa]
-completeness: stub
+completeness: partial
 ---
 
 # RGM-15 Regulus II

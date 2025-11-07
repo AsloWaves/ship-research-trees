@@ -6,7 +6,7 @@ nation: USA
 caliber: 3"
 turret_type: Twin
 tags: [3inch, twin, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 3" Mark Mark 18 Twin DP Turret

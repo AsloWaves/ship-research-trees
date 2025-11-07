@@ -6,7 +6,7 @@ caliber: 12cm
 mark: Flak C/40
 year: 1940
 tags: [naval-gun, germany, 12cm]
-completeness: stub
+completeness: partial
 ---
 
 # 12cm/55 Flak C/40

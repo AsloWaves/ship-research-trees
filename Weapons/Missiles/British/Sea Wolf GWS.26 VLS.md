@@ -5,7 +5,7 @@ nation: British
 type: SAM
 introduced: 1990
 tags: [missile, sam, british]
-completeness: stub
+completeness: partial
 ---
 
 # Sea Wolf GWS.26 VLS

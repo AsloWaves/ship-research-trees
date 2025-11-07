@@ -7,7 +7,7 @@ introduced: 1966
 retired: 1968
 service_life: 1966-1968
 tags: [radar-missile, falcon, usa, radar-required]
-completeness: partial
+completeness: complete
 ---
 
 # AIM-47 Falcon

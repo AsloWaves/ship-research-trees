@@ -6,7 +6,7 @@ caliber: 6"
 mark: Mark 13
 year: 1938
 tags: [naval-gun, usa, 6inch]
-completeness: stub
+completeness: partial
 ---
 
 # 6"/53 Mark 13

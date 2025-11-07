@@ -5,7 +5,7 @@ nation: German
 type: SSM
 introduced: 1977
 tags: [missile, ssm, german]
-completeness: stub
+completeness: partial
 ---
 
 # MM38 Exocet (German)

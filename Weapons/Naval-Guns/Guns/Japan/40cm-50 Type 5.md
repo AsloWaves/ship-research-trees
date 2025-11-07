@@ -6,7 +6,7 @@ caliber: 40cm
 mark: Type 5
 year: 1942
 tags: [naval-gun, japan, 40cm]
-completeness: stub
+completeness: partial
 ---
 
 # 40cm/50 Type 5

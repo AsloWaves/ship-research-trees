@@ -8,7 +8,7 @@ projectile_type: Illum
 introduced: 1945
 service_life: 1945-Present
 tags: [3inch, illum, mark-25, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 3" Mark 25 (Illum)

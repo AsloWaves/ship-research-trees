@@ -6,7 +6,7 @@ caliber: 12"
 mark: Mark XIII
 year: 1912
 tags: [naval-gun, britain, 12inch]
-completeness: stub
+completeness: partial
 ---
 
 # 12"/50 Mark XIII

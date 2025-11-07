@@ -8,7 +8,7 @@ projectile_type: HC
 introduced: 1944
 service_life: 1944-Present
 tags: [6inch, hc, mark-34, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 6" Mark 34 (HC)

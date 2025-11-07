@@ -5,7 +5,7 @@ nation: British
 type: SAM
 introduced: 2020
 tags: [missile, sam, british]
-completeness: stub
+completeness: partial
 ---
 
 # Sea Viper Block 1NT

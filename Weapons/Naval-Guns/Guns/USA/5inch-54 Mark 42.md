@@ -6,7 +6,7 @@ caliber: 5"
 mark: Mark 42
 year: 1956
 tags: [naval-gun, usa, 5inch]
-completeness: stub
+completeness: partial
 ---
 
 # 5"/54 Mark 42

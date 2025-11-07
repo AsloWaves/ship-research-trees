@@ -5,7 +5,7 @@ nation: British
 type: ASW
 introduced: 1968
 tags: [missile, asw, british]
-completeness: stub
+completeness: partial
 ---
 
 # Ikara GWS.40

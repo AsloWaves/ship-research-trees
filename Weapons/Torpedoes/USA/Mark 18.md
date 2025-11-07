@@ -30,4 +30,5 @@ completeness: partial
 - **Platform**: Surface ships, submarines
 
 ## Notes
-6
+
+*No additional historical notes available.*

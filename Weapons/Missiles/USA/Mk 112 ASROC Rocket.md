@@ -5,7 +5,7 @@ nation: USA
 type: ASW
 introduced: 1963
 tags: [missile, asw, usa]
-completeness: stub
+completeness: partial
 ---
 
 # Mk 112 ASROC Rocket

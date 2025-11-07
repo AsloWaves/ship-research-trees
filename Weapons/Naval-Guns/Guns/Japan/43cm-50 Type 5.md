@@ -6,7 +6,7 @@ caliber: 43cm
 mark: Type 5
 year: 1943
 tags: [naval-gun, japan, 43cm]
-completeness: stub
+completeness: partial
 ---
 
 # 43cm/50 Type 5

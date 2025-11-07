@@ -6,7 +6,7 @@ caliber: 50cm
 mark: Type 6
 year: 1945
 tags: [naval-gun, japan, 50cm]
-completeness: stub
+completeness: partial
 ---
 
 # 50cm/50 Type 6

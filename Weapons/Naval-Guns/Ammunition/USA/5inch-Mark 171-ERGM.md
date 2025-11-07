@@ -8,7 +8,7 @@ projectile_type: ERGM
 introduced: 2005
 service_life: 2005-Present
 tags: [5inch, ergm, mark-171, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 5" Mark 171 (ERGM)

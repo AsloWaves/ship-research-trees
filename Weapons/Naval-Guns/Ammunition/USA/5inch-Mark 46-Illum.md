@@ -8,7 +8,7 @@ projectile_type: Illum
 introduced: 1965
 service_life: 1965-Present
 tags: [5inch, illum, mark-46, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 5" Mark 46 (Illum)

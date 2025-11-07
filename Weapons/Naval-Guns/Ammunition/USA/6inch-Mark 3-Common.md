@@ -8,7 +8,7 @@ projectile_type: Common
 introduced: 1895
 service_life: 1895-Present
 tags: [6inch, common, mark-3, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 6" Mark 3 (Common)

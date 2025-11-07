@@ -8,7 +8,7 @@ projectile_type: AAC
 introduced: 1934
 service_life: 1934-Present
 tags: [5inch, aac, mark-41, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 5" Mark 41 (AAC)

@@ -8,7 +8,7 @@ projectile_type: AP
 introduced: 1902
 service_life: 1902-Present
 tags: [10inch, ap, mark-3, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 10" Mark 3 (AP)

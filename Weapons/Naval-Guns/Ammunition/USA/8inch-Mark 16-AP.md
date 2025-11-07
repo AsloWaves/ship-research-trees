@@ -8,7 +8,7 @@ projectile_type: AP
 introduced: 1948
 service_life: 1948-Present
 tags: [8inch, ap, mark-16, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 8" Mark 16 (AP)

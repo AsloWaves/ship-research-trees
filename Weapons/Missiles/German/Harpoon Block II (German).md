@@ -5,7 +5,7 @@ nation: German
 type: SSM
 introduced: 2000
 tags: [missile, ssm, german]
-completeness: stub
+completeness: partial
 ---
 
 # Harpoon Block II (German)

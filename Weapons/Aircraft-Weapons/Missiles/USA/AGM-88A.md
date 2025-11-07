@@ -7,7 +7,7 @@ introduced: 1983
 retired: 2008
 service_life: 1983-2008
 tags: [anti-radar-missile, harm, usa, radar-required]
-completeness: partial
+completeness: complete
 ---
 
 # AGM-88A HARM

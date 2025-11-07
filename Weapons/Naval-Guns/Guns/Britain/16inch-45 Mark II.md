@@ -6,7 +6,7 @@ caliber: 16"
 mark: Mark II
 year: 1932
 tags: [naval-gun, britain, 16inch]
-completeness: stub
+completeness: partial
 ---
 
 # 16"/45 Mark II

@@ -6,7 +6,7 @@ nation: USA
 caliber: 14"
 turret_type: Quad
 tags: [14inch, quad, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 14" Mark Mark 10 Quad Turret

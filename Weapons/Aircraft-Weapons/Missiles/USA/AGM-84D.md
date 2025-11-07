@@ -7,7 +7,7 @@ introduced: 1986
 retired: Active
 service_life: 1986-Present
 tags: [anti-ship-missile, harpoon-block-ic, usa, radar-required]
-completeness: partial
+completeness: complete
 ---
 
 # AGM-84D Harpoon Block IC

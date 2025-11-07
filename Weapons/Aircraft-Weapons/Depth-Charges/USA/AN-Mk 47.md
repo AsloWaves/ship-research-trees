@@ -7,7 +7,7 @@ introduced: 1943
 retired: Active
 service_life: 1943-Present
 tags: [depth-charge, depth-bomb, usa]
-completeness: partial
+completeness: complete
 ---
 
 # AN-Mk 47 Depth Bomb

@@ -6,7 +6,7 @@ caliber: 8cm
 mark: Type 88
 year: 1928
 tags: [naval-gun, japan, 8cm]
-completeness: stub
+completeness: partial
 ---
 
 # 8cm/40 Type 88

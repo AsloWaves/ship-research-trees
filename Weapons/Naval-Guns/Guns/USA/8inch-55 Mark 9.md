@@ -6,7 +6,7 @@ caliber: 8"
 mark: Mark 9
 year: 1925
 tags: [naval-gun, usa, 8inch]
-completeness: stub
+completeness: partial
 ---
 
 # 8"/55 Mark 9

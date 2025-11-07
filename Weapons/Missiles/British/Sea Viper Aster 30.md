@@ -5,7 +5,7 @@ nation: British
 type: SAM
 introduced: 2011
 tags: [missile, sam, british]
-completeness: stub
+completeness: partial
 ---
 
 # Sea Viper Aster 30

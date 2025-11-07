@@ -6,7 +6,7 @@ caliber: 16"
 mark: Mark 1
 year: 1921
 tags: [naval-gun, usa, 16inch]
-completeness: stub
+completeness: partial
 ---
 
 # 16"/45 Mark 1

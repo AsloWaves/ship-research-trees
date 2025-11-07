@@ -6,7 +6,7 @@ nation: USA
 caliber: 4"
 turret_type: Triple
 tags: [4inch, triple, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 4" Mark Mark 9 Triple Turret

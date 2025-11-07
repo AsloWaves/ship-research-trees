@@ -5,7 +5,7 @@ nation: USA
 type: ASW
 introduced: 1959
 tags: [missile, asw, usa]
-completeness: stub
+completeness: partial
 ---
 
 # Mk 108 Weapon Alfa Rocket

@@ -6,7 +6,7 @@ caliber: 4"
 mark: Mark XVIII
 year: 1948
 tags: [naval-gun, britain, 4inch]
-completeness: stub
+completeness: partial
 ---
 
 # 4"/50 Mark XVIII

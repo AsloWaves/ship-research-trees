@@ -7,7 +7,7 @@ introduced: 2005
 retired: Active
 service_life: 2005-Present
 tags: [anti-ship-missile, dual-mode-precision-missile, uk, radar-required, laser-guided]
-completeness: partial
+completeness: complete
 ---
 
 # Brimstone Dual-Mode Precision Missile

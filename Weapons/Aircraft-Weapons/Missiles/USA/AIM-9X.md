@@ -7,7 +7,7 @@ introduced: 2003
 retired: Active
 service_life: 2003-Present
 tags: [ir-missile, sidewinder-(modern), usa]
-completeness: partial
+completeness: complete
 ---
 
 # AIM-9X Sidewinder (Modern)

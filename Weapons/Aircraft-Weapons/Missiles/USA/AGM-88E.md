@@ -7,7 +7,7 @@ introduced: 2012
 retired: Active
 service_life: 2012-Present
 tags: [anti-radar-missile, aargm, usa, radar-required, gps-guided]
-completeness: partial
+completeness: complete
 ---
 
 # AGM-88E AARGM

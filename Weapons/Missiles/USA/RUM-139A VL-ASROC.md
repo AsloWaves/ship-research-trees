@@ -5,7 +5,7 @@ nation: USA
 type: ASW
 introduced: 1993
 tags: [missile, asw, usa]
-completeness: stub
+completeness: partial
 ---
 
 # RUM-139A VL-ASROC

@@ -5,7 +5,7 @@ nation: Japanese
 type: SAM
 introduced: 2021
 tags: [missile, sam, japanese]
-completeness: stub
+completeness: partial
 ---
 
 # ESSM Block II (JMSDF)

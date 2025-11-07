@@ -6,7 +6,7 @@ nation: USA
 caliber: 16"
 turret_type: Triple
 tags: [16inch, triple, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 16"/45 Mark 5/8 Triple Turret

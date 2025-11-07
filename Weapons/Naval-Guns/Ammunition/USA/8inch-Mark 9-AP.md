@@ -8,7 +8,7 @@ projectile_type: AP
 introduced: 1925
 service_life: 1925-Present
 tags: [8inch, ap, mark-9, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 8" Mark 9 (AP)

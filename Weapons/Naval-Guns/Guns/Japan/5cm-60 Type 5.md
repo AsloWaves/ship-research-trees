@@ -6,7 +6,7 @@ caliber: 5cm
 mark: Type 5
 year: 1943
 tags: [naval-gun, japan, 5cm]
-completeness: stub
+completeness: partial
 ---
 
 # 5cm/60 Type 5

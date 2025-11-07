@@ -6,7 +6,7 @@ nation: USA
 caliber: 16"
 turret_type: Quad
 tags: [16inch, quad, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 16"/45 Mark 1 Quad Turret

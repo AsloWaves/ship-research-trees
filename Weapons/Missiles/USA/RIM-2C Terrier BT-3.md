@@ -5,7 +5,7 @@ nation: USA
 type: SAM
 introduced: 1958
 tags: [missile, sam, usa]
-completeness: stub
+completeness: partial
 ---
 
 # RIM-2C Terrier BT-3

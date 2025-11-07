@@ -6,7 +6,7 @@ nation: USA
 caliber: 8"
 turret_type: Twin
 tags: [8inch, twin, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 8" Mark Mark 71 Twin Turret

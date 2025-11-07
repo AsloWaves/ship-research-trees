@@ -7,7 +7,7 @@ introduced: 1970
 retired: 1976
 service_life: 1970-1976
 tags: [anti-radar-missile, condor, usa]
-completeness: partial
+completeness: complete
 ---
 
 # AGM-53A Condor

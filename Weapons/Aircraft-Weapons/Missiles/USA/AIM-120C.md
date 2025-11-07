@@ -7,7 +7,7 @@ introduced: 1996
 retired: Active
 service_life: 1996-Present
 tags: [radar-missile, amraam, usa, radar-required]
-completeness: partial
+completeness: complete
 ---
 
 # AIM-120C AMRAAM

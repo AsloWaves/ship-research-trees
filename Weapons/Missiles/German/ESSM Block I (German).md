@@ -5,7 +5,7 @@ nation: German
 type: SAM
 introduced: 2005
 tags: [missile, sam, german]
-completeness: stub
+completeness: partial
 ---
 
 # ESSM Block I (German)

@@ -6,7 +6,7 @@ caliber: 14cm
 mark: Type 3
 year: 1922
 tags: [naval-gun, japan, 14cm]
-completeness: stub
+completeness: partial
 ---
 
 # 14cm/50 Type 3

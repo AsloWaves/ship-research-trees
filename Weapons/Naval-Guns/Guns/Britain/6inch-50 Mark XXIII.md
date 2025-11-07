@@ -6,7 +6,7 @@ caliber: 6"
 mark: Mark XXIII
 year: 1939
 tags: [naval-gun, britain, 6inch]
-completeness: stub
+completeness: partial
 ---
 
 # 6"/50 Mark XXIII

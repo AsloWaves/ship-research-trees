@@ -6,7 +6,7 @@ caliber: 40cm
 mark: Type 3
 year: 1935
 tags: [naval-gun, japan, 40cm]
-completeness: stub
+completeness: partial
 ---
 
 # 40cm/45 Type 3

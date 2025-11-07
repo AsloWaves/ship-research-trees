@@ -7,7 +7,7 @@ introduced: 2003
 retired: Active
 service_life: 2003-Present
 tags: [gps-guided-bomb, jdam-(1000lb), usa, gps-guided]
-completeness: partial
+completeness: complete
 ---
 
 # GBU-35 JDAM (1000lb)

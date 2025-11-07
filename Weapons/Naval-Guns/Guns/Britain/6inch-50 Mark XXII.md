@@ -6,7 +6,7 @@ caliber: 6"
 mark: Mark XXII
 year: 1926
 tags: [naval-gun, britain, 6inch]
-completeness: stub
+completeness: partial
 ---
 
 # 6"/50 Mark XXII

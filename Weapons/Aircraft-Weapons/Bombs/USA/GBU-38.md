@@ -7,7 +7,7 @@ introduced: 1999
 retired: Active
 service_life: 1999-Present
 tags: [gps-guided-bomb, jdam, usa, gps-guided]
-completeness: partial
+completeness: complete
 ---
 
 # GBU-38 JDAM

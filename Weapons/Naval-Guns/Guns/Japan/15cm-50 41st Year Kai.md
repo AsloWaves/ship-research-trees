@@ -6,7 +6,7 @@ caliber: 15cm
 mark: 41st Year Kai
 year: 1925
 tags: [naval-gun, japan, 15cm]
-completeness: stub
+completeness: partial
 ---
 
 # 15cm/50 41st Year Kai

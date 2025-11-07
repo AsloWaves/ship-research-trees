@@ -6,7 +6,7 @@ caliber: 51cm
 mark: Type 5
 year: 1942
 tags: [naval-gun, japan, 51cm]
-completeness: stub
+completeness: partial
 ---
 
 # 51cm/45 Type 5

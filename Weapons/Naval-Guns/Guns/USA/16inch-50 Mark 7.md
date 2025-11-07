@@ -6,7 +6,7 @@ caliber: 16"
 mark: Mark 7
 year: 1943
 tags: [naval-gun, usa, 16inch]
-completeness: stub
+completeness: partial
 ---
 
 # 16"/50 Mark 7

@@ -5,7 +5,7 @@ nation: USA
 type: SSM
 introduced: 1995
 tags: [missile, ssm, usa]
-completeness: stub
+completeness: partial
 ---
 
 # AGM-119B Penguin Mk 3

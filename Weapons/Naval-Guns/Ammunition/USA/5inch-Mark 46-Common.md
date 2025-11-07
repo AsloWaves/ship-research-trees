@@ -8,7 +8,7 @@ projectile_type: Common
 introduced: 1936
 service_life: 1936-Present
 tags: [5inch, common, mark-46, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 5" Mark 46 (Common)

@@ -5,7 +5,7 @@ nation: USA
 type: ASW
 introduced: 1972
 tags: [missile, asw, usa]
-completeness: stub
+completeness: partial
 ---
 
 # UUM-44B SUBROC Mod 1

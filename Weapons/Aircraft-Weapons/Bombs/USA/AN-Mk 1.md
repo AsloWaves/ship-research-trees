@@ -7,7 +7,7 @@ introduced: 1942
 retired: 1960
 service_life: 1942-1960
 tags: [gravity-bomb, 1600lb-ap, usa]
-completeness: partial
+completeness: complete
 ---
 
 # AN-Mk 1 1600lb AP

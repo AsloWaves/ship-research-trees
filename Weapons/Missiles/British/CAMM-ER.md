@@ -5,7 +5,7 @@ nation: British
 type: SAM
 introduced: 2021
 tags: [missile, sam, british]
-completeness: stub
+completeness: partial
 ---
 
 # CAMM-ER

@@ -7,7 +7,7 @@ introduced: 1957
 retired: Active
 service_life: 1957-Present
 tags: [unguided-rocket, 5-inch-rocket, usa]
-completeness: partial
+completeness: complete
 ---
 
 # Zuni 5-inch Rocket

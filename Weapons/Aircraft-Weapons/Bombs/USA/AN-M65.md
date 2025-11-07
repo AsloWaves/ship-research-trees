@@ -7,7 +7,7 @@ introduced: 1941
 retired: 1970
 service_life: 1941-1970
 tags: [gravity-bomb, 1000lb-gp, usa]
-completeness: partial
+completeness: complete
 ---
 
 # AN-M65 1000lb GP

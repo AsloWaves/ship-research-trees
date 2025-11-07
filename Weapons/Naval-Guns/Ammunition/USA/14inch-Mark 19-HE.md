@@ -8,7 +8,7 @@ projectile_type: HE
 introduced: 1942
 service_life: 1942-Present
 tags: [14inch, he, mark-19, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 14" Mark 19 (HE)

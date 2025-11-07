@@ -6,7 +6,7 @@ nation: USA
 caliber: 8"
 turret_type: Single
 tags: [8inch, single, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 8" Mark Mark 9 Single Turret

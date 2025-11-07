@@ -6,7 +6,7 @@ caliber: 12cm
 mark: Type 6
 year: 1945
 tags: [naval-gun, japan, 12cm]
-completeness: stub
+completeness: partial
 ---
 
 # 12cm/60 Type 6

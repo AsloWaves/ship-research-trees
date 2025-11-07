@@ -5,7 +5,7 @@ nation: British
 type: ASW
 introduced: 2020
 tags: [missile, asw, british]
-completeness: stub
+completeness: partial
 ---
 
 # Sea Spear ASW

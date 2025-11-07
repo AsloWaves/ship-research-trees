@@ -6,7 +6,7 @@ nation: USA
 caliber: 18"
 turret_type: Single
 tags: [18inch, single, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 18" Mark Mark 1 Single Turret

@@ -6,7 +6,7 @@ nation: USA
 caliber: 12"
 turret_type: Triple
 tags: [12inch, triple, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 12" Mark Mark 7 Triple Turret

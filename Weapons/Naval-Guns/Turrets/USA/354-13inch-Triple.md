@@ -6,7 +6,7 @@ nation: USA
 caliber: 13"
 turret_type: Triple
 tags: [13inch, triple, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 13" Mark Mark 1 Triple Turret

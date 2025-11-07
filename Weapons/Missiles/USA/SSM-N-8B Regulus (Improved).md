@@ -5,7 +5,7 @@ nation: USA
 type: Cruise
 introduced: 1957
 tags: [missile, cruise, usa]
-completeness: stub
+completeness: partial
 ---
 
 # SSM-N-8B Regulus (Improved)

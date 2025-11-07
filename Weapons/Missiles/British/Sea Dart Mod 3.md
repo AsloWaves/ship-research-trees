@@ -5,7 +5,7 @@ nation: British
 type: SAM
 introduced: 1995
 tags: [missile, sam, british]
-completeness: stub
+completeness: partial
 ---
 
 # Sea Dart Mod 3

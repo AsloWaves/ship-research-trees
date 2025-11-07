@@ -7,7 +7,7 @@ introduced: 2008
 retired: Active
 service_life: 2008-Present
 tags: [gps-guided-bomb, uk, laser-guided, gps-guided]
-completeness: partial
+completeness: complete
 ---
 
 # Paveway IV

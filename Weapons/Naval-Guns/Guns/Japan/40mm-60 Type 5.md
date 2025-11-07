@@ -6,7 +6,7 @@ caliber: 40mm
 mark: Type 5
 year: 1944
 tags: [naval-gun, japan, 40mm]
-completeness: stub
+completeness: partial
 ---
 
 # 40mm/60 Type 5

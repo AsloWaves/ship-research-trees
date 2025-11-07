@@ -5,7 +5,7 @@ nation: German
 type: SAM
 introduced: 1975
 tags: [missile, sam, german]
-completeness: stub
+completeness: partial
 ---
 
 # RIM-66A Standard MR (German)

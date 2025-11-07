@@ -6,7 +6,7 @@ caliber: 14"
 mark: Mark 2
 year: 1914
 tags: [naval-gun, usa, 14inch]
-completeness: stub
+completeness: partial
 ---
 
 # 14"/50 Mark 2

@@ -5,7 +5,7 @@ nation: USA
 type: Cruise
 introduced: 2014
 tags: [missile, cruise, usa]
-completeness: stub
+completeness: partial
 ---
 
 # AGM-158B JASSM-ER

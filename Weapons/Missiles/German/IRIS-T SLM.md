@@ -5,7 +5,7 @@ nation: German
 type: SAM
 introduced: 2014
 tags: [missile, sam, german]
-completeness: stub
+completeness: partial
 ---
 
 # IRIS-T SLM

@@ -6,7 +6,7 @@ caliber: 3"
 mark: Mark 33
 year: 1958
 tags: [naval-gun, usa, 3inch]
-completeness: stub
+completeness: partial
 ---
 
 # 3"/50 Mark 33

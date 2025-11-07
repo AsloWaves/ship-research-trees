@@ -5,7 +5,7 @@ nation: USA
 type: SAM
 introduced: 2005
 tags: [missile, sam, usa]
-completeness: stub
+completeness: partial
 ---
 
 # RIM-161A SM-3 Block IA

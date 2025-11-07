@@ -5,7 +5,7 @@ nation: Japanese
 type: SSM
 introduced: 2018
 tags: [missile, ssm, japanese]
-completeness: stub
+completeness: partial
 ---
 
 # Type 12 SSM Block 1

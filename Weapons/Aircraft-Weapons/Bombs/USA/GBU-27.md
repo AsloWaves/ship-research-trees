@@ -7,7 +7,7 @@ introduced: 1991
 retired: Active
 service_life: 1991-Present
 tags: [laser-guided-bomb, paveway-iii-(penetrator), usa, laser-guided]
-completeness: partial
+completeness: complete
 ---
 
 # GBU-27 Paveway III (Penetrator)

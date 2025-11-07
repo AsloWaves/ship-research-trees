@@ -7,7 +7,7 @@ introduced: 1956
 retired: 1962
 service_life: 1956-1962
 tags: [ir-missile, sidewinder, usa]
-completeness: partial
+completeness: complete
 ---
 
 # AIM-9B Sidewinder

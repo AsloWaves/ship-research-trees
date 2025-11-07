@@ -8,7 +8,7 @@ projectile_type: AP
 introduced: 1943
 service_life: 1943-Present
 tags: [14inch, ap, mark-21, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 14" Mark 21 (AP)

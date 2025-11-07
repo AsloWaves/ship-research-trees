@@ -5,7 +5,7 @@ nation: German
 type: SAM
 introduced: 1969
 tags: [missile, sam, german]
-completeness: stub
+completeness: partial
 ---
 
 # RIM-24B Tartar (German)

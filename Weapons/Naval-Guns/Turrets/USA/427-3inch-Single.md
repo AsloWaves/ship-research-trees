@@ -6,7 +6,7 @@ nation: USA
 caliber: 3"
 turret_type: Single
 tags: [3inch, single, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 3" Mark Mark 27 Single Turret

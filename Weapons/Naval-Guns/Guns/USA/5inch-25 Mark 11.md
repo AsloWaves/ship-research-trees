@@ -6,7 +6,7 @@ caliber: 5"
 mark: Mark 11
 year: 1928
 tags: [naval-gun, usa, 5inch]
-completeness: stub
+completeness: partial
 ---
 
 # 5"/25 Mark 11

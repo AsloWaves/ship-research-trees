@@ -7,7 +7,7 @@ introduced: 1985
 retired: Active
 service_life: 1985-Present
 tags: [anti-radar-missile, maverick-(laser), usa, laser-guided]
-completeness: partial
+completeness: complete
 ---
 
 # AGM-65E Maverick (Laser)

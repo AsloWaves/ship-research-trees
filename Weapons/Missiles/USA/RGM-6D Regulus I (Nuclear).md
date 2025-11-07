@@ -5,7 +5,7 @@ nation: USA
 type: SSM
 introduced: 1956
 tags: [missile, ssm, usa]
-completeness: stub
+completeness: partial
 ---
 
 # RGM-6D Regulus I (Nuclear)

@@ -5,7 +5,7 @@ nation: USA
 type: SAM
 introduced: 2000
 tags: [missile, sam, usa]
-completeness: stub
+completeness: partial
 ---
 
 # RIM-156A SM-2ER Block IV

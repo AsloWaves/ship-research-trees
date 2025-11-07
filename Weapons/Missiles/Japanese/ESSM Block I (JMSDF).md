@@ -5,7 +5,7 @@ nation: Japanese
 type: SAM
 introduced: 2008
 tags: [missile, sam, japanese]
-completeness: stub
+completeness: partial
 ---
 
 # ESSM Block I (JMSDF)

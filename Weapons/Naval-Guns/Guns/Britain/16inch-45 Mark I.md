@@ -6,7 +6,7 @@ caliber: 16"
 mark: Mark I
 year: 1927
 tags: [naval-gun, britain, 16inch]
-completeness: stub
+completeness: partial
 ---
 
 # 16"/45 Mark I

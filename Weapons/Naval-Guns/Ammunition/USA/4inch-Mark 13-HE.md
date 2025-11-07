@@ -8,7 +8,7 @@ projectile_type: HE
 introduced: 1920
 service_life: 1920-Present
 tags: [4inch, he, mark-13, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 4" Mark 13 (HE)

@@ -30,4 +30,5 @@ completeness: partial
 - **Platform**: Kaiten human torpedo (suicide weapon)
 
 ## Notes
-15
+
+*No additional historical notes available.*

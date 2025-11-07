@@ -6,7 +6,7 @@ nation: USA
 caliber: 14"
 turret_type: Single
 tags: [14inch, single, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 14" Mark Mark 10 Single Turret

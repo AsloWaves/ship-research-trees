@@ -5,7 +5,7 @@ nation: USA
 type: SAM
 introduced: 1990
 tags: [missile, sam, usa]
-completeness: stub
+completeness: partial
 ---
 
 # RIM-66E SM-1MR Block VI

@@ -5,7 +5,7 @@ nation: German
 type: SSM
 introduced: 2017
 tags: [missile, ssm, german]
-completeness: stub
+completeness: partial
 ---
 
 # NSM (German)

@@ -5,7 +5,7 @@ nation: German
 type: ASW
 introduced: 2010
 tags: [missile, asw, german]
-completeness: stub
+completeness: partial
 ---
 
 # VL-ASROC Block II (German)

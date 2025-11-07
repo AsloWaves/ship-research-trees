@@ -5,7 +5,7 @@ nation: USA
 type: SAM
 introduced: 1981
 tags: [missile, sam, usa]
-completeness: stub
+completeness: partial
 ---
 
 # RIM-67C Standard ER Block II

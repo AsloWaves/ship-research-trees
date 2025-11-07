@@ -7,7 +7,7 @@ introduced: 1983
 retired: 2015
 service_life: 1983-2015
 tags: [laser-guided-bomb, 2000-lb-lgb, uk, laser-guided]
-completeness: partial
+completeness: complete
 ---
 
 # GBU-24 Paveway III 2000 lb LGB

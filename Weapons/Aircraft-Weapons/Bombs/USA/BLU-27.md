@@ -7,7 +7,7 @@ introduced: 1965
 retired: 1975
 service_life: 1965-1975
 tags: [gravity-bomb, napalm-fire-bomb, usa]
-completeness: partial
+completeness: complete
 ---
 
 # BLU-27 Napalm Fire Bomb

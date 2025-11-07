@@ -6,7 +6,7 @@ nation: USA
 caliber: 3"
 turret_type: Triple
 tags: [3inch, triple, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 3" Mark Mark 34 Triple Open Open Mount

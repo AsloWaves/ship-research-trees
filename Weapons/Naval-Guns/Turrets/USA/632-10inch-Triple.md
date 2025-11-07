@@ -6,7 +6,7 @@ nation: USA
 caliber: 10"
 turret_type: Triple
 tags: [10inch, triple, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 10" Mark Mark 3 Triple Turret

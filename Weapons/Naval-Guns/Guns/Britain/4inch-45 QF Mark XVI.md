@@ -6,7 +6,7 @@ caliber: 4"
 mark: QF Mark XVI*
 year: 1940
 tags: [naval-gun, britain, 4inch]
-completeness: stub
+completeness: partial
 ---
 
 # 4"/45 QF Mark XVI*

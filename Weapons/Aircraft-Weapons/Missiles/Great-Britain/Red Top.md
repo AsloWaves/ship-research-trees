@@ -7,7 +7,7 @@ introduced: 1964
 retired: 1988
 service_life: 1964-1988
 tags: [ir-missile, uk]
-completeness: partial
+completeness: complete
 ---
 
 # Red Top

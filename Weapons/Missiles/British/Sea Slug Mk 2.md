@@ -5,7 +5,7 @@ nation: British
 type: SAM
 introduced: 1967
 tags: [missile, sam, british]
-completeness: stub
+completeness: partial
 ---
 
 # Sea Slug Mk 2

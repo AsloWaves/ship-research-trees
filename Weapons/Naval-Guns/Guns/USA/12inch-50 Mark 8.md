@@ -6,7 +6,7 @@ caliber: 12"
 mark: Mark 8
 year: 1944
 tags: [naval-gun, usa, 12inch]
-completeness: stub
+completeness: partial
 ---
 
 # 12"/50 Mark 8

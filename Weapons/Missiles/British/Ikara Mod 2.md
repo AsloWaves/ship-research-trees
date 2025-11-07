@@ -5,7 +5,7 @@ nation: British
 type: ASW
 introduced: 1978
 tags: [missile, asw, british]
-completeness: stub
+completeness: partial
 ---
 
 # Ikara Mod 2

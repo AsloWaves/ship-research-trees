@@ -5,7 +5,7 @@ nation: USA
 type: SSM
 introduced: 1987
 tags: [missile, ssm, usa]
-completeness: stub
+completeness: partial
 ---
 
 # RGM-109B Tomahawk TASM

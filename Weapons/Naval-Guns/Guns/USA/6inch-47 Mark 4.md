@@ -6,7 +6,7 @@ caliber: 6"
 mark: Mark 4
 year: 1900
 tags: [naval-gun, usa, 6inch]
-completeness: stub
+completeness: partial
 ---
 
 # 6"/47 Mark 4

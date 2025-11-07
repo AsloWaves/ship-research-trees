@@ -8,7 +8,7 @@ projectile_type: Chaff
 introduced: 1945
 service_life: 1945-Present
 tags: [5inch, chaff, mark-65, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 5" Mark 65 (Chaff)

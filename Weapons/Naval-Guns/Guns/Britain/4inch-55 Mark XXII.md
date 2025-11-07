@@ -6,7 +6,7 @@ caliber: 4"
 mark: Mark XXII
 year: 1960
 tags: [naval-gun, britain, 4inch]
-completeness: stub
+completeness: partial
 ---
 
 # 4"/55 Mark XXII

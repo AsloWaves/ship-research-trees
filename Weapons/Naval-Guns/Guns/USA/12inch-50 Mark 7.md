@@ -6,7 +6,7 @@ caliber: 12"
 mark: Mark 7
 year: 1912
 tags: [naval-gun, usa, 12inch]
-completeness: stub
+completeness: partial
 ---
 
 # 12"/50 Mark 7

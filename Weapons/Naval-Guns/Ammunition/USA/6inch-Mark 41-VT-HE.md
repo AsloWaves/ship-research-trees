@@ -8,7 +8,7 @@ projectile_type: VT-HE
 introduced: 1944
 service_life: 1944-Present
 tags: [6inch, vt-he, mark-41, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 6" Mark 41 (VT-HE)

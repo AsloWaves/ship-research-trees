@@ -5,7 +5,7 @@ nation: Japanese
 type: SSM
 introduced: 2016
 tags: [missile, ssm, japanese]
-completeness: stub
+completeness: partial
 ---
 
 # ASM-3

@@ -6,7 +6,7 @@ caliber: 48cm
 mark: Type 4
 year: 1941
 tags: [naval-gun, japan, 48cm]
-completeness: stub
+completeness: partial
 ---
 
 # 48cm/45 Type 4

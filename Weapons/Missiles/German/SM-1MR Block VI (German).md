@@ -5,7 +5,7 @@ nation: German
 type: SAM
 introduced: 1990
 tags: [missile, sam, german]
-completeness: stub
+completeness: partial
 ---
 
 # SM-1MR Block VI (German)

@@ -5,7 +5,7 @@ nation: USA
 type: Cruise
 introduced: 1987
 tags: [missile, cruise, usa]
-completeness: stub
+completeness: partial
 ---
 
 # BGM-109B Gryphon Mod 1

@@ -6,7 +6,7 @@ caliber: 14"
 mark: Mark VII
 year: 1940
 tags: [naval-gun, britain, 14inch]
-completeness: stub
+completeness: partial
 ---
 
 # 14"/45 Mark VII

@@ -6,7 +6,7 @@ caliber: 6"
 mark: Mark XIII
 year: 1925
 tags: [naval-gun, britain, 6inch]
-completeness: stub
+completeness: partial
 ---
 
 # 6"/45 Mark XIII

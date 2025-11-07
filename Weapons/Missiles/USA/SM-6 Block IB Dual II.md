@@ -5,7 +5,7 @@ nation: USA
 type: SAM
 introduced: 2017
 tags: [missile, sam, usa]
-completeness: stub
+completeness: partial
 ---
 
 # SM-6 Block IB Dual II

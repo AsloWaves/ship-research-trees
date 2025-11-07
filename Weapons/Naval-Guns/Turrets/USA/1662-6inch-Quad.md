@@ -6,7 +6,7 @@ nation: USA
 caliber: 6"
 turret_type: Quad
 tags: [6inch, quad, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 6" Mark Mark 11 Quad SP Turret

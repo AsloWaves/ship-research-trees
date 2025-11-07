@@ -8,7 +8,7 @@ projectile_type: VT
 introduced: 1960
 service_life: 1960-Present
 tags: [5inch, vt, mark-45, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 5" Mark 45 (VT)

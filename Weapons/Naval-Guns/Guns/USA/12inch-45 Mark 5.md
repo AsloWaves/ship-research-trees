@@ -6,7 +6,7 @@ caliber: 12"
 mark: Mark 5
 year: 1906
 tags: [naval-gun, usa, 12inch]
-completeness: stub
+completeness: partial
 ---
 
 # 12"/45 Mark 5

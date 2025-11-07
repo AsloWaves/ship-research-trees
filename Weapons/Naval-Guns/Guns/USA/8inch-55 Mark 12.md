@@ -6,7 +6,7 @@ caliber: 8"
 mark: Mark 12
 year: 1928
 tags: [naval-gun, usa, 8inch]
-completeness: stub
+completeness: partial
 ---
 
 # 8"/55 Mark 12

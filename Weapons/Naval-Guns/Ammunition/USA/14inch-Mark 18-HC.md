@@ -8,7 +8,7 @@ projectile_type: HC
 introduced: 1941
 service_life: 1941-Present
 tags: [14inch, hc, mark-18, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 14" Mark 18 (HC)

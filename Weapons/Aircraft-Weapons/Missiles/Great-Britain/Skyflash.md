@@ -7,7 +7,7 @@ introduced: 1978
 retired: 1999
 service_life: 1978-1999
 tags: [radar-missile, uk, radar-required]
-completeness: partial
+completeness: complete
 ---
 
 # Skyflash

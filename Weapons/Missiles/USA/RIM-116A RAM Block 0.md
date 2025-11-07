@@ -5,7 +5,7 @@ nation: USA
 type: CIWS
 introduced: 1992
 tags: [missile, ciws, usa]
-completeness: stub
+completeness: partial
 ---
 
 # RIM-116A RAM Block 0

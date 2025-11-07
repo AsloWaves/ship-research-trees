@@ -6,7 +6,7 @@ nation: USA
 caliber: 10"
 turret_type: Single
 tags: [10inch, single, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 10" Mark Mark 3 Single Turret

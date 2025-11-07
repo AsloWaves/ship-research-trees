@@ -8,7 +8,7 @@ projectile_type: GMLS
 introduced: 1970
 service_life: 1970-Present
 tags: [5inch, gmls, mark-82, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 5" Mark 82 (GMLS)

@@ -8,7 +8,7 @@ projectile_type: Common
 introduced: 1915
 service_life: 1915-Present
 tags: [4inch, common, mark-11, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 4" Mark 11 (Common)

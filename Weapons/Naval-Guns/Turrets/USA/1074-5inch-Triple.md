@@ -6,7 +6,7 @@ nation: USA
 caliber: 5"
 turret_type: Triple
 tags: [5inch, triple, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 5" Mark Mark 8 Triple DP Turret

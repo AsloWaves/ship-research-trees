@@ -5,7 +5,7 @@ nation: British
 type: SSM
 introduced: 2021
 tags: [missile, ssm, british]
-completeness: stub
+completeness: partial
 ---
 
 # Martlet (Sea Venom Light)

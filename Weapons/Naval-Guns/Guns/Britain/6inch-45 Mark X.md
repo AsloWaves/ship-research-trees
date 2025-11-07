@@ -6,7 +6,7 @@ caliber: 6"
 mark: Mark X
 year: 1920
 tags: [naval-gun, britain, 6inch]
-completeness: stub
+completeness: partial
 ---
 
 # 6"/45 Mark X

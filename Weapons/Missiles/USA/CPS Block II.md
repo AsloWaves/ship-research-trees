@@ -5,7 +5,7 @@ nation: USA
 type: Hypersonic
 introduced: 2025
 tags: [missile, hypersonic, usa]
-completeness: stub
+completeness: partial
 ---
 
 # CPS Block II

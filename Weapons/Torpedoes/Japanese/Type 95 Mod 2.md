@@ -30,4 +30,5 @@ completeness: partial
 - **Platform**: Submarines
 
 ## Notes
-14
+
+*No additional historical notes available.*

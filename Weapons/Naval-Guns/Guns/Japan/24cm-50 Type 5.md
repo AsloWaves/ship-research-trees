@@ -6,7 +6,7 @@ caliber: 24cm
 mark: Type 5
 year: 1943
 tags: [naval-gun, japan, 24cm]
-completeness: stub
+completeness: partial
 ---
 
 # 24cm/50 Type 5

@@ -8,7 +8,7 @@ projectile_type: VT
 introduced: 1944
 service_life: 1944-Present
 tags: [3inch, vt, mark-21, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 3" Mark 21 (VT)

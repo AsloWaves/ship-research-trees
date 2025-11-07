@@ -8,7 +8,7 @@ projectile_type: Common
 introduced: 1922
 service_life: 1922-Present
 tags: [14inch, common, mark-14, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 14" Mark 14 (Common)

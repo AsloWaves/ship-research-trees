@@ -6,7 +6,7 @@ caliber: 19cm
 mark: Type 5
 year: 1943
 tags: [naval-gun, japan, 19cm]
-completeness: stub
+completeness: partial
 ---
 
 # 19cm/55 Type 5

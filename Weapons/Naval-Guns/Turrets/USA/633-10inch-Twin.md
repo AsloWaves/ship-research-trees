@@ -6,7 +6,7 @@ nation: USA
 caliber: 10"
 turret_type: Twin
 tags: [10inch, twin, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 10" Mark Mark 3 Twin Turret

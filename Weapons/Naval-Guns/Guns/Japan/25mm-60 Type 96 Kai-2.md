@@ -6,7 +6,7 @@ caliber: 25mm
 mark: Type 96 Kai-2
 year: 1944
 tags: [naval-gun, japan, 25mm]
-completeness: stub
+completeness: partial
 ---
 
 # 25mm/60 Type 96 Kai-2

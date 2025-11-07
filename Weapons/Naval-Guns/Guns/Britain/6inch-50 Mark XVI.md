@@ -6,7 +6,7 @@ caliber: 6"
 mark: Mark XVI
 year: 1914
 tags: [naval-gun, britain, 6inch]
-completeness: stub
+completeness: partial
 ---
 
 # 6"/50 Mark XVI

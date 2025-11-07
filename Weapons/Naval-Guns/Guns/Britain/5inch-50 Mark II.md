@@ -6,7 +6,7 @@ caliber: 5"
 mark: Mark II
 year: 1948
 tags: [naval-gun, britain, 5inch]
-completeness: stub
+completeness: partial
 ---
 
 # 5"/50 Mark II

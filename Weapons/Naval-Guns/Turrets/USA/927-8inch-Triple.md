@@ -6,7 +6,7 @@ nation: USA
 caliber: 8"
 turret_type: Triple
 tags: [8inch, triple, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 8" Mark Mark 71 Triple Turret

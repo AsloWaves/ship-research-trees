@@ -7,7 +7,7 @@ introduced: 1986
 retired: 2008
 service_life: 1986-2008
 tags: [gravity-bomb, cem-(cluster-bomb), usa]
-completeness: partial
+completeness: complete
 ---
 
 # CBU-87 CEM (Cluster Bomb)

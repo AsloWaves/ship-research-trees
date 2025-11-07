@@ -7,7 +7,7 @@ introduced: 1965
 retired: 1980
 service_life: 1965-1980
 tags: [unguided-rocket, 20mm-gun-pod, usa]
-completeness: partial
+completeness: complete
 ---
 
 # SUU-16/A 20mm Gun Pod

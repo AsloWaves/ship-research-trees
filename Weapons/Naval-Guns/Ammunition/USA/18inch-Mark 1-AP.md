@@ -8,7 +8,7 @@ projectile_type: AP
 introduced: 1943
 service_life: 1943-Present
 tags: [18inch, ap, mark-1, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 18" Mark 1 (AP)

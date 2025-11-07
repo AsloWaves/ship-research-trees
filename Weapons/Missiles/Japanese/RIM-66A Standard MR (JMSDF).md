@@ -5,7 +5,7 @@ nation: Japanese
 type: SAM
 introduced: 1978
 tags: [missile, sam, japanese]
-completeness: stub
+completeness: partial
 ---
 
 # RIM-66A Standard MR (JMSDF)

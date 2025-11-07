@@ -8,7 +8,7 @@ projectile_type: SP-Common
 introduced: 1940
 service_life: 1940-Present
 tags: [5inch, sp-common, mark-49, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 5" Mark 49 (SP-Common)

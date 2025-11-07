@@ -5,7 +5,7 @@ nation: German
 type: ASW
 introduced: 2012
 tags: [missile, asw, german]
-completeness: stub
+completeness: partial
 ---
 
 # Sea Urchin (License)

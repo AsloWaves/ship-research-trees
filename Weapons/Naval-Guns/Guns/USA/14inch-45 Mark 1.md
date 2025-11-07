@@ -6,7 +6,7 @@ caliber: 14"
 mark: Mark 1
 year: 1912
 tags: [naval-gun, usa, 14inch]
-completeness: stub
+completeness: partial
 ---
 
 # 14"/45 Mark 1

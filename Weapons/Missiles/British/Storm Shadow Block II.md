@@ -5,7 +5,7 @@ nation: British
 type: Cruise
 introduced: 2015
 tags: [missile, cruise, british]
-completeness: stub
+completeness: partial
 ---
 
 # Storm Shadow Block II

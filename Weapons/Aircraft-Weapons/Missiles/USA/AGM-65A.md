@@ -7,7 +7,7 @@ introduced: 1972
 retired: 1978
 service_life: 1972-1978
 tags: [anti-radar-missile, maverick, usa]
-completeness: partial
+completeness: complete
 ---
 
 # AGM-65A Maverick

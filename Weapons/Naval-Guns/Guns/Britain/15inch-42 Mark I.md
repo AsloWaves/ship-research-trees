@@ -6,7 +6,7 @@ caliber: 15"
 mark: Mark I
 year: 1915
 tags: [naval-gun, britain, 15inch]
-completeness: stub
+completeness: partial
 ---
 
 # 15"/42 Mark I

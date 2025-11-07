@@ -6,7 +6,7 @@ caliber: 41cm
 mark: Type 3
 year: 1921
 tags: [naval-gun, japan, 41cm]
-completeness: stub
+completeness: partial
 ---
 
 # 41cm/45 Type 3

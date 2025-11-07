@@ -8,7 +8,7 @@ projectile_type: Illum
 introduced: 1943
 service_life: 1943-Present
 tags: [14inch, illum, mark-23, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 14" Mark 23 (Illum)

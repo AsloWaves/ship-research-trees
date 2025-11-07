@@ -5,7 +5,7 @@ nation: British
 type: ASW
 introduced: 1989
 tags: [missile, asw, british]
-completeness: stub
+completeness: partial
 ---
 
 # Stingray ASW Missile

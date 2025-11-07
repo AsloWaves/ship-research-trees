@@ -7,7 +7,7 @@ introduced: 1983
 retired: Active
 service_life: 1983-Present
 tags: [ir-missile, sidewinder, usa]
-completeness: partial
+completeness: complete
 ---
 
 # AIM-9M Sidewinder

@@ -5,7 +5,7 @@ nation: USA
 type: ASW
 introduced: 2020
 tags: [missile, asw, usa]
-completeness: stub
+completeness: partial
 ---
 
 # RUM-139C VL-ASROC Block III

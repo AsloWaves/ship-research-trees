@@ -6,7 +6,7 @@ caliber: 38cm
 mark: Type 3
 year: 1935
 tags: [naval-gun, japan, 38cm]
-completeness: stub
+completeness: partial
 ---
 
 # 38cm/45 Type 3

@@ -6,7 +6,7 @@ caliber: 38cm
 mark: Type 5
 year: 1941
 tags: [naval-gun, japan, 38cm]
-completeness: stub
+completeness: partial
 ---
 
 # 38cm/50 Type 5

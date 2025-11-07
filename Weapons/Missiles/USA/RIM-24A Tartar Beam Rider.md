@@ -5,7 +5,7 @@ nation: USA
 type: SAM
 introduced: 1964
 tags: [missile, sam, usa]
-completeness: stub
+completeness: partial
 ---
 
 # RIM-24A Tartar Beam Rider

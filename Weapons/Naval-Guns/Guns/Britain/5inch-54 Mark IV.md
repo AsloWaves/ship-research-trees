@@ -6,7 +6,7 @@ caliber: 5"
 mark: Mark IV
 year: 1960
 tags: [naval-gun, britain, 5inch]
-completeness: stub
+completeness: partial
 ---
 
 # 5"/54 Mark IV

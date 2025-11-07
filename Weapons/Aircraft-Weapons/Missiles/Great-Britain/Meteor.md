@@ -7,7 +7,7 @@ introduced: 2016
 retired: Active
 service_life: 2016-Present
 tags: [radar-missile, bvraam, uk, radar-required]
-completeness: partial
+completeness: complete
 ---
 
 # Meteor BVRAAM

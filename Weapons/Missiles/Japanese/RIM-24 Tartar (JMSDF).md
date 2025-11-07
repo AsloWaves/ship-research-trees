@@ -5,7 +5,7 @@ nation: Japanese
 type: SAM
 introduced: 1970
 tags: [missile, sam, japanese]
-completeness: stub
+completeness: partial
 ---
 
 # RIM-24 Tartar (JMSDF)

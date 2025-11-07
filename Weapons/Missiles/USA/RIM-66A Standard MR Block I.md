@@ -5,7 +5,7 @@ nation: USA
 type: SAM
 introduced: 1971
 tags: [missile, sam, usa]
-completeness: stub
+completeness: partial
 ---
 
 # RIM-66A Standard MR Block I

@@ -7,7 +7,7 @@ introduced: 1960
 retired: Active
 service_life: 1960-Present
 tags: [gravity-bomb, napalm-canister, usa]
-completeness: partial
+completeness: complete
 ---
 
 # Mk 77 Mod 0 Napalm Canister

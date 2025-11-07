@@ -7,7 +7,7 @@ introduced: 1968
 retired: 1986
 service_life: 1968-1986
 tags: [anti-radar-missile, standard-arm, usa, radar-required]
-completeness: partial
+completeness: complete
 ---
 
 # AGM-78 Standard ARM

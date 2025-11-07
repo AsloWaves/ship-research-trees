@@ -5,7 +5,7 @@ nation: Japanese
 type: SSM
 introduced: 1982
 tags: [missile, ssm, japanese]
-completeness: stub
+completeness: partial
 ---
 
 # RGM-84 Harpoon (JMSDF)

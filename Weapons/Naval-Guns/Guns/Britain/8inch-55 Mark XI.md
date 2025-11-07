@@ -6,7 +6,7 @@ caliber: 8"
 mark: Mark XI
 year: 1938
 tags: [naval-gun, britain, 8inch]
-completeness: stub
+completeness: partial
 ---
 
 # 8"/55 Mark XI

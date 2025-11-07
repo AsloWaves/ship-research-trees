@@ -7,7 +7,7 @@ introduced: 1941
 retired: 1960
 service_life: 1941-1960
 tags: [depth-charge, aerial-depth-charge, uk]
-completeness: partial
+completeness: complete
 ---
 
 # 450 lb DC Mk VII Aerial Depth Charge

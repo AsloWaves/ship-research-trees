@@ -6,7 +6,7 @@ caliber: 45cm
 mark: Type 4
 year: 1940
 tags: [naval-gun, japan, 45cm]
-completeness: stub
+completeness: partial
 ---
 
 # 45cm/45 Type 4

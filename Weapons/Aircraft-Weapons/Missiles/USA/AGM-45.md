@@ -7,7 +7,7 @@ introduced: 1963
 retired: 1992
 service_life: 1963-1992
 tags: [anti-radar-missile, shrike, usa, radar-required]
-completeness: partial
+completeness: complete
 ---
 
 # AGM-45 Shrike

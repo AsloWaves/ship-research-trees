@@ -5,7 +5,7 @@ nation: British
 type: SSM
 introduced: 2020
 tags: [missile, ssm, british]
-completeness: stub
+completeness: partial
 ---
 
 # Sea Venom ANL

@@ -6,7 +6,7 @@ caliber: 13cm
 mark: Type 5
 year: 1944
 tags: [naval-gun, japan, 13cm]
-completeness: stub
+completeness: partial
 ---
 
 # 13cm/50 Type 5

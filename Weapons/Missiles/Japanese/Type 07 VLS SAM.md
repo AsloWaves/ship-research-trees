@@ -5,7 +5,7 @@ nation: Japanese
 type: SAM
 introduced: 2007
 tags: [missile, sam, japanese]
-completeness: stub
+completeness: partial
 ---
 
 # Type 07 VLS SAM

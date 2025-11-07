@@ -6,7 +6,7 @@ caliber: 45mm
 mark: Type 5
 year: 1944
 tags: [naval-gun, japan, 45mm]
-completeness: stub
+completeness: partial
 ---
 
 # 45mm/60 Type 5

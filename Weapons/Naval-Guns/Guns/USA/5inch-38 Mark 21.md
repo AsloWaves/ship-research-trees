@@ -6,7 +6,7 @@ caliber: 5"
 mark: Mark 21
 year: 1942
 tags: [naval-gun, usa, 5inch]
-completeness: stub
+completeness: partial
 ---
 
 # 5"/38 Mark 21

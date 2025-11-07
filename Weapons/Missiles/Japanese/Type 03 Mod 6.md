@@ -5,7 +5,7 @@ nation: Japanese
 type: SAM
 introduced: 2024
 tags: [missile, sam, japanese]
-completeness: stub
+completeness: partial
 ---
 
 # Type 03 Mod 6

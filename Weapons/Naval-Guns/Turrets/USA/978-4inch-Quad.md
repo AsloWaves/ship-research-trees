@@ -6,7 +6,7 @@ nation: USA
 caliber: 4"
 turret_type: Quad
 tags: [4inch, quad, usa, turret]
-completeness: partial
+completeness: complete
 ---
 
 # 4" Mark Mark 7 Quad DP Turret

@@ -6,7 +6,7 @@ caliber: 28cm
 mark: Type 5
 year: 1942
 tags: [naval-gun, japan, 28cm]
-completeness: stub
+completeness: partial
 ---
 
 # 28cm/50 Type 5

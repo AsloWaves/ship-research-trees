@@ -5,7 +5,7 @@ nation: USA
 type: SAM
 introduced: 1969
 tags: [missile, sam, usa]
-completeness: stub
+completeness: partial
 ---
 
 # RIM-85A Talos ARM

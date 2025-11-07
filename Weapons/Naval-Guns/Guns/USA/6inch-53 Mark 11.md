@@ -6,7 +6,7 @@ caliber: 6"
 mark: Mark 11
 year: 1917
 tags: [naval-gun, usa, 6inch]
-completeness: stub
+completeness: partial
 ---
 
 # 6"/53 Mark 11

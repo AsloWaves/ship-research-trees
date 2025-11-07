@@ -7,7 +7,7 @@ introduced: 1970
 retired: Active
 service_life: 1970-Present
 tags: [practice-munition, practice-bomb, usa]
-completeness: partial
+completeness: complete
 ---
 
 # BDU-45 Practice Bomb

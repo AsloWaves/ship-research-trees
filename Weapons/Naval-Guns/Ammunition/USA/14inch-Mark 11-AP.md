@@ -8,7 +8,7 @@ projectile_type: AP
 introduced: 1917
 service_life: 1917-Present
 tags: [14inch, ap, mark-11, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 14" Mark 11 (AP)

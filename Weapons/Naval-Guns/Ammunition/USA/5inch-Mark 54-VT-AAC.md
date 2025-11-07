@@ -8,7 +8,7 @@ projectile_type: VT-AAC
 introduced: 1943
 service_life: 1943-Present
 tags: [5inch, vt-aac, mark-54, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 5" Mark 54 (VT-AAC)

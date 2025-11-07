@@ -8,7 +8,7 @@ projectile_type: AP
 introduced: 1914
 service_life: 1914-Present
 tags: [14inch, ap, mark-10, usa, ammunition]
-completeness: partial
+completeness: complete
 ---
 
 # 14" Mark 10 (AP)

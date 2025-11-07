@@ -6,7 +6,7 @@ caliber: 8cm
 mark: Type 98 Kai
 year: 1942
 tags: [naval-gun, japan, 8cm]
-completeness: stub
+completeness: partial
 ---
 
 # 8cm/60 Type 98 Kai
