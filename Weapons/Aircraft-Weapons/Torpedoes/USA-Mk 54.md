@@ -1,0 +1,51 @@
+---
+designation: Mk 54
+common_name: MAKO Lightweight Torpedo
+nation: USA
+type: Torpedo
+introduced: 2004
+retired: Active
+service_life: 2004-Present
+tags: [torpedo, mako-lightweight-torpedo, usa]
+---
+
+# Mk 54 MAKO Lightweight Torpedo
+
+## Overview
+
+**Nation**: USA  
+**Category**: Torpedo  
+**Service Life**: 2004-Present  
+
+## Physical Specifications
+
+- **Weight**: 608.0 lbs  
+- **Length**: 8.9 ft  
+- **Diameter**: 12.8 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: Acoustic  
+
+**Requirements**:  
+- Requires Databus  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 3  
+
+## Performance
+
+- **Range**: 6.0 nm  
+- **Warhead Weight**: 97.0 lbs  
+- **Damage**: 250  
+- **Accuracy Rating**: 9/10  
+- **Reliability Rating**: 9/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+OPERATIONAL: Current standard ASW torpedo. Combines Mk 50 sonar with Mk 46 warhead/propulsion. Used on P-8 Poseidon and MH-60R. Compatible with HAAWC GPS-guided glide kit for high-altitude drops.
+

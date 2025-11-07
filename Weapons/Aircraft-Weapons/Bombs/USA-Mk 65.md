@@ -1,0 +1,49 @@
+---
+designation: Mk 65
+common_name: Quickstrike (2000lb)
+nation: USA
+type: Gravity Bomb
+introduced: 1983
+retired: Active
+service_life: 1983-Present
+tags: [gravity-bomb, quickstrike-(2000lb), usa]
+---
+
+# Mk 65 Quickstrike (2000lb)
+
+## Overview
+
+**Nation**: USA  
+**Category**: Gravity Bomb  
+**Service Life**: 1983-Present  
+
+## Physical Specifications
+
+- **Weight**: 2,070.0 lbs  
+- **Length**: 10.8 ft  
+- **Diameter**: 18.0 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: None  
+
+**Requirements**:  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 1  
+
+## Performance
+
+- **Warhead Weight**: 945.0 lbs  
+- **Damage**: 340  
+- **Accuracy Rating**: 8/10  
+- **Reliability Rating**: 9/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+Heavy air-dropped mine, Mk 84 based
+

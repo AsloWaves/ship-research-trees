@@ -1,0 +1,44 @@
+---
+designation: Mk 106
+common_name: Practice Bomb
+nation: USA
+type: Practice Munition
+introduced: 1960
+retired: Active
+service_life: 1960-Present
+tags: [practice-munition, practice-bomb, usa]
+---
+
+# Mk 106 Practice Bomb
+
+## Overview
+
+**Nation**: USA  
+**Category**: Practice Munition  
+**Service Life**: 1960-Present  
+
+## Physical Specifications
+
+- **Weight**: 5.0 lbs  
+
+## Guidance & Requirements
+
+**Guidance Type**: Unguided  
+
+**Requirements**:  
+
+## Performance
+
+- **Damage**: 0  
+- **Accuracy Rating**: 5/10  
+- **Reliability Rating**: 9/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+TRAINING: 5 lb practice bomb simulating Mk 82 high-drag configuration. Four folded fins spring open on release. Fuze arms after 220 ft air travel. Smoke cartridge marks impact. Designed for low-altitude drops. Drag coefficient 0.67.
+

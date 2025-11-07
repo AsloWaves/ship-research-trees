@@ -1,0 +1,49 @@
+---
+designation: Mk 62
+common_name: Quickstrike (500lb)
+nation: USA
+type: Gravity Bomb
+introduced: 1983
+retired: Active
+service_life: 1983-Present
+tags: [gravity-bomb, quickstrike-(500lb), usa]
+---
+
+# Mk 62 Quickstrike (500lb)
+
+## Overview
+
+**Nation**: USA  
+**Category**: Gravity Bomb  
+**Service Life**: 1983-Present  
+
+## Physical Specifications
+
+- **Weight**: 570.0 lbs  
+- **Length**: 7.5 ft  
+- **Diameter**: 10.8 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: None  
+
+**Requirements**:  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 1  
+
+## Performance
+
+- **Warhead Weight**: 192.0 lbs  
+- **Damage**: 200  
+- **Accuracy Rating**: 8/10  
+- **Reliability Rating**: 9/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+Air-dropped bottom mine, Mk 82 based
+

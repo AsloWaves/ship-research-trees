@@ -1,0 +1,49 @@
+---
+designation: Mk 20
+common_name: Rockeye
+nation: USA
+type: Gravity Bomb
+introduced: 1968
+retired: 2016
+service_life: 1968-2016
+tags: [gravity-bomb, rockeye, usa]
+---
+
+# Mk 20 Rockeye
+
+## Overview
+
+**Nation**: USA  
+**Category**: Gravity Bomb  
+**Service Life**: 1968-2016  
+
+## Physical Specifications
+
+- **Weight**: 510.0 lbs  
+- **Length**: 7.8 ft  
+- **Diameter**: 13.1 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: None  
+
+**Requirements**:  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 1  
+
+## Performance
+
+- **Warhead Weight**: 247.0 lbs  
+- **Damage**: 110  
+- **Accuracy Rating**: 7/10  
+- **Reliability Rating**: 8/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+Original Rockeye cluster bomb
+

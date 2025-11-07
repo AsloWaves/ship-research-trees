@@ -1,0 +1,47 @@
+---
+designation: Mk 54
+common_name: 250lb Depth Bomb
+nation: USA
+type: Gravity Bomb
+introduced: 1943
+retired: 1970
+service_life: 1943-1970
+tags: [gravity-bomb, 250lb-depth-bomb, usa]
+---
+
+# Mk 54 250lb Depth Bomb
+
+## Overview
+
+**Nation**: USA  
+**Category**: Gravity Bomb  
+**Service Life**: 1943-1970  
+
+## Physical Specifications
+
+- **Weight**: 250.0 lbs  
+- **Length**: 3.5 ft  
+- **Diameter**: 11.5 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: None  
+
+**Requirements**:  
+
+## Performance
+
+- **Warhead Weight**: 178.0 lbs  
+- **Damage**: 120  
+- **Accuracy Rating**: 6/10  
+- **Reliability Rating**: 9/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+Standard aerial depth bomb
+

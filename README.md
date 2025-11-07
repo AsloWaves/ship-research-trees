@@ -26,10 +26,10 @@ D:\Research/
 │   └── _Database/                  # Ship database files (future)
 │
 ├── Aircraft/                       # Carrier aviation
-│   ├── USA/                        # (To be populated from database)
-│   ├── Great-Britain/
-│   ├── Japan/
-│   ├── Germany/
+│   ├── USA/                        # 46 aircraft markdown files
+│   ├── Great-Britain/              # 32 aircraft markdown files (UK)
+│   ├── Japan/                      # 27 aircraft markdown files
+│   ├── Germany/                    # 8 aircraft markdown files
 │   ├── aircraft.db                 # 113 aircraft + 142 weapons
 │   ├── aircraft_schema.txt
 │   └── Research-Trees/
@@ -62,7 +62,13 @@ D:\Research/
 │   │       └── [NATION]_BOMBS_RESEARCH_TREE_LOGIC.md (×4)
 │   │
 │   └── Aircraft-Weapons/           # Air-launched weapons
-│       └── (Data in Aircraft/aircraft.db)
+│       ├── Bombs/                  # 53 bomb markdown files
+│       ├── Missiles/               # 47 missile markdown files
+│       ├── Rockets/                # 10 rocket markdown files
+│       ├── Torpedoes/              # 11 torpedo markdown files
+│       ├── Depth-Charges/          # 10 depth charge markdown files
+│       ├── Mines/                  # 5 mine markdown files
+│       └── Practice-Munitions/     # 6 practice munition markdown files
 │
 ├── _Archive/                       # Historical preservation
 │   ├── ship-research-trees-original/  # 19 MB original research
@@ -93,31 +99,59 @@ D:\Research/
 - **Germany**: 50+ Kriegsmarine vessels
 - **Format**: Markdown files with YAML frontmatter, Obsidian-optimized
 
-### Aircraft (113 total) ⚠️ *Database only - markdown generation needed*
+### Aircraft (113 total) ✅ *Markdown files generated*
 - **USA**: 46 aircraft
 - **UK**: 32 aircraft
 - **Japan**: 27 aircraft
 - **Germany**: 8 aircraft
-- **Status**: All aircraft exist in `Aircraft/aircraft.db` only
-- **Action Required**: Generate 113 markdown files from database
+- **Status**: All 113 aircraft have markdown files in `Aircraft/[Nation]/`
+- **Format**: Markdown files with YAML frontmatter, Obsidian-optimized
 
-### Aircraft Weapons (142 total) ⚠️ *Database only - markdown generation needed*
-- **USA**: 112 weapons (bombs, torpedoes, rockets, missiles)
-- **UK**: 30 weapons
-- **Status**: All weapons exist in `Aircraft/aircraft.db` only
-- **Action Required**: Generate 142 markdown files from database
+### Aircraft Weapons (142 total) ✅ *Markdown files generated*
+- **USA**: 112 weapons (bombs, torpedoes, rockets, missiles, depth charges, mines)
+- **UK**: 30 weapons (bombs, missiles, rockets, torpedoes, depth charges)
+- **Status**: All 142 weapons have markdown files in `Weapons/Aircraft-Weapons/[Category]/`
+- **Format**: Markdown files with YAML frontmatter, organized by weapon type
 
 ### Naval Weapons Systems
-**Naval Guns** (from naval_guns.db):
-- **Guns**: 83 gun models (3" to 18" caliber, 1890-1990)
-- **Ammunition**: 72 projectile types
-- **Turrets**: 1700 mount configurations
-- **Nations**: USA, Britain, Germany, Japan
+**Naval Guns** ✅ *Markdown files generated*:
+- **Guns**: 372 gun models (3" to 18" caliber, 1890-1990) across 4 nations
+  - USA: 83 guns
+  - British: 93 guns
+  - German: 96 guns
+  - Japanese: 100 guns
+- **Ammunition**: 72 projectile types (AP, HC, HE, AAC, etc.) - All USA
+- **Turrets**: 1,700 mount configurations - All USA
+- **Status**: All have markdown files in `Weapons/Naval-Guns/Guns/[Nation]/`
+- **Format**: Markdown files with YAML frontmatter, organized by nation
 
-**Other Weapons** (research trees exist, individual entries TBD):
-- **Torpedoes**: Research tree logic for 4 nations
-- **Missiles**: Research tree logic for 4 nations
-- **Bombs**: Research tree logic for 4 nations
+**Naval Torpedoes** ✅ *Markdown files generated*:
+- **Entries**: 234 torpedoes (USA, British, German, Japanese)
+- **Coverage**: 1889-2024
+- **Status**: All have markdown files in `Weapons/Torpedoes/[Nation]/`
+- **Format**: Markdown files with YAML frontmatter, organized by nation
+
+**Naval Missiles** ✅ *Markdown files generated*:
+- **Entries**: 192 missiles (USA, British, French, Soviet/Russian, Japanese, others)
+- **Coverage**: 1950-2025
+- **Status**: All have markdown files in `Weapons/Missiles/[Nation]/`
+- **Format**: Markdown files with YAML frontmatter, organized by nation
+
+**Naval Bombs** ✅ *Markdown files generated*:
+- **Entries**: 107 bombs (USA, British, German, Japanese)
+- **Coverage**: 1940-2024
+- **Status**: All have markdown files in `Weapons/Bombs/[Nation]/`
+- **Format**: Markdown files with YAML frontmatter, organized by nation
+
+**Naval Aircraft** ✅ *Markdown files generated*:
+- **Entries**: 144 naval aircraft (carrier-based)
+- **Status**: All have markdown files in `Aircraft/Naval/`
+- **Format**: Markdown files with YAML frontmatter
+
+**Ground Aircraft** ✅ *Markdown files generated*:
+- **Entries**: 147 ground-based aircraft
+- **Status**: All have markdown files in `Aircraft/Ground/`
+- **Format**: Markdown files with YAML frontmatter
 
 ---
 
@@ -125,15 +159,16 @@ D:\Research/
 
 ### ✅ Complete
 - Ship markdown files (782 files, 6 MB)
+- Aircraft markdown files (113 files, organized by nation)
+- Aircraft weapons markdown files (142 files, organized by weapon type)
 - Research tree logic for all weapon types and nations
 - Type-based organization optimized for Obsidian
 - Database consolidation and cleanup
 - Archive organization (historical preservation)
+- Markdown generation scripts in `_Scripts/`
 
 ### ⚠️ In Progress
-- Aircraft markdown generation (113 files needed)
-- Aircraft weapons markdown generation (142 files needed)
-- Naval weapons individual entry documentation
+- Ship-to-weapon linking implementation
 
 ### 📋 Future Work
 - Ship-to-weapon linking (which ships carried which guns)
@@ -275,14 +310,19 @@ sqlite3 Weapons/Naval-Guns/database/naval_guns.db "SELECT designation, caliber_i
 | Category | Count | Format | Status |
 |----------|-------|--------|--------|
 | Ship Classes | 782 | Markdown | ✅ Complete |
-| Aircraft | 113 | Database | ⚠️ Needs markdown |
-| Aircraft Weapons | 142 | Database | ⚠️ Needs markdown |
-| Naval Guns | 83 | Database + MD | 🔄 Partial |
-| Ammunition Types | 72 | Database | 🔄 Partial |
-| Turret Configs | 1700 | Database | 🔄 Partial |
+| Carrier Aircraft | 113 | Markdown + DB | ✅ Complete |
+| Aircraft Weapons | 142 | Markdown + DB | ✅ Complete |
+| Naval Guns | 372 | Markdown + DB | ✅ Complete |
+| Ammunition Types | 72 | Markdown + DB | ✅ Complete |
+| Turret Configs | 1700 | Markdown + DB | ✅ Complete |
+| Naval Torpedoes | 234 | Markdown | ✅ Complete |
+| Naval Missiles | 192 | Markdown | ✅ Complete |
+| Naval Bombs | 107 | Markdown | ✅ Complete |
+| Naval Aircraft | 144 | Markdown | ✅ Complete |
+| Ground Aircraft | 147 | Markdown | ✅ Complete |
 | Research Trees | 50+ | Markdown | ✅ Complete |
 
-**Total Active Files**: 850+ markdown files, 2 databases
+**Total Active Files**: 4,005 markdown files, 2 databases
 **Total Size**: ~50 MB active + 43 MB archived
 **Nations Covered**: USA, Great Britain, Japan, Germany
 **Time Period**: 1890-2020 (130 years)
@@ -295,6 +335,7 @@ For questions, issues, or contributions regarding this research database, please
 
 ---
 
-**Version**: 2.0 (Post-Reorganization)
-**Last Major Update**: November 6, 2025 - Type-based reorganization
-**Next Milestone**: Aircraft and weapons markdown generation
+**Version**: 3.1 (Naval Guns Expansion)
+**Last Major Update**: November 6, 2025 - Naval guns markdown generation expanded to all 4 nations (372 files: USA, British, German, Japanese guns)
+**Previous Update**: November 6, 2025 - All weapons systems markdown generation (826 files: torpedoes, missiles, bombs, naval/ground aircraft)
+**Next Milestone**: Ship-to-weapon linking and cross-reference system implementation

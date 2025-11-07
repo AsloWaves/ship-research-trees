@@ -1,0 +1,47 @@
+---
+designation: Mk 36
+common_name: Destructor Mine
+nation: USA
+type: Naval Mine
+introduced: 1960
+retired: 1975
+service_life: 1960-1975
+tags: [naval-mine, destructor-mine, usa]
+---
+
+# Mk 36 Destructor Mine
+
+## Overview
+
+**Nation**: USA  
+**Category**: Naval Mine  
+**Service Life**: 1960-1975  
+
+## Physical Specifications
+
+- **Weight**: 1,008.0 lbs  
+
+## Guidance & Requirements
+
+**Guidance Type**: Bottom Mine  
+
+**Requirements**:  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 1  
+
+## Performance
+
+- **Warhead Weight**: 638.0 lbs  
+- **Damage**: 320  
+- **Accuracy Rating**: 6/10  
+- **Reliability Rating**: 7/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+RETIRED: Modified Mk 82 bomb with Mk 75 kit. Magnetic/seismic sensors. Max depth 299 ft. Magnetic version 940-1008 lbs. Used in Vietnam era. No longer in service.
+

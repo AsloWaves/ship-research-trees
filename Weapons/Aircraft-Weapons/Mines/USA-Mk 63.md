@@ -1,0 +1,49 @@
+---
+designation: Mk 63
+common_name: Quickstrike Mine
+nation: USA
+type: Naval Mine
+introduced: 1983
+retired: Active
+service_life: 1983-Present
+tags: [naval-mine, quickstrike-mine, usa]
+---
+
+# Mk 63 Quickstrike Mine
+
+## Overview
+
+**Nation**: USA  
+**Category**: Naval Mine  
+**Service Life**: 1983-Present  
+
+## Physical Specifications
+
+- **Weight**: 985.0 lbs  
+- **Length**: 11.8 ft  
+- **Diameter**: 14.0 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: Bottom Mine  
+
+**Requirements**:  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 2  
+
+## Performance
+
+- **Warhead Weight**: 445.0 lbs  
+- **Damage**: 360  
+- **Accuracy Rating**: 8/10  
+- **Reliability Rating**: 8/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+OPERATIONAL: 1000 lb Quickstrike mine. Modified Mk 83 bomb with Mk 32 arming device and Mk 57/70/71 TDD. Deployed by B-52H, F/A-18, P-3C. Thick-walled GP bomb body. 40-200 ft depth.
+

@@ -1,0 +1,49 @@
+---
+designation: BL755
+common_name: Cluster Bomb
+nation: UK
+type: Gravity Bomb
+introduced: 1973
+retired: 2008
+service_life: 1973-2008
+tags: [gravity-bomb, cluster-bomb, uk]
+---
+
+# BL755 Cluster Bomb
+
+## Overview
+
+**Nation**: UK  
+**Category**: Gravity Bomb  
+**Service Life**: 1973-2008  
+
+## Physical Specifications
+
+- **Weight**: 992.0 lbs  
+- **Length**: 8.2 ft  
+- **Diameter**: 16.5 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: Unguided  
+
+**Requirements**:  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 2  
+
+## Performance
+
+- **Warhead Weight**: 661.0 lbs  
+- **Damage**: 175  
+- **Accuracy Rating**: 5/10  
+- **Reliability Rating**: 7/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+RETIRED: Hunting Engineering 450kg cluster bomb. Contains 147 parachute-retarded HEAT submunitions. Used in Falklands War by Sea Harriers. Also Tornado, Harrier GR.3. Withdrawn 2007-2008 per Convention on Cluster Munitions. Anti-armor and anti-runway.
+

@@ -1,0 +1,46 @@
+---
+designation: Mk 76
+common_name: Practice Bomb
+nation: USA
+type: Practice Munition
+introduced: 1955
+retired: Active
+service_life: 1955-Present
+tags: [practice-munition, practice-bomb, usa]
+---
+
+# Mk 76 Practice Bomb
+
+## Overview
+
+**Nation**: USA  
+**Category**: Practice Munition  
+**Service Life**: 1955-Present  
+
+## Physical Specifications
+
+- **Weight**: 25.0 lbs  
+- **Length**: 1.9 ft  
+- **Diameter**: 4.0 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: Unguided  
+
+**Requirements**:  
+
+## Performance
+
+- **Damage**: 0  
+- **Accuracy Rating**: 5/10  
+- **Reliability Rating**: 9/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+TRAINING: 25 lb practice bomb with smoke cartridge to mark impact. Simulates 500/1000/2000 lb bombs. Non-explosive. Low-cost training alternative. Length 22.9 inches.
+

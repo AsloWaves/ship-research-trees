@@ -1,0 +1,49 @@
+---
+designation: Mk 52
+common_name: Aircraft Mine
+nation: USA
+type: Naval Mine
+introduced: 1962
+retired: 1975
+service_life: 1962-1975
+tags: [naval-mine, aircraft-mine, usa]
+---
+
+# Mk 52 Aircraft Mine
+
+## Overview
+
+**Nation**: USA  
+**Category**: Naval Mine  
+**Service Life**: 1962-1975  
+
+## Physical Specifications
+
+- **Weight**: 1,235.0 lbs  
+- **Length**: 5.1 ft  
+- **Diameter**: 19.0 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: Bottom Mine  
+
+**Requirements**:  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 1  
+
+## Performance
+
+- **Warhead Weight**: 595.0 lbs  
+- **Damage**: 300  
+- **Accuracy Rating**: 6/10  
+- **Reliability Rating**: 7/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+RETIRED: 1000 lb aircraft-laid bottom mine. 595 lb HBX-1 warhead. Max depth 150-600 ft depending on mod. Used in Vietnam - laid in North Vietnamese waterways during 1972 Christmas offensive. 2ft 9in over fins.
+

@@ -1,0 +1,32 @@
+---
+designation: Mark 24 Tigerfish Mod 0
+torpedo_id: 1139
+nation: British
+type: Wire-Guided
+introduced: 1974
+tags: [torpedo, wire-guided, british]
+---
+
+# Mark 24 Tigerfish Mod 0
+
+## Overview
+**Nation**: British
+**Type**: Wire-Guided
+**Year**: 1974
+
+## Specifications
+- **Diameter**: 21.0"
+- **Length**: 22.5 ft
+- **Weight**: 79380 lbs
+- **Warhead**: 870 lbs HBX
+- **Speed**: 47.7 knots
+- **Range**: 24500 yards
+- **Depth**: 15-50 ft
+
+## Propulsion & Guidance
+- **Propulsion**: Thermal (Otto fuel II)
+- **Guidance**: Wire-guided + active/passive sonar
+- **Platform**: Surface ships, submarines
+
+## Notes
+16

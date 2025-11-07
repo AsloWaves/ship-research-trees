@@ -1,0 +1,47 @@
+---
+designation: B61
+common_name: Variable Yield Nuclear
+nation: USA
+type: Gravity Bomb
+introduced: 1968
+retired: Active
+service_life: 1968-Present
+tags: [gravity-bomb, variable-yield-nuclear, usa]
+---
+
+# B61 Variable Yield Nuclear
+
+## Overview
+
+**Nation**: USA  
+**Category**: Gravity Bomb  
+**Service Life**: 1968-Present  
+
+## Physical Specifications
+
+- **Weight**: 715.0 lbs  
+- **Length**: 11.8 ft  
+- **Diameter**: 13.0 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: None  
+
+**Requirements**:  
+- Minimum Fire Control Generation: 1  
+
+## Performance
+
+- **Damage**: 4000  
+- **Accuracy Rating**: 10/10  
+- **Reliability Rating**: 10/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+OPERATIONAL: 0.3 to 340 kt variable yield. Still in service. Most versatile US nuclear bomb. Carried by A-6, F/A-18, F-35. Multiple mods for different roles.
+

@@ -1,0 +1,52 @@
+---
+designation: 3" Mark Mark 17 Quad DP Turret
+turret_id: 942
+gun_id: 176
+nation: USA
+caliber: 3"
+turret_type: Quad
+tags: [3inch, quad, usa, turret]
+---
+
+# 3" Mark Mark 17 Quad DP Turret
+
+## Overview
+
+**Turret ID**: 942  
+**Gun ID**: 176 (See Guns database)  
+**Nation**: USA  
+**Caliber**: 3"  
+**Turret Type**: Quad  
+
+## Physical Specifications
+
+- **Turret Weight**: 155.20 tons  
+- **Crew Size**: 10 personnel  
+
+## Armor Protection
+
+- **Face Armor**: 0.50 inches  
+- **Side Armor**: 0.30 inches  
+- **Roof Armor**: 0.10 inches  
+
+## Performance
+
+- **Traverse Rate**: 24.70 °/sec  
+- **Elevation Range**: -5.00° to 85.00°  
+- **Elevation Rate**: 32.10 °/sec  
+- **Rate of Fire**: 2.00 rounds/min  
+
+## Associated Gun
+
+This turret is associated with Gun ID 176.  
+See the Guns database for specifications of the 3" gun.  
+
+## Compatible Ammunition
+
+Uses ammunition for 3" caliber guns.  
+See the Ammunition database for compatible shells.  
+
+## Notes
+
+Dual-purpose variant of 135 with high elevation for AA capability. Generated variant.
+

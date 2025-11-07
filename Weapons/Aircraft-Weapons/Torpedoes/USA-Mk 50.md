@@ -1,0 +1,50 @@
+---
+designation: Mk 50
+common_name: Barracuda Torpedo
+nation: USA
+type: Torpedo
+introduced: 1992
+retired: Active
+service_life: 1992-Present
+tags: [torpedo, barracuda-torpedo, usa]
+---
+
+# Mk 50 Barracuda Torpedo
+
+## Overview
+
+**Nation**: USA  
+**Category**: Torpedo  
+**Service Life**: 1992-Present  
+
+## Physical Specifications
+
+- **Weight**: 775.0 lbs  
+- **Length**: 9.2 ft  
+- **Diameter**: 12.8 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: Acoustic  
+
+**Requirements**:  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 2  
+
+## Performance
+
+- **Range**: 8.0 nm  
+- **Warhead Weight**: 100.0 lbs  
+- **Damage**: 260  
+- **Accuracy Rating**: 9/10  
+- **Reliability Rating**: 8/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+OPERATIONAL: Advanced lightweight torpedo for fast deep-diving submarines. Advanced sonar transceiver. Can be launched from ASW aircraft and surface ships. Expensive - led to development of Mk 54.
+

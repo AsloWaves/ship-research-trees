@@ -1,0 +1,47 @@
+---
+designation: B28
+common_name: Thermonuclear Bomb
+nation: USA
+type: Gravity Bomb
+introduced: 1958
+retired: 1991
+service_life: 1958-1991
+tags: [gravity-bomb, thermonuclear-bomb, usa]
+---
+
+# B28 Thermonuclear Bomb
+
+## Overview
+
+**Nation**: USA  
+**Category**: Gravity Bomb  
+**Service Life**: 1958-1991  
+
+## Physical Specifications
+
+- **Weight**: 2,200.0 lbs  
+- **Length**: 13.0 ft  
+- **Diameter**: 22.0 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: None  
+
+**Requirements**:  
+- Minimum Fire Control Generation: 1  
+
+## Performance
+
+- **Damage**: 5000  
+- **Accuracy Rating**: 10/10  
+- **Reliability Rating**: 9/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+OPERATIONAL: 70 kt to 1.45 MT thermonuclear bomb. Standard heavy nuclear weapon for carrier aircraft. Used on A-4, A-6, A-7. Variable yield.
+

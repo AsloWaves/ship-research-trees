@@ -1,0 +1,47 @@
+---
+designation: M47
+common_name: 100lb Incendiary
+nation: USA
+type: Gravity Bomb
+introduced: 1944
+retired: 1960
+service_life: 1944-1960
+tags: [gravity-bomb, 100lb-incendiary, usa]
+---
+
+# M47 100lb Incendiary
+
+## Overview
+
+**Nation**: USA  
+**Category**: Gravity Bomb  
+**Service Life**: 1944-1960  
+
+## Physical Specifications
+
+- **Weight**: 100.0 lbs  
+- **Length**: 4.0 ft  
+- **Diameter**: 8.0 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: None  
+
+**Requirements**:  
+
+## Performance
+
+- **Warhead Weight**: 75.0 lbs  
+- **Damage**: 35  
+- **Accuracy Rating**: 4/10  
+- **Reliability Rating**: 8/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+Incendiary bomb with napalm
+

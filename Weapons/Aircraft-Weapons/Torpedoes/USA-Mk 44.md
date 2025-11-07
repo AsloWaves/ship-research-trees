@@ -1,0 +1,50 @@
+---
+designation: Mk 44
+common_name: Lightweight Torpedo
+nation: USA
+type: Torpedo
+introduced: 1956
+retired: 1968
+service_life: 1956-1968
+tags: [torpedo, lightweight-torpedo, usa]
+---
+
+# Mk 44 Lightweight Torpedo
+
+## Overview
+
+**Nation**: USA  
+**Category**: Torpedo  
+**Service Life**: 1956-1968  
+
+## Physical Specifications
+
+- **Weight**: 450.0 lbs  
+- **Length**: 8.4 ft  
+- **Diameter**: 12.8 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: Acoustic  
+
+**Requirements**:  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 1  
+
+## Performance
+
+- **Range**: 3.0 nm  
+- **Warhead Weight**: 75.0 lbs  
+- **Damage**: 200  
+- **Accuracy Rating**: 7/10  
+- **Reliability Rating**: 7/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+RETIRED: First lightweight ASW torpedo. 30 knot speed, 5.5km range. HBX-3 warhead. Seawater battery powered. Designed for helicopter and fixed-wing aircraft launch. 10,500 produced. Superseded by Mk 46.
+

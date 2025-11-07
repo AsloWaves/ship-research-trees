@@ -1,0 +1,49 @@
+---
+designation: Mk 64
+common_name: Quickstrike Mine
+nation: USA
+type: Naval Mine
+introduced: 1983
+retired: Active
+service_life: 1983-Present
+tags: [naval-mine, quickstrike-mine, usa]
+---
+
+# Mk 64 Quickstrike Mine
+
+## Overview
+
+**Nation**: USA  
+**Category**: Naval Mine  
+**Service Life**: 1983-Present  
+
+## Physical Specifications
+
+- **Weight**: 2,055.0 lbs  
+- **Length**: 10.8 ft  
+- **Diameter**: 18.0 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: Bottom Mine  
+
+**Requirements**:  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 2  
+
+## Performance
+
+- **Warhead Weight**: 945.0 lbs  
+- **Damage**: 480  
+- **Accuracy Rating**: 8/10  
+- **Reliability Rating**: 8/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+OPERATIONAL: 2000 lb Quickstrike mine. Modified Mk 84 bomb with TDD. Largest air-delivered mine. 40-200 ft depth. High explosive warhead for large vessels or submarines.
+

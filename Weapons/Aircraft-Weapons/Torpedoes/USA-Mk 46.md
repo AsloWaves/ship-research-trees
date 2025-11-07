@@ -1,0 +1,50 @@
+---
+designation: Mk 46
+common_name: Lightweight Torpedo
+nation: USA
+type: Torpedo
+introduced: 1963
+retired: 2015
+service_life: 1963-2015
+tags: [torpedo, lightweight-torpedo, usa]
+---
+
+# Mk 46 Lightweight Torpedo
+
+## Overview
+
+**Nation**: USA  
+**Category**: Torpedo  
+**Service Life**: 1963-2015  
+
+## Physical Specifications
+
+- **Weight**: 568.0 lbs  
+- **Length**: 8.5 ft  
+- **Diameter**: 12.8 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: Acoustic  
+
+**Requirements**:  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 2  
+
+## Performance
+
+- **Range**: 6.0 nm  
+- **Warhead Weight**: 95.0 lbs  
+- **Damage**: 220  
+- **Accuracy Rating**: 8/10  
+- **Reliability Rating**: 8/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+Anti-submarine torpedo, carried by aircraft and ships
+

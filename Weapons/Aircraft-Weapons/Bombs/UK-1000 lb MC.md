@@ -1,0 +1,47 @@
+---
+designation: 1000 lb MC
+common_name: Medium Capacity Bomb
+nation: UK
+type: Gravity Bomb
+introduced: 1942
+retired: 1955
+service_life: 1942-1955
+tags: [gravity-bomb, medium-capacity-bomb, uk]
+---
+
+# 1000 lb MC Medium Capacity Bomb
+
+## Overview
+
+**Nation**: UK  
+**Category**: Gravity Bomb  
+**Service Life**: 1942-1955  
+
+## Physical Specifications
+
+- **Weight**: 1,000.0 lbs  
+- **Length**: 6.0 ft  
+- **Diameter**: 17.7 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: Unguided  
+
+**Requirements**:  
+
+## Performance
+
+- **Warhead Weight**: 480.0 lbs  
+- **Damage**: 165  
+- **Accuracy Rating**: 4/10  
+- **Reliability Rating**: 8/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+RETIRED: UK 1000 lb Medium Capacity general purpose bomb. 480 lbs explosive fill. Replaced 1000 lb GP in 1942. 203,000 produced in 1944 alone. 184cm length, 45cm diameter. Used extensively by Fleet Air Arm in WWII. More efficient than GP design.
+

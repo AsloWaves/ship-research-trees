@@ -1,0 +1,49 @@
+---
+designation: Mk 90
+common_name: Betty Nuclear Depth Charge
+nation: USA
+type: Depth Charge
+introduced: 1952
+retired: 1960
+service_life: 1952-1960
+tags: [depth-charge, betty-nuclear-depth-charge, usa]
+---
+
+# Mk 90 Betty Nuclear Depth Charge
+
+## Overview
+
+**Nation**: USA  
+**Category**: Depth Charge  
+**Service Life**: 1952-1960  
+
+## Physical Specifications
+
+- **Weight**: 1,243.0 lbs  
+- **Length**: 10.2 ft  
+- **Diameter**: 31.5 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: Gravity  
+
+**Requirements**:  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 1  
+
+## Performance
+
+- **Warhead Weight**: 32,000.0 lbs  
+- **Damage**: 850  
+- **Accuracy Rating**: 4/10  
+- **Reliability Rating**: 6/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+RETIRED: Nuclear depth charge with Mark 7 warhead. 32 kiloton yield. Cold War ASW weapon. 225 units produced. Withdrawn from service 1960. Replaced by more advanced nuclear depth bombs.
+

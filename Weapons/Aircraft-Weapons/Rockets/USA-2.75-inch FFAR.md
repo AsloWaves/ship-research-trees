@@ -1,0 +1,50 @@
+---
+designation: 2.75-inch FFAR
+common_name: Mighty Mouse
+nation: USA
+type: Unguided Rocket
+introduced: 1956
+retired: Active
+service_life: 1956-Present
+tags: [unguided-rocket, mighty-mouse, usa]
+---
+
+# 2.75-inch FFAR Mighty Mouse
+
+## Overview
+
+**Nation**: USA  
+**Category**: Unguided Rocket  
+**Service Life**: 1956-Present  
+
+## Physical Specifications
+
+- **Weight**: 19.0 lbs  
+- **Length**: 4.5 ft  
+- **Diameter**: 2.8 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: None  
+
+**Requirements**:  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 1  
+
+## Performance
+
+- **Range**: 2.0 nm  
+- **Warhead Weight**: 6.0 lbs  
+- **Damage**: 12  
+- **Accuracy Rating**: 6/10  
+- **Reliability Rating**: 8/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+Folding-Fin Aerial Rocket, used in large pods
+

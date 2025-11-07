@@ -1,0 +1,33 @@
+---
+designation: E-2C Hawkeye
+aircraft_id: 3092
+nation: USA
+type: AEW
+introduced: 1973
+tags: [naval-aircraft, aew, usa]
+---
+
+# E-2C Hawkeye
+
+## Overview
+**Nation**: USA
+**Type**: AEW
+**Role**: Airborne early warning
+**Year**: 1973
+
+## Physical Specifications
+- **Wingspan**: 80.6 ft
+- **Length**: 80.6 ft
+- **Empty Weight**: 30000 lbs
+- **Max Takeoff Weight**: 18600 lbs
+
+## Performance
+- **Maximum Speed**: 500 mph
+- **Cruise Speed**: 500 mph
+- **Service Ceiling**: 40000 ft
+
+## Powerplant
+- **Engine**: Piston radial
+
+## Carrier Operations
+- **Carrier Capable**: 0

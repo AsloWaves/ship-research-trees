@@ -1,0 +1,49 @@
+---
+designation: Mk 63
+common_name: Quickstrike (1000lb)
+nation: USA
+type: Gravity Bomb
+introduced: 1983
+retired: Active
+service_life: 1983-Present
+tags: [gravity-bomb, quickstrike-(1000lb), usa]
+---
+
+# Mk 63 Quickstrike (1000lb)
+
+## Overview
+
+**Nation**: USA  
+**Category**: Gravity Bomb  
+**Service Life**: 1983-Present  
+
+## Physical Specifications
+
+- **Weight**: 1,070.0 lbs  
+- **Length**: 10.0 ft  
+- **Diameter**: 14.0 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: None  
+
+**Requirements**:  
+- Requires Electrical Interface  
+- Minimum Fire Control Generation: 1  
+
+## Performance
+
+- **Warhead Weight**: 445.0 lbs  
+- **Damage**: 280  
+- **Accuracy Rating**: 8/10  
+- **Reliability Rating**: 9/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+Air-dropped mine, Mk 83 based
+

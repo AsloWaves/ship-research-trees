@@ -1,0 +1,48 @@
+---
+designation: Mk 13-3
+common_name: Aerial Torpedo
+nation: USA
+type: Torpedo
+introduced: 1944
+retired: 1951
+service_life: 1944-1951
+tags: [torpedo, aerial-torpedo, usa]
+---
+
+# Mk 13-3 Aerial Torpedo
+
+## Overview
+
+**Nation**: USA  
+**Category**: Torpedo  
+**Service Life**: 1944-1951  
+
+## Physical Specifications
+
+- **Weight**: 2,216.0 lbs  
+- **Length**: 13.5 ft  
+- **Diameter**: 22.4 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: None  
+
+**Requirements**:  
+
+## Performance
+
+- **Range**: 3.0 nm  
+- **Warhead Weight**: 600.0 lbs  
+- **Damage**: 300  
+- **Accuracy Rating**: 7/10  
+- **Reliability Rating**: 8/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+Improved WWII torpedo, used at Midway and beyond
+

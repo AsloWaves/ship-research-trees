@@ -1,0 +1,47 @@
+---
+designation: Mk 83
+common_name: 1000lb Bomb
+nation: USA
+type: Gravity Bomb
+introduced: 1943
+retired: Active
+service_life: 1943-Present
+tags: [gravity-bomb, 1000lb-bomb, usa]
+---
+
+# Mk 83 1000lb Bomb
+
+## Overview
+
+**Nation**: USA  
+**Category**: Gravity Bomb  
+**Service Life**: 1943-Present  
+
+## Physical Specifications
+
+- **Weight**: 1,000.0 lbs  
+- **Length**: 10.0 ft  
+- **Diameter**: 14.0 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: None  
+
+**Requirements**:  
+
+## Performance
+
+- **Warhead Weight**: 445.0 lbs  
+- **Damage**: 100  
+- **Accuracy Rating**: 4/10  
+- **Reliability Rating**: 9/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+Standard unguided 1000lb general purpose bomb.
+

@@ -1,0 +1,47 @@
+---
+designation: Mk 17
+common_name: 350lb Depth Charge
+nation: USA
+type: Gravity Bomb
+introduced: 1942
+retired: 1960
+service_life: 1942-1960
+tags: [gravity-bomb, 350lb-depth-charge, usa]
+---
+
+# Mk 17 350lb Depth Charge
+
+## Overview
+
+**Nation**: USA  
+**Category**: Gravity Bomb  
+**Service Life**: 1942-1960  
+
+## Physical Specifications
+
+- **Weight**: 350.0 lbs  
+- **Length**: 3.0 ft  
+- **Diameter**: 14.5 inches  
+
+## Guidance & Requirements
+
+**Guidance Type**: None  
+
+**Requirements**:  
+
+## Performance
+
+- **Warhead Weight**: 234.0 lbs  
+- **Damage**: 150  
+- **Accuracy Rating**: 6/10  
+- **Reliability Rating**: 9/10  
+
+## Compatible Aircraft
+
+See aircraft database for compatibility information.  
+This weapon can be carried by any aircraft with appropriate hardpoints and fire control generation.  
+
+## Notes
+
+Anti-submarine depth charge
+
