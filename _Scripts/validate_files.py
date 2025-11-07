@@ -15,8 +15,13 @@ def check_yaml_format(filepath):
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        # Proper format: starts with --- and ends with ---
+        # Proper format: starts with --- (optionally after title) and ends with ---
+        # Accept: ---\n at start OR # Title\n\n---\n after title
         if content.strip().startswith('---\n') and '\n---\n' in content:
+            return 'proper'
+
+        # Also accept: # Title\n\n---\n (title before YAML)
+        if content.startswith('# ') and '\n\n---\n' in content and '\n---\n' in content:
             return 'proper'
 
         # Code block format (not ideal)

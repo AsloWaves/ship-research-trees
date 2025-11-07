@@ -15,7 +15,7 @@
 
 ## Issue Breakdown
 
-- **YAML Format Issues**: 765 files
+- **YAML Format Issues**: 16 files
 - **Too Short**: 292 files (likely incomplete)
 - **Missing Sections**: 2954 files
 
@@ -23,312 +23,262 @@
 
 ### Ships
 
-- `Ships\USA\Battleships\Alaska-Class.md` (124 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Alaska-Class.md` (122 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Colorado-Class.md` (71 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Colorado-Class.md` (69 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Connecticut-Class.md` (67 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Connecticut-Class.md` (65 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Delaware-Class.md` (72 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Delaware-Class.md` (70 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Florida-Class.md` (72 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Florida-Class.md` (70 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Illinois-Class.md` (71 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Illinois-Class.md` (69 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Indiana-Class-BB.md` (70 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Indiana-Class-BB.md` (68 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Iowa-Class-BB-4.md` (65 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Iowa-Class-BB-4.md` (63 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Iowa-Class.md` (96 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Iowa-Class.md` (94 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Kearsarge-Class.md` (71 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Kearsarge-Class.md` (69 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Lexington-Class-Battlecruiser.md` (130 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Lexington-Class-Battlecruiser.md` (128 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Maine-Class-BB.md` (67 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Maine-Class-BB.md` (65 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Montana-Class.md` (126 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Montana-Class.md` (124 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Nevada-Class.md` (70 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Nevada-Class.md` (68 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\New Mexico-Class.md` (73 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\New Mexico-Class.md` (71 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\New York-Class-BB.md` (72 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\New York-Class-BB.md` (70 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\North Carolina-Class.md` (71 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\North Carolina-Class.md` (69 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Pennsylvania-Class.md` (72 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Pennsylvania-Class.md` (70 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\South Carolina-Class.md` (70 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\South Carolina-Class.md` (68 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\South Dakota-Class-1920.md` (137 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\South Dakota-Class-1920.md` (135 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\South Dakota-Class-BB.md` (73 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\South Dakota-Class-BB.md` (71 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Tennessee-Class-BB.md` (72 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Tennessee-Class-BB.md` (70 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Tillman-Maximum-Battleships.md` (264 lines)
-  - YAML format: code_block (should be proper)
-  - Too long: 264 lines (expected 60-100)
+- `Ships\USA\Battleships\Tillman-Maximum-Battleships.md` (262 lines)
+  - Too long: 262 lines (expected 60-100)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Virginia-Class-BB.md` (74 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Virginia-Class-BB.md` (72 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Battleships\Wyoming-Class.md` (72 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Battleships\Wyoming-Class.md` (70 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
 - `Ships\USA\Carriers\Bogue-Class.md` (64 lines)
-  - YAML format: code_block (should be proper)
   - Missing sections: Overview, Specifications, Performance, Armament
 - `Ships\USA\Carriers\Casablanca-Class.md` (69 lines)
-  - YAML format: code_block (should be proper)
   - Missing sections: Overview, Specifications, Performance, Armament
 - `Ships\USA\Carriers\Commencement-Bay-Class.md` (69 lines)
-  - YAML format: code_block (should be proper)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\CVV-Medium-Carrier.md` (147 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Carriers\CVV-Medium-Carrier.md` (145 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\Enterprise-Class-CVN.md` (67 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Carriers\Enterprise-Class-CVN.md` (65 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\Essex-Class.md` (73 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Carriers\Essex-Class.md` (71 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
 - `Ships\USA\Carriers\Essex-SCB-27A-Class.md` (75 lines)
-  - YAML format: code_block (should be proper)
   - Missing sections: Overview, Specifications, Performance, Armament
 - `Ships\USA\Carriers\Essex-SCB-27C-Class.md` (78 lines)
-  - YAML format: code_block (should be proper)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\Forrestal-Class.md` (71 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Carriers\Forrestal-Class.md` (69 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\Gerald R. Ford-Class.md` (80 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Carriers\Gerald R. Ford-Class.md` (78 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\Independence-Class.md` (67 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Carriers\Independence-Class.md` (65 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
 - `Ships\USA\Carriers\John-F-Kennedy-Class.md` (72 lines)
-  - YAML format: code_block (should be proper)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\Kitty Hawk-Class.md` (70 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Carriers\Kitty Hawk-Class.md` (68 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\Langley-Class.md` (65 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Carriers\Langley-Class.md` (63 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\Lexington-Class-CV.md` (65 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Carriers\Lexington-Class-CV.md` (63 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\Midway-Class.md` (70 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Carriers\Midway-Class.md` (68 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
 - `Ships\USA\Carriers\Midway-SCB-110-Class.md` (80 lines)
-  - YAML format: code_block (should be proper)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\Nimitz-Class.md` (72 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Carriers\Nimitz-Class.md` (70 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
 - `Ships\USA\Carriers\Nimitz-CVN-71-Class.md` (82 lines)
-  - YAML format: code_block (should be proper)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\Ranger-Class.md` (64 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Carriers\Ranger-Class.md` (62 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
 - `Ships\USA\Carriers\Saipan-Class.md` (66 lines)
-  - YAML format: code_block (should be proper)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\Sea-Control-Ship-SCS.md` (233 lines)
-  - YAML format: code_block (should be proper)
-  - Too long: 233 lines (expected 60-100)
+- `Ships\USA\Carriers\Sea-Control-Ship-SCS.md` (231 lines)
+  - Too long: 231 lines (expected 60-100)
   - Missing sections: Overview, Specifications, Performance, Armament
 - `Ships\USA\Carriers\Thetis-Bay-Class.md` (68 lines)
-  - YAML format: code_block (should be proper)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\United States-Class-CVA-58.md` (107 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Carriers\United States-Class-CVA-58.md` (105 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
-- `Ships\USA\Carriers\Wasp-Class-CV.md` (63 lines)
-  - YAML format: code_block (should be proper)
+- `Ships\USA\Carriers\Wasp-Class-CV.md` (61 lines)
   - Missing sections: Overview, Specifications, Performance, Armament
 
 **Total Ships Non-Compliant:** 756
 
 ### Aircraft
 
-- `Aircraft\USA\Land-Air-Superiority\F-15A Eagle.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Air-Superiority\F-15A Eagle.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Air-Superiority\F-15C Eagle.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Air-Superiority\F-15C Eagle.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Attack-Helo\AH-1 Cobra.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Attack-Helo\AH-1 Cobra.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Attack-Helo\AH-64A Apache.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Attack-Helo\AH-64A Apache.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Attack-Helo\AH-64D Longbow Apache.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Attack-Helo\AH-64D Longbow Apache.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Attack-Helo\AH-64E Guardian.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Attack-Helo\AH-64E Guardian.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Close-Air-Support\A-10A Thunderbolt II.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Close-Air-Support\A-10A Thunderbolt II.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Close-Air-Support\A-10C Thunderbolt II.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Close-Air-Support\A-10C Thunderbolt II.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Export-Fighter\F-5 Freedom Fighter.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Export-Fighter\F-5 Freedom Fighter.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Export-Fighter\F-5E Tiger II.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Export-Fighter\F-5E Tiger II.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Fighter\P-38 Lightning.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Fighter\P-38 Lightning.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Fighter\P-38J Lightning.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Fighter\P-38J Lightning.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Fighter\P-47 Thunderbolt.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Fighter\P-47 Thunderbolt.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Fighter\P-47D Thunderbolt.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Fighter\P-47D Thunderbolt.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Fighter\P-51 Mustang.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Fighter\P-51 Mustang.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Gunship\AC-130H Spectre.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Gunship\AC-130H Spectre.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Gunship\AC-130J Ghostrider.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Gunship\AC-130J Ghostrider.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Gunship\AC-130U Spooky.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Gunship\AC-130U Spooky.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Heavy-Bomber\B-17 Flying Fortress.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Heavy-Bomber\B-17 Flying Fortress.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Heavy-Bomber\B-17G Flying Fortress.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Heavy-Bomber\B-17G Flying Fortress.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Heavy-Bomber\B-24 Liberator.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Heavy-Bomber\B-24 Liberator.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Heavy-Bomber\B-29 Superfortress.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Heavy-Bomber\B-29 Superfortress.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Heavy-Transport-Helo\CH-47A Chinook.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Heavy-Transport-Helo\CH-47A Chinook.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Heavy-Transport-Helo\CH-47D Chinook.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Heavy-Transport-Helo\CH-47D Chinook.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Heavy-Transport-Helo\CH-47F Chinook.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Heavy-Transport-Helo\CH-47F Chinook.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Interceptor\F-104 Starfighter.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Interceptor\F-104 Starfighter.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Jet-Fighter\F-100 Super Sabre.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Jet-Fighter\F-100 Super Sabre.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Jet-Fighter\F-84 Thunderjet.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Jet-Fighter\F-84 Thunderjet.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Jet-Fighter\F-86 Sabre.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Jet-Fighter\F-86 Sabre.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Jet-Fighter\P-80 Shooting Star.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Jet-Fighter\P-80 Shooting Star.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Multi-Role\F-15E Strike Eagle.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Multi-Role\F-15E Strike Eagle.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Multi-Role\F-15EX Eagle II.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Multi-Role\F-15EX Eagle II.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Multi-Role\F-16A Fighting Falcon.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Multi-Role\F-16A Fighting Falcon.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Multi-Role\F-16C Block 30.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Multi-Role\F-16C Block 30.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Multi-Role\F-16C Block 52.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Multi-Role\F-16C Block 52.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Multi-Role\F-16V Viper.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Multi-Role\F-16V Viper.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Multi-Role\F-4C Phantom II.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Multi-Role\F-4C Phantom II.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Multi-Role\F-4E Phantom II.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Multi-Role\F-4E Phantom II.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Reconnaissance\SR-71 Blackbird.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Reconnaissance\SR-71 Blackbird.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Reconnaissance\U-2A Dragon Lady.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Reconnaissance\U-2A Dragon Lady.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Reconnaissance\U-2R Dragon Lady.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Reconnaissance\U-2R Dragon Lady.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Stealth-Bomber\B-21 Raider.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Stealth-Bomber\B-21 Raider.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Stealth-Bomber\B-2A Spirit.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Stealth-Bomber\B-2A Spirit.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Stealth-Fighter\F-22A Raptor.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Stealth-Fighter\F-22A Raptor.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Stealth-Multi-Role\F-35A Lightning II.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Stealth-Multi-Role\F-35A Lightning II.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Strategic-Bomber\B-1B Lancer.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Strategic-Bomber\B-1B Lancer.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Strategic-Bomber\B-36 Peacemaker.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Strategic-Bomber\B-36 Peacemaker.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Strategic-Bomber\B-47 Stratojet.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Strategic-Bomber\B-47 Stratojet.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Strategic-Bomber\B-52 Stratofortress.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Strategic-Bomber\B-52 Stratofortress.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
-- `Aircraft\USA\Land-Strategic-Bomber\B-52H Stratofortress.md` (31 lines)
-  - Too short: 31 lines (expected 80-120, may be incomplete)
+- `Aircraft\USA\Land-Strategic-Bomber\B-52H Stratofortress.md` (32 lines)
+  - Too short: 32 lines (expected 80-120, may be incomplete)
   - Missing sections: Armament
 
 **Total Aircraft Non-Compliant:** 277
@@ -339,110 +289,103 @@
   - YAML format: none (should be proper)
   - Missing sections: Overview, Specifications
 - `Weapons\Naval-Guns\database\ground_aircraft_database.md` (609 lines)
-  - YAML format: none (should be proper)
   - Missing sections: Overview, Specifications
 - `Weapons\Naval-Guns\database\naval_aircraft_database.md` (477 lines)
-  - YAML format: none (should be proper)
   - Missing sections: Overview, Specifications
 - `Weapons\Naval-Guns\database\naval_bombs_database.md` (240 lines)
   - YAML format: none (should be proper)
   - Missing sections: Specifications
 - `Weapons\Naval-Guns\database\naval_guns_database.md` (23671 lines)
-  - YAML format: none (should be proper)
   - Missing sections: Overview, Specifications
 - `Weapons\Naval-Guns\database\naval_missiles_database.md` (501 lines)
-  - YAML format: none (should be proper)
   - Missing sections: Overview, Specifications
 - `Weapons\Naval-Guns\database\naval_ships_database.md` (1762 lines)
-  - YAML format: none (should be proper)
   - Missing sections: Overview, Specifications
 - `Weapons\Naval-Guns\database\naval_torpedoes_database.md` (415 lines)
-  - YAML format: none (should be proper)
   - Missing sections: Overview, Specifications
 - `Weapons\Naval-Guns\database\ship_research_tree_database.md` (2582 lines)
-  - YAML format: none (should be proper)
   - Missing sections: Overview, Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1000-5inch-Triple.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1000-5inch-Triple.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1001-5inch-Twin.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1001-5inch-Twin.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1002-5inch-Quad.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1002-5inch-Quad.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1003-5inch-Single.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1003-5inch-Single.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1004-5inch-Triple.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1004-5inch-Triple.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1005-5inch-Twin.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1005-5inch-Twin.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1006-5inch-Quad.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1006-5inch-Quad.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1007-5inch-Single.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1007-5inch-Single.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1008-5inch-Triple.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1008-5inch-Triple.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1009-5inch-Twin.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1009-5inch-Twin.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1010-5inch-Quad.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1010-5inch-Quad.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1011-5inch-Triple.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1011-5inch-Triple.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1012-5inch-Quad.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1012-5inch-Quad.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1013-5inch-Single.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1013-5inch-Single.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1014-5inch-Triple.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1014-5inch-Triple.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1015-5inch-Twin.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1015-5inch-Twin.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1016-5inch-Quad.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1016-5inch-Quad.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1017-5inch-Single.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1017-5inch-Single.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1018-5inch-Triple.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1018-5inch-Triple.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1019-5inch-Twin.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1019-5inch-Twin.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1020-5inch-Quad.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1020-5inch-Quad.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1021-5inch-Single.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1021-5inch-Single.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1022-5inch-Triple.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1022-5inch-Triple.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1023-5inch-Twin.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1023-5inch-Twin.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1024-5inch-Quad.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1024-5inch-Quad.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1025-5inch-Single.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1025-5inch-Single.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1026-5inch-Triple.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1026-5inch-Triple.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1027-5inch-Twin.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1027-5inch-Twin.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1028-5inch-Quad.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1028-5inch-Quad.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1029-5inch-Single.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1029-5inch-Single.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1030-5inch-Triple.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1030-5inch-Triple.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1031-5inch-Twin.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1031-5inch-Twin.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1032-5inch-Quad.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1032-5inch-Quad.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1033-5inch-Single.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1033-5inch-Single.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1034-5inch-Triple.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1034-5inch-Triple.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1035-5inch-Twin.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1035-5inch-Twin.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1036-5inch-Quad.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1036-5inch-Quad.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1037-5inch-Single.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1037-5inch-Single.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1038-5inch-Triple.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1038-5inch-Triple.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1039-5inch-Twin.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1039-5inch-Twin.md` (53 lines)
   - Missing sections: Specifications
-- `Weapons\Naval-Guns\Turrets\USA\1040-5inch-Quad.md` (52 lines)
+- `Weapons\Naval-Guns\Turrets\USA\1040-5inch-Quad.md` (53 lines)
   - Missing sections: Specifications
 
 **Total Weapons Non-Compliant:** 1921
@@ -468,86 +411,86 @@
 - `Ships\USA\Transports-Amphibious\President Jackson-Class-APA.md` (32 lines)
 - `Ships\USA\Transports-Amphibious\Sumter-Class-APA.md` (33 lines)
 - `Ships\USA\Transports-Amphibious\Windsor-Class-APA.md` (38 lines)
-- `Aircraft\USA\Land-Air-Superiority\F-15A Eagle.md` (31 lines)
-- `Aircraft\USA\Land-Air-Superiority\F-15C Eagle.md` (31 lines)
-- `Aircraft\USA\Land-Attack-Helo\AH-1 Cobra.md` (31 lines)
-- `Aircraft\USA\Land-Attack-Helo\AH-64A Apache.md` (31 lines)
-- `Aircraft\USA\Land-Attack-Helo\AH-64D Longbow Apache.md` (31 lines)
-- `Aircraft\USA\Land-Attack-Helo\AH-64E Guardian.md` (31 lines)
-- `Aircraft\USA\Land-Close-Air-Support\A-10A Thunderbolt II.md` (31 lines)
-- `Aircraft\USA\Land-Close-Air-Support\A-10C Thunderbolt II.md` (31 lines)
-- `Aircraft\USA\Land-Export-Fighter\F-5 Freedom Fighter.md` (31 lines)
-- `Aircraft\USA\Land-Export-Fighter\F-5E Tiger II.md` (31 lines)
-- `Aircraft\USA\Land-Fighter\P-38 Lightning.md` (31 lines)
-- `Aircraft\USA\Land-Fighter\P-38J Lightning.md` (31 lines)
-- `Aircraft\USA\Land-Fighter\P-47 Thunderbolt.md` (31 lines)
-- `Aircraft\USA\Land-Fighter\P-47D Thunderbolt.md` (31 lines)
-- `Aircraft\USA\Land-Fighter\P-51 Mustang.md` (31 lines)
-- `Aircraft\USA\Land-Gunship\AC-130H Spectre.md` (31 lines)
-- `Aircraft\USA\Land-Gunship\AC-130J Ghostrider.md` (31 lines)
-- `Aircraft\USA\Land-Gunship\AC-130U Spooky.md` (31 lines)
-- `Aircraft\USA\Land-Heavy-Bomber\B-17 Flying Fortress.md` (31 lines)
-- `Aircraft\USA\Land-Heavy-Bomber\B-17G Flying Fortress.md` (31 lines)
-- `Aircraft\USA\Land-Heavy-Bomber\B-24 Liberator.md` (31 lines)
-- `Aircraft\USA\Land-Heavy-Bomber\B-29 Superfortress.md` (31 lines)
-- `Aircraft\USA\Land-Heavy-Transport-Helo\CH-47A Chinook.md` (31 lines)
-- `Aircraft\USA\Land-Heavy-Transport-Helo\CH-47D Chinook.md` (31 lines)
-- `Aircraft\USA\Land-Heavy-Transport-Helo\CH-47F Chinook.md` (31 lines)
-- `Aircraft\USA\Land-Interceptor\F-104 Starfighter.md` (31 lines)
-- `Aircraft\USA\Land-Jet-Fighter\F-100 Super Sabre.md` (31 lines)
-- `Aircraft\USA\Land-Jet-Fighter\F-84 Thunderjet.md` (31 lines)
-- `Aircraft\USA\Land-Jet-Fighter\F-86 Sabre.md` (31 lines)
-- `Aircraft\USA\Land-Jet-Fighter\P-80 Shooting Star.md` (31 lines)
-- `Aircraft\USA\Land-Multi-Role\F-15E Strike Eagle.md` (31 lines)
-- `Aircraft\USA\Land-Multi-Role\F-15EX Eagle II.md` (31 lines)
-- `Aircraft\USA\Land-Multi-Role\F-16A Fighting Falcon.md` (31 lines)
-- `Aircraft\USA\Land-Multi-Role\F-16C Block 30.md` (31 lines)
-- `Aircraft\USA\Land-Multi-Role\F-16C Block 52.md` (31 lines)
-- `Aircraft\USA\Land-Multi-Role\F-16V Viper.md` (31 lines)
-- `Aircraft\USA\Land-Multi-Role\F-4C Phantom II.md` (31 lines)
-- `Aircraft\USA\Land-Multi-Role\F-4E Phantom II.md` (31 lines)
-- `Aircraft\USA\Land-Reconnaissance\SR-71 Blackbird.md` (31 lines)
-- `Aircraft\USA\Land-Reconnaissance\U-2A Dragon Lady.md` (31 lines)
-- `Aircraft\USA\Land-Reconnaissance\U-2R Dragon Lady.md` (31 lines)
-- `Aircraft\USA\Land-Stealth-Bomber\B-21 Raider.md` (31 lines)
-- `Aircraft\USA\Land-Stealth-Bomber\B-2A Spirit.md` (31 lines)
-- `Aircraft\USA\Land-Stealth-Fighter\F-22A Raptor.md` (31 lines)
-- `Aircraft\USA\Land-Stealth-Multi-Role\F-35A Lightning II.md` (31 lines)
-- `Aircraft\USA\Land-Strategic-Bomber\B-1B Lancer.md` (31 lines)
-- `Aircraft\USA\Land-Strategic-Bomber\B-36 Peacemaker.md` (31 lines)
-- `Aircraft\USA\Land-Strategic-Bomber\B-47 Stratojet.md` (31 lines)
-- `Aircraft\USA\Land-Strategic-Bomber\B-52 Stratofortress.md` (31 lines)
-- `Aircraft\USA\Land-Strategic-Bomber\B-52H Stratofortress.md` (31 lines)
-- `Aircraft\USA\Land-Strategic-Bomber\FB-111A.md` (31 lines)
-- `Aircraft\USA\Land-Strategic-Transport\C-141 Starlifter.md` (31 lines)
-- `Aircraft\USA\Land-Strategic-Transport\C-17 Globemaster III.md` (31 lines)
-- `Aircraft\USA\Land-Strategic-Transport\C-5A Galaxy.md` (31 lines)
-- `Aircraft\USA\Land-Strategic-Transport\C-5M Super Galaxy.md` (31 lines)
-- `Aircraft\USA\Land-Strike\F-105 Thunderchief.md` (31 lines)
-- `Aircraft\USA\Land-Strike\F-111 Aardvark.md` (31 lines)
-- `Aircraft\USA\Land-Supersonic-Bomber\B-58 Hustler.md` (31 lines)
-- `Aircraft\USA\Land-Tanker\KC-10 Extender.md` (31 lines)
-- `Aircraft\USA\Land-Tanker\KC-135 Stratotanker.md` (31 lines)
-- `Aircraft\USA\Land-Tanker\KC-46 Pegasus.md` (31 lines)
-- `Aircraft\USA\Land-Transport\C-119 Flying Boxcar.md` (31 lines)
-- `Aircraft\USA\Land-Transport\C-130A Hercules.md` (31 lines)
-- `Aircraft\USA\Land-Transport\C-130H Hercules.md` (31 lines)
-- `Aircraft\USA\Land-Transport\C-130J Super Hercules.md` (31 lines)
-- `Aircraft\USA\Land-Transport\C-47 Skytrain.md` (31 lines)
-- `Aircraft\USA\Land-Transport\C-54 Skymaster.md` (31 lines)
-- `Aircraft\USA\Land-UAV-Attack\MQ-9 Reaper.md` (31 lines)
-- `Aircraft\USA\Land-UAV-Multi-Role\MQ-9B Sky Guardian.md` (31 lines)
-- `Aircraft\USA\Land-UAV-Recon\RQ-4 Global Hawk.md` (31 lines)
-- `Aircraft\USA\Land-Utility-Helo\UH-1 Iroquois.md` (31 lines)
-- `Aircraft\USA\Land-Utility-Helo\UH-1H Huey.md` (31 lines)
-- `Aircraft\USA\Land-Utility-Helo\UH-60A Black Hawk.md` (31 lines)
-- `Aircraft\USA\Land-Utility-Helo\UH-60M Black Hawk.md` (31 lines)
-- `Aircraft\USA\Naval-AEW\E-1 Tracer.md` (33 lines)
-- `Aircraft\USA\Naval-AEW\E-2A Hawkeye.md` (33 lines)
-- `Aircraft\USA\Naval-AEW\E-2C Group II.md` (33 lines)
-- `Aircraft\USA\Naval-AEW\E-2C Hawkeye.md` (33 lines)
-- `Aircraft\USA\Naval-AEW\E-2D Advanced Hawkeye.md` (33 lines)
-- `Aircraft\USA\Naval-ASW\S-2 Tracker.md` (33 lines)
-- `Aircraft\USA\Naval-ASW\S-2E Tracker.md` (33 lines)
-- `Aircraft\USA\Naval-ASW\S-3A Viking.md` (33 lines)
-- `Aircraft\USA\Naval-ASW\S-3B Viking.md` (33 lines)
+- `Aircraft\USA\Land-Air-Superiority\F-15A Eagle.md` (32 lines)
+- `Aircraft\USA\Land-Air-Superiority\F-15C Eagle.md` (32 lines)
+- `Aircraft\USA\Land-Attack-Helo\AH-1 Cobra.md` (32 lines)
+- `Aircraft\USA\Land-Attack-Helo\AH-64A Apache.md` (32 lines)
+- `Aircraft\USA\Land-Attack-Helo\AH-64D Longbow Apache.md` (32 lines)
+- `Aircraft\USA\Land-Attack-Helo\AH-64E Guardian.md` (32 lines)
+- `Aircraft\USA\Land-Close-Air-Support\A-10A Thunderbolt II.md` (32 lines)
+- `Aircraft\USA\Land-Close-Air-Support\A-10C Thunderbolt II.md` (32 lines)
+- `Aircraft\USA\Land-Export-Fighter\F-5 Freedom Fighter.md` (32 lines)
+- `Aircraft\USA\Land-Export-Fighter\F-5E Tiger II.md` (32 lines)
+- `Aircraft\USA\Land-Fighter\P-38 Lightning.md` (32 lines)
+- `Aircraft\USA\Land-Fighter\P-38J Lightning.md` (32 lines)
+- `Aircraft\USA\Land-Fighter\P-47 Thunderbolt.md` (32 lines)
+- `Aircraft\USA\Land-Fighter\P-47D Thunderbolt.md` (32 lines)
+- `Aircraft\USA\Land-Fighter\P-51 Mustang.md` (32 lines)
+- `Aircraft\USA\Land-Gunship\AC-130H Spectre.md` (32 lines)
+- `Aircraft\USA\Land-Gunship\AC-130J Ghostrider.md` (32 lines)
+- `Aircraft\USA\Land-Gunship\AC-130U Spooky.md` (32 lines)
+- `Aircraft\USA\Land-Heavy-Bomber\B-17 Flying Fortress.md` (32 lines)
+- `Aircraft\USA\Land-Heavy-Bomber\B-17G Flying Fortress.md` (32 lines)
+- `Aircraft\USA\Land-Heavy-Bomber\B-24 Liberator.md` (32 lines)
+- `Aircraft\USA\Land-Heavy-Bomber\B-29 Superfortress.md` (32 lines)
+- `Aircraft\USA\Land-Heavy-Transport-Helo\CH-47A Chinook.md` (32 lines)
+- `Aircraft\USA\Land-Heavy-Transport-Helo\CH-47D Chinook.md` (32 lines)
+- `Aircraft\USA\Land-Heavy-Transport-Helo\CH-47F Chinook.md` (32 lines)
+- `Aircraft\USA\Land-Interceptor\F-104 Starfighter.md` (32 lines)
+- `Aircraft\USA\Land-Jet-Fighter\F-100 Super Sabre.md` (32 lines)
+- `Aircraft\USA\Land-Jet-Fighter\F-84 Thunderjet.md` (32 lines)
+- `Aircraft\USA\Land-Jet-Fighter\F-86 Sabre.md` (32 lines)
+- `Aircraft\USA\Land-Jet-Fighter\P-80 Shooting Star.md` (32 lines)
+- `Aircraft\USA\Land-Multi-Role\F-15E Strike Eagle.md` (32 lines)
+- `Aircraft\USA\Land-Multi-Role\F-15EX Eagle II.md` (32 lines)
+- `Aircraft\USA\Land-Multi-Role\F-16A Fighting Falcon.md` (32 lines)
+- `Aircraft\USA\Land-Multi-Role\F-16C Block 30.md` (32 lines)
+- `Aircraft\USA\Land-Multi-Role\F-16C Block 52.md` (32 lines)
+- `Aircraft\USA\Land-Multi-Role\F-16V Viper.md` (32 lines)
+- `Aircraft\USA\Land-Multi-Role\F-4C Phantom II.md` (32 lines)
+- `Aircraft\USA\Land-Multi-Role\F-4E Phantom II.md` (32 lines)
+- `Aircraft\USA\Land-Reconnaissance\SR-71 Blackbird.md` (32 lines)
+- `Aircraft\USA\Land-Reconnaissance\U-2A Dragon Lady.md` (32 lines)
+- `Aircraft\USA\Land-Reconnaissance\U-2R Dragon Lady.md` (32 lines)
+- `Aircraft\USA\Land-Stealth-Bomber\B-21 Raider.md` (32 lines)
+- `Aircraft\USA\Land-Stealth-Bomber\B-2A Spirit.md` (32 lines)
+- `Aircraft\USA\Land-Stealth-Fighter\F-22A Raptor.md` (32 lines)
+- `Aircraft\USA\Land-Stealth-Multi-Role\F-35A Lightning II.md` (32 lines)
+- `Aircraft\USA\Land-Strategic-Bomber\B-1B Lancer.md` (32 lines)
+- `Aircraft\USA\Land-Strategic-Bomber\B-36 Peacemaker.md` (32 lines)
+- `Aircraft\USA\Land-Strategic-Bomber\B-47 Stratojet.md` (32 lines)
+- `Aircraft\USA\Land-Strategic-Bomber\B-52 Stratofortress.md` (32 lines)
+- `Aircraft\USA\Land-Strategic-Bomber\B-52H Stratofortress.md` (32 lines)
+- `Aircraft\USA\Land-Strategic-Bomber\FB-111A.md` (32 lines)
+- `Aircraft\USA\Land-Strategic-Transport\C-141 Starlifter.md` (32 lines)
+- `Aircraft\USA\Land-Strategic-Transport\C-17 Globemaster III.md` (32 lines)
+- `Aircraft\USA\Land-Strategic-Transport\C-5A Galaxy.md` (32 lines)
+- `Aircraft\USA\Land-Strategic-Transport\C-5M Super Galaxy.md` (32 lines)
+- `Aircraft\USA\Land-Strike\F-105 Thunderchief.md` (32 lines)
+- `Aircraft\USA\Land-Strike\F-111 Aardvark.md` (32 lines)
+- `Aircraft\USA\Land-Supersonic-Bomber\B-58 Hustler.md` (32 lines)
+- `Aircraft\USA\Land-Tanker\KC-10 Extender.md` (32 lines)
+- `Aircraft\USA\Land-Tanker\KC-135 Stratotanker.md` (32 lines)
+- `Aircraft\USA\Land-Tanker\KC-46 Pegasus.md` (32 lines)
+- `Aircraft\USA\Land-Transport\C-119 Flying Boxcar.md` (32 lines)
+- `Aircraft\USA\Land-Transport\C-130A Hercules.md` (32 lines)
+- `Aircraft\USA\Land-Transport\C-130H Hercules.md` (32 lines)
+- `Aircraft\USA\Land-Transport\C-130J Super Hercules.md` (32 lines)
+- `Aircraft\USA\Land-Transport\C-47 Skytrain.md` (32 lines)
+- `Aircraft\USA\Land-Transport\C-54 Skymaster.md` (32 lines)
+- `Aircraft\USA\Land-UAV-Attack\MQ-9 Reaper.md` (32 lines)
+- `Aircraft\USA\Land-UAV-Multi-Role\MQ-9B Sky Guardian.md` (32 lines)
+- `Aircraft\USA\Land-UAV-Recon\RQ-4 Global Hawk.md` (32 lines)
+- `Aircraft\USA\Land-Utility-Helo\UH-1 Iroquois.md` (32 lines)
+- `Aircraft\USA\Land-Utility-Helo\UH-1H Huey.md` (32 lines)
+- `Aircraft\USA\Land-Utility-Helo\UH-60A Black Hawk.md` (32 lines)
+- `Aircraft\USA\Land-Utility-Helo\UH-60M Black Hawk.md` (32 lines)
+- `Aircraft\USA\Naval-AEW\E-1 Tracer.md` (34 lines)
+- `Aircraft\USA\Naval-AEW\E-2A Hawkeye.md` (34 lines)
+- `Aircraft\USA\Naval-AEW\E-2C Group II.md` (34 lines)
+- `Aircraft\USA\Naval-AEW\E-2C Hawkeye.md` (34 lines)
+- `Aircraft\USA\Naval-AEW\E-2D Advanced Hawkeye.md` (34 lines)
+- `Aircraft\USA\Naval-ASW\S-2 Tracker.md` (34 lines)
+- `Aircraft\USA\Naval-ASW\S-2E Tracker.md` (34 lines)
+- `Aircraft\USA\Naval-ASW\S-3A Viking.md` (34 lines)
+- `Aircraft\USA\Naval-ASW\S-3B Viking.md` (34 lines)
