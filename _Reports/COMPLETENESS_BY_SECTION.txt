@@ -1,0 +1,776 @@
+================================================================================
+COMPREHENSIVE COMPLETENESS ANALYSIS
+Type -> Country -> Subtype Breakdown
+================================================================================
+
+================================================================================
+SHIPS - COMPLETENESS BY TYPE AND NATION
+================================================================================
+
+### Germany
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Battleships                59          0          0        0         0.0%
+Carriers                   15          0          0        0         0.0%
+Cruisers                   37          0          0        0         0.0%
+Destroyers                 39          0          0        0         0.0%
+Submarines                 45          0          0        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                     195          0                             0.0%
+
+### Great-Britain
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Battleships                32          0          0        0         0.0%
+Carriers                   20          0          0        0         0.0%
+Cruisers                   46          0          0        0         0.0%
+Destroyers                 45          0          0        0         0.0%
+Submarines                 34          0          0        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                     177          0                             0.0%
+
+### Japan
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Battleships                18          0          0        0         0.0%
+Carriers                   20          0          0        0         0.0%
+Cruisers                    3          0          0        0         0.0%
+Destroyers                 30          0          0        0         0.0%
+Destroyers-Modern          11          0          0        0         0.0%
+Frigates-Modern             1          0          0        0         0.0%
+Heavy-Cruisers             10          0          0        0         0.0%
+Helicopter-Destroyers        2          0          0        0         0.0%
+Light-Cruisers             19          0          0        0         0.0%
+Submarines                 20          0          0        0         0.0%
+Submarines-Modern           3          0          0        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                     137          0                             0.0%
+
+### Overviews
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Germany                     5          0          0        0         0.0%
+Great-Britain               7          0          0        0         0.0%
+Japan                       5          0          0        0         0.0%
+USA                         7          0          0        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                      24          0                             0.0%
+
+### USA
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Battleships                25          0          0        0         0.0%
+Carriers                   26          0          0        0         0.0%
+Cruisers                   49          0          0        0         0.0%
+Destroyers                 32          0          0        0         0.0%
+Submarines                 61          0          0        0         0.0%
+Transports-Amphibious       54          0          0        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                     247          0                             0.0%
+
+================================================================================
+SHIPS - NATION COMPARISON
+================================================================================
+
+Nation                Total Files     Complete    %Complete   Type Coverage
+--------------------------------------------------------------------------------
+Battleships                   134            0         0.0%               4
+Carriers                       81            0         0.0%               4
+Cruisers                      135            0         0.0%               4
+Destroyers                    146            0         0.0%               4
+Destroyers-Modern              11            0         0.0%               1
+Frigates-Modern                 1            0         0.0%               1
+Germany                         5            0         0.0%               1
+Great-Britain                   7            0         0.0%               1
+Heavy-Cruisers                 10            0         0.0%               1
+Helicopter-Destroyers            2            0         0.0%               1
+Japan                           5            0         0.0%               1
+Light-Cruisers                 19            0         0.0%               1
+Submarines                    160            0         0.0%               4
+Submarines-Modern               3            0         0.0%               1
+Transports-Amphibious           54            0         0.0%               1
+USA                             7            0         0.0%               1
+--------------------------------------------------------------------------------
+OVERALL                       780            0         0.0%
+
+================================================================================
+SHIPS - CONTENT GAPS ANALYSIS
+================================================================================
+
+Types with significant nation gaps (some nations < 50% of average):
+--------------------------------------------------------------------------------
+
+Germany:
+  Average: 39.0 files | Max: 59 | Min: 15
+  Nations below 50% of average:
+    - Carriers: 15 files (38.5% of average)
+
+Japan:
+  Average: 12.5 files | Max: 30 | Min: 1
+  Nations below 50% of average:
+    - Cruisers: 3 files (24.1% of average)
+    - Frigates-Modern: 1 files (8.0% of average)
+    - Helicopter-Destroyers: 2 files (16.1% of average)
+    - Submarines-Modern: 3 files (24.1% of average)
+
+--------------------------------------------------------------------------------
+Missing Types by Nation:
+--------------------------------------------------------------------------------
+
+Battleships: Missing 1 type(s)
+  - Overviews
+
+Carriers: Missing 1 type(s)
+  - Overviews
+
+Cruisers: Missing 1 type(s)
+  - Overviews
+
+Destroyers: Missing 1 type(s)
+  - Overviews
+
+Destroyers-Modern: Missing 4 type(s)
+  - Germany
+  - Great-Britain
+  - Overviews
+  - USA
+
+Frigates-Modern: Missing 4 type(s)
+  - Germany
+  - Great-Britain
+  - Overviews
+  - USA
+
+Germany: Missing 4 type(s)
+  - Germany
+  - Great-Britain
+  - Japan
+  - USA
+
+Great-Britain: Missing 4 type(s)
+  - Germany
+  - Great-Britain
+  - Japan
+  - USA
+
+Heavy-Cruisers: Missing 4 type(s)
+  - Germany
+  - Great-Britain
+  - Overviews
+  - USA
+
+Helicopter-Destroyers: Missing 4 type(s)
+  - Germany
+  - Great-Britain
+  - Overviews
+  - USA
+
+Japan: Missing 4 type(s)
+  - Germany
+  - Great-Britain
+  - Japan
+  - USA
+
+Light-Cruisers: Missing 4 type(s)
+  - Germany
+  - Great-Britain
+  - Overviews
+  - USA
+
+Submarines: Missing 1 type(s)
+  - Overviews
+
+Submarines-Modern: Missing 4 type(s)
+  - Germany
+  - Great-Britain
+  - Overviews
+  - USA
+
+Transports-Amphibious: Missing 4 type(s)
+  - Germany
+  - Great-Britain
+  - Japan
+  - Overviews
+
+USA: Missing 4 type(s)
+  - Germany
+  - Great-Britain
+  - Japan
+  - USA
+
+================================================================================
+AIRCRAFT - COMPLETENESS BY TYPE AND NATION
+================================================================================
+
+### 00_GB_Aircraft_Research_Tree.md
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Research-Trees              1          0          0        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                       1          0                             0.0%
+
+### 00_GB_Weapons_Overview.md
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Research-Trees              1          0          0        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                       1          0                             0.0%
+
+### 00_US_Aircraft_Research_Tree.md
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Research-Trees              1          0          0        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                       1          0                             0.0%
+
+### Land-Bomber
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Germany                     3          0          3        0         0.0%
+Great-Britain               5          0          5        0         0.0%
+USA                        13          0         13        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                      21          0                             0.0%
+
+### Land-EW
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Germany                     1          0          1        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                       1          0                             0.0%
+
+### Land-Fighter
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Germany                     7          0          7        0         0.0%
+Great-Britain               9          0          9        0         0.0%
+Japan                       9          0          8        0         0.0%
+USA                        17          0         15        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                      42          0                             0.0%
+
+### Land-Helicopter
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Germany                     5          0          5        0         0.0%
+Great-Britain               4          0          4        0         0.0%
+Japan                       7          0          7        0         0.0%
+USA                        14          0         14        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                      30          0                             0.0%
+
+### Land-Reconnaissance
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Great-Britain               2          0          0        0         0.0%
+Japan                       1          0          0        0         0.0%
+USA                         8          0          3        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                      11          0                             0.0%
+
+### Land-Strike
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Germany                     4          0          4        0         0.0%
+Great-Britain               3          0          2        0         0.0%
+Japan                       6          0          6        0         0.0%
+USA                        13          0         13        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                      26          0                             0.0%
+
+### Land-Trainer
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+USA                         1          0          0        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                       1          0                             0.0%
+
+### Land-Transport
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Germany                     2          0          2        0         0.0%
+Great-Britain               3          0          3        0         0.0%
+Japan                       4          0          4        0         0.0%
+USA                        13          0         13        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                      22          0                             0.0%
+
+### Land-UAV
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+USA                         3          0          3        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                       3          0                             0.0%
+
+### Land-V
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Great-Britain               2          0          2        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                       2          0                             0.0%
+
+### Naval-AEW
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Great-Britain               2          0          2        0         0.0%
+USA                         5          0          5        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                       7          0                             0.0%
+
+### Naval-ASW
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Germany                     5          0          5        0         0.0%
+Great-Britain               6          0          6        0         0.0%
+Japan                       6          0          6        0         0.0%
+USA                         9          0          8        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                      26          0                             0.0%
+
+### Naval-Bomber
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Germany                     3          0          0        0         0.0%
+Great-Britain              11          0          2        0         0.0%
+Japan                      14          0          4        0         0.0%
+USA                        13          0          4        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                      41          0                             0.0%
+
+### Naval-Fighter
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Germany                     3          0          0        0         0.0%
+Great-Britain              22          0          9        0         0.0%
+Japan                      16          0          4        0         0.0%
+USA                        31          0         13        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                      72          0                             0.0%
+
+### Naval-Helicopter
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Germany                     6          0          6        0         0.0%
+Great-Britain               5          0          5        0         0.0%
+Japan                       9          0          9        0         0.0%
+USA                         7          0          7        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                      27          0                             0.0%
+
+### Naval-Reconnaissance
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Germany                     2          0          0        0         0.0%
+Great-Britain               4          0          0        0         0.0%
+Japan                       4          0          0        0         0.0%
+USA                         9          0          6        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                      19          0                             0.0%
+
+### Naval-SAR
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Japan                       1          0          1        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                       1          0                             0.0%
+
+### Naval-Strike
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Germany                     3          0          3        0         0.0%
+Great-Britain               9          0          6        0         0.0%
+Japan                       1          0          1        0         0.0%
+USA                        20          0         13        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                      33          0                             0.0%
+
+### Naval-UAV
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+USA                         1          0          1        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                       1          0                             0.0%
+
+### Naval-V
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Great-Britain               4          0          4        0         0.0%
+Japan                       1          0          1        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                       5          0                             0.0%
+
+================================================================================
+AIRCRAFT - NATION COMPARISON
+================================================================================
+
+Nation                Total Files     Complete    %Complete   Type Coverage
+--------------------------------------------------------------------------------
+Germany                        44            0         0.0%              12
+Great-Britain                  91            0         0.0%              15
+Japan                          79            0         0.0%              13
+Research-Trees                  3            0         0.0%               3
+USA                           177            0         0.0%              16
+--------------------------------------------------------------------------------
+OVERALL                       394            0         0.0%
+
+================================================================================
+AIRCRAFT - CONTENT GAPS ANALYSIS
+================================================================================
+
+Types with significant nation gaps (some nations < 50% of average):
+--------------------------------------------------------------------------------
+
+Land-Bomber:
+  Average: 7.0 files | Max: 13 | Min: 3
+  Nations below 50% of average:
+    - Germany: 3 files (42.9% of average)
+
+Land-Strike:
+  Average: 6.5 files | Max: 13 | Min: 3
+  Nations below 50% of average:
+    - Great-Britain: 3 files (46.2% of average)
+
+Land-Transport:
+  Average: 5.5 files | Max: 13 | Min: 2
+  Nations below 50% of average:
+    - Germany: 2 files (36.4% of average)
+
+Naval-Bomber:
+  Average: 10.2 files | Max: 14 | Min: 3
+  Nations below 50% of average:
+    - Germany: 3 files (29.3% of average)
+
+Naval-Fighter:
+  Average: 18.0 files | Max: 31 | Min: 3
+  Nations below 50% of average:
+    - Germany: 3 files (16.7% of average)
+
+Naval-Strike:
+  Average: 8.2 files | Max: 20 | Min: 1
+  Nations below 50% of average:
+    - Japan: 1 files (12.1% of average)
+    - Germany: 3 files (36.4% of average)
+
+--------------------------------------------------------------------------------
+Missing Types by Nation:
+--------------------------------------------------------------------------------
+
+Germany: Missing 11 type(s)
+  - 00_GB_Aircraft_Research_Tree.md
+  - 00_GB_Weapons_Overview.md
+  - 00_US_Aircraft_Research_Tree.md
+  - Land-Reconnaissance
+  - Land-Trainer
+  - Land-UAV
+  - Land-V
+  - Naval-AEW
+  - Naval-SAR
+  - Naval-UAV
+  - Naval-V
+
+Great-Britain: Missing 8 type(s)
+  - 00_GB_Aircraft_Research_Tree.md
+  - 00_GB_Weapons_Overview.md
+  - 00_US_Aircraft_Research_Tree.md
+  - Land-EW
+  - Land-Trainer
+  - Land-UAV
+  - Naval-SAR
+  - Naval-UAV
+
+Japan: Missing 10 type(s)
+  - 00_GB_Aircraft_Research_Tree.md
+  - 00_GB_Weapons_Overview.md
+  - 00_US_Aircraft_Research_Tree.md
+  - Land-Bomber
+  - Land-EW
+  - Land-Trainer
+  - Land-UAV
+  - Land-V
+  - Naval-AEW
+  - Naval-UAV
+
+Research-Trees: Missing 20 type(s)
+  - Land-Bomber
+  - Land-EW
+  - Land-Fighter
+  - Land-Helicopter
+  - Land-Reconnaissance
+  - Land-Strike
+  - Land-Trainer
+  - Land-Transport
+  - Land-UAV
+  - Land-V
+  - Naval-AEW
+  - Naval-ASW
+  - Naval-Bomber
+  - Naval-Fighter
+  - Naval-Helicopter
+  - Naval-Reconnaissance
+  - Naval-SAR
+  - Naval-Strike
+  - Naval-UAV
+  - Naval-V
+
+USA: Missing 7 type(s)
+  - 00_GB_Aircraft_Research_Tree.md
+  - 00_GB_Weapons_Overview.md
+  - 00_US_Aircraft_Research_Tree.md
+  - Land-EW
+  - Land-V
+  - Naval-SAR
+  - Naval-V
+
+================================================================================
+WEAPONS - COMPLETENESS BY TYPE AND NATION
+================================================================================
+
+### Aircraft-Weapons
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Bombs                      53         53          0        0       100.0%
+Depth-Charges              10         10          0        0       100.0%
+Mines                       5          5          0        0       100.0%
+Missiles                   47         47          0        0       100.0%
+Practice-Munitions          6          6          0        0       100.0%
+Rockets                    10         10          0        0       100.0%
+Torpedoes                   9          9          0        0       100.0%
+--------------------------------------------------------------------------------
+TOTAL                     140        140                           100.0%
+
+### Bombs
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+British                    22          0         22        0         0.0%
+German                     17          0         17        0         0.0%
+Japanese                   18          0         18        0         0.0%
+USA                        50          0         50        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                     107          0                             0.0%
+
+### Missiles
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+British                    37          0         37        0         0.0%
+German                     26          0         26        0         0.0%
+Japanese                   32          0         32        0         0.0%
+USA                        97          0         97        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                     192          0                             0.0%
+
+### Naval-Guns
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Ammunition                 72         72          0        0       100.0%
+Guns                      372          0        372        0         0.0%
+Turrets                  1700       1700          0        0       100.0%
+database                    8          0          0        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                    2152       1772                            82.3%
+
+### Research-Trees
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+Bombs                       5          0          0        0         0.0%
+Missiles                    4          0          0        0         0.0%
+Torpedoes                   4          0          0        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                      13          0                             0.0%
+
+### Torpedoes
+--------------------------------------------------------------------------------
+Country                 Total   Complete    Partial     Stub    %Complete
+--------------------------------------------------------------------------------
+British                    56          0         56        0         0.0%
+German                     54          0         54        0         0.0%
+Japanese                   62          0         62        0         0.0%
+USA                        62          0         62        0         0.0%
+--------------------------------------------------------------------------------
+TOTAL                     234          0                             0.0%
+
+================================================================================
+WEAPONS - NATION COMPARISON
+================================================================================
+
+Nation                Total Files     Complete    %Complete   Type Coverage
+--------------------------------------------------------------------------------
+Ammunition                     72           72       100.0%               1
+Bombs                          58           53        91.4%               2
+British                       115            0         0.0%               3
+Depth-Charges                  10           10       100.0%               1
+German                         97            0         0.0%               3
+Guns                          372            0         0.0%               1
+Japanese                      112            0         0.0%               3
+Mines                           5            5       100.0%               1
+Missiles                       51           47        92.2%               2
+Practice-Munitions              6            6       100.0%               1
+Rockets                        10           10       100.0%               1
+Torpedoes                      13            9        69.2%               2
+Turrets                      1700         1700       100.0%               1
+USA                           209            0         0.0%               3
+database                        8            0         0.0%               1
+--------------------------------------------------------------------------------
+OVERALL                      2838         1912        67.4%
+
+================================================================================
+WEAPONS - CONTENT GAPS ANALYSIS
+================================================================================
+
+Types with significant nation gaps (some nations < 50% of average):
+--------------------------------------------------------------------------------
+
+Aircraft-Weapons:
+  Average: 20.0 files | Max: 53 | Min: 5
+  Nations below 50% of average:
+    - Torpedoes: 9 files (45.0% of average)
+    - Practice-Munitions: 6 files (30.0% of average)
+    - Mines: 5 files (25.0% of average)
+
+Naval-Guns:
+  Average: 538.0 files | Max: 1700 | Min: 8
+  Nations below 50% of average:
+    - database: 8 files (1.5% of average)
+    - Ammunition: 72 files (13.4% of average)
+
+--------------------------------------------------------------------------------
+Missing Types by Nation:
+--------------------------------------------------------------------------------
+
+Ammunition: Missing 5 type(s)
+  - Aircraft-Weapons
+  - Bombs
+  - Missiles
+  - Research-Trees
+  - Torpedoes
+
+Bombs: Missing 4 type(s)
+  - Bombs
+  - Missiles
+  - Naval-Guns
+  - Torpedoes
+
+British: Missing 3 type(s)
+  - Aircraft-Weapons
+  - Naval-Guns
+  - Research-Trees
+
+Depth-Charges: Missing 5 type(s)
+  - Bombs
+  - Missiles
+  - Naval-Guns
+  - Research-Trees
+  - Torpedoes
+
+German: Missing 3 type(s)
+  - Aircraft-Weapons
+  - Naval-Guns
+  - Research-Trees
+
+Guns: Missing 5 type(s)
+  - Aircraft-Weapons
+  - Bombs
+  - Missiles
+  - Research-Trees
+  - Torpedoes
+
+Japanese: Missing 3 type(s)
+  - Aircraft-Weapons
+  - Naval-Guns
+  - Research-Trees
+
+Mines: Missing 5 type(s)
+  - Bombs
+  - Missiles
+  - Naval-Guns
+  - Research-Trees
+  - Torpedoes
+
+Missiles: Missing 4 type(s)
+  - Bombs
+  - Missiles
+  - Naval-Guns
+  - Torpedoes
+
+Practice-Munitions: Missing 5 type(s)
+  - Bombs
+  - Missiles
+  - Naval-Guns
+  - Research-Trees
+  - Torpedoes
+
+Rockets: Missing 5 type(s)
+  - Bombs
+  - Missiles
+  - Naval-Guns
+  - Research-Trees
+  - Torpedoes
+
+Torpedoes: Missing 4 type(s)
+  - Bombs
+  - Missiles
+  - Naval-Guns
+  - Torpedoes
+
+Turrets: Missing 5 type(s)
+  - Aircraft-Weapons
+  - Bombs
+  - Missiles
+  - Research-Trees
+  - Torpedoes
+
+USA: Missing 3 type(s)
+  - Aircraft-Weapons
+  - Naval-Guns
+  - Research-Trees
+
+database: Missing 5 type(s)
+  - Aircraft-Weapons
+  - Bombs
+  - Missiles
+  - Research-Trees
+  - Torpedoes
+
+================================================================================
+OVERALL REPOSITORY SUMMARY
+================================================================================
+
+Total files tracked: 3094
+Complete files: 1912
+Overall completion: 61.8%
+
+================================================================================
+ANALYSIS COMPLETE
+================================================================================
