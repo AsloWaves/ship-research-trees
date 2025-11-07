@@ -3,7 +3,7 @@
 ## Overview
 The L and M-class destroyers were 16 ships built 1939-1941 as part of the Emergency War Programme following the outbreak of WWII. They were essentially repeats of the J/K/N-class with minor improvements, optimized for rapid wartime construction. The class saw extensive WWII service in the Mediterranean, Atlantic, and Arctic, with heavy losses.
 
-```yaml
+---
 class_name: L-M-Class
 hull_numbers: Various L and M names (16 ships total)
 ships_built: 16 (8 L-class, 8 M-class)
@@ -23,7 +23,7 @@ crew: 183
 armament: "6× 4.7-inch guns, 1× 4-inch AA, 4-8× 20mm, 10× 21-inch torpedo tubes"
 torpedoes: 10× 21-inch torpedo tubes (2× quintuple mounts)
 tags: [destroyer, l-m-class, emergency-programme, 1939-1941, wwii, mediterranean, arctic-convoys]
-```
+---
 
 ## Specifications
 

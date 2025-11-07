@@ -1,6 +1,6 @@
 # Nürnberg (Second Leipzig-Class Ship)
 
-```yaml
+---
 class_name: Nürnberg (Leipzig-Class, Ship 2)
 hull_numbers: Nürnberg
 ships_built: 1 (second Leipzig-class ship)
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [light-cruiser, nürnberg, 1935, last-german-light-cruiser, leipzig-class-ship-2, 9x15cm-guns, barents-sea, soviet-war-prize, admiral-makarov, 1946-1959, kriegsmarine, ww2]
 ---
-```
+---
 
 **Last German Light Cruiser (Second Leipzig-Class Ship)** - Commissioned 1935, last German light cruiser built. Second and final Leipzig-class ship. 6,710 tons, 9× 15cm guns in triple turrets, 32 knots. Named after famous WWI cruiser SMS Nürnberg (sunk at Falklands 1914). **Battle of Barents Sea** (31 Dec 1942): Damaged by HMS Sheffield, failed to destroy Convoy JW 51B. Surrendered Copenhagen 1945. **Soviet war prize 1946**: Served as **Admiral Makarov** (Soviet Navy, 1946-1959, 14 years), longest post-war service of any German WWII cruiser. Scrapped Tallinn 1960.
 

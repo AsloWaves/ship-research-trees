@@ -3,7 +3,7 @@
 ## Overview
 The F, G, H, and I-classes were the final pre-war flotilla groups built 1934-1937, with 36 ships total (9 per class). They represented the peak development of the standard inter war destroyer before the larger Tribal-class. All served extensively in WWII with heavy losses across all theaters.
 
-```yaml
+---
 class_name: F/G/H/I-Class
 hull_numbers: Various
 ships_built: 36 (9 per class)
@@ -29,7 +29,7 @@ secondary_guns: "2-8× 2-pounder/20mm AA"
 torpedo_tubes: "8× 21-inch (2 quad)"
 aircraft: 0
 tags: [destroyer, f-class, g-class, h-class, i-class, 1934-1937, interwar, ww2-heavy-losses]
-```
+---
 
 ## Specifications
 

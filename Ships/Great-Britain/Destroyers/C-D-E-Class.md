@@ -3,7 +3,7 @@
 ## Overview
 The C, D, and E-classes were successive flotilla groups built 1931-1934, with 27 ships total (C-Class: 5, D-Class: 9, E-Class: 9 + 4 repeats). They featured progressive improvements in AA armament and fire control while maintaining the successful A/B-class design formula. All served extensively in WWII across all theaters.
 
-```yaml
+---
 class_name: C/D/E-Class
 hull_numbers: Various
 ships_built: 27 (C:5, D:9, E:9+4)
@@ -29,7 +29,7 @@ secondary_guns: "2× 2-pounder AA (upgraded WWII)"
 torpedo_tubes: "8× 21-inch (2 quad)"
 aircraft: 0
 tags: [destroyer, c-class, d-class, e-class, 1931-1934, interwar, ww2-service]
-```
+---
 
 ## Specifications
 

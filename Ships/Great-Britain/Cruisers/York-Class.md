@@ -3,7 +3,7 @@
 ## Overview
 The York-class were scaled-down County-class heavy cruisers designed for economy while maintaining fighting power. Two ships featured six 8-inch guns and reduced protection, serving as an economical alternative to the expensive County-class. Both were lost in WWII.
 
-```yaml
+---
 class_name: York Class
 hull_numbers: Various
 ships_built: 2
@@ -29,7 +29,7 @@ secondary_guns: "4× 4-inch AA"
 torpedo_tubes: "6× 21-inch"
 aircraft: 1
 tags: [cruiser, heavy-cruiser, york-class, 1930, economy-cruiser, ww2]
-```
+---
 
 ## Specifications
 

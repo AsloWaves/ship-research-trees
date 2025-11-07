@@ -3,7 +3,7 @@
 ## Overview
 The Colossus-class were two dreadnought battleships built 1909-1911, refining HMS Neptune's revolutionary superfiring concept by eliminating problematic wing turrets and adopting all-centerline superfiring layout. As the direct evolution of Neptune's experimental design, Colossus-class validated the superfiring principle while demonstrating that simplicity and reliability trumped maximum gun count. HMS Colossus and HMS Hercules served throughout WWI with the Grand Fleet, participating in Jutland (1916) and North Sea operations before being scrapped 1921-1922.
 
-```yaml
+---
 class_name: Colossus-Class
 hull_numbers: Colossus, Hercules
 ships_built: 2
@@ -23,7 +23,7 @@ crew: 755
 armament: "10× 12-inch guns (superfiring layout), 16× 4-inch guns"
 armor: 11-inch belt, 11-inch barbettes, 11-inch turrets
 tags: [battleship, colossus-class, dreadnought, superfiring-turrets, 1910, all-centerline, jutland, grand-fleet, wwi]
-```
+---
 
 ## Specifications
 

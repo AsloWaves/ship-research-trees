@@ -3,7 +3,7 @@
 ## Overview
 The B-class were improved A-class destroyers with 9 ships built 1929-1930. They featured similar specifications but refined details based on A-class experience. The class served extensively in WWII, particularly in Mediterranean and Home Fleet operations, with several heroic losses.
 
-```yaml
+---
 class_name: B-Class (Beagle/Blanche Group)
 hull_numbers: Various
 ships_built: 9
@@ -29,7 +29,7 @@ secondary_guns: "2× 2-pounder AA"
 torpedo_tubes: "8× 21-inch (2 quad)"
 aircraft: 0
 tags: [destroyer, b-class, 1929, interwar, flotilla-system, ww2-service]
-```
+---
 
 ## Specifications
 

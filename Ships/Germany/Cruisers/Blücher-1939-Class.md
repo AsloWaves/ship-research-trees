@@ -1,6 +1,6 @@
 # Blücher (1939, Admiral Hipper-Class Ship 2)
 
-```yaml
+---
 class_name: Blücher (Admiral Hipper-Class, Ship 2)
 hull_numbers: Blücher
 ships_built: 1 (second Admiral Hipper-class ship)
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [heavy-cruiser, blücher-1939, 1940, admiral-hipper-class, operation-weserübung, drøbak-narrows, first-heavy-cruiser-lost-ww2, 830-killed, kriegsmarine, ww2]
 ---
-```
+---
 
 **First German Heavy Cruiser Lost WWII (Admiral Hipper-Class Ship 2)** - Commissioned 1939, second Admiral Hipper-class ship. 14,050 tons, 8× 20.3cm guns, 32 knots. Named after famous armored cruiser SMS Blücher (sunk Dogger Bank 1915). **Operation Weserübung** (Norway invasion, 9 Apr 1940): Leading German naval force to Oslo, **Drøbak Narrows disaster** - torpedoed by Norwegian coastal fortress Oscarsborg (2 torpedoes hit), heavy gunfire (28cm guns), crippled and sinking, capsized and sank (830 killed, 770 survivors). **First German heavy cruiser lost WWII**. Shortest service life of Admiral Hipper class (8 months). Prevented German seizure of Oslo on first day, Norwegian government escaped.
 

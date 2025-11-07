@@ -1,6 +1,6 @@
 # Z51-Class Destroyer (Type 1942 - Experimental Diesel, Never Completed)
 
-```yaml
+---
 class_name: Z51-Class (Type 1942 Diesel Experimental)
 hull_numbers: Z51
 ships_built: 1 (never completed)
@@ -65,7 +65,7 @@ firsts:
 # Tags
 tags: [destroyer, z51, type-1942, experimental-diesel, never-completed, extended-range, revolutionary, kriegsmarine, paper-ship]
 ---
-```
+---
 
 **Experimental Diesel Destroyer - Revolutionary Range (Never Completed)** - Single ship planned 1944: Z51. **Type 1942 experimental diesel**. **NEVER COMPLETED** (10% construction when cancelled 1945). 2,800 tons standard, **4× 12.8cm SK C/41 DP guns**, **8× 533mm torpedoes**, 37.5 knots (estimated). **REVOLUTIONARY DIESEL ENGINES** (55,000 SHP - first German DD!), **EXTENDED RANGE** (8,500 nm +70%!), optimized for Atlantic operations. Advanced radar planned. **Radical departure** from steam turbines - diesel technology unproven for destroyers. Cancelled incomplete 1945. **Experimental concept** never realized.
 

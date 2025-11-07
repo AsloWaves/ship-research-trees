@@ -1,6 +1,6 @@
 # P-Class Heavy Cruiser (Plan Z, Cancelled)
 
-```yaml
+---
 class_name: P-Class Heavy Cruiser
 hull_numbers: None (cancelled before naming)
 ships_built: 0 (12 planned, all cancelled)
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [heavy-cruiser, p-class, plan-z, cancelled, paper-ship, never-built, diesel-propulsion, 10000nm-range, 1940, kriegsmarine]
 ---
-```
+---
 
 **Plan Z Heavy Cruiser Program (Cancelled) - Never Built** - Planned class of 12 heavy cruisers under Plan Z naval expansion (1938-1939), all cancelled 1940. 17,400 tons, 6× 20.3cm guns (3× twin turrets), 33 knots. **Revolutionary diesel propulsion** (100,000 HP, 10,000 nm range at 20 knots), unprecedented endurance for commerce raiding. Reduced armament vs. Admiral Hipper class (6 guns vs. 8) for extended range capability. **All 12 ships cancelled 1940** when WWII priority shifted to U-boat construction. None ever laid down. Remained design studies only. Would have been Germany's most capable ocean-going cruisers.
 

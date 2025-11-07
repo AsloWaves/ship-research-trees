@@ -1,6 +1,6 @@
 # Type VIIA Submarine (First Production Model - Type VII Standard 1936)
 
-```yaml
+---
 class_name: Type VIIA Submarine (First Production Type VII)
 hull_numbers: U-27 to U-36
 ships_built: 10
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, type-viia, first-production, type-vii-standard, 10-boats, atlantic, kriegsmarine, 1936]
 ---
-```
+---
 
 **First Production Type VII - Established the Standard** - 10 boats commissioned 1936: U-27 to U-36. **FIRST PRODUCTION TYPE VII!** Established Type VII standard that led to 709 boats total (most numerous submarine class ever!). 626 tons surfaced, **5× 53.3cm torpedo tubes** (4 bow, 1 stern), **11-14 torpedoes carried**, 17.0 knots surfaced/8.0 knots submerged. **6,200 nm range** (Atlantic capable), **1× 8.8cm SK C/35** + 1× 2cm Flak. **Saddle tank design** (Type VII signature!). All 10 boats lost in combat 1940-1941. Established template for VIIB (24 boats) and **VIIC (577-593 boats - THE workhorse!)**.
 

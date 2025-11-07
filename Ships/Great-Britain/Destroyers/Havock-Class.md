@@ -3,7 +3,7 @@
 ## Overview
 HMS Havock and HMS Hornet were the world's first torpedo boat destroyers, laid down in 1893 by Yarrow. They introduced the "destroyer" concept - fast vessels designed to destroy enemy torpedo boats while carrying their own torpedoes. These revolutionary ships established the destroyer as a distinct warship type.
 
-```yaml
+---
 class_name: Havock Class
 hull_numbers: H09, H33
 ships_built: 2
@@ -29,7 +29,7 @@ secondary_guns: 0
 torpedo_tubes: "3× 18-inch"
 aircraft: 0
 tags: [destroyer, tbd, havock-class, 1893, first-destroyer, yarrow, 26-knotter]
-```
+---
 
 ## Specifications
 

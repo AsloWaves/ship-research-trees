@@ -1,6 +1,6 @@
 # Karlsruhe-Class Light Cruisers
 
-```yaml
+---
 class_name: Karlsruhe-Class
 hull_numbers: Karlsruhe, Rostock
 ships_built: 2
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [light-cruiser, karlsruhe-class, 1914, 28-knots, karlsruhe-caribbean-raider, karlsruhe-explosion, rostock-jutland, waterline-belt, kaiserliche-marine, ww1]
 ---
-```
+---
 
 **Fast Light Cruiser Design** - 2 ships built (1914): Karlsruhe, Rostock. Enhanced Magdeburg design: faster (28.5 knots), waterline belt armor (60mm), increased torpedo armament (4× tubes vs. 2×). 4,820 tons, 12× 10.5cm SK L/45 guns. **SMS Karlsruhe**: Famous Caribbean raider (Aug-Nov 1914), sank 16 Allied merchant ships, lost to internal magazine explosion (4 Nov 1914, 263 killed, 146 survivors). **SMS Rostock**: High Seas Fleet flagship, sunk at Battle of Jutland after torpedo damage (1 Jun 1916, 14 killed, 559 survivors).
 

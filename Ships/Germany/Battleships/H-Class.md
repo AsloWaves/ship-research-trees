@@ -1,6 +1,6 @@
 # H-Class Battleship Proposals (Unbuilt)
 
-```yaml
+---
 class_name: H-Class
 hull_numbers: "H", "J", "K", "L", "M", "N" (letter designations)
 ships_built: 0 (2 keels laid, scrapped incomplete)
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [h-class, plan-z, unbuilt, never-completed, 1939, 40.6cm-guns, 50.8cm-guns, h-39, h-44, largest-battleship-design, strategic-waste, resource-misallocation, keels-scrapped, kriegsmarine, naval-megalomania]
 ---
-```
+---
 
 **Nazi Germany's Ultimate Battleship Fantasy** - Plan Z's centerpiece (approved 18 Jan 1939, war started 1 Sep 1939 = 7.5 months later!). H-39: 56,444 tons, 8× 40.6cm (16-inch) guns, 12,000 nm range (diesel). 2 keels laid (Jul-Sep 1939), construction halted immediately (30 Sep 1939, U-boat priority), scrapped Nov 1941. Design escalation: H-39 (56,444 tons) → H-41 (74,799 tons, 42cm guns) → H-42 (96,555 tons, 48cm guns) → H-43 (111,000 tons) → **H-44** (139,272 tons, 8× 50.8cm/20-inch guns, largest battleship ever designed). 300-500 million RM wasted (could have built 300-500 U-boats). Strategic delusion: Projected 1945-1948 completion, war decided before ships operational. Zero ships launched, zero operational value.
 

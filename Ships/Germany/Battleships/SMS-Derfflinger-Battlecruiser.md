@@ -1,6 +1,6 @@
 # SMS Derfflinger Battlecruiser (1914 JUTLAND SURVIVOR - Iron Dog!)
 
-```yaml
+---
 class_name: SMS Derfflinger Battlecruiser (Iron Dog of Jutland!)
 hull_numbers: SMS Derfflinger, SMS Lützow, SMS Hindenburg
 ships_built: 3
@@ -136,7 +136,7 @@ firsts:
 # Tags
 tags: [battlecruiser, sms-derfflinger, 1914, iron-dog, jutland-survivor, hms-queen-mary, scapa-flow, 17-hits-survived, 3-ships]
 ---
-```
+---
 
 **IRON DOG - 1914 Jutland Legend!** - 3 ships: **SMS DERFFLINGER** (Iron Dog!), **SMS LÜTZOW** (sunk Jutland), SMS Hindenburg (missed Jutland). **26,600 tons**, **26.5 kts**, **8× 30.5cm (12") guns** in **4× twin superfiring turrets** (2+2 layout). 300mm belt, 270mm turrets (thick for BC!). **BEST GERMAN WWI BATTLECRUISER!** **Derfflinger: IRON DOG OF JUTLAND!** Hit by **17 large-caliber shells** + medium shells! **DESTROYED HMS QUEEN MARY** (magazine explosion, 1,266 dead, 18 survivors!)! Contributed to HMS Invincible destruction! Survived incredible punishment (157 casualties but SAVED!). British called her "IRON DOG" for toughness! **Lützow: SUNK AT JUTLAND!** (Hipper's flagship). Hit by **24 shells**! Bow flooded, torpedoed by own destroyers (June 1, 1916). Hindenburg: Commissioned May 1917 (too late!). All scuttled Scapa Flow 1919. **TESTAMENT TO GERMAN ARMOR EXCELLENCE!**
 

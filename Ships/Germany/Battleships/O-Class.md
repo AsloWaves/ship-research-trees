@@ -1,6 +1,6 @@
 # O-Class Battlecruisers
 
-```yaml
+---
 class_name: O-Class
 hull_numbers: O, P, Q (letter designations)
 ships_built: 0 (design study only)
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [battlecruiser, plan-z, nazi-germany, 1939, unbuilt, never-built, 38cm-guns, hybrid-propulsion, diesel-steam, 34-knots, 15000nm-range, cruiser-killer, light-armor, ohne-panzer-quatsch, strategic-waste, 36-days-before-wwii, commerce-raider, convoy-system, kriegsmarine]
 ---
-```
+---
 
 **Plan Z's Commerce Raiding Battlecruisers (Never Built)** - 3 ships designed (O, P, Q), approved 27 Jul 1939, **WWII began 1 Sep 1939 (36 days later)**. Revolutionary hybrid diesel-steam propulsion (15,000 nm range @ 19 knots). 34 knots (fastest WWII battlecruiser design), 6× 38cm guns. Light armor (160-200mm belt) optimized for "cruiser-killer" role—dominate 8-inch cruiser escorts, flee battleships. Contracts awarded 3 shipyards, ~500-1,000 tons steel ordered, construction halted immediately (Sept 1939, U-boat priority). **Strategic obsolescence**: Designed for commerce raiding war starting 1945-1948, war began 1939. Convoy system (implemented Sept 1939) negated commerce raiding strategy. Nickname: **"Ohne Panzer Quatsch"** ("without armor nonsense").
 

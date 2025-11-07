@@ -3,7 +3,7 @@
 ## Overview
 The Eclipse-class were second-class protected cruisers designed for trade protection and colonial service. Nine ships combined reasonable speed with good armament and exceptional range. They served extensively in WWI and several saw action in major battles.
 
-```yaml
+---
 class_name: Eclipse Class
 hull_numbers: Various
 ships_built: 9
@@ -29,7 +29,7 @@ secondary_guns: "9× 12-pounder, 6× 3-pounder"
 torpedo_tubes: "3× 18-inch"
 aircraft: 0
 tags: [cruiser, protected-cruiser, eclipse-class, 1897, second-class-cruiser, wwi]
-```
+---
 
 ## Specifications
 

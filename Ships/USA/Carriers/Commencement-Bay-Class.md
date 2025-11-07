@@ -1,6 +1,6 @@
 # Commencement Bay-Class Escort Carriers
 
-```yaml
+---
 class_name: Commencement Bay-Class
 hull_numbers: CVE-105 to CVE-127 (19 commissioned, 16 cancelled)
 ships_built: 19
@@ -46,7 +46,7 @@ firsts:
 # Tags
 tags: [escort-carrier, commencement-bay, cve, wwii, korea, vietnam, ultimate-cve, 1944, 19-ships, longest-serving-cve]
 ---
-```
+---
 
 **Ultimate CVE** - Commencement Bay-class were ultimate escort carrier design. 19 ships completed 1944-1946 (16 cancelled). Largest, fastest, and most capable CVEs. Many served through Korean and Vietnam Wars.
 

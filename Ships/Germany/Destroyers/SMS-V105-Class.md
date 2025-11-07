@@ -1,6 +1,6 @@
 # SMS V105-Class Large Torpedo Boats (Type 1914 Ultimate - Pinnacle WWI)
 
-```yaml
+---
 class_name: SMS V105-Class (Type 1914 Ultimate)
 hull_numbers: V105-V116
 ships_built: 12
@@ -68,7 +68,7 @@ firsts:
 # Tags
 tags: [large-torpedo-boat, destroyer, sms-v105, type-1914-ultimate, pinnacle-ww1, 36.5-knots, dual-aa-guns, kaiserliche-marine, ww1, late-war]
 ---
-```
+---
 
 **Ultimate WWI Destroyer - Pinnacle of German Design (36.5 Knots!)** - 12 ships commissioned 1915-1916: V105-V116. **Type 1914 ultimate** design, absolute pinnacle of German WWI destroyer evolution. **854 tons** (largest WWI German destroyers), **3× 10.5cm guns**, **2× 8.8cm AA guns** (enhanced AA), **6× 50cm torpedoes**, **36.5 knots** (highest WWI speed!). **Most powerful engines ever** (22,000 SHP turbines), **longest range ever** (2,800 nm), **best seakeeping** of all WWI destroyers. Advanced fire control, improved stability for heavy seas. Late war completion (1915-1916) meant very limited combat service. **Last WWI destroyer class before Treaty of Versailles**. Represents **culmination of 18 years of German destroyer development** (1898-1916). Survivors scrapped 1919-1920 under Treaty of Versailles.
 

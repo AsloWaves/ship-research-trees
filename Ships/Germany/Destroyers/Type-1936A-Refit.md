@@ -1,6 +1,6 @@
 # Type 1936A Refit (1943 WWII Narvik Modernization - Enhanced AA & Radar)
 
-```yaml
+---
 class_name: Type 1936A Refit (1943 WWII Narvik Modernization)
 hull_numbers: Z25, Z28-Z30 survivors (~4 ships)
 ships_modernized: ~4
@@ -64,7 +64,7 @@ firsts:
 # Tags
 tags: [destroyer, type-1936a-refit, narvik-modernization, 1943-upgrade, ww2, enhanced-aa, radar, 150mm-maintained, kriegsmarine]
 ---
-```
+---
 
 **Last Narvik Modernization - Enhanced AA & Radar, 150mm Maintained!** - ~4 ships modernized 1943-1944 from surviving Type 1936A "Narvik" destroyers (Z25, Z28, Z29, Z30). **Last Narvik modernization program**. **Maintained REVOLUTIONARY 4× 15cm guns** (cruiser-level firepower!), **massively enhanced AA** (6× 37mm from 4×, 18× 20mm from 12×!), **advanced radar** (FuMO 24/25 upgraded), improved AA fire control systems. 2,640 tons standard, 8× 533mm torpedoes, 38.5 knots. **Responded to Allied air superiority** late-war (1943-1944). Extended combat effectiveness 1943-1945. **ALL modernized ships survived war** → French Navy 1945-1982! Last 150mm destroyer modernization program.
 

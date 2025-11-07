@@ -1,6 +1,6 @@
 # Type IXC/40 Submarine (Enhanced Type IX - 87 Boats! 1941)
 
-```yaml
+---
 class_name: Type IXC/40 Submarine (Enhanced Type IX)
 hull_numbers: U-167 to U-170, U-183 to U-194, U-525 to U-550, U-801 to U-806, U-841 to U-846, U-853 to U-858, U-865 to U-870, U-877, U-879, U-881, U-889, U-1221 to U-1235
 ships_built: 87
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [submarine, type-ixc-40, enhanced, 87-boats, most-numerous, 11400-nm, mass-production, kriegsmarine, 1941]
 ---
-```
+---
 
 **Enhanced Type IX - 87 Boats! Most Numerous!** - 87 boats commissioned 1941-1944: U-167 to U-1235 series. **MOST NUMEROUS TYPE IX VARIANT!** Enhanced Type IXC. 1144 tons surfaced, **6× 53.3cm torpedo tubes**, **22 torpedoes carried**, 18.3 knots surfaced/7.3 knots submerged. **11,400 nm range** (enhanced 3.6% over IXC 11,000 nm!). **87 BOATS BUILT!** - most successful Type IX production run! **Together with IXC (54): 141 boats = 72% of 194 Type IX total!** Wartime mass production 1941-1944. Global operations standard. Late-war AA armament increased (1× 3.7cm + 4-6× 2cm Flak!). Final Type IX production variant before IXD ultra-long-range.
 

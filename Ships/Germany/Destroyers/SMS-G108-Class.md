@@ -1,6 +1,6 @@
 # SMS G108-Class Torpedo Boats
 
-```yaml
+---
 class_name: SMS G108-Class
 hull_numbers: G108-G113
 ships_built: 6
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [torpedo-boat, sms-g108, 1900, improved-speed, early-turbines, starting-ship, free, 6-ships, kaiserliche-marine, pre-dreadnought]
 ---
-```
+---
 
 **Improved Torpedo Boats with Early Turbines (FREE Starting Ship)** - 6 ships commissioned 1900-1901: G108-G113. Improved S90 design with higher speed and early turbine technology. 433 tons, 3× 5cm guns, 3× 45cm torpedoes, **29 knots** (+2 knots improvement). Pioneering early steam turbine technology (turbines rare in 1900). Larger hull for better seakeeping in North Sea. FREE starting ship for tutorial purposes. Served WWI North Sea operations. Germaniawerft design (G-series). Most scrapped 1916-1920 after obsolescence.
 

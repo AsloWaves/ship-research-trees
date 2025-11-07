@@ -1,6 +1,6 @@
 # Molch Midget Submarine (Single-Man Variant - 393 Built! 1944)
 
-```yaml
+---
 class_name: Molch Midget Submarine (Single-Man Variant)
 hull_numbers: Multiple series (393 boats total)
 ships_built: 393
@@ -64,7 +64,7 @@ firsts:
 # Tags
 tags: [submarine, molch, midget, 393-boats, electric-only, 1-man-crew, battery-powered, external-torpedoes, safer-design, high-loss-rate, kriegsmarine, 1944]
 ---
-```
+---
 
 **393 BUILT! - Electric-Only Midget!** - 393 boats commissioned 1944: Multiple series totaling 393 boats (MORE than Biber 324!). **ELECTRIC-ONLY MIDGET SUBMARINE!** **11 tons surfaced**, **10.8m long (35.4 ft)**, **1-man crew**. **Battery-only propulsion** (no combustion engine - safer than Biber gasoline!). **2× external G7e torpedoes** OR 2× mines. 4.3 knots surfaced/5.0 knots submerged. **50 nm range** (battery-limited!). Simple construction (no engine!). Eliminated Biber's gasoline explosion risk. But even higher loss rate (~85%!). Minimal combat success. Transitional design leading to Seehund.
 

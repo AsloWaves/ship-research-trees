@@ -1,6 +1,6 @@
 # Kaiserin Augusta (Single Ship)
 
-```yaml
+---
 class_name: Kaiserin Augusta (Single Ship)
 hull_numbers: Kaiserin Augusta
 ships_built: 1
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [protected-cruiser, kaiserin-augusta, 1892, single-ship-class, 15cm-guns, largest-protected-cruiser, long-service, 27-years, depot-ship, kaiserliche-marine, pre-dreadnought]
 ---
-```
+---
 
 **Germany's Largest Protected Cruiser (Single Ship)** - Commissioned 1892, decommissioned 1919 (27 years service, longest-serving German cruiser). 6,318 tons, 12× 15cm guns, 18.5 knots. Largest German protected cruiser, demonstrated superiority of uniform 15cm armament over mixed calibers. Survived WWI (decommissioned 1914 due to obsolescence, converted to depot ship). Unique single-ship design, bridged gap between early protected cruisers and Victoria Louise class.
 

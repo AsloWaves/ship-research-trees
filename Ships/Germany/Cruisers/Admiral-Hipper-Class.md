@@ -1,6 +1,6 @@
 # Admiral Hipper (Lead Ship, Heavy Cruiser Class)
 
-```yaml
+---
 class_name: Admiral Hipper (Lead Ship)
 hull_numbers: Admiral Hipper
 ships_built: 1 (lead ship of 5-ship class)
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [heavy-cruiser, admiral-hipper, 1939, lead-ship, 8x20.3cm-guns, barents-sea, atlantic-operations, scuttled-1945, kriegsmarine, ww2]
 ---
-```
+---
 
 **First German Heavy Cruiser Class (Lead Ship)** - Commissioned 1939, lead ship of Germany's only heavy cruiser class. 14,050 tons, 8× 20.3cm (8-inch) guns in twin turrets, 32.5 knots. First German cruiser with 8-inch guns and advanced fire control radar. Atlantic operations (1940-1942): Commerce raiding, convoy attacks. **Battle of Barents Sea** (31 Dec 1942): Failed to destroy Convoy JW 51B, damaged by British destroyers, strategic failure. Limited operations 1943-1945 due to fuel shortages. Scuttled at Kiel (3 May 1945) to avoid Soviet capture. Raised 1945-1948, scrapped.
 

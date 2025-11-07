@@ -1,6 +1,6 @@
 # Type IIC Submarine (Enhanced Coastal - Further Range 1938)
 
-```yaml
+---
 class_name: Type IIC Submarine (Enhanced Coastal)
 hull_numbers: U-56 to U-63
 ships_built: 8
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, type-iic, coastal, enhanced, 8-boats, further-range, training-combat, kriegsmarine, 1938]
 ---
-```
+---
 
 **Enhanced Coastal - Further Range Improvement** - 8 boats commissioned 1938: U-56 to U-63. Enhanced Type IIB with further range improvement. 291 tons surfaced (refined design), **3× 53.3cm torpedo tubes** (all bow), 5 torpedoes carried, 12.0 knots surfaced/7.0 knots submerged. **3,800 nm range** (further improved from IIB 3,100 nm!), 1× 2cm Flak. **Training + combat missions** continued. Progressive Type II evolution. Final pre-war Type II variant. 8 boats built. Baltic + North Sea operations.
 

@@ -1,6 +1,6 @@
 # Bismarck-Class Battleships
 
-```yaml
+---
 class_name: Bismarck-Class
 hull_numbers: None (naming convention)
 ships_built: 2
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [battleship, bismarck-class, 1940, 38cm-guns, hms-hood, operation-rheinubung, denmark-strait, tirpitz, fleet-in-being, tallboy-bombs, operation-catechism, kriegsmarine, scuttled, capsized]
 ---
-```
+---
 
 **Germany's Largest and Most Famous Battleships** - Built 1936-1941. 8× 38cm (15-inch) guns, 50,300-52,600 tons, 30.8 knots. Bismarck: First and only sortie (Operation Rheinübung, May 1941), sank HMS Hood in 10 minutes (24 May 1941, 1,415 killed, 3 survivors = 0.2%). Fuel hit forced abort, Swordfish torpedo jammed rudder (26 May), sunk 27 May by HMS King George V/Rodney after 2,800+ shell hits (2,100 killed, 115 survivors = 5.2%). Scuttled by crew. Tirpitz: "Lonely Queen of the North" (Norway 1942-1944), never engaged enemy capital ships. "Fleet in being" tied down 4-6 British battleships. X-craft midget subs damaged Sep 1943 (6 months repair). Tallboy bombs capsized 12 Nov 1944 (Operation Catechism, 940-1,204 killed, first precision bombing of capital ship). Heaviest European battleship (52,600 tons with modifications).
 

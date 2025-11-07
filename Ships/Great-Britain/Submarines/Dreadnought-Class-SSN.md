@@ -3,7 +3,7 @@
 ## Overview
 HMS Dreadnought was Britain's first nuclear-powered submarine, commissioned in 1963. As a single prototype boat, she pioneered British nuclear submarine operations and validated the concept for the Royal Navy. Using an American S5W reactor, Dreadnought demonstrated the revolutionary capabilities of nuclear propulsion and paved the way for all subsequent British SSN and SSBN programs.
 
-```yaml
+---
 class_name: Dreadnought-Class (SSN)
 hull_numbers: S101 (Dreadnought only)
 ships_built: 1
@@ -24,7 +24,7 @@ crew: 88
 armament: "6× 21-inch torpedo tubes (bow)"
 torpedoes: 24
 tags: [submarine, dreadnought-class, ssn, 1960, nuclear-powered, prototype, first-british-nuclear, american-reactor]
-```
+---
 
 ## Specifications
 

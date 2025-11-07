@@ -1,6 +1,6 @@
 # Bussard-Class Unprotected Cruisers
 
-```yaml
+---
 class_name: Bussard-Class
 hull_numbers: Bussard, Falke, Seeadler, Cormoran, Condor, Geier
 ships_built: 6
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [unprotected-cruiser, bussard-class, 1890, colonial-service, 10.5cm-guns, triple-expansion, kaiserliche-marine, pre-dreadnought, china-station, east-africa, pacific-station, geier-honolulu]
 ---
-```
+---
 
 **Germany's First Standardized Light Cruiser Class** - 6 ships built (1890-1893): Bussard, Falke, Seeadler, Cormoran, Condor, Geier. Last unprotected cruisers built for Kaiserliche Marine. 1,612 tons, 6× 10.5cm guns, 15.5 knots. Designed for colonial service in China, East Africa, and Pacific stations. Established successful pattern for German overseas cruisers. Notable service: Geier was only German cruiser interned in USA (Honolulu, April 1917, seized when USA entered WWI). All served in WWI colonial stations, most scuttled or captured 1914-1917.
 

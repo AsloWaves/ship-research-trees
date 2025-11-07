@@ -1,6 +1,6 @@
 # M-Class Light Cruiser (Plan Z, Cancelled)
 
-```yaml
+---
 class_name: M-Class Light Cruiser
 hull_numbers: None (cancelled before naming)
 ships_built: 0 (24 planned, all cancelled)
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [light-cruiser, m-class, plan-z, cancelled, paper-ship, never-built, 36-knots, 8000nm-range, 1940, kriegsmarine]
 ---
-```
+---
 
 **Plan Z Light Cruiser Program (Cancelled) - Never Built** - Planned class of 24 light cruisers under Plan Z naval expansion (1938-1939), all cancelled 1940. 8,800 tons, 8× 15cm guns (4× twin turrets), **36 knots** (fastest German cruiser design). Improved Nürnberg design with enhanced speed, range (8,000 nm at 20 knots), and AA armament. **All 24 ships cancelled 1940** when WWII priority shifted to U-boat construction. None ever laid down. Remained design studies only. Would have been Germany's ultimate light cruiser, combining speed, endurance, and firepower.
 

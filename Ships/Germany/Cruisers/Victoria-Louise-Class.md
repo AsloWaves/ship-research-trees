@@ -1,6 +1,6 @@
 # Victoria Louise-Class Protected Cruisers
 
-```yaml
+---
 class_name: Victoria Louise-Class
 hull_numbers: Victoria Louise, Hertha, Freya, Vineta, Hansa
 ships_built: 5
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [protected-cruiser, victoria-louise-class, 1899, last-protected-cruiser, 21cm-guns, 15cm-guns, mixed-armament, transitional-design, training-ships, kaiserliche-marine, pre-dreadnought]
 ---
-```
+---
 
 **Germany's Last Protected Cruiser Class** - 5 ships built (1899-1900): Victoria Louise, Hertha, Freya, Vineta, Hansa. Transitional design between protected and armored cruisers. 5,660 tons, 2× 21cm + 8× 15cm guns, 19 knots. Mixed armament combined cruiser (15cm) and battleship (21cm) calibers. Last German cruisers with armored deck protection only (no side belt). All five survived WWI, decommissioned 1914-1916 for training/depot ship duties. Replaced by armored cruiser concept with side belt armor.
 

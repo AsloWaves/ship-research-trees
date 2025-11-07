@@ -1,6 +1,6 @@
 # Plan Z Super Carrier (1945 Ultimate WWII Design - Paper Ship)
 
-```yaml
+---
 class_name: Plan Z Super Carrier (Ultimate WWII Design)
 hull_numbers: None (paper ship)
 ships_built: 0 (paper design)
@@ -97,7 +97,7 @@ firsts:
 # Tags
 tags: [carrier, plan-z-super, 1945-design, ultimate-wwii, 60-aircraft, 48000-tons, maximum-capability, paper-ship, never-built, theoretical-maximum]
 ---
-```
+---
 
 **Ultimate WWII Carrier Design - 1945 Paper Ship!** - 0 boats: **PLAN Z SUPER CARRIER** - **Theoretical maximum WWII German carrier!** Represents peak of German carrier doctrine development. **48,000 tons** (LARGEST German design!), **34 kts**, **60+ aircraft** (MAXIMUM capacity!), **950 ft length**. **MAXIMUM DUAL-PURPOSE DESIGN**: **16× 15cm guns** (heaviest carrier armament!), **24× 10.5cm + 128× light AA = 150+ AA guns!** **3× catapults** (maximum launch rate!), **3× elevators** (optimized flow). Balanced armor: **150mm belt + 100mm flight deck** (protection + operations!). **10,000 nm range** (maximum endurance!). Combines all German carrier lessons: Graf Zeppelin dual-purpose concept + British armored survivability + maximum operational capacity. **PAPER SHIP** - pure speculation, never built. Germany never operated carriers. Represents theoretical maximum development if carrier program had continued. **NEVER BUILT!**
 

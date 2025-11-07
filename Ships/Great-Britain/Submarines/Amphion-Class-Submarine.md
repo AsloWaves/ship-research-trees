@@ -3,7 +3,7 @@
 ## Overview
 The Amphion-class (also known as A-class) were post-war fleet submarines with 16 boats built 1945-1948. They were improved wartime T-class designs with streamlined hulls, snorkels, and enhanced underwater performance. The class served extensively during the early Cold War and saw combat in the Suez Crisis and Malayan Emergency.
 
-```yaml
+---
 class_name: Amphion-Class (A-Class) Submarine
 hull_numbers: A01-A16 (Amphion, Astute, Auriga, Aurochs, Acheron, Aeneas, Affray, Alcide, Alliance, Ambush, Anchorite, Andrew, Artemis, Artful, Astute, Auriga)
 ships_built: 16
@@ -24,7 +24,7 @@ crew: 61
 armament: "10× 21-inch torpedo tubes (6 bow, 4 stern), 1× 4-inch gun (early boats)"
 torpedoes: 20
 tags: [submarine, a-class, amphion-class, 1945-1948, post-war, cold-war, streamlined, snorkel-equipped]
-```
+---
 
 ## Specifications
 

@@ -1,6 +1,6 @@
 # SMS Helgoland Dreadnought Battleship (1911 Improved - 12×30.5cm Guns, STILL Hexagonal!)
 
-```yaml
+---
 class_name: SMS Helgoland Dreadnought Battleship (Improved Dreadnought)
 hull_numbers: SMS Helgoland, SMS Ostfriesland, SMS Thüringen, SMS Oldenburg
 ships_built: 4
@@ -102,7 +102,7 @@ firsts:
 # Tags
 tags: [battleship, sms-helgoland, 1911, improved-dreadnought, 12x30.5cm-guns, hexagonal-layout, ostfriesland, billy-mitchell, airpower-revolution, jutland, 4-ships]
 ---
-```
+---
 
 **Improved German Dreadnought - 1911 Larger Guns, STILL Hexagonal!** - 4 ships: **SMS HELGOLAND**, **SMS OSTFRIESLAND** (Billy Mitchell tests!), SMS Thüringen, SMS Oldenburg. **FIRST GERMAN 12-INCH GUNS!** (30.5cm SK L/50, +25% larger than Nassau!). **22,808 tons**, **20.5 kts**, **12× 30.5cm guns** in **STILL HEXAGONAL LAYOUT** (rejected superfiring despite experiments with USS South Carolina-style!). Improved engines (28,000 ihp, +27% power!). **ALL 4 FOUGHT JUTLAND**, all survived. **SMS OSTFRIESLAND FAMOUS**: Ceded to US 1920, **Billy Mitchell bombing tests July 21, 1921** - US Army bombers **PROVED AIRCRAFT COULD SINK BATTLESHIPS!** (sunk in 21.5 minutes with 2000-lb bombs). **AIRPOWER REVOLUTION!** Vindicated Mitchell's advocacy, changed naval warfare forever! Conservative design kept inefficient hexagonal layout. Scrapped 1921-1924.
 

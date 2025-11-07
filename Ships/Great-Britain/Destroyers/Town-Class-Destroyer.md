@@ -3,7 +3,7 @@
 ## Overview
 The Town-class were 50 elderly US Navy flush-deck destroyers transferred to the Royal Navy 1940-1943 under the Destroyers for Bases Agreement. Built 1917-1920 for WWI service, these obsolete destroyers filled critical gaps during Britain's darkest hour. They served primarily on convoy escort, though age and design limitations made them marginal performers in North Atlantic conditions. The exchange cost Britain 99-year leases on Caribbean and North Atlantic bases.
 
-```yaml
+---
 class_name: Town-Class (Lend-Lease)
 hull_numbers: Various US designations (DD-60 to DD-347 series)
 ships_built: 50 (transferred from USN)
@@ -23,7 +23,7 @@ crew: 146
 armament: "3-4× 4-inch guns, 1× 3-inch AA, 3× 21-inch torpedo tubes, depth charges"
 torpedoes: 3× 21-inch torpedo tubes (1× triple mount, remaining tubes removed)
 tags: [destroyer, town-class, lend-lease, flush-deck, 1940-1943, convoy-escort, destroyers-for-bases, wwii, four-stacker]
-```
+---
 
 ## Specifications
 

@@ -3,7 +3,7 @@
 ## Overview
 The Ceres-class were a five-ship subgroup of the C-class light cruisers very similar to the Caledon-class. They featured the improved all 6-inch armament and served through both world wars.
 
-```yaml
+---
 class_name: Ceres Class (C-class)
 hull_numbers: Various
 ships_built: 5
@@ -29,7 +29,7 @@ secondary_guns: "2× 3-inch AA"
 torpedo_tubes: "8× 21-inch"
 aircraft: 0
 tags: [cruiser, light-cruiser, c-class, ceres-class, 1917, ww1, ww2]
-```
+---
 
 ## Specifications
 

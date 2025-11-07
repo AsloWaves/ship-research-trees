@@ -1,6 +1,6 @@
 # Emden (1925, Single Ship)
 
-```yaml
+---
 class_name: Emden (1925, Single Ship)
 hull_numbers: Emden
 ships_built: 1
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [light-cruiser, emden-1925, 1925, single-ship, first-post-versailles, unique-design, 8x15cm-guns, oil-only, geared-turbines, ww2-service, mine-laying, survived-ww2, scuttled-1945, kriegsmarine]
 ---
-```
+---
 
 **First Post-Versailles Treaty Cruiser (Unique Design)** - Single ship commissioned 1925. First German cruiser built after Versailles Treaty restrictions. Unique design: 5,400 tons, 8× 15cm SK C/25 guns, 29.4 knots. First oil-only firing, first geared turbines. Named after famous WWI raider SMS Emden. WWII service (1939-1945): Mine-laying operations in North Sea and Baltic. Last German cruiser to survive WWII, scuttled in Heikendorfer Bay (3 May 1945) to avoid Soviet capture. Raised 1949, scrapped.
 

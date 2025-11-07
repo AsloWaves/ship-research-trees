@@ -3,7 +3,7 @@
 ## Overview
 The Blake-class were large first-class protected cruisers designed for commerce protection and distant station service. HMS Blake and HMS Blenheim were among the largest protected cruisers built, featuring powerful armament and exceptional range. They served into WWI in secondary roles.
 
-```yaml
+---
 class_name: Blake Class
 hull_numbers: Various
 ships_built: 2
@@ -29,7 +29,7 @@ secondary_guns: "16× 6-pounder, 12× 3-pounder"
 torpedo_tubes: "2× 18-inch"
 aircraft: 0
 tags: [cruiser, protected-cruiser, blake-class, 1892, first-class-cruiser, large-cruiser]
-```
+---
 
 ## Specifications
 

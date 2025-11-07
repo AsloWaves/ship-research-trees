@@ -1,6 +1,6 @@
 # Seydlitz (Admiral Hipper-Class Ship 4, Incomplete)
 
-```yaml
+---
 class_name: Seydlitz (Admiral Hipper-Class, Ship 4, Incomplete)
 hull_numbers: Seydlitz
 ships_built: 1 (fourth Admiral Hipper-class ship, incomplete)
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [heavy-cruiser, seydlitz, incomplete, carrier-conversion, weser-project, never-completed, scuttled-1945, königsberg, kriegsmarine, ww2]
 ---
-```
+---
 
 **Incomplete Heavy Cruiser - Planned Aircraft Carrier Conversion** - Fourth Admiral Hipper-class ship, never completed. 14,050 tons (planned), 8× 20.3cm guns (never installed), 32 knots (planned). Named after famous WWI armored cruiser SMS Seydlitz (Jutland survivor). Construction started 1936, 85% complete when work stopped (1940). **Carrier conversion project** (Weser, 1942-1943): Conversion to auxiliary aircraft carrier planned, superstructure removed, flight deck designed (18 aircraft capacity), work abandoned 1943 due to material/labor shortages. Scuttled at Königsberg (29 Jan 1945, incomplete hull) to avoid Soviet capture. Only Admiral Hipper-class ship never completed.
 

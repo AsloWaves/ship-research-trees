@@ -1,6 +1,6 @@
 # Wolf-Class Torpedo Boats (Type 24 - Predators)
 
-```yaml
+---
 class_name: Wolf-Class (Type 24)
 hull_numbers: Wolf, Iltis
 ships_built: 2
@@ -67,7 +67,7 @@ firsts:
 # Tags
 tags: [torpedo-boat, destroyer, wolf, type-24, post-versailles, treaty-restrictions, predator-names, 10.5cm-guns, improved, kriegsmarine, ww2, interwar]
 ---
-```
+---
 
 **Type 24 "Predators" - Improved Treaty Destroyers** - 2 ships commissioned 1928: **Wolf** (Wolf), Iltis (Polecat). First **Type 24** design, improved over Type 23 "birds." **Named after predators** (new naming convention). Treaty-restricted "torpedo boats" (**932 tons**, exceeded 800-ton limit). 932 tons, **3× 10.5cm SK C/28 guns**, **6× 533mm torpedoes**, **34.2 knots**. **Better range** (3,300 nm), **enhanced AA** (4× 20mm), improved turbines (23,500 SHP), better seakeeping. Maintained German destroyer expertise during treaty period. Served entire WWII (1939-1945): Baltic Sea, convoy escort, mine-laying, Norway campaign, North Sea operations. **Both ships survived entire war**, last decommissioned 1946. Demonstrated continued improvement of treaty-restricted designs.
 

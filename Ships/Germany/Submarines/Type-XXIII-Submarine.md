@@ -1,6 +1,6 @@
 # Type XXIII Submarine (COASTAL ELEKTROBOOT - Fastest Submarine! 1944)
 
-```yaml
+---
 class_name: Type XXIII Submarine (Coastal Elektroboot)
 hull_numbers: U-2321 to U-2371, U-4701 to U-4712
 ships_built: 61
@@ -68,7 +68,7 @@ firsts:
 # Tags
 tags: [submarine, type-xxiii, coastal, elektroboot, fastest-submarine, 12-knots-submerged, 61-boats, compact, streamlined, combat-success, kriegsmarine, 1944]
 ---
-```
+---
 
 **COASTAL ELEKTROBOOT - Fastest Submarine Worldwide! 1944!** - 61 boats commissioned 1944-1945: U-2321 to U-2371, U-4701 to U-4712. **FASTEST SUBMARINE WORLDWIDE!** **12.5 KNOTS SUBMERGED** (faster than any submarine globally 1944-1945!). **"Fastest Submarine" special ability (+40% coastal operations, UNIQUE!)**. **61 BOATS BUILT!** Coastal elektroboot applying Type XXI concept to smaller design. 234 tons surfaced (COMPACT!), **2× 53.3cm bow torpedo tubes**, 2 torpedoes, 9.7 knots surfaced/12.5 knots submerged. **14-man crew** (smallest operational crew!). Streamlined single-hull. **6 combat patrols** (more than Type XXI!). **5 merchant ships sunk** (combat success!). Quickest build time (175 days!). Prefabricated modular construction. Influenced post-war coastal submarine designs.
 

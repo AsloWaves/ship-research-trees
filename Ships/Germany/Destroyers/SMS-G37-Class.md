@@ -1,6 +1,6 @@
 # SMS G37-Class Large Torpedo Boats (Type 1913 Germaniawerft)
 
-```yaml
+---
 class_name: SMS G37-Class (Type 1913)
 hull_numbers: G37-G42
 ships_built: 6
@@ -65,7 +65,7 @@ firsts:
 # Tags
 tags: [large-torpedo-boat, destroyer, sms-g37, type-1913, germaniawerft-design, 10.5cm-guns, 6-torpedoes, 34-knots, kaiserliche-marine, ww1, jutland]
 ---
-```
+---
 
 **Germaniawerft Type 1913 Design - WWI Main Line** - 6 ships commissioned 1914-1915: G37-G42. Germaniawerft variant of revolutionary **Type 1913** mass production program. Part of 71-ship V25-class family. 691 tons, **3× 10.5cm guns**, **6× 50cm torpedoes**, **34.8 knots** (slightly faster than V-series variants). **Best range of Type 1913 design** (2,500 nm) with Germaniawerft turbines (17,000 SHP) providing excellent performance. Enhanced seakeeping for North Sea operations. Served entire WWI (1914-1918): High Seas Fleet screening, **Battle of Jutland** (31 May 1916), North Sea patrols, mine-laying. Several losses during war. Survivors scrapped 1919-1920 under Treaty of Versailles.
 

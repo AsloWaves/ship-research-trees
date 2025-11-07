@@ -1,6 +1,6 @@
 # Asahi-Class Battleship
 
-```yaml
+---
 class_name: Asahi
 hull_numbers: Asahi (single ship)
 ships_built: 1
@@ -53,7 +53,7 @@ contemporary: "[[Great Britain/Great Britain Battleships/Canopus-Class]]"
 # Tags
 tags: [battleship, pre-dreadnought, british-built, russo-japanese-war]
 ---
-```
+---
 
 **British-Built Pre-Dreadnought** - Single-ship class, sister to Shikishima. Served Battle of Tsushima 1905. Scrapped under Washington Naval Treaty 1923.
 

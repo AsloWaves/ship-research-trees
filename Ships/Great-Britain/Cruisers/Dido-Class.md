@@ -3,7 +3,7 @@
 ## Overview
 The Dido-class were specialized anti-aircraft cruisers designed to provide fleet air defense. Sixteen ships featured rapid-fire 5.25-inch dual-purpose guns in twin turrets, representing the Royal Navy's response to growing air threats. They served extensively protecting carriers and convoys through WWII.
 
-```yaml
+---
 class_name: Dido Class
 hull_numbers: Various
 ships_built: 16
@@ -29,7 +29,7 @@ secondary_guns: "Multiple 40mm and 20mm AA"
 torpedo_tubes: "6× 21-inch"
 aircraft: 0
 tags: [cruiser, light-cruiser, aa-cruiser, dido-class, 1940, anti-aircraft, ww2]
-```
+---
 
 ## Specifications
 

@@ -1,6 +1,6 @@
 # SMS König Super-Dreadnought Battleship (1914 ALL CENTERLINE - Superior Broadside!)
 
-```yaml
+---
 class_name: SMS König Super-Dreadnought Battleship (All-Centerline Layout!)
 hull_numbers: SMS König, SMS Großer Kurfürst, SMS Markgraf, SMS Kronprinz
 ships_built: 4
@@ -108,7 +108,7 @@ firsts:
 # Tags
 tags: [battleship, sms-konig, 1914, super-dreadnought, all-centerline, superior-broadside, jutland-heavy-combat, scapa-flow, 4-ships]
 ---
-```
+---
 
 **ALL-CENTERLINE PERFECTION - 1914 Superior Broadside!** - 4 ships: **SMS KÖNIG**, **SMS GROSSER KURFÜRST**, SMS Markgraf, SMS Kronprinz. **ALL-CENTERLINE TURRET LAYOUT!** (Finally optimal arrangement!). **25,796 tons**, **21 kts**, **10× 30.5cm guns** in **5× twin centerline turrets** (2 superfiring forward + 1 amidships + 2 superfiring aft!). **SUPERIOR BROADSIDE**: **ALL 10 GUNS** can fire on broadside (vs Kaiser's 8!)  + **4 guns forward** (vs Kaiser's 2!). Abandoned inefficient wing turrets. Commissioned August-November 1914 (right as WWI started!). **ALL 4 FOUGHT JUTLAND** with **HEAVY COMBAT**: König hit **10 times**, Großer Kurfürst hit **8 times**, Markgraf hit **5 times** - **ALL SURVIVED!** Excellent survivability! All scuttled Scapa Flow 1919, raised and scrapped 1930s. **PEAK WWI GERMAN DESIGN!** (before Bayern's 15" guns)
 

@@ -1,6 +1,6 @@
 # SM UC-II-Class (WWI Advanced Minelayer - "Mine+Torpedo" 1916)
 
-```yaml
+---
 class_name: SM UC-II-Class (Advanced Minelayer)
 hull_numbers: UC-16 to UC-79
 ships_built: 64
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [submarine, uc-ii, minelayer, mine-torpedo, 64-boats, ideal-minelayer, versatility, wwi, kaiserliche-marine, 1916]
 ---
-```
+---
 
 **Advanced Minelayer "Mine+Torpedo" - 64 Boats!** - 64 boats commissioned 1916-1917: UC-16 to UC-79. **IDEAL MINELAYER!** **64 BOATS BUILT!** (largest minelayer class!). 417 tons surfaced, **3× 50cm torpedo tubes**, **7 torpedoes carried**, **18× UC/200 mines** (6× vertical chutes, 3 mines each!), 11.6 knots surfaced/7.0 knots submerged. **"Mine+Torpedo" special ability** (+35% versatility, UNIQUE!). **Could lay minefields AND attack shipping on same patrol!** 1× 8.8cm deck gun, **9,400 nm range** (12× UC-I!). Revolutionary combined capability. Port blocking + convoy attacks. Mediterranean/North Sea dominance.
 

@@ -1,6 +1,6 @@
 # Tone-Class Aviation Cruisers
 
-```yaml
+---
 class_name: Tone-Class
 hull_numbers: Tone, Chikuma
 ships_built: 2
@@ -54,7 +54,7 @@ contemporary: "[[USA/USA Cruisers/Brooklyn-Class]]"
 # Tags
 tags: [cruiser, heavy-cruiser, aviation-cruiser, tone, reconnaissance]
 ---
-```
+---
 
 **Aviation Cruisers** - All main guns forward, rear dedicated to aviation facilities. 5-6 floatplanes for reconnaissance. Tone reconnaissance at Pearl Harbor. Both sunk 1944-1945.
 

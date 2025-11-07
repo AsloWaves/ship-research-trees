@@ -3,7 +3,7 @@
 ## Overview
 The Admiralty R-class were improved M-class destroyers, with 62 ships built 1916-1917 (51 completed before war's end). They featured slightly improved armament and enhanced anti-submarine capability. The class represented incremental refinement of the successful M-class design for continued mass production.
 
-```yaml
+---
 class_name: Admiralty R-Class
 hull_numbers: Various R-series
 ships_built: 62 (51 completed WWI)
@@ -29,7 +29,7 @@ secondary_guns: "1× 2-pounder AA"
 torpedo_tubes: "4× 21-inch (2 twin)"
 aircraft: 0
 tags: [destroyer, r-class, 1916, ww1, improved-m-class, mass-production]
-```
+---
 
 ## Specifications
 

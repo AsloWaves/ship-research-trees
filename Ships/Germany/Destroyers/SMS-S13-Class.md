@@ -1,6 +1,6 @@
 # SMS S13-Class Large Torpedo Boats (1911 Compact Design)
 
-```yaml
+---
 class_name: SMS S13-Class (1911 Compact)
 hull_numbers: S13-S24
 ships_built: 12
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [large-torpedo-boat, destroyer, sms-s13, 1911-program, compact-design, maneuverable, 12-ships, kaiserliche-marine, ww1, jutland]
 ---
-```
+---
 
 **Compact 1911 Program Design - Most Maneuverable** - 12 ships commissioned 1911-1912: S13-S24. Compact variant of 1911 Program "Large Torpedo Boats", more maneuverable than V1/G7 classes. 568 tons, 2× 8.8cm guns, 4× 50cm torpedoes, 32.8 knots. Shorter hull (229.7 ft vs. 236.2 ft) for better agility in torpedo attacks. **12 ships built** (largest 1911 Program class). Served entire WWI (1914-1918): High Seas Fleet screening, **Battle of Jutland** (31 May 1916), North Sea operations. Survivors scrapped 1919-1920.
 

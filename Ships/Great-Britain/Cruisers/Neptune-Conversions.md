@@ -3,7 +3,7 @@
 ## Overview
 The Neptune-class represented a series of proposed conversion plans for existing cruisers to guided missile cruisers in the 1950s. Various schemes were studied to convert Tiger, Blake, and other cruisers into missile-armed ships, but all were ultimately cancelled in favor of new-build guided missile destroyers.
 
-```yaml
+---
 class_name: Neptune Conversions (Cancelled)
 hull_numbers: Various proposed
 ships_built: 0
@@ -29,7 +29,7 @@ secondary_guns: "4× 3-inch AA, Sea Cat"
 torpedo_tubes: 0
 aircraft: 1
 tags: [cruiser, guided-missile-cruiser, neptune-class, cancelled, conversion, 1950s]
-```
+---
 
 ## Design Proposals
 

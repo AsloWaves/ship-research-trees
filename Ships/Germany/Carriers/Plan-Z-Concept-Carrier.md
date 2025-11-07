@@ -1,6 +1,6 @@
 # Plan Z Concept Carrier (1935 Initial Carrier Design)
 
-```yaml
+---
 class_name: Plan Z Concept Carrier (Plan Z Initiative)
 hull_numbers: None (design concept)
 ships_built: 0 (concept design)
@@ -64,7 +64,7 @@ firsts:
 # Tags
 tags: [carrier, plan-z-concept, 1935, design-concept, raeder, anglo-german-treaty, dual-purpose, never-built, plan-z-initiative]
 ---
-```
+---
 
 **Plan Z Carrier Concept - 1935 Design Initiative!** - 0 boats: **FIRST GERMAN CARRIER DESIGN!** After **Anglo-German Naval Agreement (June 18, 1935)** lifted Versailles carrier restrictions, Grand Admiral Erich Raeder initiated carrier development as part of ambitious **Plan Z naval expansion**. Initial concept: 30,000 tons, 33 kts, **40 aircraft**, unique **dual-purpose design** with **12-16× 15cm guns** (combining carrier and cruiser roles!). Plan Z envisioned **4-carrier fleet** (Graf Zeppelin through Flugzeugträger D). This concept led directly to **Graf Zeppelin** construction (keel laid December 28, 1936). **CONCEPT DESIGN** - evolved into actual carrier program.
 

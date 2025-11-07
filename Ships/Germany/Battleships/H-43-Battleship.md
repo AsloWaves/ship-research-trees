@@ -1,6 +1,6 @@
 # H-43 Battleship (1943 ULTIMATE STUDY - 111,000 Tons, 20-Inch Guns!)
 
-```yaml
+---
 class_name: H-43 Battleship (Ultimate H-Class Study - 111,000 Tons!)
 hull_numbers: None (pure fantasy, no designation)
 ships_built: 0 (pure fantasy study, never planned)
@@ -146,7 +146,7 @@ firsts:
 # Tags
 tags: [h-class, h-43, super-battleship, paper-ship, fantasy-study, 20-inch-guns, 111000-tons, ultimate-fantasy, 1943-insanity, absolute-impossibility]
 ---
-```
+---
 
 **ULTIMATE FANTASY - 1943 Study!** - **111,000 tons standard**, **125,000 tons full load** (ULTIMATE!). Pure fantasy (complete disconnect!). **8× 50.8cm (20") guns** in **4× twin turrets** (LARGER than any gun ever fitted!). 2,200 kg shells (ULTIMATE!). **30 kts**, **11,000+ nm range**. Ultimate armor (380mm belt, **480mm turrets**, **200mm deck**!). **1,042.7 ft long** (318m - LONGER than 3 football fields!). Studied **1943** (WHILE Third Reich collapsed!). During Battle of Kursk (Germany's last offensive FAILED!). Hamburg destroyed (July 1943). U-boats withdrawn (May 1943 "Black May"). Italy surrendered (Sept 1943). Fuel/manpower crises! Would need ~400m slipway (NONE!). 6+ years construction (Germany surrendered in 2!). Steel = **~200+ U-boats** OR **~2,000 Panther tanks** OR **~10,000 Bf 109s**! Fuel = Germany's ENTIRE monthly production! NO port could handle it! Too large for Baltic (trapped!). RAF/USAAF would sink in hours (Tallboy bombs!). **ABSOLUTE INSANITY** - national collapse delusion!
 

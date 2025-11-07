@@ -1,6 +1,6 @@
 # Graudenz-Class Light Cruisers
 
-```yaml
+---
 class_name: Graudenz-Class
 hull_numbers: Graudenz, Regensburg
 ships_built: 2
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [light-cruiser, graudenz-class, 1914, 12x15cm-guns, heavy-armed, both-survived-ww1, graudenz-italian, regensburg-french, waterline-belt, kaiserliche-marine, ww1]
 ---
-```
+---
 
 **Heavy 15cm Armed Light Cruisers** - 2 ships built (1914): Graudenz, Regensburg. First purpose-built German light cruisers with 15cm guns (Pillau was ex-Russian). Heavy armament: **12× 15cm guns** (most heavily-armed German light cruisers to date). 4,912 tons, 28.2 knots. Both survived WWI. **SMS Graudenz**: Transferred Italy 1920 (war prize), served as Ancona (1920-1937), scrapped. **SMS Regensburg**: French war prize 1920, served as Strasbourg (1920-1944), scuttled by Germans 1944.
 

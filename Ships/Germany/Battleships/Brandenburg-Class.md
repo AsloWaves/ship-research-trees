@@ -1,6 +1,6 @@
 # Brandenburg-Class Battleships
 
-```yaml
+---
 class_name: Brandenburg-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 4
@@ -58,7 +58,7 @@ firsts:
 # Tags
 tags: [battleship, pre-dreadnought, kaiserliche-marine, harvey-armor, first-generation, 1891]
 ---
-```
+---
 
 **First Modern German Battleships** - Germany's entry into modern battleship competition. 6× 28cm guns in unusual 3-turret arrangement (fore, aft, amidships). Heavy Harvey armor (400mm belt). Foundation of High Seas Fleet.
 

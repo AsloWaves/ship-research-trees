@@ -1,6 +1,6 @@
 # Scharnhorst-Class Armored Cruisers
 
-```yaml
+---
 class_name: Scharnhorst-Class
 hull_numbers: Scharnhorst, Gneisenau
 ships_built: 2
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [armored-cruiser, scharnhorst-class, 1907, 21cm-guns, coronel-victory, falklands-defeat, both-sunk, 860-killed, 600-killed, fastest-armored-cruiser, kaiserliche-marine, von-spee]
 ---
-```
+---
 
 **Germany's Most Powerful Armored Cruisers** - 2 ships built (1907-1908): Scharnhorst, Gneisenau. Most powerful (8× 21cm guns) and fastest (23.6 knots) German armored cruisers. 11,616 tons, flagship of Admiral Graf von Spee's East Asia Squadron. **Battle of Coronel** (1 Nov 1914): Decisive German victory, sank HMS Good Hope (926 killed including Admiral Cradock) and HMS Monmouth (735 killed). **Battle of Falkland Islands** (8 Dec 1914): Both ships sunk by British battlecruisers Invincible and Inflexible. Scharnhorst: 860 killed (entire crew, no survivors). Gneisenau: 600 killed (187 survivors). Famous for von Spee's tragic final stand.
 

@@ -1,6 +1,6 @@
 # SM UC-I-Class (WWI Minelaying Submarine - First Minelayer 1915)
 
-```yaml
+---
 class_name: SM UC-I-Class (Early Minelayer)
 hull_numbers: UC-1 to UC-15
 ships_built: 15
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [submarine, uc-i, minelayer, first-minelayer, mine-warfare, port-blocking, flanders, wwi, kaiserliche-marine, 1915]
 ---
-```
+---
 
 **First German Minelaying Submarine - Revolutionary Mine Warfare** - 15 boats commissioned 1915: UC-1 to UC-15. **FIRST GERMAN MINELAYING SUBMARINE!** **Pioneered submarine minelaying** with vertical mine chutes. 168 tons surfaced, **12× UC/120 mines** (6× vertical chutes, 2 mines each), **NO torpedoes** (pure minelayer!), 6.2 knots surfaced/5.2 knots submerged. Gasoline propulsion (small), 780 nm range. **Port blocking operations** - laid minefields off British ports. Flanders/North Sea deployment. Revolutionary mine warfare concept. Small crew (14).
 

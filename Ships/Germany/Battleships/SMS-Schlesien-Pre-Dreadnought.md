@@ -1,6 +1,6 @@
 # SMS Schlesien Pre-Dreadnought (1908 LAST SURVIVOR - Both World Wars!)
 
-```yaml
+---
 class_name: SMS Schlesien (Deutschland-class - Last Survivor!)
 hull_numbers: SMS Schlesien
 ships_built: 1 (fifth Deutschland-class ship - final ship!)
@@ -256,7 +256,7 @@ firsts:
 # Tags
 tags: [battleship, sms-schlesien, deutschland-class, pre-dreadnought, 1908, last-survivor, both-world-wars, 37-years-service, jutland-survivor, training-ship, surrendered-intact]
 ---
-```
+---
 
 **LAST SURVIVOR - 1908 Surrendered Intact!** - Deutschland-class pre-dreadnought (commissioned May 28, 1908 - FINAL ship!). **13,191 tons**, **18.5 kts**, **4× 28cm (11") guns**. **37 YEARS SERVICE!** (1908-1945 - BOTH WORLD WARS!). Survived **Battle of Jutland** (May 31-June 1, 1916) - unlike sister Pommern! Treaty of Versailles: Germany allowed to keep! Converted training ship (1926). WWII: Training ship, shore bombardment, Operation Hannibal evacuation support. **SURRENDERED INTACT** May 1945 (unlike Schleswig-Holstein scuttled!). Seized by Soviets/Poles at Swinemünde. Scrapped 1947-1949. **QUIET SERVICE** vs Schleswig-Holstein's WWII fame (fired first shots!). Second-longest Deutschland-class service (Hannover 39 years longest!). **LAST DEUTSCHLAND-CLASS SURVIVOR!** **BOTH WORLD WARS!**
 

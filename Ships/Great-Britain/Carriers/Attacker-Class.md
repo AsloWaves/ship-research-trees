@@ -3,7 +3,7 @@
 ## Overview
 The Attacker-class were escort carriers with 8 ships built in US shipyards 1942-1943 under the Lend-Lease program and transferred to the Royal Navy. Based on the US Bogue-class design, they were converted from C3 merchant hulls. They provided crucial convoy escort, anti-submarine warfare, and amphibious support during WWII, serving in the Atlantic, Mediterranean, and Pacific theaters.
 
-```yaml
+---
 class_name: Attacker-Class
 hull_numbers: D02, D12, D18, D23, D26, D35, D79, D82 (Attacker, Battler, Chaser, Fencer, Hunter, Stalker, Pursuer, Striker)
 ships_built: 8 (US-built, Lend-Lease)
@@ -23,7 +23,7 @@ crew: 646
 armament: "2× 5-inch guns, 16× 40mm Bofors, 20× 20mm Oerlikon, 20 aircraft"
 aircraft: 20 (fighters and ASW aircraft)
 tags: [carrier, attacker-class, escort-carrier, lend-lease, us-built, 1942-1943, convoy-escort, bogue-class]
-```
+---
 
 ## Specifications
 

@@ -3,7 +3,7 @@
 ## Overview
 The Cressy-class were the Royal Navy's first armored cruisers, featuring belt armor and heavy main armament. Six ships served extensively until WWI, when three were famously sunk by U-9 in a single action. They represented the Royal Navy's response to foreign armored cruiser designs, combining heavy guns with armor protection.
 
-```yaml
+---
 class_name: Cressy Class
 hull_numbers: Various
 ships_built: 6
@@ -29,7 +29,7 @@ secondary_guns: "14× 12-pounder, 3× 3-pounder"
 torpedo_tubes: "2× 18-inch"
 aircraft: 0
 tags: [cruiser, armored-cruiser, cressy-class, 1901, first-armored-cruiser, u-9-disaster, wwi]
-```
+---
 
 ## Specifications
 

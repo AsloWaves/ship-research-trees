@@ -3,7 +3,7 @@
 ## Overview
 HMS Tiger and HMS Blake were Minotaur-class cruisers completed with major modifications as helicopter cruisers. HMS Tiger was further converted in the 1970s to embark Sea King helicopters and serve as a commando carrier. They represented the Royal Navy's last gun cruisers and transition to helicopter operations.
 
-```yaml
+---
 class_name: Tiger Helicopter Cruisers
 hull_numbers: C20, C99
 ships_built: 2
@@ -29,7 +29,7 @@ secondary_guns: "Seacat SAM"
 torpedo_tubes: 0
 aircraft: 4
 tags: [cruiser, helicopter-cruiser, tiger-class, 1959, last-cruisers, commando-carrier, post-war]
-```
+---
 
 ## Specifications
 

@@ -1,6 +1,6 @@
 # SMS Thüringen Dreadnought (1911 JUTLAND HEAVY COMBAT - 16 Shell Hits!)
 
-```yaml
+---
 class_name: SMS Thüringen (Nassau-class - Jutland Heavy Combat!)
 hull_numbers: SMS Thüringen
 ships_built: 1 (fourth and FINAL Nassau-class ship)
@@ -226,7 +226,7 @@ firsts:
 # Tags
 tags: [battleship, sms-thuringen, nassau-class, 1911, jutland-heavy-combat, 16-shell-hits, krupp-armor-proven, last-hexagonal-bb, scapa-flow, salvaged-1924, survival-story]
 ---
-```
+---
 
 **HEAVY JUTLAND DAMAGE - 1911 Ultimate Survival Story!** - Nassau-class (commissioned July 1, 1911 - **FINAL Nassau-class!**). **21,000 tons**, **20.1 KNOTS**, **12× 28cm (11") guns** - HEXAGONAL! **LAST HEXAGONAL-LAYOUT BB BUILT!** **BATTLE OF JUTLAND** (May 31-June 1, 1916) - **HEAVY COMBAT!** **HIT BY 16 LARGE-CALIBER SHELLS!** (13.5" and 15"!) **HEAVIEST NASSAU-CLASS DAMAGE!** Severe damage - fires, flooding, armor penetrations, turret damage! Speed reduced, combat degraded! **KRUPP ARMOR SAVED SHIP!** Excellent damage control! **SURVIVED!** Limped home! **2+ MONTHS REPAIRS** (June-August 1916!)! Returned service August 1916! **SCAPA FLOW** (Nov 21, 1918). **OPERATION RAINBOW** (June 21, 1919) - scuttled! **SALVAGED 1923-1924**! Scrapped Rosyth! **ULTIMATE SURVIVAL STORY!** (16 hits, still survived!) **KRUPP ARMOR SUPERIORITY PROVEN!**
 

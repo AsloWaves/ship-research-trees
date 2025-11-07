@@ -1,6 +1,6 @@
 # SM U-9 (Early Diesel U-boat - Famous "Triple Kill" 1910)
 
-```yaml
+---
 class_name: SM U-9 (Early Diesel U-boat)
 hull_numbers: U-9
 ships_built: 1
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, u-9, triple-kill, diesel-electric, wwi, famous, aboukir, hogue, cressy, kaiserliche-marine, free-starter, 1910]
 ---
-```
+---
 
 **Famous "Triple Kill" Submarine - Proved U-boat Effectiveness!** - Single boat commissioned 1910: U-9. **MOST FAMOUS WWI U-BOAT!** Achieved legendary **"Triple Kill" (22 September 1914)** - sank **3 British cruisers in 1 hour**: HMS Aboukir, HMS Hogue, HMS Cressy (1,459 British sailors killed). **Proved submarines could threaten major warships!** 493 tons surfaced, **4× 50cm torpedo tubes** (2 bow, 2 beam), 6 torpedoes carried, 14.2 knots surfaced/8.1 knots submerged. **Early diesel/electric** (safe!), double hull, 3,000 nm range. **+40% torpedo effectiveness** special ability. **FREE starting submarine**. Most famous U-boat in history.
 

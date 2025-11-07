@@ -3,7 +3,7 @@
 ## Overview
 CVA-01 was a planned class of large fleet carriers designed to replace the WWII-era fleet carriers in the 1960s-1970s. The design would have been Britain's most capable carrier class, featuring angled deck, steam catapults, modern electronics, and ability to operate Phantom and Buccaneer aircraft. The class was cancelled in 1966 by the Labour government as part of defense cuts, ending Britain's fixed-wing carrier capability for 40 years until Queen Elizabeth-class.
 
-```yaml
+---
 class_name: CVA-01
 hull_numbers: Unassigned (CVA-01, CVA-02, CVA-03 planned)
 ships_built: 0 (cancelled before construction)
@@ -23,7 +23,7 @@ crew: 2500
 armament: "Sea Dart SAM, 4× 40mm Bofors, 48-50 aircraft"
 aircraft: 48-50 (Phantom, Buccaneer, Gannet AEW, helicopters)
 tags: [carrier, cva-01, fleet-carrier, cancelled, 1966, phantom, buccaneer, angled-deck, never-built]
-```
+---
 
 ## Specifications
 

@@ -3,7 +3,7 @@
 ## Overview
 The Pelorus-class were third-class protected cruisers designed for colonial patrol and trade protection. Eleven ships were built, representing the Royal Navy's standard small cruiser for overseas service. They saw extensive service through WWI and beyond, with several serving over 30 years.
 
-```yaml
+---
 class_name: Pelorus Class
 hull_numbers: Various
 ships_built: 11
@@ -29,7 +29,7 @@ secondary_guns: "8× 3-pounder, 2× machine guns"
 torpedo_tubes: "2× 18-inch"
 aircraft: 0
 tags: [cruiser, protected-cruiser, pelorus-class, 1897, third-class-cruiser, scout-cruiser]
-```
+---
 
 ## Specifications
 

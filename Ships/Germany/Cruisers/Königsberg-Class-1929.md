@@ -1,6 +1,6 @@
 # Königsberg-Class Light Cruisers (1929)
 
-```yaml
+---
 class_name: Königsberg-Class (1929)
 hull_numbers: Königsberg, Karlsruhe, Köln
 ships_built: 3
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [light-cruiser, königsberg-class-1929, 1929, 9x15cm-guns, triple-turrets, 32-knots, modern-design, all-three-sunk-ww2, königsberg-bergen, karlsruhe-torpedo, köln-bombers, kriegsmarine, ww2]
 ---
-```
+---
 
 **First Modern German Light Cruisers** - 3 ships built (1929-1930): Königsberg, Karlsruhe, Köln. Revolutionary design: 9× 15cm guns in **3× triple turrets** (first triple turrets on German cruisers), 32.8 knots (fastest German light cruisers). 6,650 tons. Modern fire control, high-pressure oil boilers. **All three lost in WWII**: **Königsberg**: First German cruiser sunk WWII (10 Apr 1940, Bergen, bombed by Fleet Air Arm Skuas). **Karlsruhe**: Torpedoed by British submarine Truant (9 Apr 1940, Operation Weserübung, 40 killed). **Köln**: Sunk by US bombers (30 Mar 1945, Wilhelmshaven).
 

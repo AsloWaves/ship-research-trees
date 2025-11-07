@@ -3,7 +3,7 @@
 ## Overview
 HMS Bristol was a Type 82 destroyer designed as an escort for the cancelled CVA-01 aircraft carriers. At 7,100 tons full load, she was effectively cruiser-sized and represented the largest destroyer built for the Royal Navy. Only one ship was completed, serving until 1991 as a trials and training ship.
 
-```yaml
+---
 class_name: Type 82 (Bristol)
 hull_numbers: D23
 ships_built: 1 (of 4 planned)
@@ -29,7 +29,7 @@ secondary_guns: "Sea Dart SAM, Ikara ASW, Limbo"
 torpedo_tubes: 0
 aircraft: 1
 tags: [destroyer, type-82, hms-bristol, 1973, large-destroyer, trials-ship, post-war]
-```
+---
 
 ## Specifications
 

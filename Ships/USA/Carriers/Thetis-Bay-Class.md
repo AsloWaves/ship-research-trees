@@ -1,6 +1,6 @@
 # Thetis Bay-Class Helicopter Carriers
 
-```yaml
+---
 class_name: Thetis Bay-Class
 hull_numbers: CVHA-1 (ex-CVE-90)
 ships_built: 1 (conversion)
@@ -46,7 +46,7 @@ firsts:
 # Tags
 tags: [helicopter-carrier, thetis-bay, cvha-1, conversion, marine-helicopters, 1956, vertical-assault, amphibious]
 ---
-```
+---
 
 **First Helo Carrier** - Thetis Bay (CVHA-1) was world's first helicopter assault carrier. Converted from Commencement Bay-class CVE in 1956. Pioneered Marine Corps vertical assault operations.
 

@@ -3,7 +3,7 @@
 ## Overview
 The King Edward VII-class were eight first-class battleships built 1902-1907, introducing the revolutionary mixed-caliber armament concept with 4× 12-inch and 4× 9.2-inch guns for intermediate-range combat. This design anticipated modern fire control problems by creating a two-tier main battery, though HMS Dreadnought's all-big-gun layout soon proved superior. The class served extensively in WWI as flagships and gunnery training ships, with HMS Britannia torpedoed by U-50 (1918 - last British battleship lost in WWI). Survivors scrapped 1921-1923.
 
-```yaml
+---
 class_name: King Edward VII-Class
 hull_numbers: Various (King Edward VII, Commonwealth, Dominion, Hindustan, Britannia, Africa, Hibernia, Zealandia)
 ships_built: 8
@@ -23,7 +23,7 @@ crew: 777
 armament: "4× 12-inch guns, 4× 9.2-inch guns, 10× 6-inch guns, numerous smaller guns"
 armor: 9-inch belt (Krupp), 12-inch barbettes, 8-inch turrets, 4-inch deck
 tags: [battleship, king-edward-vii-class, pre-dreadnought, 1903-1907, mixed-caliber, intermediate-battery, wwi, hms-britannia]
-```
+---
 
 ## Specifications
 

@@ -1,6 +1,6 @@
 # Gneisenau Fast Battleship (1938 CHANNEL DASH SURVIVOR - Bombed, Deactivated!)
 
-```yaml
+---
 class_name: Gneisenau Fast Battleship (32 knots - Channel Dash Survivor!)
 hull_numbers: Gneisenau
 ships_built: 1 (second Scharnhorst-class, sister to Scharnhorst)
@@ -218,7 +218,7 @@ firsts:
 # Tags
 tags: [fast-battleship, gneisenau, scharnhorst-class, 1938, 32-knots, channel-dash, hms-glorious, kiel-bombing, deactivated-1942, blockship, raf-revenge]
 ---
-```
+---
 
 **CHANNEL DASH SURVIVOR - 1938 Bombed into Oblivion!** - Sister to Scharnhorst (commissioned May 21, 1938 - FIRST of class!). **38,900 tons**, **32 KNOTS** (fastest German BB!), **9× 28cm (11") guns**. Hybrid propulsion (8,800 nm range!). Norway ops, **sank HMS GLORIOUS** (June 8, 1940) with Scharnhorst! **Operation Berlin** (1941): 22 merchant ships sunk! **CHANNEL DASH** (February 11-13, 1942): Escaped Brest → Germany in DAYLIGHT, survived **242 bomber attacks** + hit mine! "**Greatest British humiliation since 1667!**" **RAF BOMBING** (February 26-27, 1942) Kiel: **DIRECT HIT!** Forward magazine fire, bow destroyed, **116 dead!** **DEACTIVATED July 1942** - never repaired! Guns removed for Norway coastal batteries. Scuttled blockship Gdynia (March 27, 1945). Scrapped 1947-1951. **INGLORIOUS END!** (vs Scharnhorst's glory!) Proved battleships vulnerable to air power! **END OF GERMAN CAPITAL SHIP OFFENSIVE!**
 

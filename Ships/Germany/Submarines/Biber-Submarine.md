@@ -1,6 +1,6 @@
 # Biber Midget Submarine (324 BUILT! - 9m Long 1944)
 
-```yaml
+---
 class_name: Biber Midget Submarine
 hull_numbers: Multiple series (324 boats total!)
 ships_built: 324
@@ -64,7 +64,7 @@ firsts:
 # Tags
 tags: [submarine, biber, midget, 324-boats, 9m-long, 1-man-crew, external-torpedoes, coastal-defense, special-operations, kriegsmarine, 1944]
 ---
-```
+---
 
 **324 BUILT! - 9m Midget Submarine!** - 324 boats commissioned 1944: Multiple series totaling 324 boats! **MOST NUMEROUS MIDGET SUBMARINE!** **6.3 tons surfaced**, **9m long (29.5 ft!)**, **1-man crew**. **2× external G7e torpedoes** (dropped for attack!) OR 2× mines. 6.5 knots surfaced/5.3 knots submerged. Gasoline engine (unconventional!). Simple construction (175 build hours!). 130 nm range. Coastal defense and special operations. Limited combat success (high loss rate). Simple cylindrical pressure hull. Diving depth 65 ft. Mass-produced 1944-1945 for coastal defense.
 

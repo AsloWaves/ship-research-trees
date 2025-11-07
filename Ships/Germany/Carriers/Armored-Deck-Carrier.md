@@ -1,6 +1,6 @@
 # Armored Deck Carrier (1944 British-Style Armored Design - Paper Ship)
 
-```yaml
+---
 class_name: Armored Deck Carrier (British-Influenced Design)
 hull_numbers: None (paper ship)
 ships_built: 0 (paper design)
@@ -89,7 +89,7 @@ firsts:
 # Tags
 tags: [carrier, armored-deck, 1944-design, british-influence, 120mm-armor, survivability, paper-ship, illustrious-style, never-built, maximum-aa]
 ---
-```
+---
 
 **British-Style Armored Carrier - 1944 Paper Ship!** - 0 boats: **ARMORED DECK CARRIER** - **Theoretical carrier incorporating British armored flight deck concept!** Influenced by **HMS Illustrious-class** Mediterranean combat performance and Pacific kamikaze threats. **42,000 tons**, **32.5 kts** (reduced for armor weight), **40 aircraft** (reduced from 50 for armor trade-off!). **REVOLUTIONARY ARMOR**: **120mm armored flight deck** (British-style!), **80mm hangar deck**, **150mm belt armor** (HEAVY protection!). Resists 500kg bomb hits, kamikaze attacks. **Trade-off**: Survivability over aircraft capacity (+40% survivability!). **MAXIMUM AA armament**: 20× 10.5cm + 40× 3.7cm + 60× 2cm = **100+ AA guns!** Retained German dual-purpose design (8× 15cm guns, reduced from 16). **PAPER SHIP** - pure speculation based on intelligence about British armored carriers. Never built. Would have been Germany's most survivable carrier design!
 

@@ -1,6 +1,6 @@
 # Post-War Destroyer (1950 Modern Concept - Future Design)
 
-```yaml
+---
 class_name: Post-War Destroyer (1950 Modern Concept)
 hull_numbers: None assigned
 ships_built: 0 (concept design only)
@@ -65,7 +65,7 @@ firsts:
 # Tags
 tags: [destroyer, post-war, 1950-concept, gas-turbine, computer-fcs, modern-systems, future-design, theoretical, cold-war]
 ---
-```
+---
 
 **1950 Modern Concept - Gas Turbines & Computers (Future Design)** - Concept design 1950: Post-War Destroyer. **1950 MODERN CONCEPT** incorporating post-WWII technologies. Never built - Germany had no navy post-1945. 4,000 tons standard, **4× 12.8cm DP automatic guns**, **6× 533mm torpedoes**, 37 knots (estimated). **GAS TURBINE PROPULSION** (80,000 SHP - 1950s technology!), **computer-based FCS**, **automatic gun mounts**, **reduced crew** (350 vs. 400 via automation), modern radar integration. **Transition to Cold War destroyer** concepts. Theoretical study only - Germany demilitarized.
 

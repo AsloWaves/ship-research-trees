@@ -1,6 +1,6 @@
 # Z17 Diether von Roeder-Class Destroyers (Type 1936 - Fast & Improved)
 
-```yaml
+---
 class_name: Z17 Diether von Roeder-Class (Type 1936)
 hull_numbers: Z17-Z22
 ships_built: 6
@@ -66,7 +66,7 @@ firsts:
 # Tags
 tags: [destroyer, z17, diether-von-roeder, type-1936, 40-knots, improved-seakeeping, 127mm-guns, kriegsmarine, ww2, narvik]
 ---
-```
+---
 
 **Type 1936 - 40 Knots, Improved Seakeeping** - 6 ships commissioned 1938-1939: Z17 Diether von Roeder, Z18 Hans Lüdemann, Z19 Hermann Künne, Z20 Karl Galster, Z21 Wilhelm Heidkamp, Z22 Anton Schmitt. **Type 1936** (improved seakeeping design). **40 knots speed!** (fastest German destroyers yet). **Smaller than Type 1934A** (1,811 tons vs. 2,270 tons) but **better seakeeping**. Improved stability over Type 1934/34A. 5× 12.7cm guns, 8× 533mm torpedoes. Named after naval heroes. **Norway campaign 1940**: several ships lost at **Battles of Narvik** (Z17, Z18, Z19, Z21, Z22 sunk). **Last German destroyers with 127mm guns** before revolutionary Type 1936A "Narvik" class introduced 150mm guns.
 

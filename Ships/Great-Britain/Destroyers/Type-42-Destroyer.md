@@ -3,7 +3,7 @@
 ## Overview
 The Type 42 destroyers were the Royal Navy's primary air defense destroyers from the 1970s-2000s, with 14 ships built 1971-1985 in three batches. Designed around the Sea Dart SAM system, they served extensively during the Cold War, Falklands War (1982), and Gulf conflicts. The class suffered notable losses in the Falklands but proved the value of area air defense, serving until the 2010s.
 
-```yaml
+---
 class_name: Type 42 (Batch 1, 2, 3)
 hull_numbers: D86-D118
 ships_built: 14 (Batch 1: 6, Batch 2: 4, Batch 3: 4)
@@ -29,7 +29,7 @@ secondary_guns: "2× 20mm, 2× 30mm"
 torpedo_tubes: "2× triple torpedo tubes (Stingray)"
 helicopter: "1× Lynx HAS.3"
 tags: [destroyer, type-42, 1971-1985, sea-dart, falklands-war, sheffield-class, area-air-defense, cold-war]
-```
+---
 
 ## Specifications
 

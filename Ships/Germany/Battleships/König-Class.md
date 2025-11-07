@@ -1,6 +1,6 @@
 # König-Class Dreadnought Battleships
 
-```yaml
+---
 class_name: König-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 4
@@ -58,7 +58,7 @@ firsts:
 # Tags
 tags: [battleship, dreadnought, kaiserliche-marine, 1914, mixed-coal-oil, best-deck-armor, jutland, grosser-kurfurst-most-damaged, scapa-flow]
 ---
-```
+---
 
 **Final German Dreadnoughts** - Peak 12-inch gun design. First German battleships with oil capability (mixed coal/oil). 120mm deck armor (best German horizontal protection). Improved guns (+16° elevation, 3 rounds/min). SMS Großer Kurfürst most damaged German battleship to survive Jutland (8 hits, 1,400 tons flooding). Fired 621× shells at Jutland (56% of German 30.5cm total).
 

@@ -3,7 +3,7 @@
 ## Overview
 The C-class were late War Emergency Programme destroyers with 32 ships built 1943-1946 in four sub-groups (Ca, Ch, Co, Cr). They were enlarged War Emergency destroyers with improved capabilities, representing a transition toward post-war Battle-class design. Many saw Korean War and Cold War service extending into the 1970s.
 
-```yaml
+---
 class_name: C-Class (Ca/Ch/Co/Cr Groups)
 hull_numbers: Various
 ships_built: 32 (8 per group)
@@ -29,7 +29,7 @@ secondary_guns: "1× 4-inch AA, 8-12× 40mm"
 torpedo_tubes: "8× 21-inch (2 quad)"
 aircraft: 0
 tags: [destroyer, c-class-wwii, 1943-1946, war-emergency, late-war, korean-war, four-groups]
-```
+---
 
 ## Specifications
 

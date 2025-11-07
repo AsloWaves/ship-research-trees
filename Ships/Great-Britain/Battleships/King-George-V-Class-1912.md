@@ -3,7 +3,7 @@
 ## Overview
 The King George V-class were four super-dreadnought battleships built 1911-1913, representing the second generation of 13.5-inch gun battleships and incorporating lessons from Orion-class. As improved Orion-class ships with better protection and secondary armament, they formed a powerful squadron in the Grand Fleet during WWI. HMS King George V (flagship), HMS Centurion, HMS Audacious, and HMS Ajax served throughout WWI, though Audacious was lost to a mine (1914, 1 killed). The three survivors participated in Jutland (1916) and were scrapped 1926-1927.
 
-```yaml
+---
 class_name: King George V-Class (1912)
 hull_numbers: King George V, Centurion, Audacious, Ajax
 ships_built: 4
@@ -23,7 +23,7 @@ crew: 870
 armament: "10× 13.5-inch guns, 16× 4-inch guns, 4× 3-pdr AA guns"
 armor: 12-inch belt, 10-11-inch barbettes, 11-inch turrets
 tags: [battleship, king-george-v-1912, super-dreadnought, 13.5-inch-guns, 1912, jutland, hms-audacious-loss, grand-fleet, wwi]
-```
+---
 
 ## Specifications
 

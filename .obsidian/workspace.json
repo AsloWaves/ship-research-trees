@@ -186,6 +186,7 @@
   },
   "active": "67ece1643beaca7f",
   "lastOpenFiles": [
+    "_Scripts/find_yaml_issues.py",
     "Aircraft/Japan/Land-Utility-Helo/UH-60J Kai.md",
     "Aircraft/Japan/Land-Utility-Helo/UH-60J Black Hawk.md",
     "Aircraft/Japan/Land-Utility-Helo/UH-1H (JASDF).md",
@@ -214,7 +215,6 @@
     "Aircraft/Great-Britain/Naval-Fighter/Fairey Fulmar.md",
     "Aircraft/Great-Britain/Naval-Fighter/Fairey Flycatcher.md",
     "Aircraft/Great-Britain/Naval-Fighter/De Havilland Sea Vampire.md",
-    "Aircraft/Japan/Naval-Torpedo-Bomber/B7A2.md",
     "_Scripts/fix_yaml_format.py",
     "Aircraft/USA/Land-Scout",
     "Aircraft/Great-Britain/Naval-Strike-Fighter",

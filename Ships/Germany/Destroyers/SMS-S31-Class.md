@@ -1,6 +1,6 @@
 # SMS S31-Class Large Torpedo Boats (1912 Improved)
 
-```yaml
+---
 class_name: SMS S31-Class (1912 Improved)
 hull_numbers: S31-S36
 ships_built: 6
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [large-torpedo-boat, destroyer, sms-s31, 1912-improved, 33.5-knots, best-range, balanced-design, kaiserliche-marine, ww1, jutland]
 ---
-```
+---
 
 **1912 Improved Design - Fastest Early Destroyers** - 6 ships commissioned 1912-1913: S31-S36. Improved 1912 design refining S-series lessons learned. 585 tons, 2× 8.8cm guns, 4× 50cm torpedoes, **33.5 knots** (fastest 1911/1912 Program ships). Best range of early destroyers (2,100 nm) for extended North Sea operations. Balanced size, speed, and maneuverability. 6 ships built (successful class). Served entire WWI (1914-1918): High Seas Fleet screening, **Battle of Jutland** (31 May 1916). Last pre-V25 destroyer design. Survivors scrapped 1919-1920.
 

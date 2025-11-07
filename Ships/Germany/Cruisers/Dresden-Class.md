@@ -1,6 +1,6 @@
 # Dresden-Class Light Cruisers
 
-```yaml
+---
 class_name: Dresden-Class
 hull_numbers: Dresden, Emden
 ships_built: 2
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [light-cruiser, dresden-class, 1908, commerce-raiders, emden-indian-ocean, dresden-pacific, steam-turbines, 24-knots, legendary-raiders, both-sunk, kaiserliche-marine, ww1]
 ---
-```
+---
 
 **Legendary Commerce Raider Class** - 2 ships built (1908-1909): Dresden, Emden. First German light cruisers with steam turbines (24.5 knots). Most successful German commerce raiders of WWI. **SMS Emden**: Legendary Indian Ocean operations (Aug-Nov 1914), sank 15 Allied merchant ships + 2 warships (Russian cruiser Zhemchug, French destroyer Mousquet), Cocos Islands raid (9 Nov 1914), sunk by HMAS Sydney (9 Nov 1914, 134 killed, 227 survivors). **SMS Dresden**: East Asia Squadron, survived Coronel and Falklands, evaded British pursuit for 3 months, scuttled at Juan Fernández Island (14 Mar 1915, 5 killed, 315 interned).
 

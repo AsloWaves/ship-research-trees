@@ -3,7 +3,7 @@
 ## Overview
 The 27-Knotters, also known as A-Class destroyers, were the second generation of British TBDs ordered in 1894-1895. Unlike the pioneering 26-knotters, these were ordered in larger numbers from 14 different builders, with each yard producing to their own design within Admiralty specifications. This created significant variation in the class but rapidly expanded destroyer capability.
 
-```yaml
+---
 class_name: 27-Knotter (A-Class)
 hull_numbers: Various
 ships_built: 37
@@ -29,7 +29,7 @@ secondary_guns: 0
 torpedo_tubes: "2× 18-inch"
 aircraft: 0
 tags: [destroyer, tbd, 27-knotter, a-class, 1894, multiple-builders]
-```
+---
 
 ## Specifications
 

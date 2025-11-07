@@ -1,6 +1,6 @@
 # Z40-Class Destroyers (Type 1936B Late - Improved AA)
 
-```yaml
+---
 class_name: Z40-Class (Type 1936B Late)
 hull_numbers: Z40-Z45
 ships_built: 6
@@ -65,7 +65,7 @@ firsts:
 # Tags
 tags: [destroyer, z40, type-1936b-late, improved-aa, enhanced-radar, very-late-war, kriegsmarine, ww2, incomplete]
 ---
-```
+---
 
 **Type 1936B Late - Enhanced AA for Allied Air Superiority** - 6 ships commissioned/incomplete 1944: Z40, Z41, Z42, Z43, Z44, Z45. **Late Type 1936B** with **improved AA** capability. 2,550 tons standard, **5× 12.7cm SK C/41 DP guns**, **8× 533mm torpedoes**, 38.8 knots. **Massively enhanced AA** (6× 37mm, 18× 20mm!) vs. Allied air superiority. Enhanced radar fire control, better range (5,400 nm). **Very late war (1944)** - few operational before war's end. Most scuttled incomplete or captured. Last Type 1936B variant.
 

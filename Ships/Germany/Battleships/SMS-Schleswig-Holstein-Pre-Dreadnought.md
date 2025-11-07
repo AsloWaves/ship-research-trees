@@ -1,6 +1,6 @@
 # SMS Schleswig-Holstein Pre-Dreadnought (1908 FIRST SHOTS OF WWII - Westerplatte!)
 
-```yaml
+---
 class_name: SMS Schleswig-Holstein (Deutschland-class - Started WWII!)
 hull_numbers: SMS Schleswig-Holstein
 ships_built: 1 (fourth Deutschland-class ship)
@@ -241,7 +241,7 @@ firsts:
 # Tags
 tags: [battleship, sms-schleswig-holstein, deutschland-class, pre-dreadnought, 1908, first-shots-wwii, westerplatte, poland-invasion, september-1-1939, jutland-survivor, training-ship, 37-years-service, both-world-wars]
 ---
-```
+---
 
 **FIRST SHOTS OF WWII - 1908 Started the War!** - Deutschland-class pre-dreadnought (commissioned July 6, 1908). **13,191 tons**, **18.5 kts**, **4× 28cm (11") guns**. **37 YEARS SERVICE!** (1908-1945 - BOTH WORLD WARS!). Survived **Battle of Jutland** (May 31-June 1, 1916) - unlike sister Pommern! Treaty of Versailles: Germany allowed to keep! Converted training ship (1926). Deployed Danzig (August 25, 1939 - "courtesy visit"!). **SEPTEMBER 1, 1939, 04:45 AM: FIRST SHOTS OF WWII!** Bombarded **WESTERPLATTE** (Polish depot)! 182 Polish defenders resisted **7 DAYS** (heroic!)! 28cm guns point-blank range! Luftwaffe Stukas joined! Poles surrendered September 7 (ammunition exhausted). **SYMBOLIC IRONY**: 31-year-old obsolete BB started WWII! WWII: Training ship, shore bombardment. **Scuttled May 4, 1945** (Kiel, 4 days before war ended!). Scrapped 1960s. **SHIP THAT STARTED WWII!** **HISTORICAL LEGEND!**
 

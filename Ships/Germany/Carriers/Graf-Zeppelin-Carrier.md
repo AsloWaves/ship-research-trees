@@ -1,6 +1,6 @@
 # Graf Zeppelin Aircraft Carrier (85% Complete - Famous Unfinished Carrier!)
 
-```yaml
+---
 class_name: Graf Zeppelin Aircraft Carrier
 hull_numbers: Flugzeugträger A (Aircraft Carrier A)
 ships_built: 1 (85% complete, never commissioned!)
@@ -84,7 +84,7 @@ firsts:
 # Tags
 tags: [carrier, graf-zeppelin, 85-percent-complete, dual-purpose, 16x15cm-guns, bf-109t, ju-87c, never-commissioned, scuttled-1945, famous-unfinished, unique-design]
 ---
-```
+---
 
 **Germany's Famous Unfinished Carrier!** - 1 boat: **GRAF ZEPPELIN** - **85% COMPLETE** but **NEVER COMMISSIONED!** Germany's closest approach to carrier aviation. **33,550 tons**, **33.8 kts**, **42 aircraft** (12 Bf 109T fighters + 30 Ju 87C Stuka dive bombers). **UNIQUE DUAL-PURPOSE DESIGN** with **16× 15cm guns** (HEAVIEST carrier armament ever planned!) combining carrier and cruiser roles. Armored flight deck (60mm), cruiser-level belt armor (100mm). **Keel laid Dec 28, 1936**, **launched Dec 8, 1938** by Countess Hella von Brandenstein-Zeppelin. Construction suspended April 1940 (Norwegian campaign priority), briefly resumed 1942-1943, then abandoned. Hitler ordered scrapping January 1943 (U-boat priority). **Scuttled April 25, 1945** to prevent Soviet capture. Wreck found in Baltic Sea near Władysławowo, Poland. **NEVER COMMISSIONED** - represents one of WWII's great "what ifs"!
 

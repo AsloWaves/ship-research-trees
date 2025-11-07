@@ -1,6 +1,6 @@
 # Flugzeugträger D Aircraft Carrier (Fourth Plan Z Carrier - Never Started)
 
-```yaml
+---
 class_name: Flugzeugträger D Aircraft Carrier (Plan Z Fourth Carrier)
 hull_numbers: Flugzeugträger D (Aircraft Carrier D)
 ships_built: 0 (never started)
@@ -76,7 +76,7 @@ firsts:
 # Tags
 tags: [carrier, flugzeugtraeger-d, plan-z, never-started, 4-carrier-fleet, barely-planned, paper-ship, dual-purpose, 1940-concept]
 ---
-```
+---
 
 **Fourth Plan Z Carrier - Barely Planned!** - 0 boats: **FLUGZEUGTRÄGER D** - **Final carrier in Plan Z 4-carrier fleet!** Similar to Flugzeugträger C: **35,000 tons**, **34 kts**, **45 aircraft**, **16× 15cm guns** dual-purpose design. Plan Z envisioned complete carrier fleet (Graf Zeppelin, Peter Strasser, C, D) supporting surface fleet with H-class battleships. Strategic concept: carrier groups for **Atlantic/North Sea operations**, **convoy interdiction**, **fleet support**. Never reached detailed planning beyond concept. **Peter Strasser scrapping (February 28, 1940)** ended entire Graf Zeppelin-class program. **Plan Z collapsed** with WWII outbreak - strategic priorities shifted to U-boats and land forces. Flugzeugträger C and D never started construction. **NEVER BUILT** - barely planned beyond basic concept.
 

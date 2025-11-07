@@ -1,6 +1,6 @@
 # Type 205 Submarine (Bundesmarine - 12 Built 1962-1969!)
 
-```yaml
+---
 class_name: Type 205 Submarine (Bundesmarine)
 hull_numbers: U-1 to U-12
 ships_built: 12 (ACTUALLY BUILT!)
@@ -64,7 +64,7 @@ firsts:
 # Tags
 tags: [submarine, type-205, bundesmarine, cold-war, 12-boats, coastal, nato, actually-built, 1962-1969, west-germany]
 ---
-```
+---
 
 **Bundesmarine - 12 Built!** - 12 boats commissioned 1962-1969: U-1 to U-12. **FIRST BUNDESMARINE SUBMARINES!** Post-WWII West Germany. **Type XXIII descendant** (compact coastal!). **419 tons**, **17 kts submerged**, **8 torpedoes**, non-magnetic steel, modern 1960s systems. NATO operations. Baltic/North Sea defense. Served 1962-1993 (12-31 years!). **ACTUALLY BUILT** - real submarines, not paper ships!
 

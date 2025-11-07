@@ -1,6 +1,6 @@
 # Type 206 Submarine (Bundesmarine - 18 Built 1973-1975!)
 
-```yaml
+---
 class_name: Type 206 Submarine (Bundesmarine Enhanced)
 hull_numbers: U-13 to U-30
 ships_built: 18 (ACTUALLY BUILT!)
@@ -65,7 +65,7 @@ firsts:
 # Tags
 tags: [submarine, type-206, bundesmarine, cold-war, 18-boats, wire-guided-torpedoes, nato, actually-built, 1973-2013, 40-years-service]
 ---
-```
+---
 
 **Bundesmarine - 18 Built!** - 18 boats commissioned 1973-1975: U-13 to U-30. **ENHANCED BUNDESMARINE SUBMARINE!** Type 205 improved. **450 tons**, **17 kts submerged**, **8 wire-guided torpedoes**, modern 1970s systems. NATO Cold War operations. **Longest service**: 1973-2013 (40 YEARS!). Led to Type 212 AIP submarines. **ACTUALLY BUILT** - served until 2013!
 

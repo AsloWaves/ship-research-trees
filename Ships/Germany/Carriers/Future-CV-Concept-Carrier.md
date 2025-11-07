@@ -1,6 +1,6 @@
 # Future CV Concept Carrier (1970 Advanced Future Technology - END OF TREE!)
 
-```yaml
+---
 class_name: Future CV Concept Carrier (Advanced Future Technology)
 hull_numbers: None (future concept)
 ships_built: 0 (future technology vision)
@@ -105,7 +105,7 @@ firsts:
 # Tags
 tags: [carrier, future-cv-concept, 1970-vision, nuclear-power, phased-array, em-catapults, stealth, vtol, pure-speculation, end-of-tree, theoretical, never-built]
 ---
-```
+---
 
 **Future Carrier Concept - 1970s Vision! END OF TREE!** - 0 boats: **FUTURE CV CONCEPT** - **Pure speculation - 1970s vision of future carrier technology!** **75,000 tons**, **35 kts**, **70+ aircraft** (35 Mach 3+ fighters + 20 stealth attack + 10 VTOL + 5 AEW + 10 helicopters!). **REVOLUTIONARY FUTURE CONCEPTS**: **Nuclear power** (unlimited range, CVN concept!), **phased array radar** (AEGIS-style AN/SPY-1 equivalent!), **electromagnetic catapults** (railgun technology!), **stealth aircraft** (F-117 precursor!), **VTOL capability** (Harrier-style!), **advanced automation** (computer-controlled, AI precursor!), **cruise missiles** (Tomahawk-style offensive!). **Fully digital AEGIS precursor combat system**. **Global reach** (unlimited range + satellite comms!). **PURE SPECULATION** - Germany never pursued carriers (Cold War focus on submarines/land/air defense). Modern Germany has no carrier program (frigates/submarines focus). **THEORETICAL ONLY** - 1970s future technology vision. **FINAL NODE** in German carrier research tree! **END OF TREE!**
 

@@ -1,6 +1,6 @@
 # SMS Großer Kurfürst Super-Dreadnought (1914 JUTLAND VETERAN - Heavy Combat!)
 
-```yaml
+---
 class_name: SMS Großer Kurfürst (König-class - Jutland Heavy Combat!)
 hull_numbers: SMS Großer Kurfürst ("Great Elector")
 ships_built: 1 (third König-class ship)
@@ -253,7 +253,7 @@ firsts:
 # Tags
 tags: [battleship, sms-grosser-kurfurst, konig-class, 1914, jutland-veteran, heavy-combat, 8-shell-hits, scapa-flow, never-salvaged, wreck-dive-site, war-grave]
 ---
-```
+---
 
 **HEAVY JUTLAND COMBAT - 1914 Battle-Tested Survivor!** - König-class super-dreadnought (commissioned July 30, 1914 - **1 DAY BEFORE WWI!**). **28,600 tons**, **23.4 KNOTS**, **10× 30.5cm (12") guns** - **ALL CENTERLINE!** **MAXIMUM BROADSIDE** (all 10 guns on target!). Improved Kaiser class! Immediately operational WWI (August 1914). **BATTLE OF JUTLAND** (May 31-June 1, 1916) - **HEAVY COMBAT!** Engaged HMS Iron Duke (British flagship!)! **HIT BY 8 LARGE-CALIBER SHELLS** (13.5" and 15"!)! **KRUPP ARMOR HELD!** Moderate damage, fires controlled! **SURVIVED!** Repairs July 1916. Combat-proven design! **SCAPA FLOW** (Nov 21, 1918). **OPERATION RAINBOW** (June 21, 1919) - scuttled! **WRECK NEVER SALVAGED!** Remains at Scapa Flow! **POPULAR WRECK DIVE SITE!** Protected war grave! **UNDERWATER WWI HERITAGE!**
 

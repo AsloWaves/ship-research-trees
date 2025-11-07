@@ -1,6 +1,6 @@
 # Type IXB Submarine (Improved - Enhanced Reliability 1939)
 
-```yaml
+---
 class_name: Type IXB Submarine (Improved Type IX)
 hull_numbers: U-64, U-65, U-103 to U-111, U-122, U-123, U-124
 ships_built: 14
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, type-ixb, improved, 14-boats, 12000-nm, enhanced-reliability, ocean-going, kriegsmarine, 1939]
 ---
-```
+---
 
 **Improved Type IX - Enhanced Range & Reliability** - 14 boats commissioned 1939-1940: U-64, U-65, U-103 to U-111, U-122, U-123, U-124. Improved Type IXA with **enhanced reliability**. 1051 tons surfaced, **6× 53.3cm torpedo tubes**, **22 torpedoes carried**, 18.2 knots surfaced/7.3 knots submerged. **12,000 nm range** (14% improvement over IXA 10,500 nm!), **wider beam 22.2 ft** (improved stability). **1× 10.5cm SK C/32** + AA armament. Enhanced diesel engines (reliability focus). Famous boats: **U-123 (Hardegen - Operation Drumbeat US East Coast!)**, U-106, U-107. Led to Type IXC (54 boats).
 

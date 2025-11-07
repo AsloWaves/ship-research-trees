@@ -3,7 +3,7 @@
 ## Overview
 The Mersey-class were second-class protected cruisers built for colonial service. Four ships featured improved speed and simplified armament compared to earlier protected cruisers. They served extensively on foreign stations and represented a cost-effective design for overseas patrol duties.
 
-```yaml
+---
 class_name: Mersey Class
 hull_numbers: Various
 ships_built: 4
@@ -29,7 +29,7 @@ secondary_guns: "8× 3-pounder"
 torpedo_tubes: "4× 14-inch"
 aircraft: 0
 tags: [cruiser, protected-cruiser, mersey-class, 1885, second-class-cruiser]
-```
+---
 
 ## Specifications
 

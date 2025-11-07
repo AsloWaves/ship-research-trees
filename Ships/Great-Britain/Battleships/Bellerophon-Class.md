@@ -3,7 +3,7 @@
 ## Overview
 The Bellerophon-class were three dreadnought battleships built 1906-1909 as improved versions of HMS Dreadnought, featuring better armor distribution, improved machinery layout, and refined turret placement. As the second dreadnought class, they incorporated lessons learned from HMS Dreadnought while maintaining the revolutionary all-big-gun concept. HMS Bellerophon, HMS Superb, and HMS Temeraire served throughout WWI with the Grand Fleet, participating in Jutland (1916) and numerous North Sea operations. All three ships scrapped 1921-1922.
 
-```yaml
+---
 class_name: Bellerophon-Class
 hull_numbers: Bellerophon, Superb, Temeraire
 ships_built: 3
@@ -23,7 +23,7 @@ crew: 733
 armament: "10× 12-inch guns, 16× 4-inch guns"
 armor: 10-inch belt, 11-inch barbettes, 11-inch turrets
 tags: [battleship, bellerophon-class, dreadnought, 1907-1909, jutland, grand-fleet, wwi, second-dreadnought-class]
-```
+---
 
 ## Specifications
 

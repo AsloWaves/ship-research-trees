@@ -1,6 +1,6 @@
 # Type XIV Submarine ("Milchkuh" Tanker - 203 Tons Fuel! 1941)
 
-```yaml
+---
 class_name: Type XIV Submarine ("Milchkuh" Tanker)
 hull_numbers: U-459 to U-464, U-487 to U-490
 ships_built: 10
@@ -70,7 +70,7 @@ firsts:
 # Tags
 tags: [submarine, type-xiv, tanker, milchkuh, resupply, 203-tons-fuel, 10-boats, strategic, all-lost, kriegsmarine, 1941]
 ---
-```
+---
 
 **"Milchkuh" Tanker - 203 Tons Resupply Fuel!** - 10 boats commissioned 1941-1942: U-459 to U-464, U-487 to U-490. **SUBMARINE TANKER!** Nicknamed **"Milchkuh" (Milk Cow)**! 1688 tons surfaced, **203 TONS EXTRA FUEL** for resupplying other U-boats at sea! **"Milchkuh" special ability (+100% fleet endurance, UNIQUE!)**. **Extended patrol duration +100%+!** **30.8 ft beam** (WIDEST German submarine!). Minimal armament: 2× stern torpedo tubes (self-defense), NO deck gun (cargo space!). Carried 4 spare torpedoes + provisions + spare parts. Mid-Atlantic rendezvous operations. **Strategic force multiplier**. **ALL 10 BOATS LOST 1943-1944!** (100% loss rate!) Allied priority targets.
 

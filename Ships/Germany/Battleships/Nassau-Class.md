@@ -1,6 +1,6 @@
 # Nassau-Class Dreadnought Battleships
 
-```yaml
+---
 class_name: Nassau-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 4
@@ -58,7 +58,7 @@ firsts:
 # Tags
 tags: [battleship, dreadnought, kaiserliche-marine, 1909, hexagonal-layout, jutland, scapa-flow]
 ---
-```
+---
 
 **First German Dreadnoughts** - Germany's response to HMS Dreadnought. Unique hexagonal 12-gun layout (6 twin turrets). Reciprocating engines (not turbines). Slower than British dreadnoughts. All fought at Jutland. Scuttled at Scapa Flow 1919.
 

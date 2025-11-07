@@ -3,7 +3,7 @@
 ## Overview
 The Majestic-class were nine first-class battleships built 1894-1896, representing an improved and enlarged Royal Sovereign design. As the largest class of battleships built to a single design in the 19th century, they incorporated lessons from Royal Sovereign with improved engines, better protection, and refined armament. The class dominated the Royal Navy fleet in the late 1890s and formed the core of British battle squadrons until the dreadnought revolution. All nine ships served in WWI on secondary duties before being scrapped 1914-1922.
 
-```yaml
+---
 class_name: Majestic-Class
 hull_numbers: Various (Majestic, Caesar, Hannibal, Illustrious, Jupiter, Magnificent, Mars, Prince George, Victorious)
 ships_built: 9
@@ -23,7 +23,7 @@ crew: 672
 armament: "4× 12-inch guns, 12× 6-inch guns, numerous smaller guns"
 armor: 9-inch belt, 14-inch barbettes, 4-inch deck
 tags: [battleship, majestic-class, pre-dreadnought, 1894-1896, largest-pre-dreadnought-class, victorian-era, wwi]
-```
+---
 
 ## Specifications
 

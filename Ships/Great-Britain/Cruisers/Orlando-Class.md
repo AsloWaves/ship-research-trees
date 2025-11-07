@@ -3,7 +3,7 @@
 ## Overview
 The Orlando-class were first-class protected cruisers built for commerce protection and fleet duties. Seven ships combined good speed with heavy armament, representing a significant advance in British cruiser design. They served extensively until WWI, with some seeing wartime service.
 
-```yaml
+---
 class_name: Orlando Class
 hull_numbers: Various
 ships_built: 7
@@ -29,7 +29,7 @@ secondary_guns: "6× 6-pounder, 10× 3-pounder"
 torpedo_tubes: "6× 18-inch"
 aircraft: 0
 tags: [cruiser, protected-cruiser, orlando-class, 1888, first-class-cruiser]
-```
+---
 
 ## Specifications
 

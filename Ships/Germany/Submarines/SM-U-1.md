@@ -1,6 +1,6 @@
 # SM U-1 (First German U-boat - Submarine Pioneer 1906)
 
-```yaml
+---
 class_name: SM U-1 (First German Submarine)
 hull_numbers: U-1
 ships_built: 1
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, u-1, first-u-boat, pioneer, gasoline-electric, experimental, kaiserliche-marine, free-starter, 1906]
 ---
-```
+---
 
 **World's First Practical Military Submarine - Submarine Pioneer!** - Single boat commissioned 1906: U-1. **FIRST GERMAN U-BOAT!** **World's first practical military submarine** with gasoline/electric propulsion. 238 tons surfaced, **1× 45cm torpedo tube**, 3 torpedoes carried, 10.8 knots surfaced/8.7 knots submerged. **Experimental gasoline engine** (dangerous!), lead-acid batteries, 1,500 nm range. **Pioneered submarine warfare** doctrine. Single hull with saddle tanks, 100 ft diving depth. Served WWI 1914-1918 training role. **Established German U-boat tradition** that dominated both world wars. **FREE starting submarine** for tutorial.
 

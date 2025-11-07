@@ -1,6 +1,6 @@
 # Type 1945 Destroyer (Ultimate Paper Design - Never Built)
 
-```yaml
+---
 class_name: Type 1945 Destroyer (Ultimate Paper Design)
 hull_numbers: None assigned
 ships_built: 0 (paper design only)
@@ -65,7 +65,7 @@ firsts:
 # Tags
 tags: [destroyer, type-1945, ultimate-paper, hybrid-propulsion, unprecedented-range, theoretical, revolutionary, kriegsmarine, post-war-concepts]
 ---
-```
+---
 
 **Ultimate Paper Design - Radical Hybrid Propulsion (Never Built)** - Theoretical design 1946: Type 1945 destroyer. **ULTIMATE WWII PAPER DESIGN!** Theoretical only - never built. 3,500 tons standard, **6× 12.8cm SK C/41 DP guns**, **10× 533mm torpedoes**, 40 knots (estimated). **RADICAL HYBRID PROPULSION** (diesel/gas turbine, 90,000 SHP - EXPERIMENTAL!), **UNPRECEDENTED RANGE** (12,000 nm!), **moderate armor** (40mm belt, 25mm deck), **revolutionary radar/computer FCS**, **most AA guns** (10× 37mm, 30× 20mm!). **Combined WWII lessons + post-war concepts**: hybrid propulsion, computer fire control, moderate protection, extreme endurance. **Theoretical design** never realized - war ended.
 

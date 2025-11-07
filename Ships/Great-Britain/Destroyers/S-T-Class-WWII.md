@@ -3,7 +3,7 @@
 ## Overview
 The S and T-classes were War Emergency Programme destroyers with 16 ships built 1942-1943 (8 per class). Continuing the O/P/Q/R design, they were effective fleet destroyers seeing extensive late-war service in the Pacific and European theaters. The class had low losses and many served into the 1960s.
 
-```yaml
+---
 class_name: S/T-Class (Savage/Tumult Groups)
 hull_numbers: Various
 ships_built: 16 (8 per class)
@@ -29,7 +29,7 @@ secondary_guns: "4× 2-pounder AA, 8-10× 20mm"
 torpedo_tubes: "8× 21-inch (2 quad)"
 aircraft: 0
 tags: [destroyer, s-class-wwii, t-class, 1942-1943, war-emergency, pacific-service, ww2-service]
-```
+---
 
 ## Specifications
 

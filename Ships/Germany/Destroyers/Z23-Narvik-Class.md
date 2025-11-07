@@ -1,6 +1,6 @@
 # Z23-Class Destroyers (Type 1936A "Narvik" - Revolutionary 150mm Guns!)
 
-```yaml
+---
 class_name: Z23-Class (Type 1936A "Narvik")
 hull_numbers: Z23-Z30
 ships_built: 8
@@ -68,7 +68,7 @@ firsts:
 # Tags
 tags: [destroyer, z23, narvik, type-1936a, revolutionary, 150mm-guns, cruiser-firepower, kriegsmarine, ww2, arctic, famous]
 ---
-```
+---
 
 **REVOLUTIONARY "Narvik" Class - 150mm Guns Change Destroyer Warfare!** - 8 ships commissioned 1940-1941: Z23, Z24, Z25, Z26, Z27, Z28, Z29, Z30. **Type 1936A "Narvik"** - **REVOLUTIONARY 4× 15cm (150mm) guns!** Only WWII destroyers with 150mm guns. **Cruiser-level firepower** (+40% over 127mm!). **Named after Battles of Narvik** (1940) where German destroyers fought heroically. 2,603 tons standard, **4× 15cm SK C/38 guns** (unprecedented!), **8× 533mm torpedoes**, 39 knots. **Changed destroyer warfare paradigm** - outgunned most Allied destroyers. Served entire WWII: **Arctic convoys**, Atlantic, Channel operations. **Several survived war**: French Navy operated survivors until 1958-1982! **Most famous German WWII destroyers** in history.
 

@@ -3,7 +3,7 @@
 ## Overview
 The Emerald-class were the last light cruisers designed during WWI, though completed in the 1920s. Two ships were designed for high speed (33 knots) to work with the battlecruiser fleet, featuring powerful machinery and light construction.
 
-```yaml
+---
 class_name: Emerald Class (E-class)
 hull_numbers: Various
 ships_built: 2
@@ -29,7 +29,7 @@ secondary_guns: "3× 4-inch AA"
 torpedo_tubes: "16× 21-inch"
 aircraft: 0
 tags: [cruiser, light-cruiser, e-class, emerald-class, 1926, high-speed, battlecruiser-fleet]
-```
+---
 
 ## Specifications
 

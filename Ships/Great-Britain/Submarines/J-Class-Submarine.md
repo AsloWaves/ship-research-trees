@@ -3,7 +3,7 @@
 ## Overview
 The J-class were large fleet submarines with 7 boats built 1915-1917. They were designed as improved E-class with enhanced capabilities for long-range fleet operations. The class featured innovative saddle tanks and represented the ultimate development of WWI fleet submarine design before the experimental K and M classes.
 
-```yaml
+---
 class_name: J-Class Submarine
 hull_numbers: J1-J7
 ships_built: 7
@@ -24,7 +24,7 @@ crew: 44
 armament: "6× 21-inch torpedo tubes (4 bow, 2 beam), 1× 4-inch gun, 1× 3-inch AA"
 torpedoes: 12
 tags: [submarine, j-class, 1915-1917, large-fleet-submarine, high-speed, saddle-tanks, ww1-service]
-```
+---
 
 ## Specifications
 

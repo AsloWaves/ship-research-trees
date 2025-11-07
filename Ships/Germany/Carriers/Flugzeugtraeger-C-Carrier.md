@@ -1,6 +1,6 @@
 # Flugzeugträger C Aircraft Carrier (Third Plan Z Carrier - Never Started)
 
-```yaml
+---
 class_name: Flugzeugträger C Aircraft Carrier (Plan Z Third Carrier)
 hull_numbers: Flugzeugträger C (Aircraft Carrier C)
 ships_built: 0 (never started)
@@ -76,7 +76,7 @@ firsts:
 # Tags
 tags: [carrier, flugzeugtraeger-c, plan-z, never-started, improved-design, 45-aircraft, dual-purpose, paper-ship, 1940-planned]
 ---
-```
+---
 
 **Third Plan Z Carrier - Never Started!** - 0 boats: **FLUGZEUGTRÄGER C** - **Planned but never started!** Third carrier in Plan Z's ambitious 4-carrier fleet goal. Improved Graf Zeppelin design incorporating construction experience. **35,000 tons** (larger than Graf Zeppelin), **34 kts**, **45 aircraft** (improved from 42!), enhanced AA armament. Would have featured same **16× 15cm guns** dual-purpose design, 60mm armored flight deck. Planned for Atlantic operations, convoy interdiction, fleet support. **WWII outbreak (September 1939)** prevented construction start. Peter Strasser's scrapping (February 1940) and strategic priority shift to U-boats ended all Plan Z carrier development. **NEVER BUILT** - construction never began. Part of Plan Z rearmament program that was never realized.
 

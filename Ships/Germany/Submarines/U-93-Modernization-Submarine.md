@@ -1,6 +1,6 @@
 # U-93 Class Modernization (10.5cm Gun Upgrade - 1918 Refit)
 
-```yaml
+---
 class_name: U-93 Class Modernization (1918 Refit)
 hull_numbers: U-93 to U-116 (24 boats modernized)
 ships_built: 24 (refits of existing U-93 class)
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [submarine, u-93, modernization, 1918-refit, 10.5cm-gun-upgrade, surface-combat, late-war, wwi, kaiserliche-marine]
 ---
-```
+---
 
 **10.5cm Gun Upgrade - 1918 Refit** - 24 boats modernized 1918: U-93 to U-116 (entire U-93 class!). **WWI U-BOAT MODERNIZATION!** **10.5cm SK L/45 gun upgrade** (from original 8.8cm!). Enhanced surface combat capability responding to armed merchant cruisers. Maintained 1000 tons surfaced, **6× 50cm torpedo tubes**, **16 torpedoes**, 16.8 knots surfaced/9.1 knots submerged, 9000 nm range. **24 boats modernized** 1918 (war's final year). All boats post-war scrapped under Treaty of Versailles 1919-1920. Increased firepower for late-war surface engagements.
 

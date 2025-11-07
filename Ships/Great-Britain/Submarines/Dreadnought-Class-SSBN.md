@@ -3,7 +3,7 @@
 ## Overview
 The Dreadnought-class are next-generation nuclear-powered ballistic missile submarines (SSBNs) with 4 boats under construction to replace the Vanguard-class. Armed with Trident II D5 missiles and featuring the new PWR3 reactor and advanced stealth technology, they will maintain Britain's continuous at-sea nuclear deterrent from the 2030s through the 2060s and beyond.
 
-```yaml
+---
 class_name: Dreadnought-Class (SSBN)
 hull_numbers: S500-S503 (Dreadnought, Valiant, Warspite, King George VI)
 ships_built: 4 (under construction)
@@ -24,7 +24,7 @@ crew: 130 (reduced from Vanguard's 135 through automation)
 armament: "12× Trident II D5LE SLBM (vs 16 on Vanguard), 4× 21-inch torpedo tubes"
 missiles: 12 Trident II D5LE (Life Extension)
 tags: [submarine, dreadnought-class, ssbn, future, nuclear-powered, trident-missiles, pwr3-reactor, strategic-deterrent, under-construction, 2030s]
-```
+---
 
 ## Specifications
 

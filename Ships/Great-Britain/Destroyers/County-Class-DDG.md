@@ -3,7 +3,7 @@
 ## Overview
 The County-class were the first British guided missile destroyers (DDGs), with 8 ships built 1961-1970 in two batches. Designed for fleet air defense with Seaslug SAM systems, they were large ships at 5,440 tons standard, representing a revolutionary shift from guns to missiles. They served extensively during the Cold War, Falklands War, and Gulf operations before retirement in the 1980s.
 
-```yaml
+---
 class_name: County-Class DDG (Batch 1 & 2)
 hull_numbers: D02, D06, D12, D16, D18, D20, D23, D28
 ships_built: 8 (Batch 1: 4, Batch 2: 4)
@@ -31,7 +31,7 @@ secondary_guns: "2× 20mm"
 torpedo_tubes: 0
 helicopter: "1× Wessex HAS.3"
 tags: [destroyer, county-class, 1961-1970, guided-missile, seaslug, falklands-war, first-ddg, cold-war]
-```
+---
 
 ## Specifications
 

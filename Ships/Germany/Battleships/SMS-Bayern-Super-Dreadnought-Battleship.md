@@ -1,6 +1,6 @@
 # SMS Bayern Super-Dreadnought Battleship (1916 BEST WWI - 15-Inch Guns!)
 
-```yaml
+---
 class_name: SMS Bayern Super-Dreadnought Battleship (Best WWI German BB!)
 hull_numbers: SMS Bayern, SMS Baden, (SMS Sachsen cancelled), (SMS Württemberg cancelled)
 ships_built: 2 (of 4 planned - 2 cancelled for U-boat priority)
@@ -108,7 +108,7 @@ firsts:
 # Tags
 tags: [battleship, sms-bayern, 1916, ultimate-wwi, 15-inch-guns, 8x38cm, best-wwi-german, scapa-flow, royal-navy-study, 2-ships]
 ---
-```
+---
 
 **BEST WWI GERMAN BATTLESHIP - 1916 15-Inch Power!** - 2 ships completed: **SMS BAYERN**, **SMS BADEN** (+ 2 cancelled: Sachsen, Württemberg). **BEST WWI GERMAN BATTLESHIP!** **ONLY GERMAN 15-INCH GUNS!** (8× 38cm SK L/45!). **28,530 tons**, **22 kts**, **8× 38cm (15") guns** in **4× twin superfiring turrets** (2 forward + 2 aft!). Germany's answer to HMS Queen Elizabeth! 750 kg armor-piercing shells, 20,400m range. Krupp armor (350mm belt/turrets/barbettes). **TOO LATE FOR JUTLAND!** (Bayern commissioned July 1916, 1 month after battle). Only 2 of 4 completed (U-boat priority halted Sachsen & Württemberg!). Bayern ran aground 1918, scrapped 1920. **Baden: Scuttled Scapa Flow 1919, SALVAGED!** (sank too slowly), **Royal Navy studied extensively** (1919-1921), used for gunnery/bomb/torpedo tests, finally sunk by British gunfire August 1921. **MOST POWERFUL GERMAN BATTLESHIPS UNTIL BISMARCK!**
 

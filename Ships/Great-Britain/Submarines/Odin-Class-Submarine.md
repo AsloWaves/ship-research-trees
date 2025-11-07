@@ -3,7 +3,7 @@
 ## Overview
 The Odin-class were interwar patrol submarines with 9 boats built 1928-1929. They were the first post-WWI patrol submarine design, featuring improved habitability and range for overseas operations. The class saw extensive WWII service with heavy losses, particularly in the Mediterranean.
 
-```yaml
+---
 class_name: Odin-Class Submarine
 hull_numbers: Odin, Olympus, Orpheus, Osiris, Oswald, Otus, Otway, Oxley, Grampus
 ships_built: 9
@@ -24,7 +24,7 @@ crew: 53
 armament: "8× 21-inch torpedo tubes (6 bow, 2 stern), 1× 4-inch gun"
 torpedoes: 14
 tags: [submarine, odin-class, 1928-1929, patrol-submarine, interwar, ww2-service, mediterranean, heavy-losses]
-```
+---
 
 ## Specifications
 

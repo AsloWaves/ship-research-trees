@@ -3,7 +3,7 @@
 ## Overview
 The W and Z-classes were War Emergency Programme destroyers with 16 ships built 1943-1944 (8 per class). The final development of the O-V War Emergency design, they featured improved AA armament and were optimized for Pacific warfare. The class saw extensive late-war and post-war service with very low losses.
 
-```yaml
+---
 class_name: W/Z-Class (Weapon/Zealous Groups)
 hull_numbers: Various
 ships_built: 16 (8 per class)
@@ -29,7 +29,7 @@ secondary_guns: "1× 4-inch AA, 6-10× 40mm"
 torpedo_tubes: "8× 21-inch (2 quad)"
 aircraft: 0
 tags: [destroyer, w-class-wwii, z-class, 1943-1944, war-emergency, pacific-service, late-war]
-```
+---
 
 ## Specifications
 

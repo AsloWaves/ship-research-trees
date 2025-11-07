@@ -3,7 +3,7 @@
 ## Overview
 The Leander-class were improved protected cruisers featuring better speed and armament than earlier designs. Four ships served globally, with emphasis on colonial station duties. These ships represented incremental improvements in the protected cruiser concept, with enhanced speed and more uniform armament.
 
-```yaml
+---
 class_name: Leander Class (1882)
 hull_numbers: Various
 ships_built: 4
@@ -29,7 +29,7 @@ secondary_guns: "6× machine guns"
 torpedo_tubes: "4× 14-inch"
 aircraft: 0
 tags: [cruiser, protected-cruiser, leander-class, 1882]
-```
+---
 
 ## Specifications
 

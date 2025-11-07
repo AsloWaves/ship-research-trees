@@ -3,7 +3,7 @@
 ## Overview
 The G-class were a planned emergency war programme class of 16 destroyers ordered 1943-1944 as repeats of the Battle-class design with simplifications for faster construction. Intended to reinforce the Pacific Fleet for the final assault on Japan, the entire class was cancelled September-October 1944 when it became clear Japan's defeat was imminent and resources were better allocated elsewhere. None were laid down, representing one of the largest cancelled destroyer programmes of WWII.
 
-```yaml
+---
 class_name: G-Class (WWII Emergency)
 hull_numbers: Unassigned (16 ships planned)
 ships_built: 0 (all cancelled before construction)
@@ -23,7 +23,7 @@ crew: 268
 armament: "4-5× 4.5-inch guns, 8-10× 40mm Bofors AA, 8× 21-inch torpedo tubes"
 torpedoes: 8× 21-inch torpedo tubes (2× quad mounts)
 tags: [destroyer, g-class, cancelled, 1944, wwii, emergency-programme, never-built, pacific-fleet, battle-class-repeat]
-```
+---
 
 ## Specifications (Planned)
 

@@ -3,7 +3,7 @@
 ## Overview
 The Churchill-class were nuclear-powered attack submarines with 3 boats built 1968-1970. Originally designed as Valiant-class, they featured minor improvements and were later reclassified as a separate class. They served successfully through the Cold War with HMS Conqueror achieving fame in the Falklands War for sinking the Argentine cruiser General Belgrano.
 
-```yaml
+---
 class_name: Churchill-Class (SSN)
 hull_numbers: S104, S105, S106 (Churchill, Conqueror, Courageous)
 ships_built: 3
@@ -24,7 +24,7 @@ crew: 103
 armament: "6× 21-inch torpedo tubes (bow)"
 torpedoes: 26
 tags: [submarine, churchill-class, ssn, 1968-1970, nuclear-powered, british-reactor, cold-war, falklands-war, hms-conqueror-belgrano]
-```
+---
 
 ## Specifications
 

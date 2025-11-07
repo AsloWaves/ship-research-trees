@@ -3,7 +3,7 @@
 ## Overview
 HMS Ferret and HMS Lynx were third and fourth in the pioneering group of torpedo boat destroyers ordered in 1893, built by Laird Brothers. They featured a third distinct design approach, proving that multiple builders could successfully produce effective destroyers and establishing competitive tendering as the standard procurement method.
 
-```yaml
+---
 class_name: Ferret Class
 hull_numbers: F12, L16
 ships_built: 2
@@ -29,7 +29,7 @@ secondary_guns: 0
 torpedo_tubes: "3× 18-inch"
 aircraft: 0
 tags: [destroyer, tbd, ferret-class, 1893, first-destroyer, laird, 26-knotter]
-```
+---
 
 ## Specifications
 

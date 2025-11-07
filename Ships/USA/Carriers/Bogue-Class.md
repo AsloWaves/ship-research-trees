@@ -1,6 +1,6 @@
 # Bogue-Class Escort Carriers
 
-```yaml
+---
 class_name: Bogue-Class
 hull_numbers: CVE-9 to CVE-25, CVE-31 to CVE-42, CVE-57 to CVE-68
 ships_built: 45
@@ -46,7 +46,7 @@ firsts:
 # Tags
 tags: [escort-carrier, bogue, cve, wwii, convoy, asw, merchant-conversion, 1942, 45-ships, atlantic, u-boat-hunter]
 ---
-```
+---
 
 **First Mass CVE** - Bogue-class were first mass-produced escort carriers. 45 ships converted from C3 merchant hulls 1942-1943. Vital for convoy escort and ASW in Battle of Atlantic.
 

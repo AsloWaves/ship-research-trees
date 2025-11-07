@@ -3,7 +3,7 @@
 ## Overview
 The Acorn-class (H-Class) were the first "standard" destroyers, with 20 identical ships built 1910-1911. They established the destroyer configuration that would dominate through WWI, introducing the 4-inch gun as main armament and standardizing oil firing. The class marked the transition from experimental designs to mass-produced standard types.
 
-```yaml
+---
 class_name: Acorn Class (H-Class)
 hull_numbers: Various H-series
 ships_built: 20
@@ -29,7 +29,7 @@ secondary_guns: "2× 12-pounder"
 torpedo_tubes: "2× 21-inch"
 aircraft: 0
 tags: [destroyer, acorn-class, h-class, 1910, standard-destroyer, oil-fired, pre-ww1]
-```
+---
 
 ## Specifications
 

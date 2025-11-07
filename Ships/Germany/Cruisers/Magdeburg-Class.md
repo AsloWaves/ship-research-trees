@@ -1,6 +1,6 @@
 # Magdeburg-Class Light Cruisers
 
-```yaml
+---
 class_name: Magdeburg-Class
 hull_numbers: Magdeburg, Breslau, Strassburg, Stralsund
 ships_built: 4
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [light-cruiser, magdeburg-class, 1912, first-waterline-belt-armor, 60mm-belt, 28-knots, breslau-goeben, magdeburg-codebooks, mediterranean-operations, kaiserliche-marine, ww1]
 ---
-```
+---
 
 **First German Light Cruisers with Waterline Belt Armor** - 4 ships built (1912-1913): Magdeburg, Breslau, Strassburg, Stralsund. **Revolutionary innovation**: First German light cruisers with waterline belt armor (60mm), significantly improving protection. Fastest to date (28.2 knots), first mixed coal/oil firing. **SMS Breslau**: Famous Mediterranean operations with battlecruiser SMS Goeben (1914-1918), escaped to Constantinople, transferred to Ottoman Turkey (became Midilli), sunk by mines (20 Jan 1918, 330 killed). **SMS Magdeburg**: Ran aground in fog (26 Aug 1914), codebooks captured by Russia, contributed to breaking German naval codes.
 

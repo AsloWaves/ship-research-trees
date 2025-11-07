@@ -3,7 +3,7 @@
 ## Overview
 The Weapon-class were four experimental destroyers built 1945-1947 as a radical departure from conventional destroyer design. Featuring all forward-facing armament, automated machinery, improved habitability, and advanced sensors, they tested concepts for future destroyer development. Only HMS Battleaxe, Broadsword, Crossbow, and Scorpion were completed before the class was cancelled due to post-war budget cuts. They served 1947-1964, validating many innovations later incorporated into Daring and County-class destroyers.
 
-```yaml
+---
 class_name: Weapon-Class
 hull_numbers: D118-D121 (Battleaxe, Broadsword, Crossbow, Scorpion)
 ships_built: 4 (19 cancelled)
@@ -23,7 +23,7 @@ crew: 234
 armament: "4× 4-inch guns, 6× 40mm Bofors AA, 10× 21-inch torpedo tubes"
 torpedoes: 10× 21-inch torpedo tubes (2× quintuple mounts)
 tags: [destroyer, weapon-class, experimental, 1945-1947, all-forward-armament, automated-machinery, post-war, cancelled]
-```
+---
 
 ## Specifications
 

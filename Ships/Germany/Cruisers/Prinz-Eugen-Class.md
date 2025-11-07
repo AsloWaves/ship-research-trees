@@ -1,6 +1,6 @@
 # Prinz Eugen (Admiral Hipper-Class Ship 3)
 
-```yaml
+---
 class_name: Prinz Eugen (Admiral Hipper-Class, Ship 3)
 hull_numbers: Prinz Eugen
 ships_built: 1 (third Admiral Hipper-class ship)
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [heavy-cruiser, prinz-eugen, 1940, admiral-hipper-class, bismarck-escort, operation-rheinübung, channel-dash, survived-ww2, us-war-prize, atomic-bomb-tests, bikini-atoll, kriegsmarine, ww2]
 ---
-```
+---
 
 **Most Famous German Heavy Cruiser - ONLY Major German Surface Ship to Survive WWII** - Commissioned 1940, third Admiral Hipper-class ship. 14,050 tons, 8× 20.3cm guns, 32.5 knots. **Operation Rheinübung** (May 1941): Bismarck's escort, Battle of Denmark Strait (24 May 1941, sank HMS Hood with Bismarck), detached to Atlantic raiding. **Channel Dash** (Operation Cerberus, Feb 1942): Breakout from Brest with Scharnhorst and Gneisenau, successfully reached Germany. Battle of Barents Sea (31 Dec 1942): Attacked Convoy JW 51B. Surrendered Copenhagen (8 May 1945). **US war prize**: Atomic bomb tests (Bikini Atoll, July 1946), survived 2 tests (Able + Baker), capsized from radioactive damage (Kwajalein, 22 Dec 1946). Wreck remains.
 

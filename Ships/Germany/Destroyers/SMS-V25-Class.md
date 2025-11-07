@@ -1,6 +1,6 @@
 # SMS V25-Class Large Torpedo Boats (Type 1913 - Mass Production)
 
-```yaml
+---
 class_name: SMS V25-Class (Type 1913)
 hull_numbers: V25-V30, G37-G42, S49-S53, V67-V82, S90-S95, V99-V106, H145-H148, T151-T160
 ships_built: 71
@@ -67,7 +67,7 @@ firsts:
 # Tags
 tags: [large-torpedo-boat, destroyer, sms-v25, type-1913, 71-ships, mass-production, 10.5cm-guns, 6-torpedoes, kaiserliche-marine, ww1, jutland, high-seas-fleet]
 ---
-```
+---
 
 **Largest German Destroyer Class EVER - 71 Ships Built!** - Revolutionary mass production program commissioned 1913-1916: V25-V30, G37-G42, S49-S53, V67-V82, S90-S95, V99-V106, H145-H148, T151-T160. **Type 1913** design established German torpedo warfare doctrine. 689 tons, **3× 10.5cm guns** (upgraded from 8.8cm), **6× 50cm torpedoes** (increased from 4×), 34.5 knots. **+30% production efficiency** through standardized construction across multiple shipyards. Formed backbone of High Seas Fleet destroyer force. **Most successful German destroyer program in history.** Served entire WWI (1914-1918): **Battle of Jutland** (31 May 1916 - largest destroyer class engaged), North Sea operations, convoy escort, mine-laying. Heavy losses during war (many ships sunk). Survivors scrapped 1919-1935 under Treaty of Versailles.
 

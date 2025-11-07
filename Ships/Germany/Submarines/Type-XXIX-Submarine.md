@@ -1,6 +1,6 @@
 # Type XXIX Submarine (Ultimate WWII Design - Paper Ship 1945)
 
-```yaml
+---
 class_name: Type XXIX Submarine (Ultimate WWII Design)
 hull_numbers: None assigned (never built)
 ships_built: 0 (paper ship)
@@ -64,7 +64,7 @@ firsts:
 # Tags
 tags: [submarine, type-xxix, ultimate-wwii, paper-ship, 22-knots-submerged, 30-torpedoes, theoretical-maximum, never-built, 1945-concept]
 ---
-```
+---
 
 **Ultimate WWII Design - Paper Ship Only!** - 0 boats built: **ULTIMATE WWII ELEKTROBOOT!** Theoretical maximum elektroboot performance. **22 KNOTS SUBMERGED!** (fastest concept!). **30 TORPEDOES** (maximum armament!). **8 torpedo tubes** (6 bow, 2 stern!). **12-minute reload** (ultimate automation!). **20,000 nm range** (ultimate endurance!). **600 ft diving depth** (deepest!). 2200 tons, perfect streamlining, theoretical optimum hydrodynamics. **PAPER SHIP ONLY** - cancelled 1945, never built. Shows theoretical limits of diesel-electric submarine technology 1945.
 

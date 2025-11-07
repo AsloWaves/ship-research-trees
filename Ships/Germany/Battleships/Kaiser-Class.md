@@ -1,6 +1,6 @@
 # Kaiser-Class Dreadnought Battleships
 
-```yaml
+---
 class_name: Kaiser-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 5
@@ -58,7 +58,7 @@ firsts:
 # Tags
 tags: [battleship, dreadnought, kaiserliche-marine, 1912, first-turbines, 350mm-armor, pure-superfiring, jutland, friedrich-der-grosse-flagship, scapa-flow]
 ---
-```
+---
 
 **First German Turbine Battleships** - Finally adopted Parsons turbines (21 knots, matched British). Pure superfiring layout (5 twin turrets, all centerline). 350mm belt armor (thickest German dreadnought). SMS Friedrich der Große: High Seas Fleet flagship 1913-1917, commanded at Jutland despite being hit twice.
 

@@ -3,7 +3,7 @@
 ## Overview
 The Royal Sovereign-class were eight first-class battleships built 1889-1894, representing a revolutionary leap in British battleship design and the first truly modern battleships in the world. Featuring quick-firing guns, high freeboard, barbette mounting for main guns, and 17-18 knot speed, they rendered all previous battleships obsolescent. The class set the standard for pre-dreadnought design worldwide and served as the backbone of the Royal Navy through the 1890s. All eight ships served in WWI on secondary duties before being scrapped 1913-1919.
 
-```yaml
+---
 class_name: Royal Sovereign-Class
 hull_numbers: Various (Royal Sovereign, Empress of India, Ramillies, Repulse, Resolution, Revenge, Royal Oak, Hood)
 ships_built: 8
@@ -23,7 +23,7 @@ crew: 712
 armament: "4× 13.5-inch guns, 10× 6-inch guns, numerous smaller guns"
 armor: 18-inch belt, 17-inch barbettes, 3-inch deck
 tags: [battleship, royal-sovereign-class, pre-dreadnought, 1891-1894, first-modern-battleship, revolutionary-design, victorian-era, wwi]
-```
+---
 
 ## Specifications
 

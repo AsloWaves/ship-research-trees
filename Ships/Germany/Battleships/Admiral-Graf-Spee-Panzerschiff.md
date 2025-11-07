@@ -1,6 +1,6 @@
 # Admiral Graf Spee Panzerschiff (1936 RIVER PLATE LEGEND - Scuttled in Glory!)
 
-```yaml
+---
 class_name: Admiral Graf Spee (Panzerschiff - River Plate Legend!)
 hull_numbers: Admiral Graf Spee
 ships_built: 1 (third and last Deutschland-class)
@@ -204,7 +204,7 @@ firsts:
 # Tags
 tags: [panzerschiff, pocket-battleship, admiral-graf-spee, 1936, river-plate, langsdorff, montevideo, scuttled-1939, british-bluff, chivalrous-raider, wwii-legend]
 ---
-```
+---
 
 **RIVER PLATE LEGEND - 1936 Most Famous Panzerschiff!** - Commissioned January 6, 1936 (last Deutschland-class). **12,340 tons**, **28.5 kts**, **6× 28cm (11") guns**. Diesel commerce raider (16,300 nm range!). Sank **9 merchant ships** (50,089 GRT) in 3 months! **CHIVALROUS!** (No crew casualties - all rescued!) Captain Langsdorff followed prize rules. **Battle of River Plate** (December 13, 1939): Fought HMS Exeter, Ajax, Achilles! HMS Exeter crippled (61 dead) but heroic! Graf Spee hit **70 times**, 36 dead, 60 wounded, **60% ammunition** expended! **British bluff!** (Spread false intelligence of reinforcements - Renown actually 2,500 miles away!) Langsdorff believed bluff, sought refuge Montevideo. Uruguay: **72 hours** only! Hitler: **"No internment!"** **SCUTTLED December 17, 1939** at 19:52! Crew saved. Langsdorff: **SUICIDE December 20** (wrapped in Imperial flag, shot himself). British + Argentines honored honorable foe! **HUGE BRITISH MORALE BOOST!** **MOST FAMOUS POCKET BATTLESHIP!**
 

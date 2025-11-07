@@ -3,7 +3,7 @@
 ## Overview
 The Amphion-class (also called Perth-class or modified Leander-class) were improved Leander-class cruisers with better protection and increased displacement. Four ships built for the Royal Australian Navy featured enhanced capabilities while maintaining the successful Leander design.
 
-```yaml
+---
 class_name: Amphion Class (Modified Leander)
 hull_numbers: Various
 ships_built: 4
@@ -29,7 +29,7 @@ secondary_guns: "4× 4-inch AA"
 torpedo_tubes: "8× 21-inch"
 aircraft: 1
 tags: [cruiser, light-cruiser, amphion-class, modified-leander, 1936, ran, ww2]
-```
+---
 
 ## Specifications
 

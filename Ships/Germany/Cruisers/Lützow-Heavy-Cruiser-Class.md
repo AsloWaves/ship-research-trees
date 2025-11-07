@@ -1,6 +1,6 @@
 # Lützow (Admiral Hipper-Class Ship 5, Sold to USSR)
 
-```yaml
+---
 class_name: Lützow (Admiral Hipper-Class, Ship 5, Sold to USSR)
 hull_numbers: Lützow (Germany), Petropavlovsk (USSR)
 ships_built: 1 (fifth Admiral Hipper-class ship, sold to USSR incomplete)
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [heavy-cruiser, lützow, petropavlovsk, 1940, admiral-hipper-class, sold-to-ussr, soviet-navy, siege-of-leningrad, 1941-1944, longest-serving, kriegsmarine, ww2]
 ---
-```
+---
 
 **Sold to USSR - Longest-Serving Admiral Hipper-Class Ship** - Fifth Admiral Hipper-class ship, sold to USSR incomplete (Apr 1940) under Molotov-Ribbentrop Pact. 14,050 tons, 8× 20.3cm guns, 32 knots (designed). Originally named Lützow, sold 70% complete, towed to Leningrad, completed by Soviets as **Petropavlovsk** (Soviet Navy, 1940). **Siege of Leningrad** (1941-1944): Naval gunfire support, shore bombardment missions. Damaged by German bombing (17 Sep 1941, 68 killed, permanent damage to propulsion). Limited operations 1942-1945 as floating battery. Longest-serving Admiral Hipper-class ship (1940-1960, 20 years). Scrapped USSR 1960.
 

@@ -1,6 +1,6 @@
 # SM UB-I-Class (WWI Small Coastal Submarine - Confined Waters 1915)
 
-```yaml
+---
 class_name: SM UB-I-Class (Small Coastal)
 hull_numbers: UB-1 to UB-17
 ships_built: 17
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, ub-i, coastal, small, confined-waters, mediterranean, flanders, wwi, kaiserliche-marine, 1915]
 ---
-```
+---
 
 **First German Coastal Submarine - Confined Waters Operations** - 17 boats commissioned 1915: UB-1 to UB-17. **First German coastal submarine!** Designed for **confined waters** operations (Mediterranean, Baltic, Flanders coast). 127 tons surfaced (tiny!), **2× 45cm torpedo tubes**, 2 torpedoes carried, 6.5 knots surfaced/5.5 knots submerged. **Transportable by rail/canal** for deployment far from German shipyards. Gasoline propulsion (small engine), 1,650 nm range. Mediterranean operations, Baltic Sea, Flanders Flotilla. Small crew (14), simplified single hull construction.
 

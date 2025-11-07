@@ -1,6 +1,6 @@
 # Roon-Class Armored Cruisers
 
-```yaml
+---
 class_name: Roon-Class
 hull_numbers: Roon, Yorck
 ships_built: 2
@@ -60,7 +60,7 @@ firsts:
 # Tags
 tags: [armored-cruiser, roon-class, 1906, 21cm-guns, thickest-armor, yorck-mines, german-mines, worst-german-accident, 336-killed, kaiserliche-marine]
 ---
-```
+---
 
 **Improved Armored Cruisers with Thickest Armor** - 2 ships built (1906): Roon, Yorck. Improved design: faster (21.1 knots vs. 20.5), thicker armor (100-280mm belt, thickest for German armored cruisers). 9,533 tons, 4× 21cm + 10× 15cm guns. SMS Yorck: Lost to German mines in Jade estuary (4 Nov 1914, 336 killed), worst German naval accident of WWI. SMS Roon: Survived WWI, Baltic operations, scrapped 1921. Demonstrated peak armored cruiser design before battlecruiser evolution.
 

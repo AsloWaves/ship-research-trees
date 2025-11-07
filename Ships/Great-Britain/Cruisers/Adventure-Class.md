@@ -3,7 +3,7 @@
 ## Overview
 The Adventure-class were scout cruisers representing the transition from protected cruisers to modern light cruisers. Two ships featured turbine propulsion and were designed for high-speed fleet scouting. They served through WWI and helped establish the scout cruiser/light cruiser concept.
 
-```yaml
+---
 class_name: Adventure Class
 hull_numbers: Various
 ships_built: 2
@@ -29,7 +29,7 @@ secondary_guns: "8× 3-pounder"
 torpedo_tubes: "2× 18-inch"
 aircraft: 0
 tags: [cruiser, scout-cruiser, adventure-class, 1905, turbine-cruiser, light-cruiser, wwi]
-```
+---
 
 ## Specifications
 

@@ -1,6 +1,6 @@
 # Super Hipper-Class Heavy Cruiser (Paper Ship)
 
-```yaml
+---
 class_name: Super Hipper-Class
 hull_numbers: None (paper design)
 ships_built: 0 (design study only)
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [heavy-cruiser, super-hipper, paper-ship, never-built, ultimate-design, 9x20.3cm-guns, triple-turrets, theoretical, kriegsmarine, ww2]
 ---
-```
+---
 
 **Ultimate German Heavy Cruiser Design (Paper Ship) - Never Built** - Theoretical ultimate heavy cruiser design, never progressed beyond planning. 23,600 tons, **9× 20.3cm guns (3× triple turrets)**, 33 knots. Largest German cruiser design (+68% vs. Admiral Hipper), heaviest armor (120-150mm belt), maximum range (9,000 nm). First German cruiser with triple 20.3cm turrets. Approached battlecruiser size and capability. Design study only, never formally proposed. Would have rivaled foreign heavy cruisers (USS Des Moines, Stalingrad-class). Reliability penalty (-15%) due to extreme complexity and theoretical nature.
 

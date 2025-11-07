@@ -1,6 +1,6 @@
 # Type 201 Submarine (1950s Post-War Submarine - Modern Systems)
 
-```yaml
+---
 class_name: Type 201 Submarine (Post-War Modern)
 hull_numbers: None (theoretical)
 ships_built: 0 (concept)
@@ -58,7 +58,7 @@ firsts:
 # Tags
 tags: [submarine, type-201, 1950s, theoretical, modern-systems, coastal, never-built]
 ---
-```
+---
 
 **1950s Modern Submarine - Theoretical!** - 0 boats: **1950S POST-WAR CONCEPT!** Small coastal submarine. **450 tons**, **17 kts submerged**, **8 torpedoes**, modern 1950s systems. **THEORETICAL** - Germany prohibited from building submarines post-WWII until 1955. Concept only.
 

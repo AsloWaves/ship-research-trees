@@ -3,7 +3,7 @@
 ## Overview
 The U and V-classes were War Emergency Programme destroyers with 16 ships built 1942-1943 (8 per class). Continuing the successful O/P/Q/R/S/T design lineage, they were among the last conventional fleet destroyers built during WWII. The class saw extensive Pacific and European service with low losses and many served into the 1970s.
 
-```yaml
+---
 class_name: U/V-Class (Ulysses/Venus Groups)
 hull_numbers: Various
 ships_built: 16 (8 per class)
@@ -29,7 +29,7 @@ secondary_guns: "1× 4-inch AA, 6-10× 40mm"
 torpedo_tubes: "8× 21-inch (2 quad)"
 aircraft: 0
 tags: [destroyer, u-class, v-class-wwii, 1942-1943, war-emergency, pacific-service, long-service]
-```
+---
 
 ## Specifications
 

@@ -3,7 +3,7 @@
 ## Overview
 The M-class were experimental monitor submarines with 3 boats built 1917-1918. Designed with massive 12-inch guns for shore bombardment, they were the only submarines ever built with battleship-caliber main armament. The class represented an attempt to create submarine monitors, but the concept proved impractical and was not repeated.
 
-```yaml
+---
 class_name: M-Class Submarine (Monitor)
 hull_numbers: M1-M3
 ships_built: 3
@@ -24,7 +24,7 @@ crew: 60
 armament: "1× 12-inch Mk IX gun, 4× 18-inch torpedo tubes (bow)"
 torpedoes: 8
 tags: [submarine, m-class, 1917-1918, monitor-submarine, experimental, 12-inch-gun, ww1-service]
-```
+---
 
 ## Specifications
 

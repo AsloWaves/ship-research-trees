@@ -1,6 +1,6 @@
 # Z28-Class Destroyers (Type 1936A(Mob) "Late Narvik" - Ultimate 150mm)
 
-```yaml
+---
 class_name: Z28-Class (Type 1936A(Mob) "Late Narvik")
 hull_numbers: Z28-Z30
 ships_built: 3
@@ -67,7 +67,7 @@ firsts:
 # Tags
 tags: [destroyer, z28, late-narvik, type-1936a-mob, ultimate-150mm, enhanced-aa, radar, kriegsmarine, ww2, arctic, french-navy, longest-service]
 ---
-```
+---
 
 **Late Narvik - Ultimate 150mm Destroyers, All Survived!** - 3 ships commissioned 1941: Z28, Z29, Z30. **Type 1936A(Mob) "Late Narvik"** mobilization variant. **Ultimate 150mm destroyer design**. 2,620 tons standard, **4× 15cm SK C/38 guns**, **8× 533mm torpedoes**, **39.5 knots** (fastest Narvik!). **Enhanced AA** (12× 20mm!), **radar-equipped**, **best range** (5,200 nm), wider beam (39.7 ft) for better stability. Served WWII: Arctic convoys, Atlantic, Channel operations. **ALL THREE SHIPS SURVIVED WAR!** French Navy service as **Marceau (Z28), Kleber (Z29), Desaix (Z30)** until 1958-1982! **Longest-serving German WWII destroyers** - proved 150mm destroyer viability.
 

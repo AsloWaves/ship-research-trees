@@ -3,7 +3,7 @@
 ## Overview
 The Canopus-class were six second-class battleships built 1897-1899, designed as lighter, faster alternatives to the Majestic-class for overseas station service. Featuring reduced armor but 18-knot speed, thinner belt protection, and Krupp steel armor, they were optimized for long-range patrols and colonial defense rather than North Sea fleet actions. The class served globally in peacetime and saw extensive WWI service, including HMS Canopus at the Falklands (1914) and HMS Goliath lost at Gallipoli (1915). All six ships served throughout WWI before being scrapped 1919-1920.
 
-```yaml
+---
 class_name: Canopus-Class
 hull_numbers: Various (Canopus, Albion, Glory, Goliath, Ocean, Vengeance)
 ships_built: 6
@@ -23,7 +23,7 @@ crew: 682
 armament: "4× 12-inch guns, 12× 6-inch guns, numerous smaller guns"
 armor: 6-inch belt (Krupp), 12-inch barbettes, 2.5-inch deck
 tags: [battleship, canopus-class, pre-dreadnought, 1897-1899, second-class-battleship, overseas-service, battle-of-falklands, gallipoli, wwi]
-```
+---
 
 ## Specifications
 

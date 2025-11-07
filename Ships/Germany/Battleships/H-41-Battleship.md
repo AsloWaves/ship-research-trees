@@ -1,6 +1,6 @@
 # H-41 Battleship (1941 IMPROVED H - 68,800 Tons, 16.5-Inch Guns!)
 
-```yaml
+---
 class_name: H-41 Battleship (Improved H-Class - Larger Guns!)
 hull_numbers: None assigned (6 ships planned, designation only)
 ships_built: 0 (pure paper design, never laid down)
@@ -131,7 +131,7 @@ firsts:
 # Tags
 tags: [h-class, h-41, super-battleship, paper-ship, improved-h-class, 16.5-inch-guns, fantasy-design, never-laid-down, 1941-design]
 ---
-```
+---
 
 **IMPROVED H-CLASS - 1941 Design Study!** - 6 ships planned (pure paper, never laid down!). **68,800 tons standard**, **76,476 tons full load** (+22% over H-39!). **8× 42cm (16.5") guns** in **4× twin turrets** (BIGGER than H-39's 16"!). 1,200 kg shells (+17% heavier!). **30 kts**, **9,800 nm range**. Enhanced armor (320mm belt, **400mm turrets** vs H-39's 380mm, **150mm deck**!). Design finalized **1941** (after H-39 cancellation!). Response to British Lion, US Montana, Japanese Yamato escalation. **Operation Barbarossa (June 1941)** ended ANY BB construction! All resources to Eastern Front. Germany lacked fuel for existing fleet! Dönitz opposed (U-boat priority - correct!). 37% heavier than Bismarck. Would be formidable IF built. **FANTASY DESIGN** - impossible to build/operate. RAF/USAAF would sink it (Tirpitz example). **Arms race mentality vs WWII reality!**
 

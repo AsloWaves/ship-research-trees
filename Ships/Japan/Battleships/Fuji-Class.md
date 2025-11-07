@@ -1,6 +1,6 @@
 # Fuji-Class Battleships
 
-```yaml
+---
 class_name: Fuji-Class
 hull_numbers: Fuji, Yashima
 ships_built: 2
@@ -53,7 +53,7 @@ contemporary: "[[Great Britain/Great Britain Battleships/Majestic-Class]]"
 # Tags
 tags: [battleship, pre-dreadnought, first-battleship, british-built]
 ---
-```
+---
 
 **First Japanese Battleships** - First modern battleships for Imperial Japanese Navy. British-built at Thames Ironworks. Yashima lost to mine 1904. Fuji served Battle of Tsushima 1905.
 

@@ -3,7 +3,7 @@
 ## Overview
 The Duncan-class were six first-class battleships built 1899-1904, featuring experimental quick-firing 12-inch guns that halved loading time compared to earlier designs. These ships represented an attempt to maximize firepower through rate of fire rather than gun size, anticipating some dreadnought concepts. Faster than contemporaries (19 knots) and mounting innovative armament, they were nonetheless obsoleted by HMS Dreadnought's all-big-gun design just two years after the last ship commissioned. All six served in WWI on secondary duties before being scrapped 1919-1920.
 
-```yaml
+---
 class_name: Duncan-Class
 hull_numbers: Various (Duncan, Albemarle, Cornwallis, Exmouth, Montagu, Russell)
 ships_built: 6
@@ -23,7 +23,7 @@ crew: 750
 armament: "4× 12-inch QF guns, 12× 6-inch guns, numerous smaller guns"
 armor: 7-inch belt (Krupp), 12-inch barbettes, 2.5-inch deck
 tags: [battleship, duncan-class, pre-dreadnought, 1901-1904, quick-firing-guns, experimental-armament, wwi, cornwallis]
-```
+---
 
 ## Specifications
 

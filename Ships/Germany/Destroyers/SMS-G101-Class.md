@@ -1,6 +1,6 @@
 # SMS G101-Class Large Torpedo Boats (Type 1914 Improved - Late War)
 
-```yaml
+---
 class_name: SMS G101-Class (Type 1914 Improved)
 hull_numbers: G101-G108
 ships_built: 8
@@ -67,7 +67,7 @@ firsts:
 # Tags
 tags: [large-torpedo-boat, destroyer, sms-g101, type-1914-improved, germaniawerft, late-war, 36-knots, aa-gun, kaiserliche-marine, ww1]
 ---
-```
+---
 
 **Type 1914 Improved - Fastest WWI German Destroyers (36 Knots!)** - 8 ships commissioned 1915-1916: G101-G108. Germaniawerft **Type 1914 improved** design, late war refinement. 835 tons (largest German WWI destroyers), **3× 10.5cm guns**, **1× 8.8cm AA gun**, **6× 50cm torpedoes**, **36.0 knots** (fastest WWI German destroyers!). **Most powerful Germaniawerft turbines** (21,000 SHP), **longest range** (2,700 nm) for extended operations. Enhanced seakeeping and improved fire control over B97-class. Late war completion (1915-1916) meant limited combat service but represented **ultimate Germaniawerft WWI destroyer design**. Served: Late war High Seas Fleet operations, North Sea patrols, convoy escort. Several losses. Survivors scrapped 1919-1920 under Treaty of Versailles.
 

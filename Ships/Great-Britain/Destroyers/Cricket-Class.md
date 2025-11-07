@@ -3,7 +3,7 @@
 ## Overview
 The Cricket-class were coastal destroyers ordered in 1905-1906 as a cheaper alternative to the River-class for inshore work. With 36 ships built, they were smaller and slower but adequate for coastal defense, minesweeping, and patrol duties. They represented the Royal Navy's last attempt at specialized coastal destroyers before standardizing on ocean-going types.
 
-```yaml
+---
 class_name: Cricket Class
 hull_numbers: Various
 ships_built: 36
@@ -29,7 +29,7 @@ secondary_guns: 0
 torpedo_tubes: "2× 18-inch"
 aircraft: 0
 tags: [destroyer, cricket-class, 1906, coastal-destroyer, insect-class, pre-ww1]
-```
+---
 
 ## Specifications
 

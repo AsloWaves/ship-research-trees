@@ -1,6 +1,6 @@
 # Conversion Study Carrier (1918 Post-WWI Theoretical Concepts)
 
-```yaml
+---
 class_name: Conversion Study Carrier (Early Concepts)
 hull_numbers: None (theoretical study only)
 ships_built: 0 (concept study)
@@ -54,7 +54,7 @@ firsts:
 # Tags
 tags: [carrier, conversion-study, 1918, theoretical, post-wwi, versailles-prohibited, early-concepts, never-built]
 ---
-```
+---
 
 **Post-WWI Theoretical Carrier Studies!** - 0 boats: **FIRST GERMAN CARRIER STUDIES!** Despite Versailles Treaty restrictions prohibiting aircraft carriers, German naval theorists studied carrier development concepts, recognizing strategic importance of naval aviation. Focused on merchant ship conversion possibilities. Studied British early carriers (HMS Argus 1918). **THEORETICAL ONLY** - Germany unable to build carriers until 1935 Anglo-German Naval Agreement. Laid foundation for later Plan Z carrier program.
 

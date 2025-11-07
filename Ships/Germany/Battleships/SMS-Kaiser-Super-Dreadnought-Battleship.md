@@ -1,6 +1,6 @@
 # SMS Kaiser Super-Dreadnought Battleship (1912 TURBINE REVOLUTION - Superfiring!)
 
-```yaml
+---
 class_name: SMS Kaiser Super-Dreadnought Battleship (First Turbines!)
 hull_numbers: SMS Kaiser, SMS Friedrich der Große, SMS Kaiserin, SMS Prinzregent Luitpold, SMS König Albert
 ships_built: 5
@@ -112,7 +112,7 @@ firsts:
 # Tags
 tags: [battleship, sms-kaiser, 1912, super-dreadnought, first-turbines, superfiring, jutland-flagship, friedrich-der-grosse, scapa-flow, 5-ships]
 ---
-```
+---
 
 **TURBINE REVOLUTION - 1912 Finally Superfiring!** - 5 ships: **SMS KAISER**, **SMS FRIEDRICH DER GROSSE** (Jutland flagship!), SMS Kaiserin, SMS Prinzregent Luitpold, SMS König Albert. **FIRST GERMAN TURBINE BATTLESHIPS!** (Steam turbines, 46,000 shp, +64% power!). **SUPERFIRING TURRETS!** (Finally abandoned inefficient hexagonal layout!). **24,724 tons**, **23.4 kts** (+3 kts, +14% faster!), **10× 30.5cm guns** in **5× twin superfiring turrets** (1 bow, 2 wing en echelon, 2 stern superfiring!). Learned from Moltke battlecruiser design. Krupp armor (350mm belt, thickest yet!). **ALL 5 FOUGHT JUTLAND** (III Battle Squadron), **FRIEDRICH DER GROSSE was HIGH SEAS FLEET FLAGSHIP** (Admiral Scheer commanded from her!). All survived Jutland. **ALL 5 SCUTTLED SCAPA FLOW** (June 21, 1919, Rear Admiral von Reuter's mass scuttling protest!). **REVOLUTIONARY!**
 

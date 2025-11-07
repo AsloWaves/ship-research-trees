@@ -1,6 +1,6 @@
 # Prinz Heinrich (Single Ship)
 
-```yaml
+---
 class_name: Prinz Heinrich (Single Ship)
 hull_numbers: Prinz Heinrich
 ships_built: 1
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [armored-cruiser, prinz-heinrich, 1902, single-ship-class, 24cm-guns, 20-knots, improved-design, speed-over-firepower, kaiserliche-marine, pre-dreadnought]
 ---
-```
+---
 
 **Improved Armored Cruiser Design (Single Ship)** - Commissioned 1902, decommissioned 1920. Improved design: smaller (8,887 tons vs. 10,690), faster (20 knots vs. 18.5) than Fürst Bismarck. 2× 24cm + 10× 15cm guns. Demonstrated trade-off: reduced main armament (2× vs. 4× 24cm) for higher speed and better maneuverability. First German cruiser to achieve 20 knots. Last German armored cruiser with 24cm guns (later classes adopted 21cm standard). Survived WWI, scrapped 1920.
 

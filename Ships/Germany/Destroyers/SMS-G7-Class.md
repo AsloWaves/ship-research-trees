@@ -1,6 +1,6 @@
 # SMS G7-Class Large Torpedo Boats (1911 Germaniawerft Design)
 
-```yaml
+---
 class_name: SMS G7-Class (Germaniawerft 1911)
 hull_numbers: G7-G12
 ships_built: 6
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [large-torpedo-boat, destroyer, sms-g7, 1911-program, germaniawerft-design, 8.8cm-guns, 33-knots, kaiserliche-marine, ww1, jutland]
 ---
-```
+---
 
 **Germaniawerft 1911 Program Design** - 6 ships commissioned 1911-1912: G7-G12. Germaniawerft design variant of 1911 Program "Large Torpedo Boats". 573 tons, 2× 8.8cm guns, 4× 50cm torpedoes, 33.2 knots (slightly faster than V1-class). Better range (2,000 nm) for extended North Sea operations. Germaniawerft turbines provided excellent performance. 6 ships built (proven design). Served entire WWI (1914-1918): High Seas Fleet screening, **Battle of Jutland** (31 May 1916). Many survived WWI, scrapped 1919-1920.
 

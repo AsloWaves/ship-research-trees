@@ -3,7 +3,7 @@
 ## Overview
 The River-class (also known as E-Class) were revolutionary destroyers that introduced the high forecastle and steam turbines to British destroyers. With 36 ships built, they were the first truly modern destroyers and established the configuration that would dominate for the next decade. HMS Viper pioneered turbine propulsion for destroyers in 1900, leading to this class.
 
-```yaml
+---
 class_name: River Class (E-Class)
 hull_numbers: Various
 ships_built: 36
@@ -29,7 +29,7 @@ secondary_guns: 0
 torpedo_tubes: "2× 18-inch"
 aircraft: 0
 tags: [destroyer, river-class, e-class, 1903, high-forecastle, turbines, modern-destroyer]
-```
+---
 
 ## Specifications
 

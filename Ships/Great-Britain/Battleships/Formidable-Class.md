@@ -3,7 +3,7 @@
 ## Overview
 The Formidable-class were eight first-class battleships built 1898-1902, representing an evolution of the Majestic-class with improved protection, better machinery, and refined design. As the last major pre-dreadnought class before the King Edward VII design, they incorporated incremental improvements in armor (Krupp steel), machinery layout, and secondary armament. The class formed a significant portion of the Channel and Mediterranean Fleets 1902-1910 and served extensively in WWI, with HMS Formidable lost to U-24 (1915) and HMS Irresistible mined at Gallipoli (1915). Survivors scrapped 1919-1921.
 
-```yaml
+---
 class_name: Formidable-Class
 hull_numbers: Various (Formidable, Implacable, Irresistible, London, Bulwark, Venerable, Queen, Prince of Wales)
 ships_built: 8
@@ -23,7 +23,7 @@ crew: 780
 armament: "4× 12-inch guns, 12× 6-inch guns, numerous smaller guns"
 armor: 9-inch belt (Krupp), 12-inch barbettes, 2.5-inch deck
 tags: [battleship, formidable-class, pre-dreadnought, 1898-1902, krupp-armor, wwi, hms-formidable, hms-irresistible, u-boat-victim]
-```
+---
 
 ## Specifications
 

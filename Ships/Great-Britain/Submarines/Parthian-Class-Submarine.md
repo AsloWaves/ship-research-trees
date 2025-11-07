@@ -3,7 +3,7 @@
 ## Overview
 The Parthian-class were large patrol submarines with 6 boats built 1929-1931. Designed for Far East service with exceptional range and habitability, they were enlarged Odin-class designs. The class saw extensive WWII service with very heavy losses - all 6 boats were lost in action.
 
-```yaml
+---
 class_name: Parthian-Class Submarine
 hull_numbers: Parthian, Pandora, Perseus, Phoenix, Poseidon, Proteus
 ships_built: 6
@@ -24,7 +24,7 @@ crew: 53
 armament: "8× 21-inch torpedo tubes (6 bow, 2 stern), 1× 4-inch gun"
 torpedoes: 14
 tags: [submarine, parthian-class, 1929-1931, patrol-submarine, far-east, interwar, ww2-service, total-loss]
-```
+---
 
 ## Specifications
 

@@ -1,6 +1,6 @@
 # Tirpitz Battleship (1941 FLEET IN BEING - Threat Alone Tied Down Royal Navy!)
 
-```yaml
+---
 class_name: Tirpitz (Bismarck-class - "The Lone Queen of the North"!)
 hull_numbers: Tirpitz
 ships_built: 1 (sister ship to Bismarck)
@@ -182,7 +182,7 @@ firsts:
 # Tags
 tags: [battleship, tirpitz, 1941, fleet-in-being, churchill-obsession, tallboy-bombs, operation-catechism, x-craft, pq17-disaster, norway-fjords, lone-queen-north]
 ---
-```
+---
 
 **FLEET IN BEING - 1941 Lone Queen of the North!** - Sister ship to Bismarck. **42,900 tons**, **30.1 kts**, **8× 38cm (15") guns**. Enhanced AA (**70× 2cm** vs Bismarck's 20!). **8× torpedo tubes** (Bismarck had none!). **Churchill: "The whole strategy of the war turns on this ship!"** Norway deployment (Jan 1942 - Nov 1944). **PQ-17 DISASTER** (July 1942): Threat alone caused 24 of 35 ships sunk! **NEVER FIRED ON ENEMY SHIPS!** Ultimate "fleet in being"! **Operation Source** (Sept 22, 1943): X-craft midget subs placed 4-ton charges, severely damaged! Out of action 6 months. Operation Tungsten (April 1944): 15 bomb hits. **Operation Catechism** (Nov 12, 1944): 32× Lancasters, **3× Tallboy bombs** (12,000 lbs!), magazine exploded, **CAPSIZED** 09:50 AM! **1,204 dead** (trapped in hull!). Tied down British Home Fleet 3 years! **Last German BB in WWII!**
 

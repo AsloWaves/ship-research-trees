@@ -3,7 +3,7 @@
 ## Overview
 The Q and R-classes were War Emergency Programme destroyers with 16 ships built 1941-1942 (8 per class). Near-identical to O/P-classes, they continued the simplified fleet destroyer design for rapid wartime construction. The class served extensively in WWII across all theaters with moderate losses.
 
-```yaml
+---
 class_name: Q/R-Class (Quadrant/Raider Groups)
 hull_numbers: Various
 ships_built: 16 (8 per class)
@@ -29,7 +29,7 @@ secondary_guns: "4× 2-pounder AA, 8× 20mm"
 torpedo_tubes: "8× 21-inch (2 quad)"
 aircraft: 0
 tags: [destroyer, q-class, r-class, 1941-1942, war-emergency, ww2-service, fleet-destroyer]
-```
+---
 
 ## Specifications
 

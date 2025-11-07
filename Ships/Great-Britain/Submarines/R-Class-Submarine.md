@@ -3,7 +3,7 @@
 ## Overview
 The R-class were high-speed fleet submarines with 12 boats built 1918-1919. Designed for improved surface speed and endurance, they were enlarged L-class designs intended for fleet operations. The class saw no WWI combat but extensive post-war service, with several serving into WWII and others transferred to foreign navies.
 
-```yaml
+---
 class_name: R-Class Submarine
 hull_numbers: R1-R12
 ships_built: 12
@@ -24,7 +24,7 @@ crew: 22
 armament: "6× 18-inch torpedo tubes (4 bow, 2 beam)"
 torpedoes: 12
 tags: [submarine, r-class, 1918-1919, fleet-submarine, high-speed-submerged, ww1-service, interwar]
-```
+---
 
 ## Specifications
 

@@ -1,6 +1,6 @@
 # Mackensen-Class Battlecruisers
 
-```yaml
+---
 class_name: Mackensen-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 4 laid down, 3 launched, 0 completed
@@ -60,7 +60,7 @@ firsts:
 # Tags
 tags: [battlecruiser, dreadnought, kaiserliche-marine, 1915, unbuilt, never-completed, 35cm-guns, versailles-treaty, strategic-waste, u-boat-priority, scrapped-incomplete]
 ---
-```
+---
 
 **Germany's Unbuilt Super-Battlecruisers** - Most powerful German WWI battlecruiser design. 4 ships laid down (1915-1917), 3 launched, **NONE COMPLETED**. 35cm guns (unique caliber never used elsewhere), 300mm armor, 92% double bottom, bulbous bow. Construction halted 1917-1918 for U-boat priority. SMS Graf Spee 90% complete when scrapped. **Strategic waste:** 150-200 million Marks spent, zero operational value. Scrapped under Versailles Treaty 1920-1922.
 

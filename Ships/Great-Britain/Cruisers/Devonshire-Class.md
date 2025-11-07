@@ -3,7 +3,7 @@
 ## Overview
 The Devonshire-class were improved County-type armored cruisers featuring enhanced protection and armament. Six ships combined the Monmouth-class's uniform 6-inch battery with better armor and speed. They served extensively through WWI in various roles including trade protection and fleet operations.
 
-```yaml
+---
 class_name: Devonshire Class
 hull_numbers: Various
 ships_built: 6
@@ -29,7 +29,7 @@ secondary_guns: "2× 12-pounder, 18× 3-pounder"
 torpedo_tubes: "2× 18-inch"
 aircraft: 0
 tags: [cruiser, armored-cruiser, devonshire-class, county-type, 1905, improved-county, wwi]
-```
+---
 
 ## Specifications
 

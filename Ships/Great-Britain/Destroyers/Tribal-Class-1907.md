@@ -3,7 +3,7 @@
 ## Overview
 The Tribal-class (F-Class) were large, powerful destroyers that introduced oil fuel to Royal Navy destroyers and featured unprecedented armament. With 13 ships built 1907-1909, they were the most heavily armed destroyers of their era with five 12-pounder guns. They pioneered oil firing which would become standard in later classes.
 
-```yaml
+---
 class_name: Tribal Class (F-Class) 1907
 hull_numbers: Various F-series
 ships_built: 13
@@ -29,7 +29,7 @@ secondary_guns: 0
 torpedo_tubes: "2× 18-inch"
 aircraft: 0
 tags: [destroyer, tribal-class, f-class, 1907, oil-fired, heavy-armament, pre-ww1]
-```
+---
 
 ## Specifications
 

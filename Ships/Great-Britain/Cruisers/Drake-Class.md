@@ -3,7 +3,7 @@
 ## Overview
 The Drake-class were improved armored cruisers featuring enhanced armament and speed. Four ships combined heavy firepower with good seakeeping, serving extensively through WWI. They represented a significant improvement over the Cressy-class with better speed and more powerful armament.
 
-```yaml
+---
 class_name: Drake Class
 hull_numbers: Various
 ships_built: 4
@@ -29,7 +29,7 @@ secondary_guns: "14× 12-pounder, 3× 3-pounder"
 torpedo_tubes: "2× 18-inch"
 aircraft: 0
 tags: [cruiser, armored-cruiser, drake-class, 1902, improved-armored-cruiser, wwi]
-```
+---
 
 ## Specifications
 

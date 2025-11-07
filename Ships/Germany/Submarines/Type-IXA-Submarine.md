@@ -1,6 +1,6 @@
 # Type IXA Submarine (First Long-Range Ocean-Going - 10,500 nm 1938)
 
-```yaml
+---
 class_name: Type IXA Submarine (First Type IX)
 hull_numbers: U-37 to U-44
 ships_built: 8
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, type-ixa, first-type-ix, long-range, 8-boats, 10500-nm, 22-torpedoes, ocean-going, kriegsmarine, 1938]
 ---
-```
+---
 
 **First Type IX Long-Range - 10,500 nm!** - 8 boats commissioned 1938-1939: U-37 to U-44. **FIRST TYPE IX LONG-RANGE SUBMARINE!** Established Type IX ocean-going standard (194 boats total!). 1032 tons surfaced, **6× 53.3cm torpedo tubes** (4 bow, 2 stern), **22 torpedoes carried** (most yet!), 18.2 knots surfaced/7.7 knots submerged. **10,500 nm range** (LONG-RANGE for deep Atlantic!), **1× 10.5cm SK C/32** (heavy deck gun), 1× 3.7cm + 1× 2cm Flak. **Deep Atlantic operations** far from bases. Led to Type IX family: IXA (8), IXB (14), IXC (54), IXC/40 (87), IXD (28+) = 194 boats total!
 

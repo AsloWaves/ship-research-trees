@@ -1,6 +1,6 @@
 # SMS S90-Class Torpedo Boats
 
-```yaml
+---
 class_name: SMS S90-Class
 hull_numbers: S90-S101
 ships_built: 12
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [torpedo-boat, sms-s90, 1898, first-modern-tb, starting-ship, free, 12-ships, kaiserliche-marine, pre-dreadnought]
 ---
-```
+---
 
 **First Modern German Torpedo Boats (FREE Starting Ship)** - 12 ships commissioned 1898-1899: S90-S101. First modern torpedo boat class for Kaiserliche Marine. 388 tons, 3× 5cm guns, 3× 45cm torpedoes, 26.5 knots. Established torpedo boat template: small, fast, coal-fired, unarmored coastal attack vessels. Proven design served early 1900s and early WWI. FREE starting ship for tutorial purposes. Most scrapped 1914-1920 after obsolescence. Foundation for German torpedo warfare doctrine.
 

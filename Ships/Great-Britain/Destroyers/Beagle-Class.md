@@ -3,7 +3,7 @@
 ## Overview
 The Beagle-class (G-Class) were improved versions of the Acorn-class, with 16 ships built 1909-1910. They featured enhanced oil fuel capacity and improved seaworthiness while maintaining the successful design formula of their predecessors. They served extensively in WWI, with several losses to mines and torpedoes.
 
-```yaml
+---
 class_name: Beagle Class (G-Class)
 hull_numbers: Various G-series
 ships_built: 16
@@ -29,7 +29,7 @@ secondary_guns: 0
 torpedo_tubes: "2× 21-inch"
 aircraft: 0
 tags: [destroyer, beagle-class, g-class, 1909, oil-fired, pre-ww1]
-```
+---
 
 ## Specifications
 

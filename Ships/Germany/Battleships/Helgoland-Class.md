@@ -1,6 +1,6 @@
 # Helgoland-Class Dreadnought Battleships
 
-```yaml
+---
 class_name: Helgoland-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 4
@@ -58,7 +58,7 @@ firsts:
 # Tags
 tags: [battleship, dreadnought, kaiserliche-marine, 1911, superfiring, 12-inch-guns, jutland, ostfriesland-billy-mitchell, scapa-flow]
 ---
-```
+---
 
 **Improved Dreadnoughts** - Corrected Nassau's wing turret flaw with superfiring arrangement. 12× 30.5cm guns in 6 twin turrets (2 fore, 2 aft superfiring, 2 midships staggered). Still used reciprocating engines (not turbines). All fought at Jutland. SMS Ostfriesland sunk by Billy Mitchell bombers 1921 (proved air power could sink battleships).
 

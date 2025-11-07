@@ -3,7 +3,7 @@
 ## Overview
 The Porpoise-class were patrol submarines with 8 boats built 1956-1959. They were the first purpose-built post-war British submarine design, featuring excellent streamlining, high underwater speed, and extensive snorkel capabilities. The class served successfully through the Cold War with no losses and established the template for the highly successful Oberon-class.
 
-```yaml
+---
 class_name: Porpoise-Class Submarine
 hull_numbers: Porpoise, Rorqual, Narwhal, Grampus, Finwhale, Cachalot, Sealion, Walrus
 ships_built: 8
@@ -24,7 +24,7 @@ crew: 71
 armament: "8× 21-inch torpedo tubes (6 bow, 2 stern)"
 torpedoes: 30
 tags: [submarine, porpoise-class, 1956-1959, patrol-submarine, cold-war, streamlined, high-speed-submerged]
-```
+---
 
 ## Specifications
 

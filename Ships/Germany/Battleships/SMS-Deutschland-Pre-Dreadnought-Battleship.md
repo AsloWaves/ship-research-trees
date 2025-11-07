@@ -1,6 +1,6 @@
 # SMS Deutschland Pre-Dreadnought Battleship (1906 Last Pre-Dreadnought - Tragic & Famous!)
 
-```yaml
+---
 class_name: SMS Deutschland Pre-Dreadnought Battleship (Last Pre-Dreadnoughts!)
 hull_numbers: SMS Deutschland, SMS Hannover, SMS Pommern, SMS Schleswig-Holstein, SMS Schlesien
 ships_built: 5
@@ -93,7 +93,7 @@ firsts:
 # Tags
 tags: [battleship, sms-deutschland, 1906, last-pre-dreadnought, jutland, pommern-sunk, schleswig-holstein-ww2, first-shots-ww2, obsolete, 5-ships]
 ---
-```
+---
 
 **Last German Pre-Dreadnoughts - 1906 Obsolete Immediately, But FAMOUS!** - 5 ships: **SMS DEUTSCHLAND**, SMS Hannover, **SMS POMMERN** (SUNK JUTLAND!), **SMS SCHLESWIG-HOLSTEIN** (FIRST SHOTS WWII!), **SMS SCHLESIEN** (last survivor 1945!). **LAST PRE-DREADNOUGHTS!** **13,191 tons**, **18 kts**, **4× 28cm guns** + **14× 17cm secondary**. **THICKEST PRE-DREADNOUGHT TURRET ARMOR** (279mm/11"!). Triple expansion engines (19,000 HP - most powerful!). **Completed AFTER HMS Dreadnought (1906) - immediately obsolete!** **ALL 5 FOUGHT JUTLAND** (May 31-June 1, 1916). **SMS POMMERN**: ONLY German battleship sunk at Jutland (torpedo from HMS Onslaught, magazine explosion, 839 crew lost). **SMS SCHLESWIG-HOLSTEIN**: **FIRED FIRST SHOTS OF WWII** (4:45 AM, September 1, 1939, Westerplatte, Poland!). **SMS SCHLESIEN**: Last pre-dreadnought in service, survived 37 years (1908-1945!), evacuated thousands from East Prussia. Tragic (Pommern) and famous (Schleswig-Holstein) histories!
 

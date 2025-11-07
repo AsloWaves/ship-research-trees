@@ -1,6 +1,6 @@
 # Ersatz Yorck-Class Battlecruisers
 
-```yaml
+---
 class_name: Ersatz Yorck-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 4 laid down, 3 launched, 0 completed
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [battlecruiser, dreadnought, kaiserliche-marine, 1916, unbuilt, never-completed, 38cm-guns, versailles-treaty, strategic-waste, u-boat-priority, scrapped-incomplete, bulbous-bow, 92-percent-double-bottom]
 ---
-```
+---
 
 **Germany's Most Advanced WWI Battlecruiser Design (Never Completed)** - 4 ships laid down (1915-1917), 3 launched, **NONE COMPLETED**. 38cm guns (same as Bayern-class battleships), 300mm armor, 92% double bottom, bulbous bow. Ordered 1916 as response to British Renown-class and Jutland lessons. Construction halted 1917-1918 for U-boat priority. SMS Graf Spee 90% complete when scrapped. **Strategic waste**: 150-200 million Marks spent, zero operational value. Scrapped under Versailles Treaty 1920-1922.
 

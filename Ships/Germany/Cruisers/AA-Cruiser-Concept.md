@@ -1,6 +1,6 @@
 # AA Cruiser Concept (Anti-Aircraft Cruiser, Paper Ship)
 
-```yaml
+---
 class_name: AA Cruiser Concept
 hull_numbers: None (paper design)
 ships_built: 0 (design study only)
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [aa-cruiser, anti-aircraft, dedicated-aa, paper-ship, never-built, 16x10.5cm-aa, fleet-air-defense, theoretical, kriegsmarine, ww2]
 ---
-```
+---
 
 **Dedicated Anti-Aircraft Cruiser (Paper Ship) - Never Built** - Theoretical AA cruiser design optimized for fleet air defense. 9,500 tons, **16× 10.5cm SK C/33 AA guns (8× twin mounts)**, 24× 3.7cm AA, 48× 2cm AA, 34 knots. No main gun armament (dedicated AA specialist), advanced radar fire control system. Designed to protect battleships and carriers from air attack, provide fleet air defense umbrella. Design study only, never formally proposed. Similar concept to USS Atlanta-class (AA cruiser). Would have addressed Kriegsmarine's critical weakness: inadequate fleet air defense. Reflected growing importance of air power in naval warfare.
 

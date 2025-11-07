@@ -3,7 +3,7 @@
 ## Overview
 The Acheron-class (I-Class) were enlarged and improved versions of the Acorn-class, with 23 ships built 1910-1911. They featured increased displacement for better seaworthiness, improved armament placement, and enhanced endurance. The class represented the peak of pre-WWI destroyer design before the transition to the larger Acasta-class.
 
-```yaml
+---
 class_name: Acheron Class (I-Class)
 hull_numbers: Various I-series
 ships_built: 23
@@ -29,7 +29,7 @@ secondary_guns: 0
 torpedo_tubes: "2× 21-inch"
 aircraft: 0
 tags: [destroyer, acheron-class, i-class, 1910, improved-acorn, pre-ww1]
-```
+---
 
 ## Specifications
 

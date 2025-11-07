@@ -3,7 +3,7 @@
 ## Overview
 HMS Ambuscade was a single prototype destroyer built by Yarrow 1926 as an experimental design preceding the standard A-class. She tested advanced features including superheated steam, experimental hull form, and improved armament layout that influenced subsequent destroyer design.
 
-```yaml
+---
 class_name: Ambuscade-Type
 hull_numbers: D38 (HMS Ambuscade)
 ships_built: 1 (prototype)
@@ -23,7 +23,7 @@ crew: 138
 armament: "4× 4.7-inch guns, 2× 2-pdr pom-poms, 8× 21-inch torpedo tubes"
 torpedoes: 8× 21-inch torpedo tubes (2× quad mounts)
 tags: [destroyer, ambuscade, prototype, yarrow, 1926, experimental, interwar]
-```
+---
 
 ## Specifications
 

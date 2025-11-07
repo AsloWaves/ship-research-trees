@@ -1,6 +1,6 @@
 # Modern Carrier (1960 Modern Systems Integration - Theoretical)
 
-```yaml
+---
 class_name: Modern Carrier (1960 Modern Systems)
 hull_numbers: None (theoretical concept)
 ships_built: 0 (pure speculation)
@@ -99,7 +99,7 @@ firsts:
 # Tags
 tags: [carrier, modern, 1960-concept, digital-systems, satellite-comms, advanced-radar, pure-speculation, theoretical, never-built, cold-war]
 ---
-```
+---
 
 **Modern Carrier - 1960 Systems Integration!** - 0 boats: **MODERN CARRIER** - **Pure speculation with 1960 advanced technology!** **68,000 tons**, **32 kts**, **60 aircraft** (30 Mach 2+ fighters F-4 Phantom equivalent + 25 jet attack A-6 Intruder equivalent + 4 AEW E-2 Hawkeye equivalent + 6 helicopters!). **MODERN SYSTEMS**: **Digital combat direction** (early digital fire control!), **satellite communications** (early satcom!), **3D radar with automatic tracking**, **automated carrier landing systems** (precision approach!), **advanced ECM/ESM** (electronic warfare!). **All-missile defense** (Terrier/Tartar/Sea Sparrow + Phalanx CIWS equivalent!). **Nuclear strike capability** (theoretical!). **16,000 nm range** (global reach!). **PURE SPECULATION** - Germany never pursued carriers (Cold War focus on submarines, fast attack craft, land/air defense). Unified Germany (post-1990) had no carrier program. **THEORETICAL ONLY!** **NEVER BUILT!**
 

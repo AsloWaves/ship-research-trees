@@ -3,7 +3,7 @@
 ## Overview
 The C-class were the final and most numerous petrol-electric submarines, with 38 boats built 1905-1910. They represented the ultimate development of petrol-powered submarine design before the transition to diesel propulsion. The class saw extensive WWI service in home waters, Mediterranean, and Baltic operations, with heavy losses.
 
-```yaml
+---
 class_name: C-Class Submarine
 hull_numbers: C1-C38
 ships_built: 38
@@ -24,7 +24,7 @@ crew: 16
 armament: "2× 18-inch torpedo tubes (bow)"
 torpedoes: 4
 tags: [submarine, c-class, 1905-1910, petrol-electric, most-numerous-petrol, ww1-service, heavy-losses]
-```
+---
 
 ## Specifications
 

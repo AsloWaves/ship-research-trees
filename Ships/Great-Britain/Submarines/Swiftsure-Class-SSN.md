@@ -3,7 +3,7 @@
 ## Overview
 The Swiftsure-class were nuclear-powered attack submarines with 6 boats built 1971-1977. They featured shorter, quieter hulls optimized for acoustic stealth, improved sensors, and the reliable PWR1 reactor. The class served successfully through the Cold War with several seeing action in the Falklands War, representing a significant advancement in British SSN capability.
 
-```yaml
+---
 class_name: Swiftsure-Class (SSN)
 hull_numbers: S105-S110 (Swiftsure, Sovereign, Superb, Sceptre, Spartan, Splendid)
 ships_built: 6
@@ -24,7 +24,7 @@ crew: 116
 armament: "5× 21-inch torpedo tubes (bow), Tomahawk cruise missiles (later)"
 torpedoes: 25 (+ Tomahawk/Sub-Harpoon capability)
 tags: [submarine, swiftsure-class, ssn, 1971-1977, nuclear-powered, quiet-design, cold-war, falklands-war, tomahawk-capable]
-```
+---
 
 ## Specifications
 

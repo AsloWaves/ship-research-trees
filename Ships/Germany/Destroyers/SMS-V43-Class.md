@@ -1,6 +1,6 @@
 # SMS V43-Class Large Torpedo Boats (Type 1913 Variant)
 
-```yaml
+---
 class_name: SMS V43-Class (Type 1913 Variant)
 hull_numbers: V43-V48
 ships_built: 6
@@ -65,7 +65,7 @@ firsts:
 # Tags
 tags: [large-torpedo-boat, destroyer, sms-v43, type-1913, v-series-variant, 10.5cm-guns, 6-torpedoes, 34-knots, kaiserliche-marine, ww1, jutland]
 ---
-```
+---
 
 **Type 1913 V-Series Variant - Refined Design** - 6 ships commissioned 1914-1915: V43-V48. V-series variant of revolutionary **Type 1913** mass production program. Part of 71-ship V25-class family. 697 tons, **3× 10.5cm guns**, **6× 50cm torpedoes**, 34.2 knots. **Refined V25 design** with improved seakeeping and slightly larger hull for better performance in heavy North Sea conditions. Enhanced range (2,450 nm) for extended operations. Better stability than earlier V-series ships. Served entire WWI (1914-1918): High Seas Fleet screening, **Battle of Jutland** (31 May 1916), North Sea operations. **Many ships survived WWI** (notable among Type 1913 variants). Survivors scrapped 1919-1921 under Treaty of Versailles.
 

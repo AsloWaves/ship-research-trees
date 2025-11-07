@@ -1,6 +1,6 @@
 # SMS B97-Class Large Torpedo Boats (Type 1914 - Advanced WWI)
 
-```yaml
+---
 class_name: SMS B97-Class (Type 1914)
 hull_numbers: B97-B112
 ships_built: 16
@@ -67,7 +67,7 @@ firsts:
 # Tags
 tags: [large-torpedo-boat, destroyer, sms-b97, type-1914, advanced-ww1, 10.5cm-guns, aa-gun, 35-knots, kaiserliche-marine, ww1, late-war]
 ---
-```
+---
 
 **Type 1914 - Advanced WWI Design, Fastest Destroyers** - 16 ships commissioned 1914-1915: B97-B112. First **Type 1914** design representing ultimate WWI German destroyer development. 812 tons (largest WWI destroyers yet), **3× 10.5cm guns**, **first dedicated AA gun** (1× 8.8cm AA), **6× 50cm torpedoes**, **35.5 knots** (fastest WWI German destroyers). **Most powerful engines** (20,000 SHP turbines), **best range** (2,600 nm) for extended Atlantic operations. Enhanced seakeeping and improved stability over earlier classes. Many ships completed late in war (1915-1916), saw limited service but represented culmination of German WWI destroyer evolution. Served: High Seas Fleet operations, North Sea patrols, some Battle of Jutland (late arrivals). Survivors scrapped 1919-1920 under Treaty of Versailles.
 

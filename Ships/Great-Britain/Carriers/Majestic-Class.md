@@ -3,7 +3,7 @@
 ## Overview
 The Majestic-class were light fleet carriers with 6 ships laid down 1943-1945 as improved Colossus-class vessels. None served with the Royal Navy - all were either completed for or sold to Commonwealth navies (Australia, Canada, India). They featured improved aircraft handling, better accommodation, and enhanced defensive armament compared to their Colossus predecessors.
 
-```yaml
+---
 class_name: Majestic-Class
 hull_numbers: R77, R21, R16, R06, R11, R38 (Majestic, Terrible, Magnificent, Powerful, Leviathan, Hercules)
 ships_built: 6 (all transferred to Commonwealth)
@@ -23,7 +23,7 @@ crew: 1300
 armament: "24× 40mm Bofors AA guns, 37× aircraft"
 aircraft: 37 (mix of fighters and strike aircraft)
 tags: [carrier, majestic-class, light-fleet, 1943-1945, commonwealth, colossus-improved, post-war-transfers]
-```
+---
 
 ## Specifications
 

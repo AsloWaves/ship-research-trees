@@ -3,7 +3,7 @@
 ## Overview
 The Lion-class were planned large light cruisers designed during WWII as improved Minotaur-class ships. Four ships were ordered but all were cancelled in 1946 when postwar budget constraints and changing naval requirements made them unnecessary. They would have been among the largest and most powerful light cruisers ever built.
 
-```yaml
+---
 class_name: Lion Class (Cancelled)
 hull_numbers: Various
 ships_built: 0
@@ -29,7 +29,7 @@ secondary_guns: "12× 3-inch AA"
 torpedo_tubes: "8× 21-inch"
 aircraft: 2
 tags: [cruiser, light-cruiser, lion-class, cancelled, 1946, large-cruiser]
-```
+---
 
 ## Design Specifications (Planned)
 

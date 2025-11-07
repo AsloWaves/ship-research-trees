@@ -3,7 +3,7 @@
 ## Overview
 The Diadem-class were first-class protected cruisers built for trade protection and fleet operations. Eight ships served extensively in WWI, with several seeing action in major battles. They represented the mature protected cruiser design before the shift to armored cruisers.
 
-```yaml
+---
 class_name: Diadem Class
 hull_numbers: Various
 ships_built: 8
@@ -29,7 +29,7 @@ secondary_guns: "14× 12-pounder, 3× 3-pounder"
 torpedo_tubes: "2× 18-inch"
 aircraft: 0
 tags: [cruiser, protected-cruiser, diadem-class, 1898, first-class-cruiser, wwi]
-```
+---
 
 ## Specifications
 

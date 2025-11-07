@@ -3,7 +3,7 @@
 ## Overview
 The D-class were the first diesel-powered submarines in the Royal Navy, with 8 boats built 1908-1911. They represented a revolutionary transition from dangerous petrol engines to reliable diesel propulsion, establishing the diesel-electric submarine standard that would persist for decades. The class saw extensive WWI service with moderate losses.
 
-```yaml
+---
 class_name: D-Class Submarine
 hull_numbers: D1-D8
 ships_built: 8
@@ -24,7 +24,7 @@ crew: 25
 armament: "3× 18-inch torpedo tubes (2 bow, 1 stern)"
 torpedoes: 6
 tags: [submarine, d-class, 1908-1911, first-diesel, diesel-electric, revolutionary, ww1-service]
-```
+---
 
 ## Specifications
 

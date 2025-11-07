@@ -1,6 +1,6 @@
 # SM U-31-Class (WWI Ocean-Going Attack U-boat - Germaniawerft 1914)
 
-```yaml
+---
 class_name: SM U-31-Class (WWI Ocean-Going)
 hull_numbers: U-31 to U-41
 ships_built: 11
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, u-31, wwi, ocean-going, germaniawerft, diesel-electric, unrestricted-warfare, kaiserliche-marine, 1914]
 ---
-```
+---
 
 **WWI Ocean-Going Attack U-boat - Reliable Germaniawerft Design** - 11 boats commissioned 1914-1915: U-31 to U-41. **WWI ocean-going attack U-boat** from Germaniawerft. **Reliable diesel engines** established German submarine effectiveness. 685 tons surfaced, **4× 50cm torpedo tubes**, 6 torpedoes carried, 16.4 knots surfaced/9.5 knots submerged. **7,800 nm range** (ocean-going!), 1× 8.8cm deck gun. **Unrestricted submarine warfare** campaign against Allied shipping. Conducted Atlantic operations, commerce raiding. Germaniawerft design proved diesel reliability for submarine warfare.
 

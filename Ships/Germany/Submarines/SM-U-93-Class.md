@@ -1,6 +1,6 @@
 # SM U-93-Class (Ultimate WWI Ocean-Going - Ocean Hunter 1917)
 
-```yaml
+---
 class_name: SM U-93-Class (Ultimate WWI Ocean-Going)
 hull_numbers: U-93 to U-116
 ships_built: 24
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, u-93, wwi, ultimate, ocean-going, ocean-hunter, 16-torpedoes, 24-boats, late-war, kaiserliche-marine, 1917]
 ---
-```
+---
 
 **Ultimate WWI Ocean-Going U-boat - "Ocean Hunter"!** - 24 boats commissioned 1917-1918: U-93 to U-116. **ULTIMATE WWI OCEAN-GOING U-BOAT!** **Largest WWI U-boat class** (24 boats!). 838 tons surfaced, **4× 50cm torpedo tubes**, **16 torpedoes carried** (UNPRECEDENTED!), 16.8 knots surfaced/8.6 knots submerged. **ULTIMATE 9,000 nm range!** Mixed guns (1× 10.5cm + 1× 8.8cm). **"Ocean Hunter" special ability** (+25% endurance). Culmination of WWI U-boat development. Unrestricted warfare peak effectiveness. Late-war mass production.
 

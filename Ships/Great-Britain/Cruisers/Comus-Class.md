@@ -3,7 +3,7 @@
 ## Overview
 The Comus-class were early protected cruisers built contemporaneously with the Iris-class. Eight ships served in various colonial stations and saw action in several late 19th-century conflicts. They featured improved armament and range compared to earlier cruiser designs, establishing the template for subsequent protected cruiser classes.
 
-```yaml
+---
 class_name: Comus Class
 hull_numbers: Various
 ships_built: 8
@@ -29,7 +29,7 @@ secondary_guns: "Various machine guns"
 torpedo_tubes: "2× 14-inch"
 aircraft: 0
 tags: [cruiser, protected-cruiser, comus-class, 1878]
-```
+---
 
 ## Specifications
 

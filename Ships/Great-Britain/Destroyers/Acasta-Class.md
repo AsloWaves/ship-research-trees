@@ -3,7 +3,7 @@
 ## Overview
 The Acasta-class (K-Class) were the ultimate pre-WWI British destroyers, with 20 ships built 1912-1913. They featured significantly increased size and power, introducing the 1,000-ton destroyer standard and three 4-inch guns. The class represented the culmination of pre-war destroyer development and served as the immediate predecessors to WWI emergency classes.
 
-```yaml
+---
 class_name: Acasta Class (K-Class)
 hull_numbers: Various K-series
 ships_built: 20
@@ -29,7 +29,7 @@ secondary_guns: "1× 2-pounder AA"
 torpedo_tubes: "4× 21-inch (2 twin)"
 aircraft: 0
 tags: [destroyer, acasta-class, k-class, 1912, pre-ww1-peak, three-4-inch]
-```
+---
 
 ## Specifications
 

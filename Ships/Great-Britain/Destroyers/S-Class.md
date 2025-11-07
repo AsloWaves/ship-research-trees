@@ -3,7 +3,7 @@
 ## Overview
 The Admiralty S-class were further improved R-class derivatives, with 67 ships ordered and 55 completed by war's end in 1918-1919. They featured enhanced ASW armament, improved fire control, and represented the peak of alphabet-class destroyer development before the revolutionary V&W classes. Many had distinguished service in WWII.
 
-```yaml
+---
 class_name: Admiralty S-Class
 hull_numbers: Various S-series
 ships_built: 67 (55 completed)
@@ -29,7 +29,7 @@ secondary_guns: "1× 2-pounder AA"
 torpedo_tubes: "4× 21-inch (2 twin)"
 aircraft: 0
 tags: [destroyer, s-class, 1918, ww1, ww2-service, improved-r-class]
-```
+---
 
 ## Specifications
 

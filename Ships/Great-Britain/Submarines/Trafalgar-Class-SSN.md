@@ -3,7 +3,7 @@
 ## Overview
 The Trafalgar-class were nuclear-powered attack submarines with 7 boats built 1979-1991. They were improved Swiftsure-class boats with enhanced sensors, quieter machinery, Tomahawk cruise missile capability, and the new PWR1 Core Z reactor. The class served successfully through the end of the Cold War and post-Cold War conflicts, being the last British SSNs before the Astute-class.
 
-```yaml
+---
 class_name: Trafalgar-Class (SSN)
 hull_numbers: S107, S87-S93 (Trafalgar, Turbulent, Tireless, Torbay, Trenchant, Talent, Triumph)
 ships_built: 7
@@ -24,7 +24,7 @@ crew: 130
 armament: "5× 21-inch torpedo tubes (bow), Tomahawk TLAM"
 torpedoes: 25 (Spearfish torpedoes + Tomahawk cruise missiles)
 tags: [submarine, trafalgar-class, ssn, 1979-1991, nuclear-powered, tomahawk, pwrz-reactor, cold-war, gulf-war, afghanistan]
-```
+---
 
 ## Specifications
 

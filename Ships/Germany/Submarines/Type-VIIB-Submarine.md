@@ -1,6 +1,6 @@
 # Type VIIB Submarine (Improved - Larger Hull 1939)
 
-```yaml
+---
 class_name: Type VIIB Submarine (Improved Type VII)
 hull_numbers: U-45 to U-55, U-73 to U-76, U-83 to U-87, U-99 to U-102
 ships_built: 24
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, type-viib, improved, larger-hull, 24-boats, 8700-nm, atlantic, kriegsmarine, 1939]
 ---
-```
+---
 
 **Improved Type VII - Larger Hull & Enhanced Range** - 24 boats commissioned 1939-1940: U-45 to U-55, U-73 to U-76, U-83 to U-87, U-99 to U-102. Improved Type VIIA with **larger hull** (753 tons vs. VIIA 626 tons - 20% increase!). **5× 53.3cm torpedo tubes**, **14 torpedoes carried** (standardized), 17.2 knots surfaced/8.0 knots submerged. **8,700 nm range** (40% improvement over VIIA 6,200 nm!), **enhanced 3,200 HP diesels**. **1× 8.8cm SK C/35** + 1× 2cm Flak. Enlarged saddle tanks (more fuel). Famous ace boats including **U-99 (Kretschmer - top ace!)**. Led directly to **Type VIIC (577-593 boats - THE workhorse!)**.
 

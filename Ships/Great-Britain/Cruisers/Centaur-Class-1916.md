@@ -3,7 +3,7 @@
 ## Overview
 The Centaur-class were a two-ship subgroup of the C-class light cruisers with experimental turbine arrangements. They represented continued refinement of the successful C-class design during WWI.
 
-```yaml
+---
 class_name: Centaur Class (C-class)
 hull_numbers: Various
 ships_built: 2
@@ -29,7 +29,7 @@ secondary_guns: "4× 3-pounder"
 torpedo_tubes: "8× 21-inch"
 aircraft: 0
 tags: [cruiser, light-cruiser, c-class, centaur-class, 1916, ww1]
-```
+---
 
 ## Specifications
 

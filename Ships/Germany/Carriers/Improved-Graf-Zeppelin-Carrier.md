@@ -1,6 +1,6 @@
 # Improved Graf Zeppelin Carrier (1943 Enhanced Design - Paper Ship)
 
-```yaml
+---
 class_name: Improved Graf Zeppelin Carrier (Enhanced Design)
 hull_numbers: None (paper ship)
 ships_built: 0 (paper design)
@@ -83,7 +83,7 @@ firsts:
 # Tags
 tags: [carrier, improved-graf-zeppelin, 1943-design, paper-ship, 50-aircraft, enhanced-aa, lessons-learned, theoretical, never-built]
 ---
-```
+---
 
 **Enhanced Graf Zeppelin Design - 1943 Paper Ship!** - 0 boats: **IMPROVED GRAF ZEPPELIN** - **Theoretical improved design incorporating construction experience!** Enhanced specifications: **38,000 tons** (larger than Graf Zeppelin), **34 kts**, **50 aircraft** (improved from 42!), **3× elevators** (vs. 2). **Lessons learned from Graf Zeppelin construction**: better aircraft handling, improved damage control, enhanced fire suppression. **MASSIVELY enhanced AA**: 16× 10.5cm + 32× 3.7cm + 40× 2cm Flak (vs. Graf Zeppelin's lighter AA). **80mm flight deck armor** (vs. 60mm). Reduced main guns to **12× 15cm** (from 16) to provide more aircraft space and better balance. Would have incorporated theoretical knowledge of Allied carrier operations. **PAPER SHIP** - never built due to carrier program abandonment. Would have been Germany's most capable carrier design if completed. **THEORETICAL ONLY!**
 

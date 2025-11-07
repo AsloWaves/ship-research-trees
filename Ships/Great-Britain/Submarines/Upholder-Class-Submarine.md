@@ -3,7 +3,7 @@
 ## Overview
 The Upholder-class (Type 2400) were advanced diesel-electric submarines with 4 boats built 1986-1993. They were the last conventional submarines built for the Royal Navy, featuring modern automation, advanced sensors, and air-independent propulsion capability. Despite being highly capable, all four were retired early (1994) and sold to Canada, where they serve as the Victoria-class.
 
-```yaml
+---
 class_name: Upholder-Class (Type 2400) Submarine
 hull_numbers: Upholder, Unseen, Ursula, Unicorn
 ships_built: 4
@@ -24,7 +24,7 @@ crew: 47
 armament: "6× 21-inch torpedo tubes (bow), Sub-Harpoon missiles"
 torpedoes: 18 (Tigerfish/Spearfish torpedoes + Harpoon missiles)
 tags: [submarine, upholder-class, type-2400, 1986-1993, modern-diesel, automated, early-retirement, canada-sale]
-```
+---
 
 ## Specifications
 

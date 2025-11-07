@@ -3,7 +3,7 @@
 ## Overview
 The Activity-class consisted of a single escort carrier, HMS Activity, built in Britain 1942 as the sole British-designed and British-built escort carrier of WWII. Converted from the refrigerated cargo ship MV Telemachus, she served throughout the war on convoy escort, aircraft ferry, and training duties. Unlike the mass-produced US Lend-Lease carriers, Activity represented Britain's independent escort carrier capability.
 
-```yaml
+---
 class_name: Activity-Class
 hull_numbers: D94 (HMS Activity)
 ships_built: 1 (British-built)
@@ -23,7 +23,7 @@ crew: 700
 armament: "2× 4-inch AA guns, 16× 20mm Oerlikon, 20 aircraft"
 aircraft: 20 (fighters and ASW aircraft)
 tags: [carrier, activity-class, escort-carrier, british-built, 1942, convoy-escort, merchant-conversion, single-ship-class]
-```
+---
 
 ## Specifications
 

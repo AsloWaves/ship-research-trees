@@ -3,7 +3,7 @@
 ## Overview
 The Carlisle-class were the final subgroup of the C-class light cruisers, completed at the end of WWI. Five ships featured the improved all 6-inch armament and went on to serve through WWII with extensive modifications including enhanced anti-aircraft capability.
 
-```yaml
+---
 class_name: Carlisle Class (C-class)
 hull_numbers: Various
 ships_built: 5
@@ -29,7 +29,7 @@ secondary_guns: "2× 3-inch AA"
 torpedo_tubes: "8× 21-inch"
 aircraft: 0
 tags: [cruiser, light-cruiser, c-class, carlisle-class, 1918, ww1, ww2, aa-conversion]
-```
+---
 
 ## Specifications
 

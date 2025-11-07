@@ -1,6 +1,6 @@
 # Nuclear Concept Submarine (1965 Theoretical Nuclear Propulsion)
 
-```yaml
+---
 class_name: Nuclear Concept Submarine (Theoretical)
 hull_numbers: None
 ships_built: 0 (theoretical concept)
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, nuclear-concept, theoretical, 30-knots-submerged, unlimited-range, nuclear-propulsion, never-built, 1965-concept]
 ---
-```
+---
 
 **Nuclear Propulsion Concept - Theoretical!** - 0 boats: **NUCLEAR SUBMARINE CONCEPT!** **30 KNOTS SUBMERGED**, **UNLIMITED RANGE**, **1000 ft depth**. 3000 tons, nuclear reactor, advanced systems. **THEORETICAL ONLY** - Germany never built nuclear submarines (non-proliferation constraints). Shows hypothetical German nuclear submarine evolution.
 

@@ -1,6 +1,6 @@
 # Essex SCB-27A Modernization
 
-```yaml
+---
 class_name: Essex SCB-27A
 hull_numbers: 9 Essex-class ships modernized
 ships_built: 9 (conversions)
@@ -47,7 +47,7 @@ firsts:
 # Tags
 tags: [carrier, essex-mod, scb-27a, modernization, jet-conversion, 1951, 9-ships, korea, vietnam]
 ---
-```
+---
 
 **Jet Conversion** - Essex SCB-27A modernization adapted 9 carriers for jet operations. Strengthened flight deck, improved catapults, new elevators. First major Essex modernization 1951-1955.
 

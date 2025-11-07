@@ -1,6 +1,6 @@
 # Deutschland Panzerschiff "Pocket Battleship" (1933 DIESEL REVOLUTION - Treaty Loophole!)
 
-```yaml
+---
 class_name: Deutschland Panzerschiff (Pocket Battleship!)
 hull_numbers: Deutschland (later Lützow), Admiral Scheer, Admiral Graf Spee
 ships_built: 3
@@ -113,7 +113,7 @@ firsts:
 # Tags
 tags: [panzerschiff, pocket-battleship, deutschland, 1933, diesel-engines, treaty-loophole, admiral-scheer, admiral-graf-spee, river-plate, commerce-raider, 3-ships]
 ---
-```
+---
 
 **POCKET BATTLESHIPS - 1933 Diesel Revolution!** - 3 ships: **DEUTSCHLAND/LÜTZOW**, **ADMIRAL SCHEER** (most successful raider!), **ADMIRAL GRAF SPEE** (River Plate legend!). **FIRST ALL-DIESEL WARSHIP!** (8× MAN 9-cylinder diesels!). **TREATY OF VERSAILLES LOOPHOLE!** (Claimed 10,000 tons, **actually 12,340+ tons!**). **16,300 nm range** at 18.69 kts (INCREDIBLE endurance for commerce raiding!). **28.5 kts** (faster than WWI battleships!). **6× 28cm (11") guns** in 2× triple turrets (Treaty maximum!). First extensive welding. **ADMIRAL SCHEER: MOST SUCCESSFUL GERMAN RAIDER** (17 ships, 113,223 GRT!), sank HMS Jervis Bay, bombed RAF 1945. **ADMIRAL GRAF SPEE: BATTLE OF RIVER PLATE** (December 13, 1939), fought 3 British cruisers, **SCUTTLED** in Montevideo December 17, 1939! Captain Langsdorff suicide. **"POCKET BATTLESHIP"** nickname! **REVOLUTIONARY!**
 

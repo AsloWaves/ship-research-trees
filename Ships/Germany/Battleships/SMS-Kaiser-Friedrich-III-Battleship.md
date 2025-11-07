@@ -1,6 +1,6 @@
 # SMS Kaiser Friedrich III Battleship (1898 "Hail of Fire" Doctrine - FREE!)
 
-```yaml
+---
 class_name: SMS Kaiser Friedrich III Battleship
 hull_numbers: SMS Kaiser Friedrich III, SMS Kaiser Wilhelm II, SMS Kaiser Wilhelm der Grosse, SMS Kaiser Barbarossa, SMS Kaiser Karl der Grosse
 ships_built: 5
@@ -77,7 +77,7 @@ firsts:
 # Tags
 tags: [battleship, sms-kaiser-friedrich-iii, 1898, free-starting, hail-of-fire, 18x15cm-rapid-fire, pre-dreadnought, kaiserliche-marine, 5-ships]
 ---
-```
+---
 
 **Second German FREE Starting Battleship - 1898 "Hail of Fire"!** - 5 ships: **SMS KAISER FRIEDRICH III**, SMS Kaiser Wilhelm II, SMS Kaiser Wilhelm der Grosse, SMS Kaiser Barbarossa, SMS Kaiser Karl der Grosse. **REVOLUTIONARY "HAIL OF FIRE" DOCTRINE!** **11,097 tons**, **17.5 kts**, **4× 24cm guns** + **18× 15cm rapid-fire guns** (unprecedented intermediate battery for close/medium range barrage!). Harvey nickel-steel armor (305mm belt, 254mm turrets), 3-shaft triple expansion engines (13,000 HP). Named after **Emperor Friedrich III** (1831-1888, ruled only 99 days). Emphasized **volume of fire over individual gun power**. Transitional design between Brandenburg and Wittelsbach classes. Commissioned 1898-1902, served WWI in secondary roles, decommissioned 1919-1920. **FREE STARTING SHIP!** Contemporary with British Majestic-class (1895).
 

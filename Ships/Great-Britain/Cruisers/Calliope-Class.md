@@ -3,7 +3,7 @@
 ## Overview
 The Calliope-class were a two-ship subgroup of the C-class light cruisers with minor differences from the Caroline-class. They served throughout WWI in the Grand Fleet and continued in service into the 1920s.
 
-```yaml
+---
 class_name: Calliope Class (C-class)
 hull_numbers: Various
 ships_built: 2
@@ -29,7 +29,7 @@ secondary_guns: "4× 3-pounder"
 torpedo_tubes: "8× 21-inch"
 aircraft: 0
 tags: [cruiser, light-cruiser, c-class, calliope-class, 1915, ww1]
-```
+---
 
 ## Specifications
 

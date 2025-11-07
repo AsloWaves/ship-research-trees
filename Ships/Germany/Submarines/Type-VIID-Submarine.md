@@ -1,6 +1,6 @@
 # Type VIID Submarine (Minelayer Variant - Enlarged 1942)
 
-```yaml
+---
 class_name: Type VIID Submarine (Minelayer Variant)
 hull_numbers: U-213 to U-218
 ships_built: 6
@@ -64,7 +64,7 @@ firsts:
 # Tags
 tags: [submarine, type-viid, minelayer, enlarged, 6-boats, mine-torpedo, 15-mines, extended-range, kriegsmarine, 1942]
 ---
-```
+---
 
 **Type VII Minelayer - Enlarged with Mines+Torpedoes** - 6 boats commissioned 1942: U-213 to U-218. Type VII minelayer variant combining **VIIC combat capability + UC-II minelaying heritage**. 965 tons surfaced (**25% larger than VIIC!**), **5× 53.3cm torpedo tubes**, **14 torpedoes carried**, **15× TMA/TMB mines** (5× vertical chutes, 3 mines each!), 16.0 knots surfaced/7.3 knots submerged. **11,000 nm range** (extended for minelaying missions), **30 ft longer** than VIIC (251 ft vs. 220 ft). **Mine+torpedo combination** like WWI UC-II. Strategic minelaying missions. 1× 8.8cm deck gun + AA armament. All 6 boats lost 1944-1945.
 

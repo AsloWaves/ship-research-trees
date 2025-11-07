@@ -1,6 +1,6 @@
 # Königsberg II-Class Light Cruisers
 
-```yaml
+---
 class_name: Königsberg II-Class
 hull_numbers: Königsberg II, Karlsruhe II, Emden II, Nürnberg II
 ships_built: 4
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [light-cruiser, königsberg-ii-class, 1916, 8x15cm-guns, ultimate-ww1-design, all-four-survived, emden-ii-training-cruiser, named-after-famous, kaiserliche-marine, ww1]
 ---
-```
+---
 
 **Ultimate WWI German Light Cruiser Design** - 4 ships built (1916-1918): Königsberg II, Karlsruhe II, Emden II, Nürnberg II. Named after famous WWI cruisers lost in action. Improved Wiesbaden design: larger (5,440 tons vs. 5,180), longer range (5,300 nm vs. 4,800). 8× 15cm guns, 28.5 knots. Last WWI German light cruisers commissioned. **All four survived WWI**. **SMS Emden II**: Famous post-WWI training cruiser (1920s-1940s), WWII mine-laying operations, bombed and capsized (1945), raised and scrapped (1949).
 

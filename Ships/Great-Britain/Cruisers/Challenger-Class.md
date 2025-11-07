@@ -3,7 +3,7 @@
 ## Overview
 The Challenger-class were third-class protected cruisers designed for scouting and colonial patrol duties. Two ships represented the final evolution of the small protected cruiser, featuring improved speed and modern quick-firing guns. They served extensively in WWI in various roles.
 
-```yaml
+---
 class_name: Challenger Class
 hull_numbers: Various
 ships_built: 2
@@ -29,7 +29,7 @@ secondary_guns: "9× 12-pounder, 6× 3-pounder"
 torpedo_tubes: "2× 18-inch"
 aircraft: 0
 tags: [cruiser, protected-cruiser, challenger-class, 1902, third-class-cruiser, scout-cruiser]
-```
+---
 
 ## Specifications
 

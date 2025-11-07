@@ -1,6 +1,6 @@
 # Type VIIC Refit (Enhanced AA + Radar - 1943 Modernization)
 
-```yaml
+---
 class_name: Type VIIC Refit (1943 Modernization)
 hull_numbers: Multiple Type VIIC boats (hundreds modernized!)
 ships_built: 300+ (refits of existing Type VIIC boats)
@@ -65,7 +65,7 @@ firsts:
 # Tags
 tags: [submarine, type-viic, refit, 1943-modernization, enhanced-aa, radar, schnorkel, air-defense, flak-boat, late-war, wwii, kriegsmarine]
 ---
-```
+---
 
 **Enhanced AA + Radar - 1943 Modernization** - 300+ boats modernized 1943-1945: Multiple Type VIIC boats refitted. **WWII MODERNIZATION PROGRAM!** **ENHANCED AA ARMAMENT!** - **2× 2cm Flak Vierling (quad!) + 1× 3.7cm Flak M42** (MASSIVE increase from original 2× single 2cm!). **RADAR ADDED!** - **FuMO 30 Hohentwiel** search radar + **Naxos FuMB** radar detector. **Schnorkel system** for submerged diesel operation! Deck gun often REMOVED (AA priority over surface combat!). Responded to Allied air superiority. "Flak Boat" configuration. Maintained 769 tons, 5× torpedo tubes, 14 torpedoes. Late-war defensive modernization. Kept Type VIIC combat-effective despite Allied aircraft dominance.
 

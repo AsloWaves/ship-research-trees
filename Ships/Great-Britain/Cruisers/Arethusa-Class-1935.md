@@ -3,7 +3,7 @@
 ## Overview
 The Arethusa-class were small, economical light cruisers designed for trade protection under tight budget constraints. Four ships featured six 6-inch guns and good speed, representing a return to smaller cruiser design. They served extensively through WWII.
 
-```yaml
+---
 class_name: Arethusa Class (1935)
 hull_numbers: Various
 ships_built: 4
@@ -29,7 +29,7 @@ secondary_guns: "4× 4-inch AA"
 torpedo_tubes: "6× 21-inch"
 aircraft: 1
 tags: [cruiser, light-cruiser, arethusa-class, 1935, economy-cruiser, ww2]
-```
+---
 
 ## Specifications
 

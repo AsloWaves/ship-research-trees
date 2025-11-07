@@ -3,7 +3,7 @@
 ## Overview
 The Minotaur-class (lead ships also known as Swiftsure-class) were improved Colony-class light cruisers designed during WWII. Nine ships featured enhanced AAarmament and protection, though only three were completed during the war. They represented the final evolution of British WWII light cruiser design.
 
-```yaml
+---
 class_name: Minotaur/Swiftsure Class
 hull_numbers: Various
 ships_built: 9
@@ -29,7 +29,7 @@ secondary_guns: "10× 4-inch AA"
 torpedo_tubes: "6× 21-inch"
 aircraft: 2
 tags: [cruiser, light-cruiser, minotaur-class, swiftsure-class, 1945, ww2, late-war]
-```
+---
 
 ## Specifications
 

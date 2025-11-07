@@ -1,6 +1,6 @@
 # Seydlitz-Class Battlecruiser
 
-```yaml
+---
 class_name: Seydlitz-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 1
@@ -59,7 +59,7 @@ firsts:
 # Tags
 tags: [battlecruiser, dreadnought, kaiserliche-marine, 1913, dogger-bank, jutland, 22-hits-survived, 5300-tons-flooding, greatest-survival, damage-control-masterpiece, scapa-flow]
 ---
-```
+---
 
 **Damage Control Masterpiece** - Single-ship class bridging Moltke and Derfflinger. 300mm belt armor, all turrets centerline. Dogger Bank magazine fires (1915) led to fleet-wide anti-flash reforms that saved German battlecruisers at Jutland. **Greatest WWI survival feat:** 22 heavy hits + 1 torpedo + 5,300 tons flooding (21% of displacement), bow underwater, navigated 320 nm to base.
 

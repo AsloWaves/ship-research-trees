@@ -1,6 +1,6 @@
 # Type XXVI Submarine (Advanced Elektroboot - Never Completed 1945)
 
-```yaml
+---
 class_name: Type XXVI Submarine (Advanced Elektroboot)
 hull_numbers: None assigned (never built)
 ships_built: 0 (paper ship - never completed)
@@ -68,7 +68,7 @@ firsts:
 # Tags
 tags: [submarine, type-xxvi, advanced-elektroboot, paper-ship, never-completed, 20-knots-submerged, walter-hybrid, improved-automation, 1945-design, cancelled]
 ---
-```
+---
 
 **Advanced Elektroboot - Never Completed!** - 0 boats built (paper ship): Cancelled 1945. **ADVANCED ELEKTROBOOT!** Beyond Type XXI capabilities. **20 KNOTS SUBMERGED** (projected - improved over Type XXI 17 kts!). **Walter HTP hybrid** considered (diesel + HTP auxiliary for high-speed bursts!). 1800 tons surfaced, **6× torpedo tubes**, **26 torpedoes** (3 more than Type XXI!), **15-minute reload** (improved from 20!). **18,000 nm range** (projected - best elektroboot endurance!). **500 ft diving depth** (deeper than Type XXI 440 ft!). Ultra-streamlined hull. Advanced automation. **NEVER COMPLETED** - war ended May 1945 before construction began. Paper ship only (designs existed, no boats built).
 

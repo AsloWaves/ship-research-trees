@@ -1,6 +1,6 @@
 # Type VIIC Submarine (THE WORKHORSE - 577-593 Boats! 1941)
 
-```yaml
+---
 class_name: Type VIIC Submarine (THE Workhorse)
 hull_numbers: U-69 to U-1279 (hundreds of numbers)
 ships_built: 577-593
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [submarine, type-viic, workhorse, 577-593-boats, most-produced, battle-atlantic, wolf-packs, mass-production, kriegsmarine, 1941]
 ---
-```
+---
 
 **THE WORKHORSE - 577-593 Boats! Most Produced Submarine EVER!** - **577-593 boats** commissioned 1941-1945: U-69 to U-1279 series. **MOST PRODUCED SUBMARINE VARIANT IN HISTORY!** **THE workhorse of U-boat fleet!** 769 tons surfaced, **5× 53.3cm torpedo tubes**, **14 torpedoes carried**, 17.7 knots surfaced/7.6 knots submerged. **8,500 nm range**, **"Workhorse" special ability** (+35% production efficiency, UNIQUE!). **Formed backbone of Battle of Atlantic** (1939-1945). **Wolf pack tactics** (Rudeltaktik). Famous boats: **U-96 (Das Boot movie!)**, U-505 (captured intact, Chicago museum!), U-156. **709 Type VII total - VIIC alone 577-593!** Mass production 1941-1945. Defined WWII submarine warfare.
 

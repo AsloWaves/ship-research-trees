@@ -1,6 +1,6 @@
 # Leipzig-Class Light Cruisers
 
-```yaml
+---
 class_name: Leipzig-Class
 hull_numbers: Leipzig, Nürnberg
 ships_built: 2
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [light-cruiser, leipzig-class, 1931, 9x15cm-guns, improved-königsberg, leipzig-torpedo-damage, nürnberg-barents-sea, nürnberg-soviet-prize, leipzig-scuttled-1946, kriegsmarine, ww2]
 ---
-```
+---
 
 **Improved Königsberg Design** - 2 ships built (1931-1935): Leipzig, Nürnberg. Enhanced Königsberg-class: wider beam (53.5 ft vs. 50.2 ft) for better stability, same armament (9× 15cm guns in triple turrets, 32.5 knots). 6,710 tons. Enhanced AA armament (up to 28× 2cm by 1944). **Leipzig**: Torpedoed by British submarine Salmon (13 Dec 1939, bow damage, 20 months repair), limited WWII service, surrendered 1945, scuttled with chemical weapons (July 1946, North Sea). **Nürnberg**: Battle of Barents Sea (31 Dec 1942, damaged by HMS Sheffield), Soviet war prize 1946, served as Admiral Makarov (1946-1959).
 

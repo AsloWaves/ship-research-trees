@@ -3,7 +3,7 @@
 ## Overview
 The Type 43 was a planned class of large air-defense destroyers designed 1978-1981 to replace the County-class guided missile destroyers. Featuring advanced Aegis-like phased array radar, comprehensive missile systems, nuclear propulsion options, and ASW capabilities, the Type 43 represented Britain's last attempt at building large, multi-role fleet destroyers. The class was cancelled in 1981 Defence Review due to costs (£500+ million per ship) and the decision to build more Type 42 destroyers instead. The cancellation marked Britain's shift from large, capable ships to smaller, more numerous vessels.
 
-```yaml
+---
 class_name: Type-43-Destroyer
 hull_numbers: Unassigned (4-6 ships planned)
 ships_built: 0 (cancelled before construction)
@@ -23,7 +23,7 @@ crew: 350
 armament: "Sea Dart SAM, Harpoon SSM, 2× 4.5-inch guns, Goalkeeper CIWS, Sea Wolf SAM, torpedoes"
 aircraft: 2× Lynx helicopters
 tags: [destroyer, type-43, cancelled, 1981, phased-array-radar, sea-dart, nuclear-option, never-built, defence-review]
-```
+---
 
 ## Specifications (Planned)
 

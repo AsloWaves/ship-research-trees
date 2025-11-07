@@ -1,6 +1,6 @@
 # Fürst Bismarck (Single Ship)
 
-```yaml
+---
 class_name: Fürst Bismarck (Single Ship)
 hull_numbers: Fürst Bismarck
 ships_built: 1
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [armored-cruiser, fürst-bismarck, 1900, single-ship-class, first-armored-cruiser, 24cm-guns, 10000-tons, krupp-cemented-armor, three-shaft, kaiserliche-marine, pre-dreadnought]
 ---
-```
+---
 
 **Germany's First Armored Cruiser (Single Ship)** - Commissioned 1900, decommissioned 1914. First German cruiser with side belt armor and first >10,000 tons (10,690 tons). 4× 24cm + 12× 15cm guns, 18.5 knots. Krupp cemented armor belt 100-200mm. Pioneered German armored cruiser design, establishing principles used in subsequent classes. Three-shaft propulsion (unusual for era). Obsolete by WWI, converted to training ship 1914. Demonstrated German transition from protected to armored cruiser concept.
 

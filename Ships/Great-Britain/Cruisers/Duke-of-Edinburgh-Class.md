@@ -3,7 +3,7 @@
 ## Overview
 The Duke of Edinburgh-class were advanced County-type armored cruisers featuring improved speed and armament. Two ships represented the final evolution of the County design with mixed 9.2-inch and 6-inch batteries. They served through WWI and into the 1920s.
 
-```yaml
+---
 class_name: Duke of Edinburgh Class
 hull_numbers: Various
 ships_built: 2
@@ -29,7 +29,7 @@ secondary_guns: "20× 3-pounder"
 torpedo_tubes: "3× 18-inch"
 aircraft: 0
 tags: [cruiser, armored-cruiser, duke-of-edinburgh-class, county-type, 1906, advanced-county, wwi]
-```
+---
 
 ## Specifications
 

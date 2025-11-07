@@ -1,6 +1,6 @@
 # Z20 Karl Galster-Class Destroyer (Type 1936 Improved - Sole Narvik Survivor)
 
-```yaml
+---
 class_name: Z20 Karl Galster-Class (Type 1936 Improved)
 hull_numbers: Z20
 ships_built: 1
@@ -66,7 +66,7 @@ firsts:
 # Tags
 tags: [destroyer, z20, karl-galster, type-1936-improved, enhanced-seakeeping, 40-knots, narvik-survivor, kriegsmarine, ww2]
 ---
-```
+---
 
 **Type 1936 Improved - Sole Narvik Survivor** - Single ship commissioned 1939: **Z20 Karl Galster**. Type 1936 improved with **enhanced seakeeping**. **Only Type 1936 destroyer to survive Battles of Narvik** (10-13 April 1940) when 5 sister ships lost. 1,815 tons standard, **5× 12.7cm guns**, **8× 533mm torpedoes**, 40.2 knots. Enhanced seakeeping (wider beam 38.7 ft), better range (4,900 nm), enhanced AA (8× 20mm). Named after Karl Galster (German admiral). **Survived entire WWII** (1939-1945): Atlantic operations, English Channel, convoy escort, North Sea patrols. Scuttled 1945. **Proved Type 1936 design viability** despite Narvik disaster. Last German destroyer with 127mm guns.
 

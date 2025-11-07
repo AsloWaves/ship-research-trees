@@ -1,6 +1,6 @@
 # Type XVII Submarine (WALTER HTP - 25 Knots Submerged! 1944)
 
-```yaml
+---
 class_name: Type XVII Submarine (Walter HTP Experimental)
 hull_numbers: V-80 (prototype), U-1405 to U-1407 (Type XVIIB)
 ships_built: 4 (1 prototype + 3 Type XVIIB)
@@ -64,7 +64,7 @@ firsts:
 # Tags
 tags: [submarine, type-xvii, walter, htp, experimental, 25-knots-submerged, revolutionary, high-speed, prototype, kriegsmarine, 1944]
 ---
-```
+---
 
 **WALTER HTP - 25 Knots Submerged! REVOLUTIONARY!** - 4 boats total: V-80 prototype (1940), U-1405 to U-1407 Type XVIIB (1944-1945). **WALTER HTP TURBINE!** Using hydrogen peroxide (HTP) decomposition for propulsion! **25 KNOTS SUBMERGED** (REVOLUTIONARY!). **"High-Speed HTP" special ability (+150% underwater speed, EXPERIMENTAL!)**. **First true high-speed submarine!** 312 tons surfaced, **2× 53.3cm torpedo tubes**, 4 torpedoes, 8.5 knots surfaced/25 knots submerged. **2500 HP Walter turbine** (submerged propulsion!). Streamlined hull (minimal superstructure). Hydrogen peroxide fuel (highly reactive, dangerous!). Experimental status (only 4 boats). Influenced post-war British Explorer-class and Soviet Project 617.
 

@@ -1,6 +1,6 @@
 # SM UB-III-Class (WWI Advanced Coastal - "Coastal Master" 1917)
 
-```yaml
+---
 class_name: SM UB-III-Class (Advanced Coastal)
 hull_numbers: UB-48 to UB-143
 ships_built: 96
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, ub-iii, coastal, advanced, coastal-master, 96-boats, 10-torpedoes, late-war, mediterranean, kaiserliche-marine, 1917]
 ---
-```
+---
 
 **Advanced Coastal "Coastal Master" - 96 Boats Built!** - 96 boats commissioned 1917-1918: UB-48 to UB-143. **MOST NUMEROUS WWI COASTAL CLASS!** **Advanced coastal submarine** with **"Coastal Master" special ability** (+30% coastal operations). 516 tons surfaced, **5× 50cm torpedo tubes** (4 bow, 1 stern!), **10 torpedoes carried**, 13.6 knots surfaced/8.0 knots submerged. **9,090 nm range** (EXTENDED!), 1× 8.8cm deck gun, enhanced diesels (1,100 HP). **96 boats built** - Mediterranean dominance, Flanders Flotilla backbone. Late-war ultimate coastal design.
 

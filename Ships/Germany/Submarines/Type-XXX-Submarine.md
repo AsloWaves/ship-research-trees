@@ -1,6 +1,6 @@
 # Type XXX Submarine (Post-War Concept - 1946 Advanced Design)
 
-```yaml
+---
 class_name: Type XXX Submarine (Post-War Concept)
 hull_numbers: None assigned
 ships_built: 0 (theoretical concept)
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [submarine, type-xxx, post-war, theoretical, 25-knots-submerged, advanced-concept, never-designed, 1946]
 ---
-```
+---
 
 **Post-War Concept - Theoretical Only!** - 0 boats: **POST-WAR ELEKTROBOOT CONCEPT!** **25 KNOTS SUBMERGED!** **32 torpedoes**, **22,000 nm range**, **650 ft depth**. Advanced batteries, computer systems. **THEORETICAL ONLY** - never designed (Germany occupied post-war). Nuclear submarines made concept obsolete.
 

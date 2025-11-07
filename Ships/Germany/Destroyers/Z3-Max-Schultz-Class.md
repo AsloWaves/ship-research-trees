@@ -1,6 +1,6 @@
 # Z3 Max Schultz-Class Destroyers (Type 1934 Production)
 
-```yaml
+---
 class_name: Z3 Max Schultz-Class (Type 1934)
 hull_numbers: Z3, Z4
 ships_built: 2
@@ -65,7 +65,7 @@ firsts:
 # Tags
 tags: [destroyer, z3, max-schultz, type-1934, production, 127mm-guns, 38-knots, kriegsmarine, ww2, narvik, stability-problems]
 ---
-```
+---
 
 **Type 1934 Production Ships - Enhanced AA** - 2 ships commissioned 1938: **Z3 Max Schultz**, Z4 Richard Beitzen. Type 1934 production ships with slight improvements over Z1/Z2. 2,239 tons standard, **5× 12.7cm (127mm) guns**, **8× 533mm torpedoes**, 38.5 knots. **Enhanced AA armament** (8× 20mm vs. 6×), slightly better range (4,450 nm). **Named after naval heroes** (Max Schultz = German officer). Same Type 1934 stability problems (top-weight issues). WWII service (1939-1944): **Norway campaign** (Z3 lost First Battle of Narvik 1940), Atlantic operations, English Channel. **Both ships lost in combat** (Z3 1940, Z4 1944). Continued revolutionary Type 1934 program.
 

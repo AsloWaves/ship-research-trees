@@ -1,6 +1,6 @@
 # SMS Braunschweig Battleship (1904 First 28cm Quick-Firing Guns!)
 
-```yaml
+---
 class_name: SMS Braunschweig Battleship
 hull_numbers: SMS Braunschweig, SMS Elsass, SMS Hessen, SMS Preussen, SMS Lothringen
 ships_built: 5
@@ -82,7 +82,7 @@ firsts:
 # Tags
 tags: [battleship, sms-braunschweig, 1904, first-28cm-qf, krupp-innovation, pre-dreadnought, kaiserliche-marine, 5-ships]
 ---
-```
+---
 
 **First 28cm Quick-Firing Guns - 1904 Krupp Innovation!** - 5 ships: **SMS BRAUNSCHWEIG**, SMS Elsass, SMS Hessen, SMS Preussen, SMS Lothringen. **FIRST 28CM QUICK-FIRING GUNS!** (Krupp technological breakthrough - previously only 24cm had QF capability!). **13,208 tons**, **18 kts**, **4× 28cm QF guns** (11" caliber with rapid-fire!) + **14× 17cm QF secondary guns** (6.7" - larger than earlier 15cm!). Krupp cemented armor (229mm belt), 3-shaft triple expansion engines (16,000 HP, +1000 HP!). Major firepower jump responding to British/French escalation. Commissioned 1904-1906, served WWI in limited roles (training, coastal defense). SMS Braunschweig served until 1931 (longest service!). Last major pre-dreadnoughts before Deutschland class. Contemporary with British King Edward VII-class (1905).
 

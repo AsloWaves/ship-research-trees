@@ -1,6 +1,6 @@
 # Casablanca-Class Escort Carriers
 
-```yaml
+---
 class_name: Casablanca-Class
 hull_numbers: CVE-55 to CVE-104
 ships_built: 50
@@ -46,7 +46,7 @@ firsts:
 # Tags
 tags: [escort-carrier, casablanca, cve, wwii, pacific, mass-production, 1943, 50-ships, largest-class-ever, kaiser, leyte-gulf, samar]
 ---
-```
+---
 
 **Largest Class Ever** - Casablanca-class were largest aircraft carrier class in history. 50 ships built 1943-1944. Purpose-built escort carriers using Kaiser mass-production techniques.
 

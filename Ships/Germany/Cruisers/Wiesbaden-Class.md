@@ -1,6 +1,6 @@
 # Wiesbaden-Class Light Cruisers
 
-```yaml
+---
 class_name: Wiesbaden-Class
 hull_numbers: Wiesbaden, Frankfurt
 ships_built: 2
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [light-cruiser, wiesbaden-class, 1915, 8x15cm-guns, 28-knots, wiesbaden-jutland, entire-crew-killed, caught-between-lines, frankfurt-us-prize, kaiserliche-marine, ww1]
 ---
-```
+---
 
 **Fast 15cm Light Cruiser Design** - 2 ships built (1915): Wiesbaden, Frankfurt. Balanced design: 8× 15cm guns, 28.8 knots (faster than Graudenz's 12× guns/28.2 knots). 5,180 tons. **SMS Wiesbaden**: Most famous German cruiser loss at Battle of Jutland (31 May-1 Jun 1916), caught between British and German battle lines, sunk after concentrated fire from multiple British ships, **entire crew killed** (589 killed, 0 survivors). **SMS Frankfurt**: Survived WWI, US war prize 1920, target ship, sunk in bombing tests 1921.
 

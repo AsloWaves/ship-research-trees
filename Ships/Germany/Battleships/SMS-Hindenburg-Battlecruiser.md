@@ -1,6 +1,6 @@
 # SMS Hindenburg Battlecruiser (1917 LAST WWI BC - Missed Jutland, Scapa Flow!)
 
-```yaml
+---
 class_name: SMS Hindenburg (Derfflinger-class - Last WWI German BC!)
 hull_numbers: SMS Hindenburg
 ships_built: 1 (third and FINAL Derfflinger-class)
@@ -223,7 +223,7 @@ firsts:
 # Tags
 tags: [battlecruiser, sms-hindenburg, derfflinger-class, 1917, missed-jutland, scapa-flow, scuttling, operation-rainbow, last-wwi-bc, salvaged, wasted-potential]
 ---
-```
+---
 
 **LAST WWI BATTLECRUISER - 1917 Tragic Timing!** - Derfflinger-class (commissioned May 10, 1917 - **TOO LATE FOR JUTLAND!**). **31,000 tons**, **27.3 KNOTS** (fastest of class!), **8× 30.5cm (12") guns**. Most refined Derfflinger design, improved armor (300mm belt!). **ONLY 18 MONTHS WWI SERVICE** (May 1917 - Nov 1918!). **MISSED JUTLAND** (11 months late - tragedy!). **NO MAJOR BATTLES!** Minimal action (fuel shortages, post-Jutland caution). Wilhelmshaven mutinies. **SCAPA FLOW INTERNMENT** (Nov 21, 1918). **OPERATION RAINBOW** (June 21, 1919) - Admiral von Reuter's mass scuttling! **HINDENBURG SANK** 12:16 PM! Part of **LARGEST MASS SCUTTLING** (74 ships!). British fury, German honor! **SALVAGED 1930-1932** (raised, scrapped Rosyth). **TRAGIC TIMING** - excellent design never battle-tested! **WASTED POTENTIAL!** **ULTIMATE WWI GERMAN BATTLECRUISER!**
 

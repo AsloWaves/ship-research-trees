@@ -1,6 +1,6 @@
 # Moltke-Class Battlecruisers
 
-```yaml
+---
 class_name: Moltke-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 2
@@ -59,7 +59,7 @@ firsts:
 # Tags
 tags: [battlecruiser, dreadnought, kaiserliche-marine, 1911, goeben-escape, ottoman-empire, black-sea, jutland, longest-serving, scapa-flow]
 ---
-```
+---
 
 **Enhanced Battlecruisers** - Evolution of Von der Tann with 10× 28cm guns (+25% firepower) and 270mm armor. SMS Goeben escaped to Turkey (August 1914), bringing Ottoman Empire into WWI—prolonged war by 1-2 years. SMS Moltke survived Jutland (4 hits). Goeben/Yavuz served 62 years (longest dreadnought-era capital ship).
 

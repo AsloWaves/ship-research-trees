@@ -1,6 +1,6 @@
 # Jaguar-Class Torpedo Boats (Type 24 - Last Treaty Boat)
 
-```yaml
+---
 class_name: Jaguar-Class (Type 24)
 hull_numbers: Jaguar, Leopard, Luchs, Tiger
 ships_built: 4
@@ -67,7 +67,7 @@ firsts:
 # Tags
 tags: [torpedo-boat, destroyer, jaguar, type-24, last-treaty-boat, post-versailles, predator-names, big-cats, 10.5cm-guns, kriegsmarine, ww2, interwar]
 ---
-```
+---
 
 **Last Treaty Boat - Type 24 Ultimate "Big Cats"** - 4 ships commissioned 1929: **Jaguar** (Jaguar), Leopard, Luchs (Lynx), Tiger. **Last treaty-restricted destroyers** before Nazi rearmament. Type 24 ultimate design. **Named after big cats** (Type 24 predator naming). Treaty-restricted "torpedo boats" (**933 tons**, peak treaty circumvention). 933 tons, **3× 10.5cm SK C/28 guns**, **6× 533mm torpedoes**, **34.5 knots** (fastest interwar). **Best range of all interwar destroyers** (3,400 nm), **most powerful turbines** (24,000 SHP). Maintained German destroyer expertise until unrestricted construction began 1933-1935. Served entire WWII (1939-1945): Baltic Sea, convoy escort, mine-laying, Norway campaign. **Most ships survived war**, decommissioned 1945-1946. **Ended treaty period** (1919-1933) maintaining destroyer capabilities through restrictions.
 

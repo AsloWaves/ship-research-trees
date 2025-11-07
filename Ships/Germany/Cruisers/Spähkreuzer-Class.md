@@ -1,6 +1,6 @@
 # Spähkreuzer (Scout Cruiser, Paper Ship)
 
-```yaml
+---
 class_name: Spähkreuzer (Scout Cruiser)
 hull_numbers: None (paper design)
 ships_built: 0 (design study only)
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [scout-cruiser, spähkreuzer, reconnaissance, paper-ship, never-built, 38-knots, 10000nm-range, theoretical, kriegsmarine, ww2]
 ---
-```
+---
 
 **Specialized Reconnaissance Cruiser (Paper Ship) - Never Built** - Theoretical scout cruiser design optimized for fleet reconnaissance and ocean scouting. 7,500 tons, 6× 15cm guns (3× twin turrets), **38 knots** (fastest German cruiser design). Maximum endurance (10,000 nm at 20 knots), minimal armor (50mm belt) for speed, advanced radar and reconnaissance equipment. Designed to scout ahead of battlefleet and heavy cruiser squadrons, locate enemy forces, shadow enemy formations. Design study only, never formally proposed. Would have filled reconnaissance role lost when armored/light cruiser distinction ended. Emphasized speed and range over protection.
 

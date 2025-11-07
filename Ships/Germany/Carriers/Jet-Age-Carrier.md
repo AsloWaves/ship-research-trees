@@ -1,6 +1,6 @@
 # Jet Age Carrier (1955 Advanced Jet-Capable Design - Theoretical)
 
-```yaml
+---
 class_name: Jet Age Carrier (1955 Advanced Jet Design)
 hull_numbers: None (theoretical concept)
 ships_built: 0 (pure speculation)
@@ -92,7 +92,7 @@ firsts:
 # Tags
 tags: [carrier, jet-age, 1955-concept, angled-deck, steam-catapults, supersonic-jets, pure-speculation, theoretical, never-built, cold-war]
 ---
-```
+---
 
 **Jet Age Carrier - 1955 Advanced Design!** - 0 boats: **JET AGE CARRIER** - **Pure speculation with advanced 1955 technology!** **62,000 tons**, **32 kts**, **55 jet aircraft** (25 supersonic fighters F-4 Phantom equivalent + 25 jet attack A-4 Skyhawk equivalent + 5 helicopters!). **REVOLUTIONARY INNOVATIONS**: **Angled flight deck** (10° angle - simultaneous launch/recovery operations!), **4× STEAM CATAPULTS** (C-13 equivalent - launch 30+ ton jets!), **deck-edge elevators** (British-style - more deck parking!), **mirror landing system** (precision jet landing!). **Full missile defense** (SAM systems, no guns!). Advanced 3D air search radar, early integrated combat systems. **PURE SPECULATION** - Germany had no carrier program (Cold War focus on land/air defense vs. Soviet threat). NATO carriers provided by US/Britain. **THEORETICAL ONLY!** **NEVER BUILT!**
 

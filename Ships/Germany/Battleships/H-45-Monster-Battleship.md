@@ -1,6 +1,6 @@
 # H-45 "Monster" Battleship (BEYOND H-44 - 150,000+ Tons! Pure Fantasy!)
 
-```yaml
+---
 class_name: H-45 "Monster" Battleship (BEYOND ULTIMATE - Pure Fantasy!)
 hull_numbers: None (pure fantasy, "Monster" designation)
 ships_built: 0 (absolute fantasy, never conceived for construction)
@@ -146,7 +146,7 @@ firsts:
 # Tags
 tags: [h-class, h-45, monster, super-battleship, paper-ship, possibly-mythical, beyond-ultimate, 150000-tons, fantasy-beyond-fantasy, arms-race-absurdity, end-of-madness]
 ---
-```
+---
 
 **H-45 "MONSTER" - Beyond Ultimate Fantasy!** - **150,000+ tons** (SPECULATION!). **BEYOND H-44!** Possibly 8× 20" OR 21" guns? (UNCLEAR!). **NO formal design plans exist!** May have been verbal discussions only. **Possibly postwar myth!** Some historians question if H-45 even existed! May have been Kriegsmarine dark humor about absurdity! "Reduction to absurdity" - ultimate endpoint! **108% heavier than Yamato, 198% heavier than Bismarck!** Would need ~500m+ slipway (DOESN'T EXIST!). Steel = **~300 Type XXI U-boats** OR **~3,000 Panthers** OR **~20,000 Bf 109s**! Resources = multiple DIVISIONS! **BEYOND INSANITY** - possibly not even real! **Ultimate monument to battleship arms race absurdity!** **Perfect example of technology disconnected from reality!** **END OF TREE** - nothing beyond this madness!
 

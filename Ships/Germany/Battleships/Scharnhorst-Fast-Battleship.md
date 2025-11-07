@@ -1,6 +1,6 @@
 # Scharnhorst Fast Battleship (1939 CHANNEL DASH - 32 Knots!)
 
-```yaml
+---
 class_name: Scharnhorst Fast Battleship (32 knots - Fastest German BB!)
 hull_numbers: Scharnhorst, Gneisenau
 ships_built: 2
@@ -136,7 +136,7 @@ firsts:
 # Tags
 tags: [fast-battleship, scharnhorst, gneisenau, 1939, 32-knots, channel-dash, hms-glorious, operation-cerberus, battle-north-cape, commerce-raider, 2-ships]
 ---
-```
+---
 
 **FAST BATTLESHIPS - 1939 Channel Dash Legends!** - 2 ships: **SCHARNHORST**, **GNEISENAU**. **FASTEST GERMAN BATTLESHIPS!** (32 knots!). **38,900 tons full load**, **9× 28cm (11") guns** in **3× triple turrets** (originally planned 6× 38cm, never converted!). **Hybrid propulsion** (steam turbines + diesel). **8,800 nm range**. **SANK HMS GLORIOUS** (aircraft carrier, June 8, 1940) with **LONGEST GUNNERY HIT EVER** (26,465 yards / 24.2 km!). Operation Berlin (1941): **22 merchant ships sunk!** **CHANNEL DASH** (Operation Cerberus, February 11-13, 1942): Escaped Brest → Germany in DAYLIGHT, evaded 242 bomber attacks + Royal Navy! "**Greatest British naval humiliation since 1667!**" **Scharnhorst**: Battle of North Cape (December 26, 1943), sunk by HMS Duke of York (only 36 survivors). **Gneisenau**: Bombed Kiel 1942, deactivated, guns removed, scuttled 1945. **LEGENDARY!**
 

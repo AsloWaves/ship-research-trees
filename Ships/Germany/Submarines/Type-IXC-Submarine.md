@@ -1,6 +1,6 @@
 # Type IXC Submarine (Standard Long-Range - 54 Boats 1940)
 
-```yaml
+---
 class_name: Type IXC Submarine (Standard Long-Range)
 hull_numbers: U-66 to U-68, U-125 to U-131, U-153 to U-166, U-171 to U-176, U-501 to U-524
 ships_built: 54
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [submarine, type-ixc, standard, 54-boats, 11000-nm, long-range, mass-production, kriegsmarine, 1940]
 ---
-```
+---
 
 **Standard Type IX - 54 Boats Mass Production** - 54 boats commissioned 1940-1942: U-66 to U-68, U-125 to U-131, U-153 to U-166, U-171 to U-176, U-501 to U-524. **STANDARD Type IX production model!** 1120 tons surfaced, **6× 53.3cm torpedo tubes**, **22 torpedoes carried**, 18.3 knots surfaced/7.3 knots submerged. **11,000 nm range** (reliable long-range), **1× 10.5cm SK C/32** + AA armament. **54 BOATS BUILT!** (largest Type IX variant until IXC/40 with 87!). Standardized construction for multiple shipyards. Global operations baseline. Led to Type IXC/40 enhanced variant (87 boats). 194 Type IX total family.
 

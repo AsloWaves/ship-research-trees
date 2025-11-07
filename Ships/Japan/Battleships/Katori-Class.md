@@ -1,6 +1,6 @@
 # Katori-Class Battleships
 
-```yaml
+---
 class_name: Katori-Class
 hull_numbers: Katori, Kashima
 ships_built: 2
@@ -52,7 +52,7 @@ contemporary: "[[Great Britain/Great Britain Battleships/Lord Nelson-Class]]"
 # Tags
 tags: [battleship, pre-dreadnought, british-built]
 ---
-```
+---
 
 **Last British-Built Pre-Dreadnoughts** - Final pre-dreadnought battleships built for Japan. British-built at Vickers and Armstrong. Scrapped under Washington Naval Treaty.
 

@@ -1,6 +1,6 @@
 # L 20 e α-Class Battleships
 
-```yaml
+---
 class_name: L 20 e α-Class
 hull_numbers: None (design study only)
 ships_built: 0 (pure design study)
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [battleship, dreadnought, kaiserliche-marine, 1918, unbuilt, never-built, design-study, 42cm-guns, 16.5-inch-guns, fast-battleship, all-or-nothing-armor, strategic-waste, 61-days-before-surrender, design-only, paper-ship]
 ---
-```
+---
 
 **Germany's Ultimate WWI Battleship Fantasy (Pure Design Study)** - Most advanced WWI battleship design, 4+ years development (1914-1918). 42cm (16.5-inch) guns (largest German WWI naval guns), 26 knots (fast battleship concept), 44,500 tons. "All-or-Nothing" armor (eliminated lower belt for speed). 42cm gun designed 29 Dec 1916, **approved 11 Sep 1918—61 days before Germany surrendered**. **Zero construction**: No keels laid, no materials ordered, no ship names assigned. Design evolved through multiple variants (L 20 → L 20a → L 20b → L 20e → L 20e α). **Strategic absurdity**: Design approved while Germany collapsing on all fronts. 42cm gun revived for Nazi H-41/H-42 (also never built).
 

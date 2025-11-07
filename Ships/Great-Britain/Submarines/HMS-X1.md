@@ -3,7 +3,7 @@
 ## Overview
 HMS X1 was a single experimental cruiser submarine built 1923-1925, the largest submarine in the world at commissioning and the only British submarine armed with 5.2-inch guns. Conceived to test the cruiser submarine concept of long-range patrol, heavy surface armament, and commerce raiding, X1 proved the concept technically feasible but operationally questionable. Mechanical problems, slow diving, and vulnerability to aircraft doomed the cruiser submarine idea. X1 served 1926-1936, was scrapped 1937, and remains a fascinating "what-if" of interwar submarine development.
 
-```yaml
+---
 class_name: HMS-X1 (Experimental)
 hull_numbers: X1
 ships_built: 1 (experimental)
@@ -23,7 +23,7 @@ crew: 109
 armament: "4× 5.2-inch guns (2× twin turrets), 6× 21-inch torpedo tubes"
 torpedoes: 6× 21-inch torpedo tubes (bow)
 tags: [submarine, hms-x1, experimental, cruiser-submarine, 1925, largest-submarine, interwar, failed-concept]
-```
+---
 
 ## Specifications
 

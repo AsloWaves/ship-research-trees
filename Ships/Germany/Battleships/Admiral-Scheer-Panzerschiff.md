@@ -1,6 +1,6 @@
 # Admiral Scheer Panzerschiff (1934 MOST SUCCESSFUL RAIDER - 113,223 GRT Sunk!)
 
-```yaml
+---
 class_name: Admiral Scheer (Panzerschiff - Most Successful Raider!)
 hull_numbers: Admiral Scheer
 ships_built: 1 (second Deutschland-class)
@@ -215,7 +215,7 @@ firsts:
 # Tags
 tags: [panzerschiff, pocket-battleship, admiral-scheer, 1934, most-successful-raider, jervis-bay, convoy-hx84, indian-ocean, 113223-grt, kiel-bombing, krancke, wwii-legend]
 ---
-```
+---
 
 **MOST SUCCESSFUL RAIDER - 1934 Ultimate Commerce Raider!** - Commissioned November 12, 1934 (second Deutschland-class). **12,340 tons**, **28.5 kts**, **6× 28cm (11") guns**. Diesel (16,300 nm range!). **MOST SUCCESSFUL GERMAN SURFACE RAIDER OF WWII!** **17 merchant ships sunk** (113,223 GRT total!)! **46,000 miles traveled** in 161-day cruise! **Battle of Convoy HX 84** (November 5, 1940): **Sank HMS JERVIS BAY** (armed merchant cruiser)! Captain Fegen: **VICTORIA CROSS** (heroic sacrifice!)! Jervis Bay charged Scheer alone (David vs Goliath!), sunk after 22 minutes, 189 dead! **CONVOY SAVED!** (32 of 37 ships escaped!) Scheer frustrated! Indian Ocean rampage (Nov 1940 - Feb 1941). Evaded British Navy **ENTIRE CRUISE!** Triumphant return Kiel April 1, 1941! Captain Krancke: Knight's Cross! Arctic ops (PQ-17 threat). **RAF BOMBING** April 9, 1945 - **CAPSIZED** Kiel harbor, 32 dead! **ULTIMATE COMMERCE RAIDER!**
 

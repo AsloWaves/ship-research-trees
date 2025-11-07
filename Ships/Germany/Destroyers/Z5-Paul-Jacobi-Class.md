@@ -1,6 +1,6 @@
 # Z5 Paul Jacobi-Class Destroyers (Type 1934A - Improved)
 
-```yaml
+---
 class_name: Z5 Paul Jacobi-Class (Type 1934A)
 hull_numbers: Z5-Z16
 ships_built: 12
@@ -68,7 +68,7 @@ firsts:
 # Tags
 tags: [destroyer, z5, paul-jacobi, type-1934a, improved, 127mm-guns, 39-knots, kriegsmarine, ww2, narvik, atlantic]
 ---
-```
+---
 
 **Type 1934A - Improved Stability, Largest Class** - 12 ships commissioned 1938-1939: Z5 Paul Jacobi, Z6 Theodor Riedel, Z7 Hermann Schoemann, Z8 Bruno Heinemann, Z9 Wolfgang Zenker, Z10 Hans Lody, Z11 Bernd von Arnim, Z12 Erich Giese, Z13 Erich Koellner, Z14 Friedrich Ihn, Z15 Erich Steinbrinck, Z16 Friedrich Eckoldt. **Type 1934A** (improved Type 1934). **12 ships built** (largest German WWII DD class). 2,270 tons standard, **5× 12.7cm guns**, **8× 533mm torpedoes**, **38.9 knots**. **Improved stability** (wider beam 37.7 ft), **better range** (4,850 nm). Named after naval heroes. Heavy WWII combat: Norway, Atlantic, Arctic convoys. **Heavy combat losses** (many ships lost 1940-1945). Major operations participants.
 

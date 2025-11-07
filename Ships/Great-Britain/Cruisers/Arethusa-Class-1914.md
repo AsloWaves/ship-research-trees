@@ -3,7 +3,7 @@
 ## Overview
 The Arethusa-class were the Royal Navy's first purpose-built light cruisers, designed to lead destroyer flotillas and counter German light cruisers. Eight ships represented a new type of warship optimized for speed and firepower rather than armor. They served extensively in WWI, particularly in the North Sea.
 
-```yaml
+---
 class_name: Arethusa Class (1914)
 hull_numbers: Various
 ships_built: 8
@@ -29,7 +29,7 @@ secondary_guns: "4× 3-pounder"
 torpedo_tubes: "8× 21-inch"
 aircraft: 0
 tags: [cruiser, light-cruiser, arethusa-class, 1914, first-light-cruiser, ww1, north-sea]
-```
+---
 
 ## Specifications
 

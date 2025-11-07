@@ -3,7 +3,7 @@
 ## Overview
 The Hunt-class were specialized escort destroyers built 1939-1943, with 86 ships in four types (I-IV). Designed for convoy escort and ASW duties with heavy AA armament, they sacrificed speed and torpedo armament for anti-submarine and anti-aircraft capability. The class proved highly effective in convoy protection, Mediterranean operations, and coastal warfare throughout WWII.
 
-```yaml
+---
 class_name: Hunt-Class (Types I-IV)
 hull_numbers: Various
 ships_built: 86 (Type I: 20, Type II: 36, Type III: 28, Type IV: 2)
@@ -29,7 +29,7 @@ secondary_guns: "4-8× 2-pounder AA"
 torpedo_tubes: "2-3× 21-inch (Type II-III only)"
 aircraft: 0
 tags: [destroyer, hunt-class, 1940-1943, escort-destroyer, convoy-escort, ww2-service, four-types]
-```
+---
 
 ## Specifications
 

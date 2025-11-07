@@ -3,7 +3,7 @@
 ## Overview
 The Type 83 is the planned replacement for the Type 45 Daring-class air defense destroyers, intended to enter service in the 2030s. Conceived as a next-generation guided missile destroyer with advanced sensors, directed energy weapons, hypersonic missile defense, extensive automation, and possible unmanned systems integration, the Type 83 aims to provide air and missile defense for carrier strike groups and task forces into the 2060s. The programme is currently in concept and assessment phase, with design work expected to accelerate in the mid-2020s.
 
-```yaml
+---
 class_name: Type-83-Destroyer
 hull_numbers: TBD (6+ ships planned)
 ships_built: 0 (design phase)
@@ -23,7 +23,7 @@ crew: 200
 armament: "VLS cells (128+), directed energy weapons, hypersonic missiles, guns, CIWS"
 aircraft: Crewed and uncrewed aerial systems
 tags: [destroyer, type-83, future, 2030s, hypersonic-defense, directed-energy-weapons, next-generation, type-45-replacement, planned]
-```
+---
 
 ## Specifications (Conceptual)
 

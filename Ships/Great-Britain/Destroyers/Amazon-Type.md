@@ -3,7 +3,7 @@
 ## Overview
 HMS Amazon was a single prototype destroyer built by Thornycroft 1926 as an experimental design preceding the standard A-class. She tested advanced features including high-pressure boilers, experimental machinery arrangement, and improved performance that influenced subsequent destroyer design.
 
-```yaml
+---
 class_name: Amazon-Type
 hull_numbers: D39 (HMS Amazon)
 ships_built: 1 (prototype)
@@ -23,7 +23,7 @@ crew: 138
 armament: "4× 4.7-inch guns, 2× 2-pdr pom-poms, 6× 21-inch torpedo tubes"
 torpedoes: 6× 21-inch torpedo tubes (2× triple mounts)
 tags: [destroyer, amazon, prototype, thornycroft, 1926, experimental, interwar]
-```
+---
 
 ## Specifications
 

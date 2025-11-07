@@ -3,7 +3,7 @@
 ## Overview
 The Edgar-class were first-class protected cruisers built for trade protection and fleet service. Nine ships featured improved speed and armament over previous designs. They saw extensive colonial service and participated in various conflicts including the Boxer Rebellion.
 
-```yaml
+---
 class_name: Edgar Class
 hull_numbers: Various
 ships_built: 9
@@ -29,7 +29,7 @@ secondary_guns: "12× 6-pounder, 6× 3-pounder"
 torpedo_tubes: "4× 18-inch"
 aircraft: 0
 tags: [cruiser, protected-cruiser, edgar-class, 1893, first-class-cruiser]
-```
+---
 
 ## Specifications
 

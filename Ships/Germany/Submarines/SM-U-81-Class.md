@@ -1,6 +1,6 @@
 # SM U-81-Class (WWI Mid-War Ocean-Going - Enhanced Endurance 1916)
 
-```yaml
+---
 class_name: SM U-81-Class (Mid-War Ocean-Going)
 hull_numbers: U-81 to U-86
 ships_built: 6
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, u-81, wwi, mid-war, ocean-going, enhanced-endurance, dual-guns, mediterranean, kaiserliche-marine, 1916]
 ---
-```
+---
 
 **Mid-War Ocean-Going - Enhanced Endurance & Dual Guns** - 6 boats commissioned 1916: U-81 to U-86. **Mid-war ocean-going U-boat** with enhanced endurance. 757 tons surfaced, **4× 50cm torpedo tubes**, 7 torpedoes carried, 16.8 knots surfaced/9.4 knots submerged. **Enhanced range** (8,500 nm!), **2× 8.8cm deck guns** (dual armament!), improved 2,300 HP diesels. Strengthened hull construction. **Mediterranean operations**, long-range commerce raiding. Mid-war improvements over U-31 class.
 

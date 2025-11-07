@@ -3,7 +3,7 @@
 ## Overview
 The Iris-class were the Royal Navy's first protected cruisers, representing a revolutionary design with armored decks instead of side armor. HMS Iris and HMS Mercury were experimental vessels that pioneered the protected cruiser concept, featuring steel hulls and deck armor protecting machinery and magazines.
 
-```yaml
+---
 class_name: Iris Class
 hull_numbers: Various
 ships_built: 2
@@ -29,7 +29,7 @@ secondary_guns: "4× machine guns"
 torpedo_tubes: "4× 14-inch"
 aircraft: 0
 tags: [cruiser, protected-cruiser, iris-class, first-protected-cruiser, 1878]
-```
+---
 
 ## Specifications
 

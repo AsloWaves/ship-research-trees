@@ -1,6 +1,6 @@
 # Derfflinger-Class Battlecruisers
 
-```yaml
+---
 class_name: Derfflinger-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 3 (1 cancelled)
@@ -59,7 +59,7 @@ firsts:
 # Tags
 tags: [battlecruiser, dreadnought, kaiserliche-marine, 1914, 12-inch-guns, derfflinger-iron-dog, 31-hits-survived, lutzow-sunk, jutland, balanced-design-vindicated, scapa-flow]
 ---
-```
+---
 
 **Germany's Best WWI Battlecruisers** - First German 12-inch gun battlecruisers. 300mm armor (+31% thicker than British). SMS Derfflinger "Iron Dog" survived 31 hits at Jutland (3,300 tons flooding). SMS Lützow only German battlecruiser sunk at Jutland (24+ hits before scuttling). **Vindicated German philosophy:** balanced armor + speed vs British speed-first. All post-Jutland navies adopted German approach.
 

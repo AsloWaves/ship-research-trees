@@ -1,6 +1,6 @@
 # SMS Wettin Pre-Dreadnought (1902 WITTELSBACH-CLASS - Improved Design!)
 
-```yaml
+---
 class_name: SMS Wettin (Wittelsbach-class - Improved Design!)
 hull_numbers: SMS Wettin
 ships_built: 1 (second Wittelsbach-class ship)
@@ -196,7 +196,7 @@ firsts:
 # Tags
 tags: [battleship, sms-wettin, wittelsbach-class, 1902, pre-dreadnought, wwi-coastal-defense, survived-wwi, scrapped-1922, 19-years-service, improved-design]
 ---
-```
+---
 
 **WITTELSBACH-CLASS IMPROVED - 1902 Refined Design!** - Wittelsbach-class (commissioned October 1, 1902 - second ship!). **11,774 tons**, **18.5 KNOTS**, **4× 24cm (9.4") guns**. Improved armor scheme! Krupp cemented armor (225mm belt!)! **18× 15cm secondary guns** (broadside casemates!). **WWI COASTAL DEFENSE** (1914-1918) - entire war! Baltic operations, training ship! **SURVIVED WWI!** Decommissioned 1919 (Treaty of Versailles). **SCRAPPED 1921-1922** (broken up for steel!). **19 YEARS SERVICE!** (1902-1921!). **ALL 5 WITTELSBACH-CLASS SURVIVED WWI!** **ALL SCRAPPED 1920-1922!** (Peacetime disposal!). Transitional pre-dreadnought design! Design lessons led to Braunschweig class!
 

@@ -3,7 +3,7 @@
 ## Overview
 The E-class were the most numerous British submarine class of WWI, with 58 boats built 1912-1917. They were successful fleet submarines based on the D-class diesel design, seeing extensive combat service in all theaters. The class achieved notable successes including operations in the Baltic, Dardanelles, and against German shipping, though with heavy losses.
 
-```yaml
+---
 class_name: E-Class Submarine
 hull_numbers: E1-E58
 ships_built: 58
@@ -24,7 +24,7 @@ crew: 30
 armament: "5× 18-inch torpedo tubes (2 bow, 2 beam, 1 stern), 1× 12-pounder gun"
 torpedoes: 10
 tags: [submarine, e-class, 1912-1917, most-numerous-ww1, fleet-submarine, baltic-operations, dardanelles, heavy-losses]
-```
+---
 
 ## Specifications
 

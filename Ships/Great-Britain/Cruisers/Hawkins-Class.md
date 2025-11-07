@@ -3,7 +3,7 @@
 ## Overview
 The Hawkins-class were large cruisers designed to counter German commerce raiders, representing an intermediate step between light and heavy cruisers. Five ships featured heavy armament and good range, though completed too late for WWI. They influenced the Washington Treaty heavy cruiser category.
 
-```yaml
+---
 class_name: Hawkins Class
 hull_numbers: Various
 ships_built: 5
@@ -29,7 +29,7 @@ secondary_guns: "6× 3-inch AA"
 torpedo_tubes: "6× 21-inch"
 aircraft: 1
 tags: [cruiser, heavy-cruiser, hawkins-class, 1919, large-cruiser, commerce-raider-counter]
-```
+---
 
 ## Specifications
 

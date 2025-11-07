@@ -1,6 +1,6 @@
 # Japanese Study Carrier (1928 Japanese Carrier Analysis)
 
-```yaml
+---
 class_name: Japanese Study Carrier (Learning from Experts)
 hull_numbers: None (study program only)
 ships_built: 0 (research study)
@@ -59,7 +59,7 @@ firsts:
 # Tags
 tags: [carrier, japanese-study, 1928, research, akagi, kaga, expert-knowledge, interwar, never-built, learning-from-experts]
 ---
-```
+---
 
 **Japanese Carrier Analysis - 1928 Expert Study!** - 0 boats: **LEARNING FROM EXPERTS!** Comprehensive analysis of Japanese carrier designs, particularly **Akagi** (36,500 tons, 60+ aircraft) and **Kaga** (38,200 tons, 60+ aircraft). Germany maintained **secret naval ties** despite Versailles restrictions, studying world's most advanced carrier programs. Research covered flight deck design, aircraft handling, carrier doctrine, and operations. This expert knowledge provided **+20% effectiveness** bonus and directly influenced later **Graf Zeppelin** design. **STUDY ONLY** - no construction, pure research program laying foundation for Plan Z carriers.
 

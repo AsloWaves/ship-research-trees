@@ -3,7 +3,7 @@
 ## Overview
 The St Vincent-class were three dreadnought battleships built 1907-1910, featuring 12-inch/50 cal guns (longer barrels than earlier dreadnoughts), improved fire control, and 21-knot speed. As the third British dreadnought class, they incorporated incremental improvements while maintaining the proven all-big-gun layout. HMS St Vincent, HMS Collingwood, and HMS Vanguard served throughout WWI with the Grand Fleet, participating in Jutland (1916). HMS Vanguard was destroyed by internal magazine explosion (1917, 804 killed). Survivors scrapped 1921.
 
-```yaml
+---
 class_name: St-Vincent-Class
 hull_numbers: St Vincent, Collingwood, Vanguard
 ships_built: 3
@@ -23,7 +23,7 @@ crew: 758
 armament: "10× 12-inch/50 guns, 20× 4-inch guns"
 armor: 10-inch belt, 11-inch barbettes, 11-inch turrets
 tags: [battleship, st-vincent-class, dreadnought, 1908-1910, jutland, hms-vanguard-loss, grand-fleet, wwi]
-```
+---
 
 ## Specifications
 

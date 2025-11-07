@@ -1,6 +1,6 @@
 # Bayern-Class Super-Dreadnought Battleships
 
-```yaml
+---
 class_name: Bayern-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 2 of 4 (Sachsen, Württemberg cancelled 1917)
@@ -58,7 +58,7 @@ firsts:
 # Tags
 tags: [battleship, super-dreadnought, kaiserliche-marine, 1916, first-15-inch-guns, never-fought, missed-jutland, baden-captured-intact, scapa-flow]
 ---
-```
+---
 
 **Germany's Only Super-Dreadnoughts** - First German 15-inch guns (38cm, 750kg shells = +85% over König). Excellent armor (350mm belt + 350mm turret faces). NEVER FOUGHT - SMS Bayern commissioned 3 weeks AFTER Jutland, SMS Baden 9 months later. SMS Baden surrendered to Royal Navy (only major German battleship captured intact), trials ship, provided invaluable intelligence, sunk as target 1921.
 

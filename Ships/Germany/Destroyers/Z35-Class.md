@@ -1,6 +1,6 @@
 # Z35-Class Destroyers (Type 1936B - Return to 127mm Balanced Design)
 
-```yaml
+---
 class_name: Z35-Class (Type 1936B)
 hull_numbers: Z35-Z39
 ships_built: 5
@@ -66,7 +66,7 @@ firsts:
 # Tags
 tags: [destroyer, z35, type-1936b, balanced-design, 127mm-dp, return-to-balance, late-war, radar, kriegsmarine, ww2]
 ---
-```
+---
 
 **Type 1936B - Return to Balanced 127mm Design** - 5 ships commissioned 1943: Z35, Z36, Z37, Z38, Z39. **Type 1936B** balanced design. **Returned to 127mm guns** (from 150mm Narvik) with **dual-purpose capability** (+30% AA). 2,527 tons standard, **5× 12.7cm SK C/41 DP guns**, **8× 533mm torpedoes**, 38.5 knots. **Lessons learned from Narvik**: Better stability, enhanced AA (14× 20mm), **radar-equipped standard**. Late war completion (1943), heavy combat losses (1944-1945). Balanced firepower vs. stability after 150mm top-weight issues.
 

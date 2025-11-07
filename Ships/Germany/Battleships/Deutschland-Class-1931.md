@@ -1,6 +1,6 @@
 # Deutschland-Class Panzerschiffe ("Pocket Battleships")
 
-```yaml
+---
 class_name: Deutschland-Class (Panzerschiffe)
 hull_numbers: None (SMS naming convention)
 ships_built: 3
@@ -60,7 +60,7 @@ firsts:
 # Tags
 tags: [pocket-battleship, panzerschiff, treaty-circumvention, diesel-propulsion, 1933, river-plate, graf-spee, admiral-scheer, commerce-raiding, kriegsmarine, 28cm-guns, 10000-nm-range, scuttled]
 ---
-```
+---
 
 **Germany's Treaty-Circumventing "Pocket Battleships"** - First capital ships with all-diesel propulsion (10,000 nm range!), built 1931-1936 under Versailles Treaty limits (officially 10,000 tons, actually 16,020 tons = 60% over). 6× 28cm guns, 28 knots. Embodied "faster than anything stronger, stronger than anything faster" concept. Admiral Graf Spee scuttled after Battle of River Plate (Dec 1939, first major WWII naval battle). Admiral Scheer sank 113,223 GRT (highest German capital ship raider total). Deutschland/Lützow torpedoed 1940, limited impact. Revolutionary diesel propulsion proved unsuitable for capital ships (vibration, speed limits).
 

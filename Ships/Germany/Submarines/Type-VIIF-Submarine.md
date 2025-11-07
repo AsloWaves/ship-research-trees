@@ -1,6 +1,6 @@
 # Type VIIF Submarine (Tanker Variant - Torpedo Transport 1943)
 
-```yaml
+---
 class_name: Type VIIF Submarine (Tanker/Transport Variant)
 hull_numbers: U-1059, U-1060, U-1061, U-1062
 ships_built: 4
@@ -64,7 +64,7 @@ firsts:
 # Tags
 tags: [submarine, type-viif, tanker, transport, 4-boats, 25-torpedoes, resupply, maximum-range, kriegsmarine, 1943]
 ---
-```
+---
 
 **Type VII Tanker - Torpedo Transport & Resupply** - 4 boats commissioned 1943: U-1059 to U-1062. Type VII torpedo transport variant. 1084 tons surfaced (**40% larger than VIIC!**), **5× 53.3cm torpedo tubes**, **14 torpedoes** (own use), **25× spare torpedoes** (for resupplying other U-boats at sea!), 16.9 knots surfaced/8.0 knots submerged. **14,700 nm range** (MAXIMUM Type VII!), **widest beam 24.9 ft** (cargo space). **Resupplied other U-boats at sea** - extended patrol duration +100%! Compensated for Type XIV Milchkuh tanker losses. Combined attack + supply capability. All 4 boats lost 1944.
 

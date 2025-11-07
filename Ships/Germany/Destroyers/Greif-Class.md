@@ -1,6 +1,6 @@
 # Greif-Class Torpedo Boats (Type 23 - Birds of Prey)
 
-```yaml
+---
 class_name: Greif-Class (Type 23)
 hull_numbers: Greif
 ships_built: 1
@@ -67,7 +67,7 @@ firsts:
 # Tags
 tags: [torpedo-boat, destroyer, greif, type-23, post-versailles, treaty-restrictions, bird-names, 10.5cm-guns, kriegsmarine, ww2, interwar]
 ---
-```
+---
 
 **Type 23 "Griffon" - Refined Bird Class** - Single ship commissioned 1927: **Greif** (Griffon). Type 23 "bird of prey" class, refined version of Möwe-class with lessons learned. Treaty-restricted "torpedo boat" (officially under 800 tons, **actually 924 tons**). 924 tons, **3× 10.5cm SK C/28 guns**, **6× 533mm torpedoes**, 33.8 knots. Slight improvements: better range (3,150 nm), improved turbine efficiency. **Named after mythical predator** (Griffon). Single ship class demonstrated continuous refinement of Type 23 design. Maintained German destroyer expertise during treaty period. Served entire WWII (1939-1945): Baltic Sea, convoy escort, mine-laying, Norway campaign. **Survived entire war**, decommissioned 1945.
 

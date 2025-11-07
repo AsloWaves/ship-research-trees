@@ -1,6 +1,6 @@
 # SMS Elsass Pre-Dreadnought (1904 BRAUNSCHWEIG-CLASS - Improved 28cm Armor!)
 
-```yaml
+---
 class_name: SMS Elsass (Braunschweig-class - Improved Armor!)
 hull_numbers: SMS Elsass
 ships_built: 1 (second Braunschweig-class ship)
@@ -228,7 +228,7 @@ firsts:
 # Tags
 tags: [battleship, sms-elsass, braunschweig-class, 1904, pre-dreadnought, wwi-coastal-defense, target-ship, 10-years-target, survived-thousands-hits, scrapped-1936, 32-years-service, longest-service]
 ---
-```
+---
 
 **LONGEST SERVICE - 1904 Target Ship Champion!** - Braunschweig-class (commissioned November 25, 1904 - second ship!). **13,208 tons**, **18.7 KNOTS**, **4× 28cm (11") guns**. Improved armor! **280mm TURRET ARMOR** (11 inches - THICK!)! **14× 17cm secondary guns** (heavier firepower!). **WWI COASTAL DEFENSE** (1914-1918)! **SURVIVED WWI!** **TARGET SHIP 1921-1931** (10 YEARS!)! **SURVIVED HUNDREDS OF SHELLS** from German warships! **SURVIVED DOZENS OF BOMBS** from Luftwaffe! **KRUPP ARMOR PROVED SUPERIORITY!** (Still afloat after 10 years target practice!). Final decommissioning 1931! **SCRAPPED 1936**! **32 YEARS TOTAL SERVICE!** (1904-1936!). **LONGEST BRAUNSCHWEIG-CLASS SERVICE!** **3 BRAUNSCHWEIG-CLASS SURVIVED INTO WWII!** (Target ships!).
 

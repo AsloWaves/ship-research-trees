@@ -1,6 +1,6 @@
 # Z1 Leberecht Maass-Class Destroyers (Type 1934 - First Modern)
 
-```yaml
+---
 class_name: Z1 Leberecht Maass-Class (Type 1934)
 hull_numbers: Z1-Z4
 ships_built: 4
@@ -68,7 +68,7 @@ firsts:
 # Tags
 tags: [destroyer, z1, leberecht-maass, type-1934, first-modern, 127mm-guns, 38-knots, nazi-rearmament, kriegsmarine, ww2, stability-problems]
 ---
-```
+---
 
 **First Modern Destroyer - Revolutionary Type 1934** - 4 ships commissioned 1937-1938: **Z1 Leberecht Maass**, Z2 Georg Thiele, Z3 Max Schultz, Z4 Richard Beitzen. **First modern German destroyers** after Nazi rearmament. **Revolutionary size jump** from treaty boats (933 tons → **3,165 tons**!). 2,232 tons standard, **5× 12.7cm (127mm) guns**, **8× 533mm torpedoes** (2 quad), **38.4 knots** (highest German speed). **70,000 SHP turbines** (3× interwar power!), **best range** (4,400 nm). First ocean-going destroyers since WWI. **Named after naval heroes** (Leberecht Maass = German admiral). **Stability problems** (top-weight issues plagued class). WWII service (1939-1944): Norway campaign, Atlantic operations, English Channel. **Heavy combat losses** (Z1/Z3 lost 1940, others 1944). Nazi rearmament milestone.
 

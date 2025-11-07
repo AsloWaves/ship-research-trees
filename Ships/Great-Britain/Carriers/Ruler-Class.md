@@ -3,7 +3,7 @@
 ## Overview
 The Ruler-class were escort carriers with 31 ships transferred to the Royal Navy 1943-1944 under the Lend-Lease program, making it the largest carrier class in RN service. Based on the US Bogue-class design like the earlier Attacker-class, they provided crucial convoy escort, anti-submarine warfare, and amphibious support throughout WWII. They served in the Atlantic, Mediterranean, Indian Ocean, and Pacific theaters.
 
-```yaml
+---
 class_name: Ruler-Class
 hull_numbers: D72, D20, D09, D87, D10, D75, D62, D37, etc. (31 ships total)
 ships_built: 31 (US-built, Lend-Lease)
@@ -23,7 +23,7 @@ crew: 646
 armament: "2× 5-inch guns, 16× 40mm Bofors, 20× 20mm Oerlikon, 24 aircraft"
 aircraft: 24 (fighters and ASW aircraft)
 tags: [carrier, ruler-class, escort-carrier, lend-lease, us-built, 1943-1944, convoy-escort, bogue-class, largest-carrier-class]
-```
+---
 
 ## Specifications
 

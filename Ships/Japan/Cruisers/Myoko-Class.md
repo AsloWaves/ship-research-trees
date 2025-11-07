@@ -1,6 +1,6 @@
 # Myōkō-Class Heavy Cruisers
 
-```yaml
+---
 class_name: Myōkō-Class
 hull_numbers: Myōkō, Nachi, Haguro, Ashigara
 ships_built: 4
@@ -54,7 +54,7 @@ contemporary: "[[USA/USA Cruisers/Northampton-Class]]"
 # Tags
 tags: [cruiser, heavy-cruiser, myoko, treaty-cruiser, 10-8-inch-guns]
 ---
-```
+---
 
 **Most Powerful Japanese Heavy Cruisers** - First with 10× 8-inch guns (5 twin turrets). 16× Type 93 torpedoes. Myōkō survived war, Nachi/Haguro/Ashigara sunk 1944-1945.
 

@@ -1,6 +1,6 @@
 # SMS V150-Class Large Torpedo Boats (1907)
 
-```yaml
+---
 class_name: SMS V150-Class
 hull_numbers: V150-V161
 ships_built: 12
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [large-torpedo-boat, sms-v150, 1907, advanced-design, 31-knots, improved-range, 12-ships, kaiserliche-marine, ww1, jutland]
 ---
-```
+---
 
 **Advanced Torpedo Boat Design (1907) - 31.5 Knots** - 12 ships commissioned 1907-1908: V150-V161. Advanced torpedo boat with highest speed yet. 568 tons, 2× 5cm guns, 3× 45cm torpedoes, **31.5 knots** (fastest to date). Advanced steam turbines (9,600 SHP) provided excellent performance. Improved range (1,800 nm) for extended North Sea operations. Better seakeeping than earlier classes. 12 ships built (successful class). Served entire WWI (1914-1918): High Seas Fleet screening, Battle of Jutland (several ships), North Sea operations. Survivors scrapped 1919-1921 under Treaty of Versailles.
 

@@ -1,6 +1,6 @@
 # Königsberg-Class Light Cruisers (1907)
 
-```yaml
+---
 class_name: Königsberg-Class (1907)
 hull_numbers: Königsberg, Nürnberg, Stuttgart, Stettin
 ships_built: 4
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [light-cruiser, königsberg-class-1907, 1907, königsberg-east-africa, rufiji-delta, nürnberg-falklands, commerce-raiders, steam-turbines, kaiserliche-marine, ww1]
 ---
-```
+---
 
 **Enhanced Light Cruiser Design** - 4 ships built (1907-1908): Königsberg, Nürnberg, Stuttgart, Stettin. Improved Dresden design with steam turbines (24.1 knots). 3,400 tons, 10× 10.5cm guns. **SMS Königsberg**: Famous East Africa raider, sank HMS Pegasus (20 Sep 1914, Zanzibar), trapped in Rufiji Delta (Oct 1914), hunted for 8 months, scuttled after bombardment (11 Jul 1915). **SMS Nürnberg**: East Asia Squadron, sunk at Battle of Falkland Islands (8 Dec 1914, 327 killed, 7 survivors). Stuttgart and Stettin survived WWI.
 

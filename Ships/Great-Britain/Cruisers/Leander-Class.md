@@ -3,7 +3,7 @@
 ## Overview
 The Leander-class were modern light cruisers designed under London Naval Treaty limits. Eight ships (five RN, three transferred to Commonwealth navies) featured balanced design with good speed, range, and firepower. They served extensively through WWII and beyond.
 
-```yaml
+---
 class_name: Leander Class
 hull_numbers: Various
 ships_built: 8
@@ -29,7 +29,7 @@ secondary_guns: "4× 4-inch AA"
 torpedo_tubes: "8× 21-inch"
 aircraft: 1
 tags: [cruiser, light-cruiser, leander-class, 1933, treaty-cruiser, ww2, commonwealth]
-```
+---
 
 ## Specifications
 

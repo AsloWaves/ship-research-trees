@@ -1,6 +1,6 @@
 # SMS Ostfriesland Dreadnought (1911 BILLY MITCHELL TESTS - Airpower Revolution!)
 
-```yaml
+---
 class_name: SMS Ostfriesland (Helgoland-class - Billy Mitchell Legend!)
 hull_numbers: SMS Ostfriesland
 ships_built: 1 (second Helgoland-class ship)
@@ -248,7 +248,7 @@ firsts:
 # Tags
 tags: [battleship, sms-ostfriesland, helgoland-class, 1911, billy-mitchell, airpower-revolution, bombing-tests, 1921, paradigm-shift, naval-aviation, court-martial, wwi-veteran, jutland]
 ---
-```
+---
 
 **BILLY MITCHELL LEGEND - 1911 Airpower Revolution!** - Helgoland-class (commissioned August 1, 1911). **22,808 tons**, **20.5 kts**, **12× 30.5cm (12") guns** (FIRST German 12-inch!). Hexagonal layout (inefficient!). Fought **Jutland** (May 31-June 1, 1916), hit once, survived! **NOT SCUTTLED** Scapa Flow! **Ceded to USA** as war prize (April 1920)! **Billy Mitchell bombing tests** (July 21, 1921)! Mitchell (US Army Air Service) vs Navy (airpower vs battleships!). **July 21, 1921**: 2000-lb bombs! **12:18 PM - FIRST HIT!** **12:40 PM - SANK!** (21.5 minutes!). **PROVED AIRCRAFT COULD SINK BATTLESHIPS!** Navy disputed (stationary, unmanned!). Mitchell **VINDICATED!** Public sensation! Navy forced to adapt! Accelerated carrier development! **Mitchell COURT-MARTIALED 1925** (criticized leadership!). Died 1936, **posthumously promoted** 1946! **WWII PROVED HIM RIGHT!** (Pearl Harbor, Taranto!). **FATHER OF MODERN AIRPOWER!** **PARADIGM SHIFT!** Battleship age → Carrier age!
 

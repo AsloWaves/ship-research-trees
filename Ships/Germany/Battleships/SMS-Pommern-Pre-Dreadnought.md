@@ -1,6 +1,6 @@
 # SMS Pommern Pre-Dreadnought (1907 JUTLAND TRAGEDY - All Hands Lost!)
 
-```yaml
+---
 class_name: SMS Pommern (Deutschland-class - Jutland Victim!)
 hull_numbers: SMS Pommern
 ships_built: 1 (third Deutschland-class ship)
@@ -210,7 +210,7 @@ firsts:
 # Tags
 tags: [battleship, sms-pommern, deutschland-class, pre-dreadnought, 1907, jutland, sunk-1916, magazine-explosion, all-hands-lost, 839-dead, night-action, war-grave]
 ---
-```
+---
 
 **JUTLAND TRAGEDY - 1907 All Hands Lost!** - Deutschland-class pre-dreadnought (commissioned April 6, 1907). **13,191 tons**, **18.5 kts**, **4× 28cm (11") guns**. Triple-expansion engines. Last German pre-dreadnought class (obsolete by 1914!). **Battle of Jutland** (May 31-June 1, 1916): Survived day action! **Night action** (June 1, 1916, 02:10 AM): Encountered British 12th Destroyer Flotilla in darkness! **HIT BY TORPEDO** (port side, near magazine!)! **MASSIVE MAGAZINE EXPLOSION!** (Ship broke in half!)! **SANK WITHIN SECONDS!** **ALL 839 CREW LOST!** (NO SURVIVORS!)! **ONLY GERMAN CAPITAL SHIP SUNK AT JUTLAND!** **HIGHEST SINGLE-SHIP GERMAN CASUALTIES!** Magazine explosion proved deadly vulnerability! Pre-dreadnoughts obsolete! Wreck never found (debris scattered). War grave - 839 entombed. Kiel Memorial lists all names. Sister ships survived: Schleswig-Holstein fired first WWII shots! **TRAGIC SACRIFICE!**
 

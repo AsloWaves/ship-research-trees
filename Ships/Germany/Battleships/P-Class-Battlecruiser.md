@@ -1,6 +1,6 @@
 # P-Class Battlecruiser (1939 IMPROVED O - Diesel Engines, 35+ Knots!)
 
-```yaml
+---
 class_name: P-Class Battlecruiser (Improved O-Class - Diesel Power!)
 hull_numbers: None assigned (3 ships planned, designation only)
 ships_built: 0 (planned but never laid down, cancelled 1939)
@@ -152,7 +152,7 @@ firsts:
 # Tags
 tags: [battlecruiser, p-class, plan-z, diesel-engines, commerce-raider, 35-knots, 16000-nm-range, cancelled-1939, improved-o-class, hybrid-propulsion, end-of-tree]
 ---
-```
+---
 
 **IMPROVED O-CLASS - 1939 Diesel Revolutionary!** - 3 ships planned (never laid down, design not finalized!). **36,500 tons**, **35.5 KNOTS**, **6× 38cm (15") guns** in **3× twin turrets**. **DIESEL BATTLECRUISER!** **12× MAN diesel engines** (primary) + **3× steam turbines** (sprint boost)! **16,000 nm range** (DOUBLE O-class!)! Combined diesel cruising + turbine sprint (best of both!). Inspired by Deutschland-class success. Perfect for Atlantic raiding (unlimited range!). Improved armor (165mm belt). Enhanced AA. 4× floatplanes. Later Plan Z addition. More complex/expensive than O-class. **CANCELLED September 1939** (WWII outbreak!). Never laid down. Diesel engines needed for U-boats! Would need 4+ years (impossible!). Bismarck proved surface raiders futile. Would be sunk by carrier aircraft. U-boats proved more effective! **Ultimate commerce raider on paper!** **Reality: Would be sunk or bottled up!** **END OF BATTLECRUISER TREE!**
 

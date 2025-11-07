@@ -1,6 +1,6 @@
 # SMS Brandenburg Battleship (1893 First Ocean-Going German Battleship - FREE!)
 
-```yaml
+---
 class_name: SMS Brandenburg Battleship
 hull_numbers: SMS Brandenburg, SMS Wörth, SMS Weißenburg, SMS Kurfürst Friedrich Wilhelm
 ships_built: 4
@@ -69,7 +69,7 @@ firsts:
 # Tags
 tags: [battleship, sms-brandenburg, 1893, first-ocean-going, free-starting, 6x28cm-guns, pre-dreadnought, kaiserliche-marine, 4-ships]
 ---
-```
+---
 
 **First German Ocean-Going Battleship - 1893 FREE!** - 4 ships: **SMS BRANDENBURG**, SMS Wörth, SMS Weißenburg, SMS Kurfürst Friedrich Wilhelm. **FIRST OCEAN-GOING GERMAN BATTLESHIP!** **10,013 tons**, **16.9 kts**, **6× 28cm guns** in unique 3× twin turret layout (2 forward, 1 aft on centerline). Harvey nickel-steel armor (300-400mm belt), triple expansion engines (10,000 HP). **Foundation of Kaiserliche Marine** battleship fleet, enabled by Naval Law of 1889. Established German pre-dreadnought pattern. Commissioned 1893-1894, served until 1910-1920 (27 years maximum). **FREE STARTING SHIP!** Contemporary with British Royal Sovereign-class (1892).
 

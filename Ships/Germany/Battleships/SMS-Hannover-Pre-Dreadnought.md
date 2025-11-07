@@ -1,6 +1,6 @@
 # SMS Hannover Pre-Dreadnought (1907 LONGEST SERVICE - 39 Years Target Ship!)
 
-```yaml
+---
 class_name: SMS Hannover (Deutschland-class - Longest Service!)
 hull_numbers: SMS Hannover
 ships_built: 1 (second Deutschland-class ship)
@@ -243,7 +243,7 @@ firsts:
 # Tags
 tags: [battleship, sms-hannover, deutschland-class, pre-dreadnought, 1907, longest-service, 39-years, target-ship, radio-controlled, jutland-survivor, armor-testing, champion]
 ---
-```
+---
 
 **LONGEST SERVICE - 1907 Champion of Longevity!** - Deutschland-class pre-dreadnought (commissioned September 19, 1907). **13,191 tons**, **18.5 kts**, **4× 28cm (11") guns**. **39 YEARS SERVICE!** (1907-1946 - **LONGEST DEUTSCHLAND-CLASS!**). Survived **Battle of Jutland** (May 31-June 1, 1916). **CONVERTED TO TARGET SHIP** (1920s) - **RADIO-CONTROLLED PIONEER!** **25+ YEARS AS TARGET!** (1920s-1946!). Survived **HUNDREDS OF HITS** (shells, bombs, torpedoes!). Gunnery practice, torpedo testing, Luftwaffe bomb practice! **SURVIVED ENTIRE WWII AS TARGET!** Testament to Krupp armor quality! Allied inspection post-WWII. Scrapped 1946-1947. **CHAMPION!** (2 years > Schleswig-Holstein/Schlesien!). **ULTIMATE ARMOR VALIDATION!** Invaluable engineering data! Trained thousands! **LONGEST OF CLASS!**
 

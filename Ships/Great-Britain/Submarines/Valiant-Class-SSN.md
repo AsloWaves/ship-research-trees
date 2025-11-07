@@ -3,7 +3,7 @@
 ## Overview
 The Valiant-class were nuclear-powered attack submarines with 5 boats built 1963-1971. They were the first British SSNs with indigenous British nuclear reactors (PWR1), achieving technological independence from the United States. The class served successfully through the Cold War and saw combat in the Falklands War, with HMS Conqueror achieving the only submarine torpedo sinking since WWII.
 
-```yaml
+---
 class_name: Valiant-Class (SSN)
 hull_numbers: S102-S106 (Valiant, Warspite, Churchill, Conqueror, Courageous)
 ships_built: 5
@@ -24,7 +24,7 @@ crew: 103
 armament: "6× 21-inch torpedo tubes (bow)"
 torpedoes: 26
 tags: [submarine, valiant-class, ssn, 1963-1971, nuclear-powered, british-reactor, cold-war, falklands-war, hms-conqueror]
-```
+---
 
 ## Specifications
 

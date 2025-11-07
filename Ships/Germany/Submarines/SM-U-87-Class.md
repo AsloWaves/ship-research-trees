@@ -1,6 +1,6 @@
 # SM U-87-Class (WWI Advanced Ocean-Going - Improved Reliability 1916)
 
-```yaml
+---
 class_name: SM U-87-Class (Advanced Ocean-Going)
 hull_numbers: U-87 to U-92
 ships_built: 6
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, u-87, wwi, advanced, ocean-going, improved-reliability, mixed-guns, late-war, kaiserliche-marine, 1916]
 ---
-```
+---
 
 **Advanced Ocean-Going - Improved Reliability & Mixed Guns** - 6 boats commissioned 1916-1917: U-87 to U-92. **Advanced ocean-going U-boat** with improved reliability. 808 tons surfaced, **4× 50cm torpedo tubes**, 8 torpedoes carried (increased!), 16.5 knots surfaced/9.3 knots submerged. **8,700 nm range**, **mixed gun armament** (1× 10.5cm + 1× 8.8cm!), improved reliability diesels (2,400 HP). Enhanced batteries, advanced double hull. **Fewer mechanical breakdowns** extended operational time. Late-war effectiveness.
 

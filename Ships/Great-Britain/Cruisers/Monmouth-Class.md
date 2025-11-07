@@ -3,7 +3,7 @@
 ## Overview
 The Monmouth-class were County-type armored cruisers built for trade protection and colonial service. Ten ships served globally, with two lost at the Battle of Coronel in 1914. They sacrificed heavy main armament for a uniform 6-inch battery, emphasizing broadside firepower over heavyweight guns.
 
-```yaml
+---
 class_name: Monmouth Class
 hull_numbers: Various
 ships_built: 10
@@ -29,7 +29,7 @@ secondary_guns: "10× 12-pounder, 3× 3-pounder"
 torpedo_tubes: "2× 18-inch"
 aircraft: 0
 tags: [cruiser, armored-cruiser, monmouth-class, county-type, 1903, coronel, wwi]
-```
+---
 
 ## Specifications
 

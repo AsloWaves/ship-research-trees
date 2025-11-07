@@ -3,7 +3,7 @@
 ## Overview
 The Caledon-class were a four-ship subgroup of the C-class light cruisers featuring improved armament with all 6-inch guns. They represented the final evolution of the C-class design with lessons learned from wartime experience.
 
-```yaml
+---
 class_name: Caledon Class (C-class)
 hull_numbers: Various
 ships_built: 4
@@ -29,7 +29,7 @@ secondary_guns: "2× 3-inch AA"
 torpedo_tubes: "8× 21-inch"
 aircraft: 0
 tags: [cruiser, light-cruiser, c-class, caledon-class, 1917, ww1, improved-c-class]
-```
+---
 
 ## Specifications
 

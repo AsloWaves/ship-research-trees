@@ -3,7 +3,7 @@
 ## Overview
 The A-class were the first British-designed submarines, with 13 boats built 1902-1905. They improved significantly on the Holland design with larger size, better seakeeping, and enhanced capabilities. Though still petrol-electric powered, they represented the RN's first indigenous submarine development and established British submarine design characteristics.
 
-```yaml
+---
 class_name: A-Class Submarine
 hull_numbers: A1-A13
 ships_built: 13
@@ -24,7 +24,7 @@ crew: 11
 armament: "2× 18-inch torpedo tubes (bow)"
 torpedoes: 4
 tags: [submarine, a-class, 1902-1905, first-british-design, petrol-electric, coastal]
-```
+---
 
 ## Specifications
 

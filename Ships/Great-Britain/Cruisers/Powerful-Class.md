@@ -3,7 +3,7 @@
 ## Overview
 The Powerful-class were the largest protected cruisers ever built, designed to counter foreign armored cruisers. HMS Powerful and HMS Terrible were massive ships with exceptional armament and speed. They served notably during the Boer War and into WWI, demonstrating the limits of protected cruiser design.
 
-```yaml
+---
 class_name: Powerful Class
 hull_numbers: Various
 ships_built: 2
@@ -29,7 +29,7 @@ secondary_guns: "16× 12-pounder, 12× 3-pounder"
 torpedo_tubes: "4× 18-inch"
 aircraft: 0
 tags: [cruiser, protected-cruiser, powerful-class, 1897, largest-protected-cruiser, boer-war]
-```
+---
 
 ## Specifications
 

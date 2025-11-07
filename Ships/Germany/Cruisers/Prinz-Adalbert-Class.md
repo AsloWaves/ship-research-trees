@@ -1,6 +1,6 @@
 # Prinz Adalbert-Class Armored Cruisers
 
-```yaml
+---
 class_name: Prinz Adalbert-Class
 hull_numbers: Prinz Adalbert, Friedrich Carl
 ships_built: 2
@@ -60,7 +60,7 @@ firsts:
 # Tags
 tags: [armored-cruiser, prinz-adalbert-class, 1904, 21cm-guns, both-sunk-ww1, submarine-torpedo, enhanced-armor, kaiserliche-marine, baltic-operations]
 ---
-```
+---
 
 **First 21cm-Armed Armored Cruisers** - 2 ships built (1904): Prinz Adalbert, Friedrich Carl. First German armored cruisers with 21cm (8.3-inch) main guns (became standard for later classes). 8,956 tons, 4× 21cm + 10× 15cm guns, 20 knots. Enhanced armor (100-250mm belt). Both lost in WWI to British submarine torpedoes: Prinz Adalbert torpedoed twice (23 Jul 1915, 23 Oct 1915, 672 killed), Friedrich Carl mined/torpedoed (17 Nov 1914, 7 killed). Demonstrated armored cruiser vulnerability to submarines and mines.
 

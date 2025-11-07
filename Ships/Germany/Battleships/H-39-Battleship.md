@@ -1,6 +1,6 @@
 # H-39 Battleship (1939 PLAN Z - 16-Inch Guns, Laid Down!)
 
-```yaml
+---
 class_name: H-39 Battleship (Plan Z Super Battleship - Actually Laid Down!)
 hull_numbers: H, J, K, L, M, N (6 ships planned, 2 laid down)
 ships_built: 0 (2 laid down 1939, construction cancelled, 4 planned but never started)
@@ -130,7 +130,7 @@ firsts:
 # Tags
 tags: [h-class, h-39, plan-z, super-battleship, paper-ship, laid-down-1939, 16-inch-guns, hitler-dream, cancelled, 6-ships-planned]
 ---
-```
+---
 
 **PLAN Z SUPER BATTLESHIP - 1939 Laid Down!** - 6 ships planned: **H, J, K, L, M, N** (only **H & J laid down!**). **56,444 tons standard**, **62,497 tons full load** (LARGER than Bismarck!). **8× 40.6cm (16") guns** in **4× twin turrets** (BIGGER than Bismarck's 15"!). 1,030 kg shells (+25% heavier!). **30 kts**, **9,300 nm range**. Improved armor (320mm belt, 380mm turrets). **ACTUALLY LAID DOWN** July-August 1939 (H at Blohm & Voss, J at AG Weser)! ~2% complete when **CANCELLED September 1939** (WWII outbreak!). **PLAN Z**: Hitler's 10-year naval expansion dream (6× H-class BBs, 3× O-class BCs, 4× carriers, 33 billion Reichsmarks!). **REALITY**: All resources diverted to U-boats, tanks, aircraft! Materials reused for ~20-30 U-boats. Bismarck's loss (1941) proved surface fleet futility. Dönitz argued U-boat priority (correct!). **PLAN Z: Hitler's fantasy vs WWII reality!**
 

@@ -1,6 +1,6 @@
 # B1-Class Fleet Submarines
 
-```yaml
+---
 class_name: B1-Class
 hull_numbers: I-15 to I-39 (20 ships)
 ships_built: 20
@@ -48,7 +48,7 @@ contemporary: "[[USA/USA Submarines/Gato-Class]]"
 # Tags
 tags: [submarine, fleet-submarine, b1-class, floatplane]
 ---
-```
+---
 
 **Standard Fleet Submarines** - Most numerous large submarine class. Carried Yokosuka E14Y "Glen" floatplane for reconnaissance. I-19 sank USS Wasp, damaged USS North Carolina with single salvo. Most sunk 1942-1944.
 

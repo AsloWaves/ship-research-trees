@@ -1,6 +1,6 @@
 # Braunschweig-Class Battleships
 
-```yaml
+---
 class_name: Braunschweig-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 5
@@ -57,7 +57,7 @@ firsts:
 # Tags
 tags: [battleship, pre-dreadnought, kaiserliche-marine, 1904]
 ---
-```
+---
 
 **Enhanced Pre-Dreadnoughts** - Return to 28cm guns for increased firepower. Upgraded 17cm secondary battery. Last pre-WWI pre-dreadnought design. Hessen served longest (scrapped 1946).
 

@@ -3,7 +3,7 @@
 ## Overview
 The Courageous-class were three "large light cruisers" built 1915-1917, designed for Admiral Fisher's Baltic Project with shallow draft, high speed, and light armor. Classified as battlecruisers despite official designation, these unusual ships combined 15-inch guns with cruiser protection and were considered failed designs. HMS Courageous, HMS Glorious, and HMS Furious served briefly as battlecruisers before conversion to aircraft carriers (1920s-1930s). All three lost as carriers in WWII: Courageous torpedoed by U-29 (1939, 518 killed), Glorious sunk by Scharnhorst/Gneisenau (1940, 1,207 killed), Furious survived war and scrapped 1948.
 
-```yaml
+---
 class_name: Courageous-Class (Large Light Cruisers / Battlecruisers)
 hull_numbers: Courageous, Glorious, Furious
 ships_built: 3
@@ -23,7 +23,7 @@ crew: 828
 armament: "4× 15-inch guns (Courageous/Glorious), 2× 18-inch guns (Furious), 18× 4-inch guns"
 armor: 3-inch belt, 7-inch turrets (very light for battlecruiser)
 tags: [battlecruiser, large-light-cruiser, courageous-class, fisher-folly, 1916-1917, baltic-project, carrier-conversion, wwii-losses]
-```
+---
 
 ## Specifications
 

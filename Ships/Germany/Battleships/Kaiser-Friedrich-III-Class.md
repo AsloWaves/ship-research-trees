@@ -1,6 +1,6 @@
 # Kaiser Friedrich III-Class Battleships
 
-```yaml
+---
 class_name: Kaiser Friedrich III-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 5
@@ -52,7 +52,7 @@ contemporary: "[[Canopus-Class]]"
 # Tags
 tags: [battleship, pre-dreadnought, kaiserliche-marine, krupp-armor, 1898]
 ---
-```
+---
 
 **Improved Pre-Dreadnoughts** - Second generation German battleships. 4× 24cm guns with better rate of fire. First German ships with Krupp cemented armor. Enhanced secondary battery (18× 15cm guns). Served in High Seas Fleet until WWI.
 

@@ -1,6 +1,6 @@
 # Saipan-Class Light Carriers
 
-```yaml
+---
 class_name: Saipan-Class
 hull_numbers: CVL-48 Saipan, CVL-49 Wright
 ships_built: 2
@@ -46,7 +46,7 @@ firsts:
 # Tags
 tags: [light-carrier, saipan, cvl-48, postwar, purpose-built-cvl, 1946, 2-ships, cruiser-hull]
 ---
-```
+---
 
 **Purpose-Built CVL** - Saipan-class were first purpose-built light carriers. 2 ships commissioned 1946-1947. Based on improved Baltimore-class cruiser hull. Completed too late for WWII.
 

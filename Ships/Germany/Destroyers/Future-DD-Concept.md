@@ -1,6 +1,6 @@
 # Future DD Concept (1955 Advanced Design - Guided Missiles)
 
-```yaml
+---
 class_name: Future DD Concept (1955 Advanced Missile Design)
 hull_numbers: None assigned
 ships_built: 0 (concept design only)
@@ -66,7 +66,7 @@ firsts:
 # Tags
 tags: [destroyer, future-concept, 1955-design, guided-missiles, sam, ssm, advanced-automation, gas-turbine, cold-war, theoretical]
 ---
-```
+---
 
 **1955 Guided Missile Destroyer - Ultimate Evolution (Future Concept)** - Advanced concept 1955: Future DD with guided missiles. **GUIDED MISSILE DESTROYER CONCEPT!** Never built - Germany demilitarized. 4,500 tons standard, **2× 12.8cm DP automatic guns** (reduced), **4× 533mm torpedoes**, **24× SAM + 8× SSM missiles** (REVOLUTIONARY!), 38 knots (estimated). **Advanced gas turbines** (90,000 SHP), **advanced computer FCS** with missile guidance, **heavy automation** (crew 300), modern electronics. **Transition to missile age** - guns replaced by missiles for AA/anti-ship. **Ultimate German destroyer evolution** (1898-1955). Theoretical only - Germany had no navy.
 

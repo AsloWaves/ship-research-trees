@@ -1,6 +1,6 @@
 # Von der Tann-Class Battlecruiser
 
-```yaml
+---
 class_name: Von der Tann-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 1
@@ -59,7 +59,7 @@ firsts:
 # Tags
 tags: [battlecruiser, dreadnought, kaiserliche-marine, 1910, first-turbines, first-german-battlecruiser, balanced-design, jutland, scapa-flow]
 ---
-```
+---
 
 **First German Battlecruiser** - Germany's response to HMS Invincible. Revolutionary balanced design: 250mm armor (+64% thicker than Invincible) with only 0.25 knots slower. First German turbine capital ship. Sank HMS Indefatigable at Jutland, survived 4 heavy hits. Vindicated German armor-first philosophy.
 

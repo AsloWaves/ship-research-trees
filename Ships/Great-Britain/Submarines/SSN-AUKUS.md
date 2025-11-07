@@ -3,7 +3,7 @@
 ## Overview
 SSN-AUKUS is a planned next-generation nuclear-powered attack submarine being developed jointly by the United Kingdom and Australia under the AUKUS trilateral security partnership (Australia-UK-US). Announced in 2023, this class will replace the Royal Navy's Astute-class and provide Australia's first nuclear-powered submarines, representing unprecedented collaboration in submarine technology.
 
-```yaml
+---
 class_name: SSN-AUKUS
 hull_numbers: To be assigned
 ships_built: Planned: UK (unknown number), Australia (5 confirmed)
@@ -24,7 +24,7 @@ crew: Unknown (highly automated, possibly <100)
 armament: "Vertical Launch System, torpedo tubes, hypersonic missiles (planned)"
 torpedoes: Spearfish successor + cruise missiles + future weapons
 tags: [submarine, ssn-aukus, future, nuclear-powered, aukus-partnership, next-generation, uk-australia-joint, 2040s]
-```
+---
 
 ## Program Overview
 

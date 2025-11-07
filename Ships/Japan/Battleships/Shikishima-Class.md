@@ -1,6 +1,6 @@
 # Shikishima-Class Battleships
 
-```yaml
+---
 class_name: Shikishima-Class
 hull_numbers: Shikishima, Hatsuse
 ships_built: 2
@@ -53,7 +53,7 @@ contemporary: "[[Great Britain/Great Britain Battleships/Formidable-Class]]"
 # Tags
 tags: [battleship, pre-dreadnought, british-built, russo-japanese-war]
 ---
-```
+---
 
 **Improved Fuji-Class Pre-Dreadnoughts** - British-built improved design. Hatsuse lost to mines 1904. Shikishima served Battle of Tsushima, scrapped 1923.
 

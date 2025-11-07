@@ -1,6 +1,6 @@
 # Torpedo Cruiser Concept (Torpedo-Armed Light Cruiser, Paper Ship)
 
-```yaml
+---
 class_name: Torpedo Cruiser Concept
 hull_numbers: None (paper design)
 ships_built: 0 (design study only)
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [torpedo-cruiser, light-cruiser, 24-torpedoes, paper-ship, never-built, 37-knots, night-combat, offensive-warfare, theoretical, kriegsmarine, ww2]
 ---
-```
+---
 
 **Torpedo-Armed Light Cruiser (Paper Ship) - Never Built** - Theoretical torpedo cruiser design optimized for offensive torpedo warfare. 6,800 tons, 6× 15cm guns (3× twin turrets), **24× 53.3cm torpedo tubes (8× triple mounts)**, 37 knots. +100% torpedo capability vs. standard light cruiser (24 tubes vs. 12), high speed for night attacks, light armor (50mm belt) for offensive capability. Designed for night surface actions, convoy attacks, destroyer flotilla support. Design study only, never formally proposed. Similar concept to Japanese torpedo cruisers (IJN Ōi, Kitakami). Would have emphasized Kriegsmarine's strength in night combat and torpedo warfare. Reflected emphasis on offensive surface action over defensive roles.
 

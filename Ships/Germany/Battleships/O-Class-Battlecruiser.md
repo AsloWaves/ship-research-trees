@@ -1,6 +1,6 @@
 # O-Class Battlecruiser (1939 PLAN Z - Fast Raider, 6×15-Inch Guns!)
 
-```yaml
+---
 class_name: O-Class Battlecruiser (Plan Z Fast Commerce Raider!)
 hull_numbers: O, P, Q (3 ships planned)
 ships_built: 0 (planned but never laid down, cancelled 1939)
@@ -148,7 +148,7 @@ firsts:
 # Tags
 tags: [battlecruiser, o-class, plan-z, commerce-raider, 35-knots, 6x15-inch-guns, cancelled-1939, fast-raider, never-laid-down, 3-ships-planned]
 ---
-```
+---
 
 **PLAN Z RAIDER - 1939 Fast Commerce Raider!** - 3 ships planned: **O, P, Q** (NEVER laid down!). **35,240 tons**, **35 KNOTS** (VERY FAST!), **6× 38cm (15") guns** in **3× twin turrets** (2 forward + 1 aft). 9,000 nm range (Atlantic raiding!). Thin armor (160mm belt - emphasized SPEED over protection!). Design: **SPEED + RANGE + FIREPOWER!** Hunt British cruisers & destroy convoys! Faster than BBs (35 vs 30 kts), outgun cruisers (15" vs 6-8")! Part of Plan Z (1938-1939 design). **CANCELLED September 1939** (WWII outbreak!). Never laid down. All resources to U-boats/destroyers/aircraft. Dönitz's U-boat priority CORRECT! Would need 3-4 years (1939-1942/1943). Germany couldn't fuel existing ships by 1941! Bismarck's loss proved surface futility. Would likely be sunk by air power! Resources better spent on U-boats! **Plan Z fantasy vs WWII reality!**
 

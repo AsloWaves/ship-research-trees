@@ -3,7 +3,7 @@
 ## Overview
 The W-class were near-identical sisters to the V-class, with 39 ships built 1918-1919. Together with the V-class, they formed the legendary V&W classes (67 ships total) that served from WWI through WWII and were considered the finest destroyers of their generation. The W-class had slightly refined details but shared the revolutionary V-class design.
 
-```yaml
+---
 class_name: W-Class
 hull_numbers: Various W-series
 ships_built: 39
@@ -29,7 +29,7 @@ secondary_guns: "1× 3-inch AA"
 torpedo_tubes: "6× 21-inch (2 triple)"
 aircraft: 0
 tags: [destroyer, w-class, 1918, ww1, ww2-service, v-and-w, long-service]
-```
+---
 
 ## Specifications
 

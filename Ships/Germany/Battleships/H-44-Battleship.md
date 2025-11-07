@@ -1,6 +1,6 @@
 # H-44 Battleship (1944 LARGEST EVER - 131,000 Tons! ABSOLUTE ULTIMATE!)
 
-```yaml
+---
 class_name: H-44 Battleship (LARGEST BATTLESHIP DESIGN EVER CONCEIVED!)
 hull_numbers: None (ultimate fantasy, no designation)
 ships_built: 0 (absolute fantasy, never planned)
@@ -162,7 +162,7 @@ firsts:
 # Tags
 tags: [h-class, h-44, super-battleship, paper-ship, ultimate-fantasy, 20-inch-guns, 131000-tons, largest-ever, 1944-apocalypse, absolute-insanity, ultimate-monument]
 ---
-```
+---
 
 **LARGEST EVER - 1944 Ultimate Fantasy!** - **131,000 tons standard**, **145,000 tons full load** (**LARGEST BATTLESHIP DESIGN IN HISTORY!**). **82% heavier than Yamato!** **8× 50.8cm (20") guns** (LARGEST caliber!). 2,200 kg shells (2× heavier than Iowa!). **30 kts**, **12,000+ nm range**. Ultimate armor (400mm belt, **500mm turrets**, **220mm deck**!). **1,131.9 ft long** (345m - 3.5 football fields!). Studied **1944** (DURING Germany's COLLAPSE!). **AFTER D-Day** (June 6, 1944)! Operation Bagration destroyed Army Group Center! Romanian oil LOST (fuel crisis CRITICAL!)! Paris liberated, Romania/Bulgaria switched, Finland quit! Luftwaffe destroyed, Kriegsmarine bottled, U-boats massacred! Volkssturm formed (teenagers/elderly!). Would need ~450m slipway (NONE!). 7+ years (Germany surrendered in 1!)! Steel = **~250 Type XXI U-boats** OR **~2,500 Panthers** OR **~15,000 Bf 109s**! Fuel = Wehrmacht for WEEKS! RAF/USAAF would sink in MINUTES (Tallboy/Grand Slam bombs!)! **ULTIMATE INSANITY - APOCALYPSE DELUSION!** **ABSOLUTE PEAK OF BATTLESHIP MADNESS!**
 

@@ -3,7 +3,7 @@
 ## Overview
 The Admiralty M-class were the first mass-produced British destroyers of WWI, with 74 ships built 1914-1916 across multiple builders. They established the standardized destroyer design that would be repeated through the war, featuring three 4-inch guns, increased size, and oil firing. The class served extensively throughout WWI in all theaters.
 
-```yaml
+---
 class_name: Admiralty M-Class
 hull_numbers: Various M-series
 ships_built: 74
@@ -29,7 +29,7 @@ secondary_guns: "1× 2-pounder AA"
 torpedo_tubes: "4× 21-inch (2 twin)"
 aircraft: 0
 tags: [destroyer, m-class, 1914, ww1, mass-production, admiralty-design]
-```
+---
 
 ## Specifications
 

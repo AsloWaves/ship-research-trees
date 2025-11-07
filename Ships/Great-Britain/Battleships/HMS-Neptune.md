@@ -3,7 +3,7 @@
 ## Overview
 HMS Neptune was a single experimental dreadnought battleship built 1909-1911, featuring the revolutionary superfiring turret layout with staggered wing turrets for improved broadside fire. As Britain's first superfiring dreadnought, Neptune tested concepts that would become standard on all subsequent battleships. Despite teething problems with the experimental layout, the ship served throughout WWI with the Grand Fleet, participating in Jutland (1916) and North Sea operations before being scrapped 1922.
 
-```yaml
+---
 class_name: HMS-Neptune (Single Ship)
 hull_numbers: Neptune
 ships_built: 1 (experimental)
@@ -23,7 +23,7 @@ crew: 759
 armament: "10× 12-inch guns (superfiring layout), 16× 4-inch guns"
 armor: 10-inch belt, 11-inch barbettes, 11-inch turrets
 tags: [battleship, hms-neptune, dreadnought, superfiring-turrets, 1909, experimental, jutland, grand-fleet, wwi]
-```
+---
 
 ## Specifications
 

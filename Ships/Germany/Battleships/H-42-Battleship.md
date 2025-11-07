@@ -1,6 +1,6 @@
 # H-42 Battleship (1942 MASSIVE STUDY - 90,000 Tons, 18.9-Inch Guns!)
 
-```yaml
+---
 class_name: H-42 Battleship (Massive H-Class Study - 90,000 Tons!)
 hull_numbers: None (theoretical study only, no ships planned)
 ships_built: 0 (pure theoretical study, never planned for construction)
@@ -138,7 +138,7 @@ firsts:
 # Tags
 tags: [h-class, h-42, super-battleship, paper-ship, theoretical-study, 18.9-inch-guns, 90000-tons, fantasy-design, stalingrad-absurdity, impossible]
 ---
-```
+---
 
 **MASSIVE STUDY - 1942 Theoretical!** - **90,000 tons standard**, **101,500 tons full load** (MASSIVE!). Pure theoretical study (NEVER planned for construction!). **8× 48cm (18.9") guns** in **4× twin turrets** (approaching Yamato's 18.1"!). 1,700 kg shells (MASSIVE!). **30 kts**, **10,000+ nm range**. Extreme armor (350mm belt, **450mm turrets**, **180mm deck**!). Study conducted **1942** (DURING Stalingrad disaster!). Response to Yamato intelligence. Hitler demanded "ultimate" BB studies. **COMPLETE ABSURDITY**: Studied while Germany lost Stalingrad! Construction impossible (no slipways large enough!). Would need 5+ years (Germany had ~2 years left!). Steel could build **~150-200 Type VII U-boats** OR **~1,000+ Panther tanks** OR **~5,000+ Bf 109s**! Fuel = entire U-boat fleet for months! Too large for Baltic exits (trapped!). RAF/USAAF would sink it (Tirpitz example!). Dönitz's U-boat priority VALIDATED! **PURE FANTASY** - disconnected from reality!
 

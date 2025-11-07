@@ -1,6 +1,6 @@
 # Bremen-Class Light Cruisers
 
-```yaml
+---
 class_name: Bremen-Class
 hull_numbers: Bremen, Hamburg, Berlin, Lübeck, München, Leipzig, Danzig
 ships_built: 7
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [light-cruiser, bremen-class, 1904, 10.5cm-guns, commerce-raiders, leipzig-falklands, bremen-zanzibar, high-seas-fleet, kaiserliche-marine, ww1]
 ---
-```
+---
 
 **First Expanded Production Light Cruiser Class** - 7 ships built (1904-1907): Bremen, Hamburg, Berlin, Lübeck, München, Leipzig, Danzig. Improved Gazelle design: larger (3,250 tons vs. 2,644), faster (23.5 knots vs. 22.3). 10× 10.5cm guns. Established German light cruiser standard for WWI. Notable losses: SMS Leipzig sunk at Battle of Falkland Islands (8 Dec 1914, 315 killed), SMS Bremen scuttled at Zanzibar (10 Aug 1914). Most served as commerce raiders and High Seas Fleet scouts. Demonstrated successful light cruiser concept.
 

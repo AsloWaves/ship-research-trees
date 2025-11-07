@@ -1,6 +1,6 @@
 # Mogami-Class Cruisers
 
-```yaml
+---
 class_name: Mogami-Class
 hull_numbers: Mogami, Mikuma, Suzuya, Kumano
 ships_built: 4
@@ -54,7 +54,7 @@ contemporary: "[[USA/USA Cruisers/Brooklyn-Class]]"
 # Tags
 tags: [cruiser, heavy-cruiser, mogami, converted, light-to-heavy]
 ---
-```
+---
 
 **Light Cruisers Converted to Heavy** - Built with 15× 6.1-inch guns, converted to 10× 8-inch 1939. Mogami later converted to aviation cruiser. Mikuma sunk Midway 1942, others sunk 1944.
 

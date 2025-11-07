@@ -3,7 +3,7 @@
 ## Overview
 The L-class were improved fleet submarines with 34 boats built 1917-1919. They combined the best features of earlier classes with lessons from WWI combat, becoming the RN's standard fleet submarine by war's end. The class saw limited WWI service but extensive interwar operations, with several serving into WWII. Many were transferred to foreign navies.
 
-```yaml
+---
 class_name: L-Class Submarine
 hull_numbers: L1-L71 (many cancelled)
 ships_built: 34 (37 more cancelled)
@@ -24,7 +24,7 @@ crew: 38
 armament: "6× 21-inch torpedo tubes (4 bow, 2 beam), 1× 4-inch gun"
 torpedoes: 12
 tags: [submarine, l-class, 1917-1919, fleet-submarine, successful-design, ww1-service, interwar, foreign-sales]
-```
+---
 
 ## Specifications
 

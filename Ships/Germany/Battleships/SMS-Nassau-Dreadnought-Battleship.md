@@ -1,6 +1,6 @@
 # SMS Nassau Dreadnought Battleship (1909 FIRST GERMAN DREADNOUGHT - Hexagonal Layout!)
 
-```yaml
+---
 class_name: SMS Nassau Dreadnought Battleship (First German Dreadnought!)
 hull_numbers: SMS Nassau, SMS Westfalen, SMS Rheinland, SMS Posen
 ships_built: 4
@@ -97,7 +97,7 @@ firsts:
 # Tags
 tags: [battleship, sms-nassau, 1909, first-dreadnought, hexagonal-layout, 12x28cm-guns, dreadnought-race, kaiserliche-marine, 4-ships, jutland]
 ---
-```
+---
 
 **FIRST GERMAN DREADNOUGHT - 1909 Hexagonal Revolution!** - 4 ships: **SMS NASSAU**, SMS Westfalen, SMS Rheinland, SMS Posen. **FIRST GERMAN DREADNOUGHT!** (Response to HMS Dreadnought 1906 - began Anglo-German naval arms race!). **18,873 tons**, **19.5 kts**, **12× 28cm guns** in **UNIQUE HEXAGONAL LAYOUT** (6× twin turrets: 2 forward, 2 aft, 2 port, 2 starboard!). **ALL-BIG-GUN REVOLUTION!** Hexagonal arrangement **NOT by choice** - triple expansion engines consumed internal magazine space, forcing wing turret placement! 8-gun broadside (same as Dreadnought but requiring 12 total guns - inefficient!). Krupp cemented armor (300mm belt, 400mm conning tower). **ALL 4 FOUGHT JUTLAND** (May 31-June 1, 1916), Nassau hit 11 times and rammed HMS Spitfire, all survived! Inefficiency forced Germany to develop superfiring designs. Scrapped 1920-1924. **REVOLUTIONARY!**
 

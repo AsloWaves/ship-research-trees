@@ -1,6 +1,6 @@
 # Future CL Concept (Postwar Light Cruiser, Paper Ship)
 
-```yaml
+---
 class_name: Future CL Concept (Postwar Design)
 hull_numbers: None (paper design)
 ships_built: 0 (design study only)
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [light-cruiser, future-concept, postwar-design, paper-ship, never-built, automatic-guns, missile-capable, 12000nm-range, theoretical, advanced-technology]
 ---
-```
+---
 
 **Postwar Light Cruiser Concept (Paper Ship) - Never Built** - Theoretical postwar light cruiser design incorporating WWII lessons learned and advanced technology. 12,000 tons, **12× 15cm automatic rapid-fire guns (6× twin turrets)**, missile capability, 36 knots. Maximum range (12,000 nm at 20 knots), combined steam/diesel propulsion for efficiency, advanced radar and automated fire control. First German cruiser concept with automatic guns and guided missile capability. Design study only, speculative postwar evolution. Would have represented 1950s-1960s technology level: automated turrets, guided missiles (surface-to-air + anti-ship), advanced electronics, hybrid propulsion. Never formally proposed, remained theoretical "what-if" exploring postwar cruiser evolution.
 

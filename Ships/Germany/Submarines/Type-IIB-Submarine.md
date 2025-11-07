@@ -1,6 +1,6 @@
 # Type IIB Submarine (Improved Coastal - Extended Range 1936)
 
-```yaml
+---
 class_name: Type IIB Submarine (Improved Type II)
 hull_numbers: U-7 to U-24, U-120, U-121
 ships_built: 20
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, type-iib, coastal, improved, 20-boats, extended-range, training-combat, kriegsmarine, 1936]
 ---
-```
+---
 
 **Improved Coastal - Extended Range (20 Boats!)** - 20 boats commissioned 1936-1937: U-7 to U-24, U-120, U-121. **MOST NUMEROUS TYPE II VARIANT!** Improved Type IIA with extended range. 279 tons surfaced (slightly larger), **3× 53.3cm torpedo tubes** (all bow), 5 torpedoes carried, 13.0 knots surfaced/7.0 knots submerged. **3,100 nm range** (DOUBLED from IIA 1,600 nm!), 1× 2cm Flak. **Training + combat missions** - extended range enabled early-war combat patrols. Most successful Type II variant. Baltic + North Sea operations.
 

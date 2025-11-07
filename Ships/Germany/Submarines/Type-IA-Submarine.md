@@ -1,6 +1,6 @@
 # Type IA Submarine (First Post-Versailles Ocean-Going - Experimental 1936)
 
-```yaml
+---
 class_name: Type IA Submarine (Post-Versailles Experimental)
 hull_numbers: U-25, U-26
 ships_built: 2
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, type-ia, post-versailles, experimental, first-postwar, 2-boats, ocean-going, rearmament, kriegsmarine, 1936]
 ---
-```
+---
 
 **First Post-Versailles Ocean-Going - Experimental Return** - 2 boats commissioned 1936: U-25, U-26. **FIRST POST-VERSAILLES OCEAN-GOING SUBMARINE!** Germany's return to submarine construction after Treaty of Versailles restrictions ended (1935). 862 tons surfaced, **6× 53.3cm torpedo tubes** (4 bow, 2 stern), **14 torpedoes carried**, 17.8 knots surfaced/8.3 knots submerged. 7,900 nm range (ocean-going), **1× 10.5cm SK C/32** + 1× 2cm Flak. **2 experimental boats** tested features for Type VII and Type IX development. Post-Versailles rearmament era. Both lost in combat 1940.
 

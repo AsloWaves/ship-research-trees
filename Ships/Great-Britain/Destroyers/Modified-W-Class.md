@@ -3,7 +3,7 @@
 ## Overview
 The Modified W-class (also known as W-class Repeat or Admiralty Modified W) were enhanced V&W-class destroyers with improved armament and fire control. Only 7 ships were completed from 16 ordered, as most were cancelled at the Armistice. They featured enhanced 4.7-inch guns and represented the ultimate evolution of the V&W design.
 
-```yaml
+---
 class_name: Modified W-Class
 hull_numbers: Various W-series
 ships_built: 7 (of 16 ordered)
@@ -29,7 +29,7 @@ secondary_guns: "1× 3-inch AA"
 torpedo_tubes: "6× 21-inch (2 triple)"
 aircraft: 0
 tags: [destroyer, modified-w-class, 1919, improved-v-and-w, 4.7-inch-guns, ww2-service]
-```
+---
 
 ## Specifications
 

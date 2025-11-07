@@ -3,7 +3,7 @@
 ## Overview
 The A-class (also known as Amazon-class or Prototype Flotilla) were the first destroyers of the interwar alphabetical flotilla system, with 9 ships built 1927-1929. They introduced the 4.7-inch gun as standard armament, established the flotilla leader concept with Amazon, and pioneered the systematic naming convention that would continue through the I-class.
 
-```yaml
+---
 class_name: A-Class (Amazon/Prototype)
 hull_numbers: Various
 ships_built: 9
@@ -29,7 +29,7 @@ secondary_guns: "2× 2-pounder AA"
 torpedo_tubes: "8× 21-inch (2 quad)"
 aircraft: 0
 tags: [destroyer, a-class, 1928, interwar, first-4.7-inch-standard, flotilla-leader, ww2-service]
-```
+---
 
 ## Specifications
 

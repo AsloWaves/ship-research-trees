@@ -1,6 +1,6 @@
 # Peter Strasser Aircraft Carrier (Flugzeugträger B - Early Cancellation)
 
-```yaml
+---
 class_name: Peter Strasser Aircraft Carrier (Flugzeugträger B)
 hull_numbers: Flugzeugträger B (Aircraft Carrier B)
 ships_built: 1 (early construction, scrapped 1940)
@@ -73,7 +73,7 @@ firsts:
 # Tags
 tags: [carrier, peter-strasser, flugzeugtraeger-b, early-cancellation, scrapped-1940, u-boat-priority, 15-percent-complete, graf-zeppelin-class, never-commissioned]
 ---
-```
+---
 
 **Second Graf Zeppelin-Class - Early Cancellation!** - 1 boat: **PETER STRASSER** (Flugzeugträger B) - **Early construction scrapped 1940!** Second Graf Zeppelin-class carrier with same specifications (33,550 tons, 33.8 kts, 42 aircraft, 16× 15cm guns). **Keel laid September 1938** at Germaniawerft, Kiel. Construction **halted September 19, 1939** (WWII outbreak - strategic priority shift to U-boats!). Only reached **armored deck level** (~15% complete vs. Graf Zeppelin's 85%). **Scrapped February 28, 1940** - materials diverted to U-boat construction program. Named after **Fregattenkapitän Peter Strasser** (1876-1918), Commander of Imperial German Naval Airship Division in WWI, killed in action August 5, 1918 when airship L 70 shot down. Scrapping marked **end of Graf Zeppelin-class program** - Plan Z carriers C and D never started. **NEVER COMMISSIONED!**
 

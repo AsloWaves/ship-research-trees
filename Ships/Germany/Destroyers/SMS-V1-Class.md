@@ -1,6 +1,6 @@
 # SMS V1-Class Large Torpedo Boats (1911 Program)
 
-```yaml
+---
 class_name: SMS V1-Class (1911 Program)
 hull_numbers: V1-V6
 ships_built: 6
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [large-torpedo-boat, destroyer, sms-v1, 1911-program, 8.8cm-guns, 50cm-torpedoes, 33-knots, kaiserliche-marine, ww1, jutland]
 ---
-```
+---
 
 **First True "Large Torpedo Boats" - Effectively Destroyers (1911 Program)** - 6 ships commissioned 1911-1912: V1-V6. First true "Large Torpedo Boats" (1911 Program), effectively first German destroyers. 573 tons, **2× 8.8cm guns** (upgraded from 5cm), **4× 50cm torpedoes** (first), 33 knots. Mixed coal/oil firing for extended range (1,950 nm). Higher firepower and larger hull made these true destroyers despite "torpedo boat" designation. Served entire WWI (1914-1918): High Seas Fleet screening, **Battle of Jutland** (31 May 1916). Survivors scrapped 1919-1920.
 

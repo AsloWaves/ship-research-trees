@@ -1,6 +1,6 @@
 # SM UC-III-Class (Ultimate WWI Minelayer - Late War Advanced 1918)
 
-```yaml
+---
 class_name: SM UC-III-Class (Ultimate Minelayer)
 hull_numbers: UC-80 to UC-175 (planned)
 ships_built: 11 (96 planned, war ended)
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [submarine, uc-iii, minelayer, ultimate, late-war, advanced, 10200-nm, wwi, kaiserliche-marine, 1918]
 ---
-```
+---
 
 **Ultimate WWI Minelayer - Late War Advanced Design** - Only 11 boats commissioned 1918 (96 planned, war ended): UC-80 to UC-90. **ULTIMATE WWI MINELAYER!** Late war advanced design representing culmination of minelayer development. 491 tons surfaced (largest minelayer), **3× 50cm torpedo tubes**, 7 torpedoes carried, **14× UC/200 mines** (6× vertical chutes), 11.8 knots surfaced/7.0 knots submerged. **10,200 nm range** (ULTIMATE endurance!), **1× 8.8cm SK L/45** (improved longer barrel), **enhanced 620 HP electric motors**. Advanced mine release system. 96 boats planned - war ended before mass production. Ultimate minelayer evolution.
 

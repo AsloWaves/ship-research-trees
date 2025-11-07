@@ -3,7 +3,7 @@
 ## Overview
 HMS Erin was a single dreadnought battleship originally ordered by the Ottoman Empire as Reşadiye, seized by the Royal Navy when WWI broke out in August 1914. Built 1911-1914 at Vickers shipyard, the ship represented Turkey's attempt to acquire modern naval power but became a British asset when diplomatic relations collapsed. As the only King George V-type battleship with 13.5-inch guns in British service not of a standard class, Erin served throughout WWI with the Grand Fleet, participating in Jutland (1916) before being sold to Turkey in 1922 (then resold for scrap before delivery).
 
-```yaml
+---
 class_name: Erin-Class (Single Ship)
 hull_numbers: Erin (originally Reşadiye for Ottoman Empire)
 ships_built: 1 (seized before delivery)
@@ -23,7 +23,7 @@ crew: 1070
 armament: "10× 13.5-inch guns, 16× 6-inch guns, 6× 3-inch AA guns"
 armor: 12-inch belt, 11-inch barbettes, 11-inch turrets
 tags: [battleship, hms-erin, dreadnought, seized-ship, ottoman-order, 1914, jutland, grand-fleet, wwi]
-```
+---
 
 ## Specifications
 

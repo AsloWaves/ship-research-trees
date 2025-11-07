@@ -3,7 +3,7 @@
 ## Overview
 The Daring-class were the ultimate British gun-armed fleet destroyers, with 8 ships built 1949-1952 (8 more cancelled). Designed immediately post-WWII, they were the largest conventional destroyers built for the Royal Navy at 2,830 tons standard. They represented the peak of gun destroyer development before the missile age, serving extensively through the Cold War until the mid-1970s.
 
-```yaml
+---
 class_name: Daring-Class (1949)
 hull_numbers: D05, D19, D35, D54, D77, D95, D114, D154
 ships_built: 8 (8 cancelled)
@@ -29,7 +29,7 @@ secondary_guns: "6× 40mm AA"
 torpedo_tubes: "10× 21-inch (2 quint)"
 aircraft: 0
 tags: [destroyer, daring-class, 1949-1952, largest-gun-destroyers, post-war, cold-war, fleet-destroyer]
-```
+---
 
 ## Specifications
 

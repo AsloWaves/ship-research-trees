@@ -3,7 +3,7 @@
 ## Overview
 The Oberon-class were patrol submarines with 13 built for the Royal Navy (1959-1967) and 14 exported to Commonwealth navies. Based on the successful Porpoise-class, they were among the quietest and most capable conventional submarines of their era. The class achieved legendary status for silent running and served for over 40 years with multiple navies, seeing combat in the Falklands War.
 
-```yaml
+---
 class_name: Oberon-Class Submarine
 hull_numbers: Oberon, Odin, Olympus, Orpheus, Osiris, Onslaught, Otter, Oracle, Ocelot, Otus, Opossum, Opportune, Onyx
 ships_built: 13 (RN) + 14 (export: 6 Canada, 6 Australia, 2 Brazil)
@@ -24,7 +24,7 @@ crew: 68
 armament: "8× 21-inch torpedo tubes (6 bow, 2 stern)"
 torpedoes: 30
 tags: [submarine, oberon-class, 1959-1967, patrol-submarine, cold-war, silent-running, export-success, falklands-war]
-```
+---
 
 ## Specifications
 

@@ -1,6 +1,6 @@
 # Future SS Concept Submarine (1970 Advanced Future Technology)
 
-```yaml
+---
 class_name: Future SS Concept Submarine
 hull_numbers: None
 ships_built: 0 (future concept)
@@ -67,7 +67,7 @@ firsts:
 # Tags
 tags: [submarine, future-concept, theoretical, 40-knots-submerged, ai-systems, stealth, advanced-technology, 1970s-vision, speculative]
 ---
-```
+---
 
 **Advanced Future Technology - 1970s Vision!** - 0 boats: **FUTURE SUBMARINE CONCEPT!** **40 KNOTS SUBMERGED**, **UNLIMITED RANGE**, **1500 ft depth**. 4000 tons, advanced nuclear/AIP, AI systems, stealth technology, composite materials, unmanned vehicles. **THEORETICAL** - 1970s vision of future submarine technology. Shows hypothetical German submarine evolution endpoint. **FINAL NODE** in German submarine research tree!
 

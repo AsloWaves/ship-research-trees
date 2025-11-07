@@ -1,6 +1,6 @@
 # Deutschland-Class Pre-Dreadnought Battleships (1906-1908)
 
-```yaml
+---
 class_name: Deutschland-Class (1904 Pre-Dreadnought)
 hull_numbers: None (SMS naming convention)
 ships_built: 5
@@ -57,7 +57,7 @@ firsts:
 # Tags
 tags: [battleship, pre-dreadnought, kaiserliche-marine, 1906, jutland]
 ---
-```
+---
 
 **Last Pre-Dreadnoughts** - Final German pre-dreadnought class. SMS Pommern only German battleship sunk at Jutland (1916). Schlesien and Schleswig-Holstein served until WWII, scrapped 1960s.
 

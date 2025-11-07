@@ -1,6 +1,6 @@
 # Blücher (Single Ship, Transitional Design)
 
-```yaml
+---
 class_name: Blücher (Single Ship)
 hull_numbers: Blücher
 ships_built: 1
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [armored-cruiser, blücher, 1909, single-ship-class, transitional-design, 12x21cm-guns, dogger-bank, 792-killed, largest-armored-cruiser, last-armored-cruiser, kaiserliche-marine]
 ---
-```
+---
 
 **Germany's Last and Largest Armored Cruiser (Transitional Design)** - Commissioned 1909, sunk 1915. Transitional design approaching battlecruiser concept. Largest (15,842 tons), most heavily-armed (12× 21cm guns), and fastest (25.8 knots) German armored cruiser. Designed to counter British Invincible-class battlecruisers, but outmatched by them due to smaller guns (21cm vs. 30.5cm). **Battle of Dogger Bank** (24 Jan 1915): Sunk by British battlecruisers Lion, Tiger, and Princess Royal after 3-hour running battle. 792 killed, 234 survivors. Last German armored cruiser, followed by Von der Tann true battlecruiser.
 

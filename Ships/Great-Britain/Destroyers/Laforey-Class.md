@@ -3,7 +3,7 @@
 ## Overview
 The Laforey-class (L-class) were destroyers with 22 ships built 1913-1914 as the last pre-WWI destroyer class. They were improved Acasta-class vessels featuring increased size, better seakeeping, and the introduction of destroyer flotilla leaders. The class served extensively in WWI with notable actions at Jutland, the Dover Patrol, and Mediterranean operations.
 
-```yaml
+---
 class_name: Laforey-Class (L-Class)
 hull_numbers: Various (Laforey, Lawford, Liberty, etc. - 22 ships)
 ships_built: 22
@@ -23,7 +23,7 @@ crew: 73
 armament: "3× 4-inch guns, 2× 2-pdr pom-poms, 4× 21-inch torpedo tubes"
 torpedoes: 4× 21-inch torpedo tubes (2× twin mounts)
 tags: [destroyer, laforey-class, l-class, pre-wwi, 1913-1914, flotilla-leaders, jutland, dover-patrol]
-```
+---
 
 ## Specifications
 

@@ -1,6 +1,6 @@
 # SMS Friedrich der Große Super-Dreadnought (1912 JUTLAND FLAGSHIP - Scheer's Command!)
 
-```yaml
+---
 class_name: SMS Friedrich der Große (Kaiser-class - Jutland Flagship!)
 hull_numbers: SMS Friedrich der Große ("Frederick the Great")
 ships_built: 1 (fourth Kaiser-class ship)
@@ -245,7 +245,7 @@ firsts:
 # Tags
 tags: [battleship, sms-friedrich-der-grosse, kaiser-class, 1912, jutland-flagship, admiral-scheer, gefechtskehrtwendung, scapa-flow, operation-rainbow, salvaged, command-ship]
 ---
-```
+---
 
 **JUTLAND FLAGSHIP - 1912 Scheer's Command Ship!** - Kaiser-class super-dreadnought (commissioned October 10, 1912). **27,000 tons**, **23.4 KNOTS**, **10× 30.5cm (12") guns**. **FIRST GERMAN TURBINE BB!** Superfiring layout! **FLEET FLAGSHIP** 1913. **ADMIRAL SCHEER'S FLAGSHIP AT JUTLAND!** (May 31-June 1, 1916). **COMMAND CENTER!** **GEFECHTSKEHRTWENDUNG** (famous "battle about-turn")! Saved High Seas Fleet from destruction! **ESCAPED UNDAMAGED!** Scheer's tactical brilliance! Continued flagship post-Jutland. **SCAPA FLOW INTERNMENT** (Nov 21, 1918). **OPERATION RAINBOW** (June 21, 1919) - **FLAGSHIP SCUTTLED!** Part of **LARGEST MASS SCUTTLING** (74 ships!). **SALVAGED 1937-1938** (raised, scrapped Rosyth). Former Jutland flagship reduced to scrap. **CENTER OF GERMAN NAVAL POWER!**
 

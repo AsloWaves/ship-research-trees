@@ -3,7 +3,7 @@
 ## Overview
 The Caroline-class were the first group of the famous C-class light cruisers, representing a major improvement over the Arethusa-class. Six ships featured better armament and protection while maintaining high speed. They served extensively in WWI and several continued into WWII service.
 
-```yaml
+---
 class_name: Caroline Class (C-class)
 hull_numbers: Various
 ships_built: 6
@@ -29,7 +29,7 @@ secondary_guns: "4× 3-pounder"
 torpedo_tubes: "8× 21-inch"
 aircraft: 0
 tags: [cruiser, light-cruiser, c-class, caroline-class, 1915, ww1, jutland]
-```
+---
 
 ## Specifications
 

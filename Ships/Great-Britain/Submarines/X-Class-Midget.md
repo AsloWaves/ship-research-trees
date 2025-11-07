@@ -3,7 +3,7 @@
 ## Overview
 The X-Class were British midget submarines developed 1942-1945 for special operations against heavily defended enemy warships and coastal targets. Operating with a crew of four and displacing only 30 tons submerged, these tiny submarines achieved remarkable success, most notably crippling the German battleship Tirpitz in Operation Source (September 1943). Twelve operational X-craft (X5-X10, X20-X25) served in WWII, conducting attacks, reconnaissance, and beach survey missions. They represented peak British ingenuity in special operations warfare.
 
-```yaml
+---
 class_name: X-Class Midget
 hull_numbers: X5-X10, X20-X25 (12 operational craft)
 ships_built: 20+ (including prototypes and training craft)
@@ -23,7 +23,7 @@ crew: 4
 armament: "2× 2-ton amatol side charges (detachable)"
 torpedoes: None (some modified with limpet mines)
 tags: [submarine, x-class, midget-submarine, special-operations, 1942-1945, tirpitz, operation-source, wwii, commando]
-```
+---
 
 ## Specifications
 

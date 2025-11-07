@@ -3,7 +3,7 @@
 ## Overview
 The Holland-class were the first submarines operated by the Royal Navy, with 5 boats built 1901-1903 based on the American Holland VI design. Though primitive by later standards, they established the RN's submarine capability and pioneered underwater warfare tactics. All were petrol-electric powered with limited range and habitability.
 
-```yaml
+---
 class_name: Holland-Class
 hull_numbers: 1-5
 ships_built: 5
@@ -24,7 +24,7 @@ crew: 8
 armament: "1× 14-inch torpedo tube (bow)"
 torpedoes: 3
 tags: [submarine, holland-class, 1901, first-rn-submarines, petrol-electric, coastal, pioneering]
-```
+---
 
 ## Specifications
 

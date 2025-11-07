@@ -20,30 +20,48 @@ def fix_yaml_format(filepath, dry_run=True):
         original_content = content
         changes = []
 
-        # Pattern: # Title\n\n```yaml\n---\nYAML content\n---\n```\n\nBody
-        # Convert to: # Title\n\n---\nYAML content\n---\n\nBody
-
         # Check if file has ```yaml code block wrapper around YAML
-        if '```yaml' in content[:100] and content.count('```') >= 2:
-            # Try to extract the YAML content from the code block
-            # Pattern: ```yaml followed by --- ... --- followed by ```
-            pattern = r'(.*?)```yaml\s*\n(---\s*\n.*?\n---)\s*\n```\s*\n(.*)$'
-            match = re.match(pattern, content, re.DOTALL)
+        if '```yaml' not in content:
+            return []
 
-            if match:
-                before_part = match.group(1)  # Content before ```yaml (usually # Title\n\n)
-                yaml_part = match.group(2)    # The --- ... --- block
-                body_part = match.group(3)    # Content after ```
+        # Pattern 1: ```yaml\n---\nYAML content\n---\n```
+        # Convert to: ---\nYAML content\n---
+        pattern1 = r'(.*?)```yaml\s*\n(---\s*\n.*?\n---)\s*\n```\s*\n(.*)$'
+        match1 = re.match(pattern1, content, re.DOTALL)
 
-                # Reconstruct with proper format
-                new_content = f"{before_part}{yaml_part}\n\n{body_part}"
+        if match1:
+            before_part = match1.group(1)  # Content before ```yaml
+            yaml_part = match1.group(2)    # The --- ... --- block
+            body_part = match1.group(3)    # Content after ```
 
-                if not dry_run:
-                    with open(filepath, 'w', encoding='utf-8') as f:
-                        f.write(new_content)
+            new_content = f"{before_part}{yaml_part}\n\n{body_part}"
 
-                changes.append('Converted code block YAML to proper --- format')
-                return changes
+            if not dry_run:
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    f.write(new_content)
+
+            changes.append('Converted code block YAML (with ---) to proper format')
+            return changes
+
+        # Pattern 2: ```yaml\nkey: value\n...\n```  (NO --- delimiters)
+        # Convert to: ---\nkey: value\n...\n---
+        pattern2 = r'(.*?)```yaml\s*\n(.*?)\n```\s*\n(.*)$'
+        match2 = re.match(pattern2, content, re.DOTALL)
+
+        if match2:
+            before_part = match2.group(1)  # Content before ```yaml
+            yaml_content = match2.group(2)  # The YAML content (no delimiters)
+            body_part = match2.group(3)     # Content after ```
+
+            # Add --- delimiters
+            new_content = f"{before_part}---\n{yaml_content}\n---\n\n{body_part}"
+
+            if not dry_run:
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    f.write(new_content)
+
+            changes.append('Converted code block YAML (no ---) to proper format')
+            return changes
 
         return []
 

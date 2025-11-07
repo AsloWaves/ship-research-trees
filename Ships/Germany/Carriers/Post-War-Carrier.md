@@ -1,6 +1,6 @@
 # Post-War Carrier (1950 Theoretical Post-War Design)
 
-```yaml
+---
 class_name: Post-War Carrier (1950 Concept)
 hull_numbers: None (theoretical concept)
 ships_built: 0 (pure speculation)
@@ -80,7 +80,7 @@ firsts:
 # Tags
 tags: [carrier, post-war, 1950-concept, theoretical, jet-capable, pure-speculation, never-built, alternate-history, prohibited]
 ---
-```
+---
 
 **Post-War Carrier Concept - 1950 Theoretical!** - 0 boats: **POST-WAR CARRIER** - **Pure speculation - Germany prohibited from carriers!** Theoretical post-war design incorporating **Pacific War lessons**. **55,000 tons**, **33 kts**, **50 aircraft** (20 early jets + 10 piston + 20 attack - transitional mix!). **Guns removed** (post-war carrier trend - missiles/aircraft defense only!). **Hydraulic catapults** (improved from compressed air), early **jet aircraft capability** (subsonic jets). **12,000 nm range**. **PURE SPECULATION** - West Germany prohibited from carriers (post-war restrictions), East Germany had no carrier program (Soviet bloc), unified Germany focused on U-boats and land forces. NATO carrier aviation provided by US/Britain instead. **THEORETICAL ONLY** - no German carrier plans, pure alternate history! **NEVER BUILT!**
 

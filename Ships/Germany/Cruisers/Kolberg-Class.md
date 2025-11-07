@@ -1,6 +1,6 @@
 # Kolberg-Class Light Cruisers
 
-```yaml
+---
 class_name: Kolberg-Class
 hull_numbers: Kolberg, Mainz, Cöln, Augsburg
 ships_built: 4
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [light-cruiser, kolberg-class, 1910, 10.5cm-l45-guns, 27-knots, heligoland-bight, mainz-sunk, cöln-sunk, improved-guns, kaiserliche-marine, ww1]
 ---
-```
+---
 
 **First L/45 Gun Light Cruisers** - 4 ships built (1910): Kolberg, Mainz, Cöln, Augsburg. First German light cruisers with improved 10.5cm SK L/45 guns (longer barrels, better accuracy). Faster (27.5 knots vs. 24.1), heavier armament (12× guns vs. 10×). 4,362 tons. **Battle of Heligoland Bight** (28 Aug 1914): SMS Mainz sunk by HMS Liverpool (89 killed, 284 survivors), SMS Cöln sunk by British battlecruisers (512 killed, no survivors). SMS Kolberg and Augsburg survived WWI.
 

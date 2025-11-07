@@ -3,7 +3,7 @@
 ## Overview
 The G-class were fleet submarines with 14 boats built 1915-1917. They were enlarged E-class designs with enhanced capabilities, featuring larger size, heavier armament, and better range. The class saw extensive WWI service with moderate losses, proving the value of larger fleet submarines.
 
-```yaml
+---
 class_name: G-Class Submarine
 hull_numbers: G1-G14
 ships_built: 14
@@ -24,7 +24,7 @@ crew: 31
 armament: "4-5× 21-inch torpedo tubes, 1× 3-inch gun"
 torpedoes: 10
 tags: [submarine, g-class, 1915-1917, fleet-submarine, enlarged-e-class, ww1-service]
-```
+---
 
 ## Specifications
 

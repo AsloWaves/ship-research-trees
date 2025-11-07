@@ -1,6 +1,6 @@
 # Improved Hipper-Class Heavy Cruiser (Paper Ship)
 
-```yaml
+---
 class_name: Improved Hipper-Class
 hull_numbers: None (paper design)
 ships_built: 0 (design study only)
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [heavy-cruiser, improved-hipper, paper-ship, never-built, enhanced-design, theoretical, kriegsmarine, ww2]
 ---
-```
+---
 
 **Enhanced Admiral Hipper Design (Paper Ship) - Never Built** - Theoretical improved Admiral Hipper design, never progressed beyond planning. 19,200 tons, 8× 20.3cm guns (4× twin turrets), 33 knots. Enhanced armor protection (100-120mm belt vs. 70-80mm), longer range (8,000 nm vs. 6,800 nm), heavier displacement (+37% vs. Admiral Hipper). Same main armament but improved layout and protection. Design study only, never officially proposed for construction. Would have been Germany's most balanced heavy cruiser, combining Admiral Hipper's firepower with enhanced protection and endurance. Reliability penalty (-15%) due to theoretical nature.
 

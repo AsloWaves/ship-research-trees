@@ -3,7 +3,7 @@
 ## Overview
 The Warrior-class were large armored cruisers featuring heavy armament and enhanced protection. Four ships were among the most powerful British armored cruisers built, designed to counter foreign armored cruiser threats. Two were lost at the Battle of Jutland in 1916, demonstrating their vulnerability in fleet actions.
 
-```yaml
+---
 class_name: Warrior Class
 hull_numbers: Various
 ships_built: 4
@@ -29,7 +29,7 @@ secondary_guns: "24× 3-pounder"
 torpedo_tubes: "3× 18-inch"
 aircraft: 0
 tags: [cruiser, armored-cruiser, warrior-class, 1906, heavy-armored-cruiser, battle-of-jutland, wwi]
-```
+---
 
 ## Specifications
 

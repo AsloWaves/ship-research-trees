@@ -1,6 +1,6 @@
 # Nimitz CVN-71+ Subclass (Theodore Roosevelt)
 
-```yaml
+---
 class_name: Nimitz CVN-71+ Subclass
 hull_numbers: CVN-71 Theodore Roosevelt, CVN-72 Abraham Lincoln, CVN-73 George Washington, CVN-74 John C. Stennis, CVN-75 Harry S. Truman
 ships_built: 5
@@ -47,7 +47,7 @@ firsts:
 # Tags
 tags: [nuclear-carrier, nimitz-subclass, cvn-71, theodore-roosevelt, improved-nimitz, 1986, 5-ships, gulf-war, gwot]
 ---
-```
+---
 
 **Improved Nimitz** - CVN-71+ subclass represents improved Nimitz design. 5 ships commissioned 1986-1998. Enhanced electronics, improved crew facilities, refined design. Currently active fleet.
 

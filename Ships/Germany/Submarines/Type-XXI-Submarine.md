@@ -1,6 +1,6 @@
 # Type XXI Submarine (ELEKTROBOOT - 17 Knots Submerged! 1944)
 
-```yaml
+---
 class_name: Type XXI Submarine (Elektroboot Revolution)
 hull_numbers: U-2501 to U-2546, U-3001 to U-3035, U-3501 to U-3530
 ships_built: 118
@@ -70,7 +70,7 @@ firsts:
 # Tags
 tags: [submarine, type-xxi, elektroboot, revolution, 17-knots-submerged, 7-days-underwater, 118-boats, automated, streamlined, post-war-influence, kriegsmarine, 1944]
 ---
-```
+---
 
 **ELEKTROBOOT - 17 Knots Submerged! REVOLUTIONARY!** - 118 boats commissioned 1944-1945: U-2501 to U-2546, U-3001 to U-3035, U-3501 to U-3530. **ELEKTROBOOT REVOLUTION!** **17.2 KNOTS SUBMERGED** (faster underwater than surfaced 15.6 kts!). **"Elektroboot Revolution" special ability (17 kts submerged, 7 days underwater, +200% capability, UNIQUE!)**. **7 DAYS SUBMERGED ENDURANCE** (340 nm at 5 kts!). **118 BOATS BUILT!** 1621 tons surfaced, **6× 53.3cm bow torpedo tubes**, **23 torpedoes**, **AUTOMATED hydraulic loading (20-minute reload!)**. Triple battery capacity (3× Type VIIC!). Streamlined "figure-8" hull. Advanced passive sonar. **DEFINED ALL POST-WAR SUBMARINE DESIGN!** Only 2 combat patrols (arrived too late). Influenced Soviet Whiskey/Zulu, US Tang, British Porpoise classes.
 

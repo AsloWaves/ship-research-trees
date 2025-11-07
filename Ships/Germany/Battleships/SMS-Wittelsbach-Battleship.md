@@ -1,6 +1,6 @@
 # SMS Wittelsbach Battleship (1902 Improved Armor)
 
-```yaml
+---
 class_name: SMS Wittelsbach Battleship
 hull_numbers: SMS Wittelsbach, SMS Wettin, SMS Zähringen, SMS Schwaben, SMS Mecklenburg
 ships_built: 5
@@ -82,7 +82,7 @@ firsts:
 # Tags
 tags: [battleship, sms-wittelsbach, 1902, improved-armor, krupp-cemented, pre-dreadnought, kaiserliche-marine, 5-ships, bavarian]
 ---
-```
+---
 
 **Improved Pre-Dreadnought - 1902 Better Armor!** - 5 ships: **SMS WITTELSBACH**, SMS Wettin, SMS Zähringen, SMS Schwaben, SMS Mecklenburg. **IMPROVED ARMOR PROTECTION!** **11,774 tons**, **18 kts** (+0.5 kts!), **4× 24cm guns** + **18× 15cm rapid-fire guns** (continued "hail of fire" doctrine). **Krupp cemented armor** (225mm belt, superior to Harvey nickel-steel!), 250mm turret sides, 150mm secondary turret protection. 3-shaft triple expansion engines (15,000 HP, +2000 HP improvement!). Named after **House of Wittelsbach** (Bavarian royal dynasty). Better balanced design between firepower and protection. Commissioned 1902-1904, served WWI in training/coastal defense, all 5 ships survived war and were scrapped 1919-1921. Contemporary with British London-class (1902).
 

@@ -3,7 +3,7 @@
 ## Overview
 The Highflyer-class were second-class protected cruisers designed as improved versions of the Eclipse-class. Three ships served extensively in WWI, with HMS Highflyer notably sinking the German merchant raider Kaiser Wilhelm der Grosse in 1914. They combined good speed with reasonable armament.
 
-```yaml
+---
 class_name: Highflyer Class
 hull_numbers: Various
 ships_built: 3
@@ -29,7 +29,7 @@ secondary_guns: "9× 12-pounder, 6× 3-pounder"
 torpedo_tubes: "2× 18-inch"
 aircraft: 0
 tags: [cruiser, protected-cruiser, highflyer-class, 1898, second-class-cruiser, wwi]
-```
+---
 
 ## Specifications
 

@@ -3,7 +3,7 @@
 ## Overview
 The Lord Nelson-class were two battleships built 1905-1908, representing the ultimate evolution of the pre-dreadnought design with 4× 12-inch and 10× 9.2-inch guns. Ironically commissioned after HMS Dreadnought (1906), these ships embodied the best pre-dreadnought fire control could achieve, yet were obsolete on completion. HMS Lord Nelson and HMS Agamemnon served throughout WWI on secondary duties and bombardment missions, demonstrating the rapid technological obsolescence that characterized early 20th century naval warfare. Both ships scrapped 1920.
 
-```yaml
+---
 class_name: Lord Nelson-Class
 hull_numbers: Lord Nelson, Agamemnon
 ships_built: 2
@@ -23,7 +23,7 @@ crew: 800
 armament: "4× 12-inch guns, 10× 9.2-inch guns, 24× 12-pdr guns"
 armor: 12-inch belt (Krupp), 12-inch barbettes, 8-12-inch turrets, 4-inch deck
 tags: [battleship, lord-nelson-class, pre-dreadnought, 1906-1908, ultimate-pre-dreadnought, born-obsolete, mixed-caliber, wwi]
-```
+---
 
 ## Specifications
 

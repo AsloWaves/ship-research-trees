@@ -1,6 +1,6 @@
 # SM UB-II-Class (WWI Improved Coastal - Doubled Size 1915)
 
-```yaml
+---
 class_name: SM UB-II-Class (Improved Coastal)
 hull_numbers: UB-18 to UB-47
 ships_built: 30
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, ub-ii, coastal, improved, doubled-size, diesel, mediterranean, flanders, wwi, kaiserliche-marine, 1915]
 ---
-```
+---
 
 **Improved Coastal - Doubled Size & Diesel Propulsion** - 30 boats commissioned 1915-1916: UB-18 to UB-47. **Improved coastal submarine** with **DOUBLED SIZE** (263 tons vs. UB-I 127 tons!). 263 tons surfaced, **2× 50cm torpedo tubes**, 4 torpedoes carried (doubled!), 9.2 knots surfaced/5.8 knots submerged. **Diesel propulsion** (safer than UB-I gasoline!), **1× 8.8cm deck gun** (added!), **6,450 nm range** (quadrupled!). 30 boats built - Mediterranean/Flanders workhorse. Larger crew (23), faster, more capable than UB-I.
 

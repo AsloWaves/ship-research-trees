@@ -1,6 +1,6 @@
 # Essex SCB-27C Modernization
 
-```yaml
+---
 class_name: Essex SCB-27C
 hull_numbers: 8 Essex-class ships modernized
 ships_built: 8 (conversions)
@@ -47,7 +47,7 @@ firsts:
 # Tags
 tags: [carrier, essex-mod, scb-27c, modernization, angled-deck, steam-cats, 1955, 8-ships, vietnam]
 ---
-```
+---
 
 **Angled Deck Essex** - Essex SCB-27C modernization added angled decks and steam catapults. Ultimate Essex configuration. 8 ships modernized 1955-1959. Extended service into 1990s.
 

@@ -1,6 +1,6 @@
 # Midway SCB-110 Modernization
 
-```yaml
+---
 class_name: Midway SCB-110
 hull_numbers: CV-41 Midway, CV-43 Coral Sea (CV-42 Franklin D. Roosevelt received different modernization)
 ships_built: 2 (conversions)
@@ -47,7 +47,7 @@ firsts:
 # Tags
 tags: [carrier, midway-mod, scb-110, modernization, angled-deck, 1970, cold-war, vietnam, desert-storm]
 ---
-```
+---
 
 **Ultimate Midway** - Midway SCB-110 modernization created ultimate configuration. Angled deck, aluminum flight deck extension, modern electronics. Midway (1970) and Coral Sea (1960) extensively rebuilt.
 

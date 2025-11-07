@@ -1,6 +1,6 @@
 # Wittelsbach-Class Battleships
 
-```yaml
+---
 class_name: Wittelsbach-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 5
@@ -52,7 +52,7 @@ contemporary: "[[Formidable-Class]]"
 # Tags
 tags: [battleship, pre-dreadnought, kaiserliche-marine, 1902]
 ---
-```
+---
 
 **Third Generation Pre-Dreadnoughts** - Continuation of Kaiser Friedrich III design. Same 24cm guns. Enhanced protection and range. Served in High Seas Fleet until WWI.
 

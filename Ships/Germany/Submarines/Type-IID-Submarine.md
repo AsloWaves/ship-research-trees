@@ -1,6 +1,6 @@
 # Type IID Submarine (Final Type II - Maximum Range 1940)
 
-```yaml
+---
 class_name: Type IID Submarine (Final Type II)
 hull_numbers: U-137 to U-152
 ships_built: 16
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, type-iid, coastal, final, 16-boats, maximum-range, ultimate-type-ii, kriegsmarine, 1940]
 ---
-```
+---
 
 **Final Type II - Maximum Range (16 Boats!)** - 16 boats commissioned 1940-1941: U-137 to U-152. **FINAL TYPE II VARIANT!** Culmination of Type II evolution. 314 tons surfaced (largest Type II!), **3× 53.3cm torpedo tubes** (all bow), 5 torpedoes carried, 12.7 knots surfaced/7.4 knots submerged. **5,650 nm range** (MAXIMUM Type II - IIA: 1,600, IIB: 3,100, IIC: 3,800, IID: 5,650!), **widest beam 16.4 ft** (improved stability), 1× 2cm Flak. **Ultimate coastal submarine capability**. Training + combat missions. Optimized hull design. 16 boats built during wartime.
 

@@ -1,6 +1,6 @@
 # Pillau-Class Light Cruisers
 
-```yaml
+---
 class_name: Pillau-Class
 hull_numbers: Pillau, Elbing
 ships_built: 2
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [light-cruiser, pillau-class, 1914, 15cm-guns-revolution, first-15cm-guns, german-standard, elbing-jutland, pillau-italian, originally-russian, gun-shields, kaiserliche-marine, ww1]
 ---
-```
+---
 
 **REVOLUTIONARY 15cm Gun Introduction** - 2 ships built for Russia, seized by Germany (Aug 1914): Pillau, Elbing. **Game-changer**: First German light cruisers with 15cm (5.9-inch) SK L/45 guns, **+30% firepower** vs. 10.5cm. 15cm became **German naval standard through WWII**. 4,390 tons, 8× 15cm guns, 29.4 knots (fastest trial). First gun shields (50mm). **SMS Elbing**: Sunk at Battle of Jutland (1 Jun 1916, 4 killed, 438 survivors). **SMS Pillau**: Transferred to Italy 1920 (war prize), served as Bari (1920-1943), scrapped 1943.
 

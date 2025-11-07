@@ -1,6 +1,6 @@
 # SMS S138-Class Large Torpedo Boats (1906 Type)
 
-```yaml
+---
 class_name: SMS S138-Class (1906 Type)
 hull_numbers: S138-S149
 ships_built: 12
@@ -63,7 +63,7 @@ firsts:
 # Tags
 tags: [large-torpedo-boat, sms-s138, 1906-type, turbine-powered, 30-knots, 12-ships, kaiserliche-marine, ww1]
 ---
-```
+---
 
 **1906 Type Large Torpedo Boats - Turbine-Powered** - 12 ships commissioned 1906-1907: S138-S149. First "Large Torpedo Boats" (1906 Type program) with turbine propulsion standard. 533 tons, 2× 5cm guns, 3× 45cm torpedoes, **30.5 knots** (significantly faster than predecessors). Steam turbines (8,400 SHP) provided higher speed and better reliability. Improved seakeeping for North Sea operations. 12 ships built (successful class). WWI North Sea and Baltic operations (1914-1918). Many survived WWI, scrapped 1919-1920 under Treaty of Versailles.
 

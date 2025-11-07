@@ -3,7 +3,7 @@
 ## Overview
 The J, K, and N-classes were the last pre-war standard destroyers, with 24 ships built 1938-1940 (8 per class). They represented a return to smaller, more economical destroyers after the expensive Tribals, while incorporating war lessons. All served extensively in WWII with heavy losses across all theaters, particularly in the Mediterranean.
 
-```yaml
+---
 class_name: J/K/N-Class (Javelin/Kelly/Napier Groups)
 hull_numbers: Various
 ships_built: 24 (8 per class)
@@ -29,7 +29,7 @@ secondary_guns: "4× 2-pounder AA (later increased)"
 torpedo_tubes: "10× 21-inch (2 quint)"
 aircraft: 0
 tags: [destroyer, j-class, k-class, n-class, 1939-1940, ww2-standard, heavy-losses, mediterranean]
-```
+---
 
 ## Specifications
 

@@ -3,7 +3,7 @@
 ## Overview
 The K-class were experimental steam turbine fleet submarines, with 18 boats built 1916-1919. Designed to match battlefleet speed with steam propulsion, they were large, fast, and complex - but suffered from numerous accidents and design flaws. The class remains controversial as one of the least successful submarine designs, with 6 lost in accidents and none in combat.
 
-```yaml
+---
 class_name: K-Class Submarine
 hull_numbers: K1-K22 (several cancelled)
 ships_built: 18
@@ -24,7 +24,7 @@ crew: 59
 armament: "10× 18-inch torpedo tubes (4 bow, 4 beam, 2 deck), 3× 4-inch guns, 1× 3-inch AA"
 torpedoes: 16
 tags: [submarine, k-class, 1916-1919, steam-turbine, fleet-submarine, experimental, disaster-class, heavy-accidents]
-```
+---
 
 ## Specifications
 

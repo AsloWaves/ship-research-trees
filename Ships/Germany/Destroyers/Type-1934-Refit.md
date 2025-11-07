@@ -1,6 +1,6 @@
 # Type 1934/1934A Refit (1942 WWII Modernization - Enhanced AA Defense)
 
-```yaml
+---
 class_name: Type 1934/1934A Refit (1942 WWII Modernization)
 hull_numbers: Z1-Z16 survivors (approx 8-10 ships)
 ships_modernized: ~8-10
@@ -64,7 +64,7 @@ firsts:
 # Tags
 tags: [destroyer, type-1934-refit, 1942-modernization, ww2, enhanced-aa, radar, air-defense, kriegsmarine]
 ---
-```
+---
 
 **WWII Modernization - Enhanced AA vs. Allied Air Superiority** - ~8-10 ships modernized 1942-1943 from Type 1934/1934A survivors (Z5-Z16 remaining operational). **WWII destroyer modernization program**. **Enhanced AA armament** (6× 37mm from 4×, 10× 20mm from 6×), **radar installation** (FuMO 21/24/25 - NEW), improved fire control integration. 2,310 tons standard, 5× 12.7cm guns, 8× 533mm torpedoes, 37.8 knots (reduced from 38.9 due to added weight). **Responded to Allied air superiority** threat. Extended combat effectiveness 1942-1945. Maintained destroyer force strength during critical mid-war period.
 

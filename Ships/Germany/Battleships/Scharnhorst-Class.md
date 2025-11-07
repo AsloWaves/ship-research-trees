@@ -1,6 +1,6 @@
 # Scharnhorst-Class Battleships
 
-```yaml
+---
 class_name: Scharnhorst-Class
 hull_numbers: None (SMS naming convention)
 ships_built: 2
@@ -61,7 +61,7 @@ firsts:
 # Tags
 tags: [fast-battleship, scharnhorst-class, 1939, 28cm-guns, 38cm-intended, channel-dash, north-cape, gneisenau, hms-glorious, operation-berlin, 31-knots, atlantic-raiding, ersatz-yorck, kriegsmarine]
 ---
-```
+---
 
 **Germany's Fast Battleships with Gun Compromise** - Based on WWI Ersatz Yorck design, built 1936-1939. 31.5 knots (fastest WWII battleships with Richelieu/Iowa), 350mm belt (thickest German WWII armor!). Armed with 9× 28cm guns (compromise—designed for 6× 38cm, Hitler demanded rapid construction). Sank HMS Glorious + escorts (8 Jun 1940, 1,207 killed). Operation Berlin (Jan-Mar 1941): 22 merchant ships sunk (115,622 GRT). Channel Dash (Feb 1942): Most audacious German operation, escaped Brest to Germany through English Channel (242 RAF bombers, 0 hits). Scharnhorst sunk Battle of North Cape (26 Dec 1943, last European battleship duel, 1,932 killed, 36 survivors = 1.8%). Gneisenau: Magazine explosion (Feb 1942), 80% complete with 38cm refit when Hitler canceled 1943, scuttled 1945.
 

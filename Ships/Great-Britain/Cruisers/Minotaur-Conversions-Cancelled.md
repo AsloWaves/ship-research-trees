@@ -3,7 +3,7 @@
 ## Overview
 Various conversion proposals existed for the incomplete Minotaur-class cruiser hulls after WWII. Plans ranged from guided missile cruisers to aircraft direction ships, helicopter cruisers, and fast minelayers. Most were too expensive and all were cancelled, with only Tiger and Blake completed as modified gun cruisers and later helicopter cruisers.
 
-```yaml
+---
 class_name: Minotaur Conversions (Cancelled)
 hull_numbers: Various
 ships_built: 0
@@ -29,7 +29,7 @@ secondary_guns: "Various proposals"
 torpedo_tubes: 0
 aircraft: "Varies by proposal"
 tags: [cruiser, conversions, cancelled, minotaur-class, 1950s, proposals]
-```
+---
 
 ## Incomplete Ships
 

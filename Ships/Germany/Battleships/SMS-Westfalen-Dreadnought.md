@@ -1,6 +1,6 @@
 # SMS Westfalen Dreadnought (1909 HEXAGONAL LAYOUT - First German Dreadnoughts!)
 
-```yaml
+---
 class_name: SMS Westfalen (Nassau-class - First German Dreadnoughts!)
 hull_numbers: SMS Westfalen
 ships_built: 1 (second Nassau-class ship)
@@ -232,7 +232,7 @@ firsts:
 # Tags
 tags: [battleship, sms-westfalen, nassau-class, 1909, first-german-dreadnought, hexagonal-layout, 8-gun-broadside, jutland-veteran, scapa-flow, salvaged-1925, design-lesson]
 ---
-```
+---
 
 **HEXAGONAL LAYOUT - 1909 First German Dreadnoughts!** - Nassau-class (commissioned November 16, 1909). **21,000 tons**, **20.2 KNOTS**, **12× 28cm (11") guns** - **HEXAGONAL LAYOUT!** (UNIQUE!). **ONLY 8-GUN BROADSIDE** (inefficient!). Wing turrets limited arcs! Triple-expansion engines (NOT turbines yet!). **FIRST GERMAN DREADNOUGHT CLASS!** **ALL-BIG-GUN** design! Krupp armor (300mm belt!). **BATTLE OF JUTLAND** (May 31-June 1, 1916) - veteran! Hit by **2 shells** (minor damage!). **HEXAGONAL LIMITATION** exposed! British ships better arcs! **DESIGN LESSON!** (Future German BBs = centerline!). Kaiser class (1912): Superfiring! König class (1914): **ALL CENTERLINE!** **SCAPA FLOW** (Nov 21, 1918). **OPERATION RAINBOW** (June 21, 1919) - scuttled! **SALVAGED 1924-1925** (one of first!). Scrapped Rosyth 1925! **DREADNOUGHT PIONEER!**
 

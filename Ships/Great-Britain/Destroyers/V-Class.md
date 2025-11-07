@@ -3,7 +3,7 @@
 ## Overview
 The V-class were revolutionary destroyers that broke from the alphabet-class formula with increased size, heavier armament (four 4-inch guns), and superior speed. Together with the W-class, they formed the famous V&W classes - 67 ships total that were considered the finest destroyers of their era and served into WWII.
 
-```yaml
+---
 class_name: V-Class
 hull_numbers: Various V-series
 ships_built: 28
@@ -29,7 +29,7 @@ secondary_guns: "1× 3-inch AA"
 torpedo_tubes: "6× 21-inch (2 triple)"
 aircraft: 0
 tags: [destroyer, v-class, 1917, ww1, ww2-service, revolutionary-design, v-and-w]
-```
+---
 
 ## Specifications
 

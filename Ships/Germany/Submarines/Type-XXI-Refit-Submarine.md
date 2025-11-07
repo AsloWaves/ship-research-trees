@@ -1,6 +1,6 @@
 # Type XXI Refit (Post-War Improvements - Elektroboot Upgrade)
 
-```yaml
+---
 class_name: Type XXI Refit (Post-War Elektroboot Upgrade)
 hull_numbers: Selected Type XXI boats (Allied post-war service)
 ships_built: 15-20 (estimates of Type XXI boats refitted post-war)
@@ -70,7 +70,7 @@ firsts:
 # Tags
 tags: [submarine, type-xxi, refit, post-war, elektroboot-upgrade, 18-knots-submerged, battery-upgrade, sonar-upgrade, allied-service, soviet-service, longest-serving, 1945-1980s]
 ---
-```
+---
 
 **Post-War Improvements - Elektroboot Upgrade** - 15-20 boats refitted 1945-1960s: Selected Type XXI boats in Allied/Soviet post-war service. **POST-WAR ELEKTROBOOT UPGRADE!** **18 KNOTS SUBMERGED** (improved from 17.2 kts!). **Enhanced battery capacity** (4th generation!). **5000 HP electric motors** (upgraded from 4400 HP!). Post-war sonar systems (Allied/Soviet upgrades). Modern fire control computers. Improved schnorkel. VLF radio communication. 1621 tons, 6× torpedo tubes, 23 torpedoes, automated loading. Allied/Soviet operational testing validated Type XXI revolutionary design. **Longest-serving German submarine** (1944-1980s! 40+ years!). Influenced all 1950s submarine development worldwide.
 

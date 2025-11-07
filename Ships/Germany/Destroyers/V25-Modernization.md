@@ -1,6 +1,6 @@
 # V25-Class Modernization (1917 WWI Refit - Enhanced Firepower)
 
-```yaml
+---
 class_name: V25-Class Modernization (1917 WWI Refit)
 hull_numbers: V25-V30, V67-V82, others (selected ships from 71-ship class)
 ships_modernized: ~30 (approx)
@@ -64,7 +64,7 @@ firsts:
 # Tags
 tags: [destroyer, v25-modernization, 1917-refit, ww1, enhanced-firepower, aa-capability, modernization, kaiserliche-marine]
 ---
-```
+---
 
 **First German Destroyer Modernization - 1917 WWI Refit** - ~30 ships modernized 1917-1918 from famous V25-class (71 ships total). **First German destroyer modernization program**. Enhanced **3× 10.5cm guns** (improved fire control), **added AA armament** (1× 8.8cm AA gun - NEW for V25), improved fire control systems. 705 tons standard, 6× 50cm torpedoes, 33.5 knots (reduced from 34.5 due to added weight). **Maintained combat effectiveness** late WWI (1917-1918). Extended service life to 1919-1920. Established **mid-life upgrade template** for future German destroyer modernizations.
 

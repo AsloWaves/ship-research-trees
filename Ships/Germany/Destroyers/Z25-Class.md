@@ -1,6 +1,6 @@
 # Z25-Class Destroyers (Type 1936A "Narvik Standard" - 150mm Mastery)
 
-```yaml
+---
 class_name: Z25-Class (Type 1936A "Narvik Standard")
 hull_numbers: Z25-Z27
 ships_built: 3
@@ -66,7 +66,7 @@ firsts:
 # Tags
 tags: [destroyer, z25, narvik-standard, type-1936a, 150mm-guns, refined, kriegsmarine, ww2, arctic, french-navy]
 ---
-```
+---
 
 **Narvik Standard Production - 150mm Gun Mastery** - 3 ships commissioned 1940-1941: Z25, Z26, Z27. **Type 1936A "Narvik Standard"** production ships. Refined Z23 design with **150mm gun mastery** (+35% firepower). 2,610 tons standard, **4× 15cm SK C/38 guns**, **8× 533mm torpedoes**, 39.2 knots. Enhanced AA (9× 20mm), better range (5,100 nm). Served entire WWII: **Arctic convoy operations**, **Battle of Barents Sea** (Z25), Atlantic operations. **Z25 survived**: French Navy service as **Hoche** until 1958! Z26 lost 1942 (Arctic), Z27 lost 1942 (Channel). Proven 150mm destroyer concept.
 

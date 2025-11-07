@@ -1,6 +1,6 @@
 # Z50-Class Destroyer (Type 1936C - Last WWII Design, Never Completed)
 
-```yaml
+---
 class_name: Z50-Class (Type 1936C Final)
 hull_numbers: Z50
 ships_built: 1 (never completed)
@@ -65,7 +65,7 @@ firsts:
 # Tags
 tags: [destroyer, z50, type-1936c-final, last-ww2-design, never-completed, most-advanced, ultimate-aa, kriegsmarine, ww2, end-of-line]
 ---
-```
+---
 
 **Last WWII Design - Most Advanced German DD (Never Completed)** - Single ship planned 1945: Z50. **Last Type 1936C** and final WWII German destroyer. **Never completed** (25% construction when war ended). 2,663 tons standard, **4× 12.8cm SK C/41 DP guns**, **8× 533mm torpedoes**, 39.2 knots (estimated). **Ultimate AA armament** (22× 20mm!), **most advanced radar** fire control (planned). **Most advanced WWII German destroyer on paper** - never realized. Scuttled incomplete May 1945. **End of conventional German DD development**.
 

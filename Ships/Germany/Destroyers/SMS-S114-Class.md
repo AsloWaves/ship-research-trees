@@ -1,6 +1,6 @@
 # SMS S114-Class Torpedo Boats
 
-```yaml
+---
 class_name: SMS S114-Class
 hull_numbers: S114-S125
 ships_built: 12
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [torpedo-boat, sms-s114, 1902, coastal-operations, refined-design, 12-ships, kaiserliche-marine, pre-dreadnought, ww1]
 ---
-```
+---
 
 **Refined Coastal Torpedo Boat Design** - 12 ships commissioned 1902-1903: S114-S125. Refined coastal torpedo boat with larger hull and improved range. 485 tons, 3× 5cm guns, 3× 45cm torpedoes, 27.5 knots. +97 tons vs. S90-class for better seakeeping and endurance. Improved range (1,500 nm) for extended North Sea patrols. Proven design with 12 ships built. WWI coastal operations (1914-1918): North Sea patrols, mine-laying, convoy escort. Many losses in WWI from mine/submarine attacks. Most scrapped 1918-1920.
 

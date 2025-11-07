@@ -1,6 +1,6 @@
 # Z46-Class Destroyers (Type 1936C - 128mm Dual-Purpose Guns)
 
-```yaml
+---
 class_name: Z46-Class (Type 1936C)
 hull_numbers: Z46-Z49
 ships_built: 4
@@ -65,7 +65,7 @@ firsts:
 # Tags
 tags: [destroyer, z46, type-1936c, 128mm-dp, advanced, never-completed, paper-ship, kriegsmarine, ww2, ultimate-concept]
 ---
-```
+---
 
 **Type 1936C - 128mm Dual-Purpose, Never Completed** - 4 ships planned 1944: Z46, Z47, Z48, Z49. **Type 1936C** advanced late-war design. **Never completed** due to war's end. 2,657 tons standard, **4× 12.8cm SK C/41 DP guns** (balanced caliber between 127mm and 150mm), **8× 533mm torpedoes**, 39 knots (estimated). **Massive AA** (6× 37mm, 20× 20mm!), advanced radar fire control (planned). Represented **lessons learned** from WWII combat: balanced gun size, dual-purpose capability, heavy AA. **Ultimate German destroyer concept** - never realized.
 

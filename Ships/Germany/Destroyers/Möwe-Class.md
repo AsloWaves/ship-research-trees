@@ -1,6 +1,6 @@
 # Möwe-Class Torpedo Boats (Type 23 - First Post-Versailles)
 
-```yaml
+---
 class_name: Möwe-Class (Type 23)
 hull_numbers: Möwe, Greif, Seeadler, Albatros, Kondor, Falke
 ships_built: 6
@@ -68,7 +68,7 @@ firsts:
 # Tags
 tags: [torpedo-boat, destroyer, möwe, type-23, post-versailles, treaty-restrictions, bird-names, 10.5cm-guns, kriegsmarine, ww2, interwar]
 ---
-```
+---
 
 **First Post-Versailles Treaty Warship - Type 23 "Birds of Prey"** - 6 ships commissioned 1926-1927: **Möwe** (Seagull), Greif (Griffon), Seeadler (Sea Eagle), Albatros, Kondor, Falke. **First German warships after Treaty of Versailles** restrictions (officially under 800 tons, **actually 923 tons**!). 923 tons, **3× 10.5cm SK C/28 guns**, **6× 533mm torpedoes**, 33.5 knots. **First German destroyer with full oil firing** (vs. coal/oil mix). Excellent range (3,100 nm) for extended operations. **Named after birds of prey** (Type 23 naming convention). Maintained German destroyer expertise during treaty period. Served entire WWII (1939-1945): Baltic Sea operations, convoy escort, mine-laying, English Channel operations, Norway campaign. **Many ships survived entire war**, last decommissioned 1946. Proved treaty restrictions could be circumvented while maintaining modern capabilities.
 

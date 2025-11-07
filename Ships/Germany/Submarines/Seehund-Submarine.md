@@ -1,6 +1,6 @@
 # Seehund Type XXVII Midget Submarine (MOST SUCCESSFUL MIDGET - 285 Built, 9 Ships Sunk! 1944)
 
-```yaml
+---
 class_name: Seehund Type XXVII Midget Submarine
 hull_numbers: Multiple series (285 boats total!)
 ships_built: 285
@@ -67,7 +67,7 @@ firsts:
 # Tags
 tags: [submarine, seehund, type-xxvii, midget, most-successful, 285-boats, 9-ships-sunk, 2-man-crew, internal-torpedoes, diesel-engine, combat-effective, kriegsmarine, 1944]
 ---
-```
+---
 
 **MOST SUCCESSFUL MIDGET - 285 Built, 9 Ships Sunk!** - 285 boats commissioned 1944-1945: Multiple series Type XXVII. **MOST SUCCESSFUL MIDGET SUBMARINE!** **"Midget Success" special ability (9 ships sunk + 3 damaged, UNIQUE!)**. **285 BOATS BUILT!** **2-MAN CREW** (vs. Biber/Molch 1-man!). **INTERNAL torpedoes** (vs. external!). **Diesel engine** (vs. gasoline/electric-only!). **14.9 tons surfaced**, **11.9m long (39 ft)**, **2× 53.3cm internal torpedo tubes**. **300 nm range** (6× Molch, 2.3× Biber!). **165 ft diving depth** (2.5× deeper!). 7.7 knots surfaced/6.0 knots submerged. **Sank 9 merchant ships (120,000 tons!)** + damaged 3 more. Combat-effective midget submarine. Proved 2-man crew + diesel + internal torpedoes = success.
 

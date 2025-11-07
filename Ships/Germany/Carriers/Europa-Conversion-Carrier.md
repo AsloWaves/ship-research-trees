@@ -1,6 +1,6 @@
 # Europa Conversion Carrier (1942 Theoretical Liner Conversion)
 
-```yaml
+---
 class_name: Europa Conversion Carrier (Auxiliary Carrier Concept)
 hull_numbers: None (conversion study only)
 ships_built: 0 (theoretical conversion)
@@ -84,7 +84,7 @@ firsts:
 # Tags
 tags: [carrier, europa-conversion, liner-conversion, 1942-study, auxiliary-carrier, theoretical, blue-riband, never-built, merchant-conversion]
 ---
-```
+---
 
 **Merchant Liner Conversion - 1942 Theoretical Study!** - 0 boats: **EUROPA CONVERSION** - **Theoretical conversion of famous Blue Riband liner!** SS Europa (49,746 GRT) was legendary transatlantic passenger liner (launched August 15, 1928) that held **Blue Riband 1930-1933** (fastest Atlantic crossing!). Theoretical 1942 conversion study: **40,000 tons**, **27 kts** (original liner speed!), **25-30 aircraft** (10-12 Bf 109T fighters + 15-18 Ju 87C dive bombers). Flight deck over liner superstructure, modified passenger decks as hangars, minimal armor (merchant hull). **Studied but never pursued** - Germany lacked operational carrier experience to guide effective conversion (unlike Britain's successful merchant conversions like HMS Activity). Europa continued as troop transport instead. **THEORETICAL ONLY** - conversion never attempted. Post-war: seized by France, became CGT Liberté passenger liner.
 

@@ -3,7 +3,7 @@
 ## Overview
 The Minotaur-class were the largest and last British armored cruisers, featuring heavy armament and improved protection. Three ships represented the ultimate development of the armored cruiser concept before battlecruisers made them obsolete. They served through WWI in various roles including fleet operations and trade protection.
 
-```yaml
+---
 class_name: Minotaur Class (Armored Cruiser)
 hull_numbers: Various
 ships_built: 3
@@ -29,7 +29,7 @@ secondary_guns: "16× 12-pounder, 5× 3-pounder"
 torpedo_tubes: "5× 18-inch"
 aircraft: 0
 tags: [cruiser, armored-cruiser, minotaur-class, 1908, last-armored-cruiser, largest-armored-cruiser, wwi]
-```
+---
 
 ## Specifications
 

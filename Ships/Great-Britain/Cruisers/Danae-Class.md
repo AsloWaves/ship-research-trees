@@ -3,7 +3,7 @@
 ## Overview
 The Danae-class (D-class) were improved light cruisers building on C-class experience. Eight ships featured enhanced range, better seakeeping, and uniform 6-inch armament. They served through both world wars with extensive interwar modifications.
 
-```yaml
+---
 class_name: Danae Class (D-class)
 hull_numbers: Various
 ships_built: 8
@@ -29,7 +29,7 @@ secondary_guns: "3× 4-inch AA"
 torpedo_tubes: "12× 21-inch"
 aircraft: 0
 tags: [cruiser, light-cruiser, d-class, danae-class, 1918, ww1, ww2]
-```
+---
 
 ## Specifications
 

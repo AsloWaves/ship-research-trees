@@ -3,7 +3,7 @@
 ## Overview
 The O and P-classes were War Emergency Programme destroyers with 16 ships built 1941-1942 (8 per class). They were simplified fleet destroyers combining lessons from interwar classes with rapid construction requirements. The class saw extensive WWII service across all theaters with heavy losses, particularly in the Mediterranean.
 
-```yaml
+---
 class_name: O/P-Class (Opportune/Paladin Groups)
 hull_numbers: Various
 ships_built: 16 (8 per class)
@@ -29,7 +29,7 @@ secondary_guns: "4× 2-pounder AA, 6-8× 20mm"
 torpedo_tubes: "8× 21-inch (2 quad)"
 aircraft: 0
 tags: [destroyer, o-class, p-class, 1941-1942, war-emergency, ww2-service, fleet-destroyer]
-```
+---
 
 ## Specifications
 

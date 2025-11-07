@@ -1,6 +1,6 @@
 # Type IIA Submarine (Small Coastal - Treaty Limitations 1935)
 
-```yaml
+---
 class_name: Type IIA Submarine (Small Coastal)
 hull_numbers: U-1 to U-6
 ships_built: 6
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [submarine, type-iia, coastal, small, treaty-limitations, 6-boats, training, rearmament, kriegsmarine, 1935]
 ---
-```
+---
 
 **Small Coastal - Treaty Limitations Compliance** - 6 boats commissioned 1935: U-1 to U-6. First post-Versailles coastal submarine built under treaty limitations. 254 tons surfaced (small for treaty compliance), **3× 53.3cm torpedo tubes** (all bow), **5 torpedoes carried**, 13.0 knots surfaced/6.9 knots submerged. **1,600 nm range** (coastal operations), 1× 2cm Flak (light AA). **Training boats** for future U-boat crews. Maintained German submarine expertise during rearmament period. Based on WWI UB-III coastal heritage. Small, simple, effective.
 

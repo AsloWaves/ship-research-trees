@@ -1,6 +1,6 @@
 # John F. Kennedy-Class Supercarrier
 
-```yaml
+---
 class_name: John F. Kennedy-Class
 hull_numbers: CV-67
 ships_built: 1
@@ -46,7 +46,7 @@ firsts:
 # Tags
 tags: [supercarrier, john-f-kennedy, cv-67, conventional, last-oil-fired, 1968, modified-kitty-hawk, gulf-war]
 ---
-```
+---
 
 **Last Oil Carrier** - John F. Kennedy (CV-67) was last conventional-powered carrier built for US Navy. Modified Kitty Hawk-class design commissioned 1968. Served 39 years until 2007.
 

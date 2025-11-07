@@ -1,6 +1,6 @@
 # Gazelle-Class Light Cruisers
 
-```yaml
+---
 class_name: Gazelle-Class
 hull_numbers: Gazelle, Niobe, Nymph, Thetis, Ariadne, Amazone, Medusa, Frauenlob, Arcona, Undine
 ships_built: 10
@@ -62,7 +62,7 @@ firsts:
 # Tags
 tags: [light-cruiser, gazelle-class, 1901, protected-cruiser, first-modern-light-cruiser, 10.5cm-guns, high-seas-fleet, frauenlob-heligoland, niobe-yugoslavia, watertight-construction, kaiserliche-marine, ww1]
 ---
-```
+---
 
 **First Modern Light Cruiser Design (1901)** - 10 ships built (1901-1904), established worldwide light cruiser standard. 2,644 tons, 10× 10.5cm guns, 21.5 knots. Revolutionary watertight cellular construction, Schulz-Thornycroft water-tube boilers. Designed for High Seas Fleet scouting, not colonial service like predecessors. WWI service: SMS Frauenlob became first German cruiser sunk in WWI (Battle of Heligoland Bight, 28 Aug 1914, 320 killed). SMS Niobe transferred to Yugoslavia 1925, survived WWII as Dalmacija. Gazelle-class established design principles used throughout WWI.
 

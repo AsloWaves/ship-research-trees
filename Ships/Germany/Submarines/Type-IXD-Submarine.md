@@ -1,6 +1,6 @@
 # Type IXD Submarine (ULTRA LONG RANGE - 23,700 nm! 1942)
 
-```yaml
+---
 class_name: Type IXD Submarine (Ultra Long-Range)
 hull_numbers: U-177 to U-182, U-195 to U-200, U-847 to U-852, U-859 to U-864, U-871 to U-876, U-883, U-1231
 ships_built: 28+
@@ -64,7 +64,7 @@ firsts:
 # Tags
 tags: [submarine, type-ixd, ultra-long-range, 23700-nm, unprecedented, 28-boats, indian-ocean, kriegsmarine, 1942]
 ---
-```
+---
 
 **ULTRA LONG RANGE - 23,700 nm! (+130%!)** - 28+ boats commissioned 1942-1944: U-177 to U-1231 series. **UNPRECEDENTED 23,700 nm range!** **"Ultra Long Range" special ability (+130% endurance over Type IXA, UNIQUE!)**. 1616 tons surfaced (**LARGEST Type IX!**), **6× 53.3cm torpedo tubes**, **24 torpedoes** (most Type IX!), 19.2 knots surfaced/6.9 knots submerged. **287.4 ft long** (36 ft longer than IXC/40!). **Indian Ocean operations** from Penang, Malaysia. **Cape Town to Australia range!** **Germany to Japan voyages!** Ultimate Type IX evolution. Operated globally with unmatched endurance.
 

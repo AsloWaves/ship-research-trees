@@ -3,7 +3,7 @@
 ## Overview
 The B-class were improved A-class submarines, with 11 boats built 1904-1906. They featured modest improvements in speed, range, and habitability while retaining the petrol-electric propulsion system. They represented incremental development before the transition to diesel propulsion with the D-class.
 
-```yaml
+---
 class_name: B-Class Submarine
 hull_numbers: B1-B11
 ships_built: 11
@@ -24,7 +24,7 @@ crew: 15
 armament: "2× 18-inch torpedo tubes (bow)"
 torpedoes: 4
 tags: [submarine, b-class, 1904-1906, petrol-electric, coastal, improved-a-class]
-```
+---
 
 ## Specifications
 

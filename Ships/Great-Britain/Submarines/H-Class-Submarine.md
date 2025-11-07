@@ -3,7 +3,7 @@
 ## Overview
 The H-class were mass-produced coastal submarines with 44 boats built 1915-1920. Designed for rapid wartime production, many were built in the United States and Canada before being shipped to Britain. The class represented economical, effective coastal defense submarines that saw limited WWI service but extensive post-war use with foreign navies.
 
-```yaml
+---
 class_name: H-Class Submarine
 hull_numbers: H1-H51 (H45-H51 cancelled)
 ships_built: 44 (+ 7 cancelled)
@@ -24,7 +24,7 @@ crew: 22
 armament: "4× 21-inch torpedo tubes (bow)"
 torpedoes: 8
 tags: [submarine, h-class, 1915-1920, mass-produced, coastal-submarine, us-built, canada-built, ww1-service]
-```
+---
 
 ## Specifications
 

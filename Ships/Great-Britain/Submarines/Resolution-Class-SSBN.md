@@ -3,7 +3,7 @@
 ## Overview
 The Resolution-class were nuclear-powered ballistic missile submarines (SSBNs) with 4 boats built 1964-1968. They were Britain's first SSBNs, providing the UK's continuous at-sea nuclear deterrent from 1969 to 1996. Armed with Polaris missiles, they represented Britain's independent strategic nuclear capability during the Cold War, maintaining continuous deterrent patrols for 27 years.
 
-```yaml
+---
 class_name: Resolution-Class (SSBN)
 hull_numbers: S22-S27 (Resolution, Repulse, Renown, Revenge)
 ships_built: 4
@@ -24,7 +24,7 @@ crew: 143 (2 crews per boat - Port and Starboard)
 armament: "16× Polaris A3TK SLBM, 6× 21-inch torpedo tubes"
 missiles: 16 Polaris A3TK (later Chevaline)
 tags: [submarine, resolution-class, ssbn, 1964-1968, nuclear-powered, polaris-missiles, strategic-deterrent, cold-war, continuous-at-sea]
-```
+---
 
 ## Specifications
 

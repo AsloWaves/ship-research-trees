@@ -1,6 +1,6 @@
 # Type 1944 Destroyer (Most Advanced WWII Design - Never Built)
 
-```yaml
+---
 class_name: Type 1944 Destroyer (Most Advanced WWII Design)
 hull_numbers: None assigned
 ships_built: 0 (paper design only)
@@ -65,7 +65,7 @@ firsts:
 # Tags
 tags: [destroyer, type-1944, most-advanced, paper-design, 6x128mm-guns, diesel-powered, extreme-range, ultimate-concept, kriegsmarine]
 ---
-```
+---
 
 **Most Advanced WWII Design - Ultimate Firepower & Range (Never Built)** - Paper design 1945: Type 1944 destroyer. **MOST ADVANCED WWII DESTROYER DESIGN!** Paper only - never reached construction. 3,200 tons standard, **6× 12.8cm SK C/41 DP guns** (MOST FIREPOWER!), **8× 533mm torpedoes**, 39 knots (estimated). **8× MAN diesel engines** (80,000 SHP!), **EXTREME RANGE** (10,000 nm!), **heaviest AA** (24× 20mm!), **light armor** (20mm belt, 15mm deck), most advanced radar/FCS. **Combined all WWII lessons learned**: balanced firepower, extreme range, diesel efficiency, heavy AA, light protection. **Ultimate German destroyer concept** - never realized.
 

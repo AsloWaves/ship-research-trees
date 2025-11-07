@@ -3,7 +3,7 @@
 ## Overview
 HMS Daring and HMS Decoy were among the first torpedo boat destroyers, built by Thornycroft in 1893. They competed directly with the Havock-class for the title of "first destroyer" and featured Thornycroft's alternative design approach with slightly different characteristics but the same 26-knot speed requirement.
 
-```yaml
+---
 class_name: Daring Class (TBD)
 hull_numbers: D06, D30
 ships_built: 2
@@ -29,7 +29,7 @@ secondary_guns: 0
 torpedo_tubes: "3× 18-inch"
 aircraft: 0
 tags: [destroyer, tbd, daring-class-tbd, 1893, first-destroyer, thornycroft, 26-knotter]
-```
+---
 
 ## Specifications
 

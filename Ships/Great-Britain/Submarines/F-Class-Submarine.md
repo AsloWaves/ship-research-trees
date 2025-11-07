@@ -3,7 +3,7 @@
 ## Overview
 The F-class were coastal submarines with 3 boats built 1913-1916. They were designed as improved C-class coastal boats but incorporated diesel propulsion, representing a diesel-powered coastal design parallel to the fleet E-class. All three saw WWI service with one loss.
 
-```yaml
+---
 class_name: F-Class Submarine
 hull_numbers: F1-F3
 ships_built: 3
@@ -24,7 +24,7 @@ crew: 19
 armament: "3× 18-inch torpedo tubes (2 bow, 1 stern)"
 torpedoes: 6
 tags: [submarine, f-class, 1913-1916, coastal-submarine, diesel-electric, ww1-service]
-```
+---
 
 ## Specifications
 
