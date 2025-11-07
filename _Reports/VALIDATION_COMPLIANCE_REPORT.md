@@ -15,7 +15,7 @@
 
 ## Issue Breakdown
 
-- **YAML Format Issues**: 16 files
+- **YAML Format Issues**: 2 files
 - **Too Short**: 292 files (likely incomplete)
 - **Missing Sections**: 2954 files
 
@@ -24,107 +24,107 @@
 ### Ships
 
 - `Ships\USA\Battleships\Alaska-Class.md` (122 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Colorado-Class.md` (69 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Connecticut-Class.md` (65 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Delaware-Class.md` (70 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Florida-Class.md` (70 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Illinois-Class.md` (69 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Indiana-Class-BB.md` (68 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Iowa-Class-BB-4.md` (63 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Iowa-Class.md` (94 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Kearsarge-Class.md` (69 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Lexington-Class-Battlecruiser.md` (128 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Maine-Class-BB.md` (65 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Montana-Class.md` (124 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Nevada-Class.md` (68 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\New Mexico-Class.md` (71 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\New York-Class-BB.md` (70 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\North Carolina-Class.md` (69 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Pennsylvania-Class.md` (70 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\South Carolina-Class.md` (68 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\South Dakota-Class-1920.md` (135 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\South Dakota-Class-BB.md` (71 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Tennessee-Class-BB.md` (70 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Tillman-Maximum-Battleships.md` (262 lines)
   - Too long: 262 lines (expected 60-100)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Virginia-Class-BB.md` (72 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Battleships\Wyoming-Class.md` (70 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Bogue-Class.md` (64 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Casablanca-Class.md` (69 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Commencement-Bay-Class.md` (69 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\CVV-Medium-Carrier.md` (145 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Enterprise-Class-CVN.md` (65 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Essex-Class.md` (71 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Essex-SCB-27A-Class.md` (75 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Essex-SCB-27C-Class.md` (78 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Forrestal-Class.md` (69 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Gerald R. Ford-Class.md` (78 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Independence-Class.md` (65 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\John-F-Kennedy-Class.md` (72 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Kitty Hawk-Class.md` (68 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Langley-Class.md` (63 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Lexington-Class-CV.md` (63 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Midway-Class.md` (68 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Midway-SCB-110-Class.md` (80 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Nimitz-Class.md` (70 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Nimitz-CVN-71-Class.md` (82 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Ranger-Class.md` (62 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Saipan-Class.md` (66 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Sea-Control-Ship-SCS.md` (231 lines)
   - Too long: 231 lines (expected 60-100)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Thetis-Bay-Class.md` (68 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\United States-Class-CVA-58.md` (105 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 - `Ships\USA\Carriers\Wasp-Class-CV.md` (61 lines)
-  - Missing sections: Overview, Specifications, Performance, Armament
+  - Missing sections: YAML-only structure (no markdown sections)
 
 **Total Ships Non-Compliant:** 756
 

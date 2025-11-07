@@ -186,6 +186,7 @@
   },
   "active": "67ece1643beaca7f",
   "lastOpenFiles": [
+    "_Scripts/analyze_structure.py",
     "_Scripts/find_yaml_issues.py",
     "Aircraft/Japan/Land-Utility-Helo/UH-60J Kai.md",
     "Aircraft/Japan/Land-Utility-Helo/UH-60J Black Hawk.md",
@@ -221,7 +222,6 @@
     "Aircraft/Great-Britain/Naval-Dive-Bomber",
     "_Scripts/validate_files.py",
     "Ships/USA/Transports-Amphibious/sedcxdiVr",
-    "Ships/USA/Transports-Amphibious/sedX7htfm",
     "Ships/Research-Trees/USA Destroyer Ship Tree.canvas",
     "Ships/USA/USA Ship Tree.canvas",
     "Ships/Great Britain/GB Ship Tree 1.canvas",

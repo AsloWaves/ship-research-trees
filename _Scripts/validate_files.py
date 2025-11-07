@@ -46,6 +46,14 @@ def check_required_sections(filepath, required_sections):
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
 
+        # Count any markdown sections (## headers)
+        markdown_section_count = content.count('\n## ')
+
+        # If file has NO markdown sections at all, it's using YAML-only structure
+        if markdown_section_count == 0:
+            return ['YAML-only structure (no markdown sections)']
+
+        # Otherwise, check for specific required sections
         missing = []
         for section in required_sections:
             if f'## {section}' not in content:
