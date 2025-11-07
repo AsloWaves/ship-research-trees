@@ -1,8 +1,8 @@
 # USA Aircraft Carriers Database
 
 **Export Date**: October 10, 2025
-**Database Version**: 1.0
-**Total Records**: 15 carriers (1920-1990 coverage)
+**Database Version**: 1.1
+**Total Records**: 16 carriers (1920-1990 coverage)
 
 ---
 
@@ -654,6 +654,129 @@ Refit_Time_Months: NULL
 Modded: 0
 
 Notes: THE WWII carrier. 24 ships built (CV-9 through CV-21, CV-31 through CV-47). Larger than Yorktown, 33 kts, 90-100 aircraft. Mass produced in 20 months. Powerful AA armament (52× 20mm, 40× 40mm Bofors, 12× 5"/38). 3 elevators for efficient ops. Bow-edge elevator pioneered on this class. Many received SCB-27 modernizations (angled deck, steam cats) and served into 1970s-1990s. CV-9 Essex served 1942-1973 (31 years!).
+```
+
+---
+
+### **Essex Interim Variant - 1947 Post-War Refit**
+
+#### USS Essex (CV-9) - 1947 Post-War Refit
+
+```
+Ship_ID: 11010
+Country: USA
+Ship_Name: USS Essex (CV-9)
+Ship_Class: Essex-class
+Hull_Variant: 1947 Post-War Refit
+Base_Hull_ID: 11005
+Hull_Number: CV-9
+Ship_Type: CV
+Ship_Type_Full: Aircraft Carrier
+Subtype: Fleet Carrier (upgraded)
+
+HISTORY:
+Year_Laid_Down: 1941
+Year_Launched: 1942
+Year_Commissioned: 1942 (refitted 1947)
+Year_Decommissioned: 1973
+Year_Fate: 1975
+Fate: Scrapped 1975
+
+DIMENSIONS:
+Displacement_Standard_TONS: 27800
+Displacement_Full_TONS: 37100
+Length_Overall_FT: 872.00
+Length_Waterline_FT: 820.00
+Beam_FT: 93.00
+Draft_FT: 28.90
+Turning_Radius_YD: 1000
+
+CREW:
+Crew_Officers_Min: 150
+Crew_Enlisted_Min: 1950
+Crew_Total_Min: 2100
+Crew_Officers: 185
+Crew_Enlisted: 2480
+Crew_Total: 2665
+Crew_Officers_Max: 210
+Crew_Enlisted_Max: 2850
+Crew_Total_Max: 3060
+
+HARDPOINTS - DEFENSIVE ARMAMENT (UPGRADED):
+Hardpoint_Main_Battery: NULL
+Hardpoint_Main_Count: 0
+Hardpoint_Main_Size: NULL
+Hardpoint_Secondary_Battery: 12× Single-5in/38 DP
+Hardpoint_Secondary_Count: 12
+Hardpoint_Secondary_Size: DP-5in
+Hardpoint_AA_Light: 68× 40mm Quad Bofors ⭐ INCREASED from 40
+Hardpoint_AA_Light_Count: 68
+Hardpoint_AA_Close: 24× 20mm Oerlikon ⭐ REDUCED from 52 (lesson from Okinawa)
+Hardpoint_AA_Close_Count: 24
+Hardpoint_Torpedo: NULL
+Hardpoint_Torpedo_Count: 0
+Hardpoint_Missile_VLS: NULL
+Hardpoint_Missile_VLS_Cells: 0
+Hardpoint_Missile_Launcher: NULL
+Hardpoint_Missile_Launcher_Count: 0
+Hardpoint_CIWS: NULL
+Hardpoint_CIWS_Count: 0
+
+FLIGHT OPERATIONS:
+Flight_Deck_Length_FT: 862.00
+Flight_Deck_Width_FT: 108.00
+Flight_Deck_Armor_IN: 0.00
+Hardpoint_Catapult_Type: Hydraulic-H (H-4-B improved model)
+Hardpoint_Catapult_Count: 2
+Hardpoint_Catapult_Layout: 2 Bow
+Hardpoint_Elevator_Count: 3 (2 centerline + 1 deck-edge)
+Hardpoint_Elevator_Capacity_LBS: 16000 (upgraded)
+Hangar_Deck_Length_FT: 654.00
+Hangar_Deck_Width_FT: 70.00
+Hangar_Deck_Height_FT: 17.50
+Aircraft_Capacity_Normal: 90
+Aircraft_Capacity_Maximum: 108
+Aircraft_Capacity_Deck_Park: 36
+Aircraft_Capacity_Hangar: 72
+
+MODULE SLOTS:
+Module_Slot_Engine_Boilers: 8
+Module_Slot_Engine_Turbines: 4
+Module_Slot_Engine_Reactors: 0
+Module_Slot_FCS_Directors: 3
+Module_Slot_Radar_Masts: 4 ⭐ UPGRADED (SK-2, SM, SR height-finding)
+Module_Slot_Radar_Arrays: 0
+Module_Slot_Sonar_Bow: 0
+Module_Slot_Sonar_Towed: 0
+Module_Slot_Helicopter_Deck: 0
+Module_Slot_Catapults: 2
+
+CAPACITY:
+Magazine_Capacity_Main_TONS: 0
+Magazine_Capacity_Secondary_TONS: 300
+Magazine_Capacity_AA_TONS: 200 (increased for more 40mm)
+Magazine_Capacity_Torpedo_TONS: 0
+Magazine_Capacity_Missile_TONS: 0
+Magazine_Capacity_Total_TONS: 500
+Ordnance_Capacity_Aircraft_TONS: 620
+Fuel_Capacity_TONS: 6330
+Supply_Hold_TONS: 650
+Aviation_Fuel_TONS: 800
+
+PROPULSION:
+Propulsion_Type: Steam turbine, geared
+Max_Speed_KTS: 32.80
+Range_NM: 20000
+Cruise_Speed_KTS: 15.00
+
+COST & BUILD:
+Cost_USD: 68000000 (original cost)
+Build_Time_Months: 20 (original build)
+Refit_Cost_USD: 8500000
+Refit_Time_Months: 6
+Modded: 0
+
+Notes: Post-WWII interim refit incorporating Okinawa campaign lessons. Increased 40mm Bofors from 40 to 68 guns (17 quad mounts) - Pacific experience showed 40mm far more effective than 20mm. Reduced 20mm from 52 to 24 guns. Upgraded radar suite: added SM fighter direction radar, SR height-finding radar, improved SK-2 air search. Strengthened elevators to 16,000 lbs for heavier aircraft. Improved hydraulic catapults (H-4-B model). NOT yet jet-capable (still straight deck, no steam cats). This configuration typical of Essex-class carriers serving 1947-1951 before full SCB-27 modernization. Ships like Boxer, Valley Forge, Philippine Sea retained similar configurations throughout Korean War. Moderate cost ($8.5M) and quick (6 months) compared to SCB-27 ($40M, 24 months).
 ```
 
 ---
@@ -1392,11 +1515,11 @@ Notes: ULTIMATE carrier design! Perfected nuclear carrier with 2× A4W reactors 
 
 ## Summary
 
-**Total USA Carriers in Database**: 11 ships covering 1920-1990
+**Total USA Carriers in Database**: 12 ships covering 1920-1990
 - **Tier 1**: Langley (experimental)
 - **Tier 2**: Lexington, Saratoga (battlecruiser conversions)
 - **Tier 3**: Ranger (weak), Yorktown (perfect design)
-- **Tier 4**: Essex (WWII workhorse), Essex SCB-27A (modernized for jets)
+- **Tier 4**: Essex (WWII workhorse), Essex 1947 Refit (interim upgrades), Essex SCB-27A (modernized for jets)
 - **Tier 5**: Midway (armored carrier)
 - **Tier 6**: Forrestal (first supercarrier), Kitty Hawk (improved)
 - **Tier 7**: Enterprise CVN-65 (first nuclear), Nimitz (ultimate)

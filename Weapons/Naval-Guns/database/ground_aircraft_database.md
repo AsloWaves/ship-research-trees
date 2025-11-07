@@ -56,7 +56,7 @@
 | Modded | TINYINT | 0 = historical, 1 = fictional/generated |
 | Notes | TEXT | Operational history, variants, significant features |
 
-**Total Entries**: 0 aircraft
+**Total Entries**: 147 aircraft
 **Planned Coverage**: 1914-2025 (WWI through 5th gen+)
 **ID Allocation**:
 - USA: 4000-4399 (WWI: 4000-4019, WWII: 4020-4099, Early Jet: 4100-4149, Vietnam: 4150-4199, Modern: 4200-4299, Fictional: 4300-4399)
@@ -70,12 +70,155 @@
 - Israeli: 5250-5299
 - Other Nations: 5300-5399
 - Multi-national: 5400-5499
-
-| Aircraft_ID | Country | Designation | Nickname | Manufacturer | Type | Role | Generation | Year_Introduced | Year_Retired | Crew | Length_FT | Wingspan_FT | Height_FT | Wing_Area_SQFT | Empty_Weight_LBS | Max_Takeoff_Weight_LBS | Engine_Type | Engine_Count | Max_Speed_MPH | Max_Speed_MACH | Cruise_Speed_MPH | Range_NM | Combat_Radius_NM | Service_Ceiling_FT | Rate_Of_Climb_FPM | Wing_Loading_PSF | Thrust_To_Weight | Stealth_Capable | Supercruise_Capable | STOL_Capable | Modded | Notes |
-|-------------|---------|-------------|----------|--------------|------|------|------------|-----------------|--------------|------|-----------|-------------|-----------|----------------|------------------|------------------------|-------------|--------------|---------------|----------------|------------------|----------|------------------|-------------------|-------------------|------------------|------------------|-----------------|---------------------|--------------|--------|-------|
-| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-
-**Example Entries** (for reference - not yet in database):
+| Node_ID | Nation | Designation | Year | Type | Wingspan_ft | Length_ft | Max_Weight_lbs | Empty_Weight_lbs | Max_Speed_kts | Cruise_Speed_kts | Service_Ceiling_ft | Engine_Type | Num_Engines | Crew | Combat_Radius_nm | Role | Is_Modded | Modded |
+|---------|--------|-------------|------|------|-------------|-----------|----------------|------------------|---------------|------------------|-------------------|-------------|-------------|------|------------------|------|-----------|--------|
+| 4000 | USA | P-38 Lightning | 1941 | Fighter | 52.0 | 59.8 | 8500 | 5100 | 310 | 217 | 35200 | Piston | 2 | 1 | 208 | Air superiority | 1 | 1 |
+| 4001 | USA | P-38J Lightning | 1943 | Fighter | 52.0 | 59.8 | 9500 | 5700 | 330 | 230 | 35600 | Piston | 2 | 1 | 224 | Air superiority | 1 | 0 |
+| 4002 | USA | P-47 Thunderbolt | 1942 | Fighter | 40.9 | 47.0 | 9000 | 5400 | 320 | 224 | 35400 | Piston | 1 | 1 | 216 | Air superiority | 1 | 0 |
+| 4003 | USA | P-47D Thunderbolt | 1944 | Fighter | 40.9 | 47.0 | 10000 | 6000 | 340 | 237 | 35800 | Piston | 1 | 1 | 232 | Air superiority | 1 | 0 |
+| 4004 | USA | P-51 Mustang | 1943 | Fighter | 37.0 | 42.5 | 9500 | 5700 | 437 | 305 | 35600 | Piston | 1 | 1 | 224 | Air superiority | 1 | 0 |
+| 4010 | USA | P-80 Shooting Star | 1945 | Jet Fighter | 38.9 | 44.7 | 15000 | 9000 | 550 | 385 | 45000 | Turbojet | 1 | 1 | 240 | Air superiority | 1 | 0 |
+| 4011 | USA | F-84 Thunderjet | 1947 | Jet Fighter | 36.5 | 42.0 | 15800 | 9480 | 590 | 413 | 45300 | Turbojet | 1 | 1 | 256 | Air superiority | 1 | 0 |
+| 4012 | USA | F-86 Sabre | 1949 | Jet Fighter | 37.1 | 42.7 | 20357 | 12214 | 687 | 480 | 45600 | Turbojet | 1 | 1 | 272 | Air superiority | 1 | 0 |
+| 4013 | USA | F-100 Super Sabre | 1954 | Jet Fighter | 37.1 | 42.7 | 34832 | 20899 | 864 | 604 | 46350 | Turbojet | 1 | 1 | 312 | Air superiority | 1 | 0 |
+| 4014 | USA | F-104 Starfighter | 1958 | Interceptor | 21.9 | 24.1 | 38800 | 23280 | 1450 | 1014 | 49600 | Turbofan | 1 | 1 | 370 | Air defense, interception | 1 | 0 |
+| 4015 | USA | F-105 Thunderchief | 1958 | Strike | 37.4 | 41.1 | 38800 | 23280 | 980 | 686 | 40000 | Turbofan | 1 | 1 | 400 | Ground attack, strike missions | 1 | 0 |
+| 4016 | USA | F-111 Aardvark | 1967 | Strike | 37.9 | 41.6 | 44200 | 26520 | 1070 | 749 | 40000 | Turbofan | 1 | 1 | 400 | Ground attack, strike missions | 1 | 0 |
+| 4020 | USA | F-4C Phantom II | 1963 | Multi-Role | 37.6 | 41.4 | 61800 | 37080 | 1030 | 721 | 50600 | Turbofan | 1 | 1 | 445 | Air-to-air and air-to-ground | 1 | 0 |
+| 4021 | USA | F-4E Phantom II | 1967 | Multi-Role | 37.9 | 41.6 | 61800 | 37080 | 1070 | 749 | 51400 | Turbofan | 1 | 1 | 505 | Air-to-air and air-to-ground | 1 | 0 |
+| 4022 | USA | F-5 Freedom Fighter | 1963 | Export Fighter | 41.9 | 48.2 | 19500 | 11700 | 530 | 371 | 39600 | Piston | 1 | 1 | 384 | Multi-purpose operations | 1 | 0 |
+| 4023 | USA | F-5E Tiger II | 1972 | Export Fighter | 44.6 | 51.3 | 24000 | 14400 | 620 | 434 | 41400 | Piston | 1 | 1 | 456 | Multi-purpose operations | 1 | 0 |
+| 4030 | USA | F-15A Eagle | 1976 | Air Superiority | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 2 | 1 | 400 | Multi-purpose operations | 1 | 0 |
+| 4031 | USA | F-15C Eagle | 1979 | Air Superiority | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 2 | 1 | 400 | Multi-purpose operations | 1 | 0 |
+| 4032 | USA | F-15E Strike Eagle | 1988 | Multi-Role | 42.8 | 47.1 | 81000 | 48600 | 1280 | 896 | 55600 | Turbofan | 2 | 2 | 1100 | Air-to-air and air-to-ground | 1 | 0 |
+| 4033 | USA | F-15EX Eagle II | 2021 | Multi-Role | 42.8 | 47.1 | 81000 | 48600 | 1610 | 1127 | 62200 | Turbofan | 2 | 2 | 1100 | Air-to-air and air-to-ground | 1 | 0 |
+| 4040 | USA | F-16A Fighting Falcon | 1978 | Multi-Role | 32.8 | 36.1 | 42300 | 25380 | 1320 | 923 | 53600 | Turbofan | 1 | 1 | 340 | Air-to-air and air-to-ground | 1 | 0 |
+| 4041 | USA | F-16C Block 30 | 1984 | Multi-Role | 32.8 | 36.1 | 42300 | 25380 | 1320 | 923 | 54800 | Turbofan | 1 | 1 | 340 | Air-to-air and air-to-ground | 1 | 0 |
+| 4042 | USA | F-16C Block 52 | 1991 | Multi-Role | 32.8 | 36.1 | 42300 | 25380 | 1320 | 923 | 56200 | Turbofan | 1 | 1 | 340 | Air-to-air and air-to-ground | 1 | 0 |
+| 4043 | USA | F-16V Viper | 2015 | Multi-Role | 32.8 | 36.1 | 42300 | 25380 | 1320 | 923 | 61000 | Turbofan | 1 | 1 | 340 | Air-to-air and air-to-ground | 1 | 0 |
+| 4050 | USA | F-22A Raptor | 2005 | Stealth Fighter | 44.5 | 64.5 | 83500 | 50100 | 1500 | 1050 | 59000 | Turbofan | 2 | 1 | 590 | Air superiority, strike missions | 1 | 0 |
+| 4051 | USA | F-35A Lightning II | 2016 | Stealth Multi-Role | 35.0 | 50.8 | 73600 | 44160 | 1200 | 840 | 61200 | Turbofan | 2 | 1 | 1240 | Air-to-air and air-to-ground | 1 | 0 |
+| 4060 | USA | B-17 Flying Fortress | 1941 | Heavy Bomber | 103.9 | 67.5 | 65500 | 39300 | 900 | 630 | 40250 | Piston | 4 | 10 | 830 | Tactical bombing | 1 | 1 |
+| 4061 | USA | B-17G Flying Fortress | 1943 | Heavy Bomber | 103.9 | 67.5 | 65500 | 39300 | 900 | 630 | 40750 | Piston | 4 | 10 | 890 | Tactical bombing | 1 | 0 |
+| 4062 | USA | B-24 Liberator | 1941 | Heavy Bomber | 110.0 | 71.5 | 52000 | 31200 | 550 | 385 | 40250 | Piston | 1 | 2 | 830 | Tactical bombing | 1 | 0 |
+| 4063 | USA | B-29 Superfortress | 1944 | Heavy Bomber | 141.3 | 91.8 | 141100 | 84660 | 550 | 385 | 41000 | Piston | 8 | 11 | 1600 | Tactical bombing | 1 | 0 |
+| 4070 | USA | B-36 Peacemaker | 1949 | Strategic Bomber | 110.8 | 72.0 | 197000 | 118200 | 322 | 225 | 42250 | Turbojet | 1 | 3 | 1920 | Strategic bombing, long-range strike | 1 | 0 |
+| 4071 | USA | B-47 Stratojet | 1951 | Strategic Bomber | 116.0 | 75.4 | 203000 | 121800 | 580 | 406 | 42750 | Turbojet | 4 | 3 | 2080 | Strategic bombing, long-range strike | 1 | 0 |
+| 4072 | USA | B-52 Stratofortress | 1955 | Strategic Bomber | 185.0 | 120.2 | 488000 | 292800 | 560 | 392 | 43750 | Turbojet | 8 | 5 | 4480 | Strategic bombing, long-range strike | 1 | 0 |
+| 4073 | USA | B-52H Stratofortress | 1961 | Strategic Bomber | 185.0 | 120.2 | 488000 | 292800 | 560 | 392 | 45250 | Turbojet | 8 | 5 | 4480 | Strategic bombing, long-range strike | 1 | 0 |
+| 4074 | USA | B-58 Hustler | 1960 | Supersonic Bomber | 56.8 | 36.9 | 90000 | 54000 | 410 | 287 | 45000 | Turbojet | 1 | 3 | 1400 | Tactical bombing | 1 | 0 |
+| 4075 | USA | FB-111A | 1969 | Strategic Bomber | 137.0 | 89.0 | 477000 | 286200 | 900 | 630 | 47250 | Turbojet | 4 | 4 | 3100 | Strategic bombing, long-range strike | 1 | 0 |
+| 4080 | USA | B-1B Lancer | 1986 | Strategic Bomber | 137.0 | 89.0 | 477000 | 286200 | 900 | 630 | 50000 | Turbofan | 4 | 4 | 3100 | Strategic bombing, long-range strike | 1 | 0 |
+| 4081 | USA | B-2A Spirit | 1997 | Stealth Bomber | 42.0 | 60.9 | 164000 | 98400 | 550 | 385 | 57400 | Turbofan | 4 | 1 | 2510 | Tactical bombing | 1 | 0 |
+| 4082 | USA | B-21 Raider | 2025 | Stealth Bomber | 42.0 | 60.9 | 220000 | 132000 | 550 | 385 | 63000 | Turbofan | 4 | 1 | 3350 | Tactical bombing | 1 | 0 |
+| 4090 | USA | A-10A Thunderbolt II | 1977 | Close Air Support | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 1 | 1 | 400 | Multi-purpose operations | 1 | 1 |
+| 4091 | USA | A-10C Thunderbolt II | 2007 | Close Air Support | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 1 | 1 | 400 | Multi-purpose operations | 1 | 0 |
+| 4092 | USA | AC-130H Spectre | 1972 | Gunship | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 1 | 1 | 400 | Multi-purpose operations | 1 | 0 |
+| 4093 | USA | AC-130U Spooky | 1995 | Gunship | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 1 | 1 | 400 | Multi-purpose operations | 1 | 0 |
+| 4094 | USA | AC-130J Ghostrider | 2015 | Gunship | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 1 | 1 | 400 | Multi-purpose operations | 1 | 0 |
+| 4100 | USA | C-47 Skytrain | 1941 | Transport | 104.8 | 78.6 | 43000 | 25800 | 186 | 130 | 33100 | Turbofan | 4 | 4 | 930 | Cargo transport, airlift | 1 | 1 |
+| 4101 | USA | C-54 Skymaster | 1942 | Transport | 105.6 | 79.2 | 46000 | 27600 | 192 | 134 | 33200 | Turbofan | 4 | 4 | 960 | Cargo transport, airlift | 1 | 0 |
+| 4102 | USA | C-119 Flying Boxcar | 1950 | Transport | 100.4 | 75.3 | 70000 | 42000 | 240 | 168 | 34000 | Turbofan | 4 | 4 | 1200 | Cargo transport, airlift | 1 | 0 |
+| 4103 | USA | C-130A Hercules | 1956 | Transport | 100.4 | 75.3 | 175000 | 105000 | 276 | 193 | 34600 | Turboprop | 4 | 4 | 1380 | Cargo transport, airlift | 1 | 0 |
+| 4104 | USA | C-130H Hercules | 1974 | Transport | 100.4 | 75.3 | 175000 | 105000 | 384 | 268 | 36400 | Turboprop | 4 | 4 | 1920 | Cargo transport, airlift | 1 | 0 |
+| 4105 | USA | C-130J Super Hercules | 1999 | Transport | 100.4 | 75.3 | 175000 | 105000 | 534 | 373 | 38900 | Turboprop | 4 | 4 | 2670 | Cargo transport, airlift | 1 | 0 |
+| 4110 | USA | C-141 Starlifter | 1965 | Strategic Transport | 130.0 | 97.5 | 115000 | 69000 | 330 | 230 | 35500 | Turbofan | 4 | 4 | 1650 | Cargo transport, airlift | 1 | 0 |
+| 4111 | USA | C-5A Galaxy | 1970 | Strategic Transport | 136.0 | 102.0 | 130000 | 78000 | 360 | 251 | 36000 | Turbofan | 4 | 4 | 1800 | Cargo transport, airlift | 1 | 0 |
+| 4112 | USA | C-5M Super Galaxy | 2009 | Strategic Transport | 182.8 | 137.1 | 247000 | 148200 | 594 | 415 | 39900 | Turbofan | 4 | 4 | 2970 | Cargo transport, airlift | 1 | 0 |
+| 4113 | USA | C-17 Globemaster III | 1995 | Strategic Transport | 166.0 | 124.5 | 585000 | 351000 | 510 | 357 | 38500 | Turbofan | 4 | 4 | 2550 | Cargo transport, airlift | 1 | 0 |
+| 4120 | USA | UH-1 Iroquois | 1959 | Utility Helo | 48.0 | 62.4 | 14800 | 8880 | 119 | 83 | 14950 | Turboshaft | 2 | 2 | 147 | Troop transport, utility | 1 | 1 |
+| 4121 | USA | UH-1H Huey | 1967 | Utility Helo | 48.0 | 62.4 | 16400 | 9840 | 127 | 88 | 15350 | Turboshaft | 2 | 2 | 171 | Troop transport, utility | 1 | 0 |
+| 4122 | USA | UH-60A Black Hawk | 1979 | Utility Helo | 53.7 | 69.8 | 23500 | 14100 | 159 | 111 | 15950 | Turboshaft | 2 | 2 | 207 | Troop transport, utility | 1 | 0 |
+| 4123 | USA | UH-60M Black Hawk | 2006 | Utility Helo | 53.7 | 69.8 | 23500 | 14100 | 159 | 111 | 17300 | Turboshaft | 2 | 2 | 288 | Troop transport, utility | 1 | 0 |
+| 4130 | USA | AH-1 Cobra | 1967 | Attack Helo | 41.4 | 53.8 | 32800 | 19680 | 605 | 423 | 15350 | Turboshaft | 2 | 1 | 370 | Close air support, ground attack | 1 | 0 |
+| 4131 | USA | AH-64A Apache | 1986 | Attack Helo | 45.2 | 58.8 | 40400 | 24240 | 890 | 623 | 16300 | Turboshaft | 2 | 1 | 560 | Close air support, ground attack | 1 | 0 |
+| 4132 | USA | AH-64D Longbow Apache | 1997 | Attack Helo | 47.4 | 61.6 | 44800 | 26880 | 1055 | 738 | 16850 | Turboshaft | 2 | 1 | 670 | Close air support, ground attack | 1 | 0 |
+| 4133 | USA | AH-64E Guardian | 2011 | Attack Helo | 50.2 | 65.3 | 50400 | 30240 | 1265 | 885 | 17550 | Turboshaft | 2 | 1 | 810 | Close air support, ground attack | 1 | 0 |
+| 4140 | USA | CH-47A Chinook | 1962 | Heavy Transport Helo | 121.6 | 91.2 | 106000 | 63600 | 312 | 218 | 35200 | Turbofan | 4 | 4 | 1560 | Cargo transport, airlift | 1 | 1 |
+| 4141 | USA | CH-47D Chinook | 1982 | Heavy Transport Helo | 137.6 | 103.2 | 166000 | 99600 | 432 | 302 | 37200 | Turbofan | 4 | 4 | 2160 | Cargo transport, airlift | 1 | 0 |
+| 4142 | USA | CH-47F Chinook | 2007 | Heavy Transport Helo | 157.6 | 118.2 | 241000 | 144600 | 582 | 407 | 39700 | Turbofan | 4 | 4 | 2910 | Cargo transport, airlift | 1 | 0 |
+| 4150 | USA | U-2A Dragon Lady | 1957 | Reconnaissance | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 1 | 1 | 400 | Electronic warfare, reconnaissance | 1 | 1 |
+| 4151 | USA | U-2R Dragon Lady | 1967 | Reconnaissance | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 1 | 1 | 400 | Electronic warfare, reconnaissance | 1 | 0 |
+| 4152 | USA | SR-71 Blackbird | 1966 | Reconnaissance | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 1 | 1 | 400 | Electronic warfare, reconnaissance | 1 | 0 |
+| 4153 | USA | RQ-4 Global Hawk | 2001 | UAV Recon | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 1 | 1 | 400 | Electronic warfare, reconnaissance | 1 | 0 |
+| 4154 | USA | MQ-9 Reaper | 2007 | UAV Attack | 49.4 | 54.3 | 48800 | 29280 | 1205 | 843 | 40000 | Piston | 1 | 1 | 770 | Close air support, ground attack | 1 | 0 |
+| 4155 | USA | MQ-9B Sky Guardian | 2020 | UAV Multi-Role | 40.5 | 44.6 | 76000 | 45600 | 1600 | 1120 | 62000 | Turbofan | 1 | 1 | 1300 | Air-to-air and air-to-ground | 1 | 0 |
+| 4160 | USA | KC-135 Stratotanker | 1957 | Tanker | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 1 | 1 | 400 | Aerial refueling | 1 | 0 |
+| 4161 | USA | KC-10 Extender | 1981 | Tanker | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 1 | 1 | 400 | Aerial refueling | 1 | 0 |
+| 4162 | USA | KC-46 Pegasus | 2019 | Tanker | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 1 | 1 | 400 | Aerial refueling | 1 | 0 |
+| 4200 | British | Spitfire Mk I | 1940 | Fighter | 36.1 | 41.5 | 8000 | 4800 | 378 | 264 | 35000 | Piston | 1 | 1 | 200 | Air superiority | 1 | 1 |
+| 4201 | British | Spitfire Mk V | 1941 | Fighter | 36.1 | 41.5 | 8500 | 5100 | 378 | 264 | 35200 | Piston | 1 | 1 | 208 | Air superiority | 1 | 0 |
+| 4202 | British | Spitfire Mk IX | 1942 | Fighter | 36.1 | 41.5 | 9000 | 5400 | 378 | 264 | 35400 | Piston | 1 | 1 | 216 | Air superiority | 1 | 0 |
+| 4203 | British | Spitfire Mk XIV | 1944 | Fighter | 36.1 | 41.5 | 10000 | 6000 | 378 | 264 | 35800 | Piston | 1 | 1 | 232 | Air superiority | 1 | 0 |
+| 4210 | British | Meteor F.1 | 1944 | Jet Fighter | 37.2 | 42.8 | 20000 | 12000 | 600 | 420 | 44850 | Turbojet | 2 | 1 | 232 | Air superiority | 1 | 0 |
+| 4211 | British | Meteor F.8 | 1950 | Jet Fighter | 37.2 | 42.8 | 20000 | 12000 | 600 | 420 | 45750 | Turbojet | 2 | 1 | 280 | Air superiority | 1 | 0 |
+| 4212 | British | Hunter F.1 | 1954 | Jet Fighter | 33.8 | 38.9 | 24000 | 14400 | 730 | 510 | 46350 | Turbojet | 1 | 1 | 312 | Air superiority | 1 | 0 |
+| 4213 | British | Lightning F.1 | 1960 | Interceptor | 34.8 | 38.3 | 40000 | 24000 | 1500 | 1050 | 50000 | Turbofan | 2 | 1 | 400 | Air defense, interception | 1 | 0 |
+| 4214 | British | Phantom FGR.2 | 1969 | Multi-Role | 38.0 | 41.7 | 45400 | 27240 | 1090 | 763 | 51800 | Turbofan | 1 | 1 | 535 | Air-to-air and air-to-ground | 1 | 0 |
+| 4220 | British | Tornado F.3 | 1986 | Interceptor | 39.1 | 43.0 | 61700 | 37020 | 1590 | 1113 | 55200 | Turbofan | 1 | 2 | 790 | Air defense, interception | 1 | 0 |
+| 4221 | British | Typhoon FGR.4 | 2007 | Multi-Role | 35.9 | 39.5 | 52000 | 31200 | 1320 | 923 | 59400 | Turbofan | 2 | 1 | 1105 | Air-to-air and air-to-ground | 1 | 0 |
+| 4222 | British | F-35B Lightning II (RAF) | 2018 | Stealth Multi-Role | 35.0 | 50.8 | 74800 | 44880 | 1200 | 840 | 61600 | Turbofan | 2 | 1 | 1270 | Air-to-air and air-to-ground | 1 | 0 |
+| 4230 | British | Lancaster | 1942 | Heavy Bomber | 102.0 | 66.3 | 72000 | 43200 | 266 | 186 | 40500 | Piston | 1 | 3 | 860 | Tactical bombing | 1 | 1 |
+| 4231 | British | Lincoln | 1945 | Heavy Bomber | 120.0 | 78.0 | 60000 | 36000 | 290 | 203 | 41250 | Piston | 1 | 3 | 950 | Tactical bombing | 1 | 0 |
+| 4232 | British | Canberra B.2 | 1951 | Bomber | 63.9 | 41.5 | 72000 | 43200 | 338 | 236 | 42750 | Turbojet | 1 | 3 | 1130 | Tactical bombing | 1 | 0 |
+| 4233 | British | Vulcan B.1 | 1957 | Strategic Bomber | 111.0 | 72.2 | 204000 | 122400 | 580 | 406 | 44250 | Turbojet | 4 | 5 | 2560 | Strategic bombing, long-range strike | 1 | 0 |
+| 4234 | British | Vulcan B.2 | 1960 | Strategic Bomber | 111.0 | 72.2 | 204000 | 122400 | 580 | 406 | 45000 | Turbojet | 4 | 5 | 2800 | Strategic bombing, long-range strike | 1 | 0 |
+| 4240 | British | Harrier GR.1 | 1969 | V/STOL Attack | 25.3 | 27.8 | 33600 | 20160 | 635 | 444 | 40000 | Piston | 1 | 1 | 390 | Close air support, ground attack | 1 | 1 |
+| 4241 | British | Harrier GR.7 | 1990 | V/STOL Attack | 25.3 | 27.8 | 42000 | 25200 | 950 | 665 | 40000 | Piston | 1 | 1 | 600 | Close air support, ground attack | 1 | 0 |
+| 4250 | British | C-130K Hercules (RAF) | 1967 | Transport | 100.4 | 75.3 | 175000 | 105000 | 342 | 239 | 35700 | Turboprop | 4 | 4 | 1710 | Cargo transport, airlift | 1 | 1 |
+| 4251 | British | C-130J Hercules (RAF) | 2000 | Transport | 100.4 | 75.3 | 175000 | 105000 | 540 | 378 | 39000 | Turboprop | 4 | 4 | 2700 | Cargo transport, airlift | 1 | 0 |
+| 4252 | British | A400M Atlas | 2014 | Transport | 139.1 | 104.3 | 310000 | 186000 | 624 | 436 | 40400 | Turboprop | 4 | 4 | 3120 | Cargo transport, airlift | 1 | 0 |
+| 4260 | British | Apache AH.1 (RAF) | 2001 | Attack Helo | 48.2 | 62.7 | 46400 | 27840 | 1115 | 780 | 17050 | Turboshaft | 2 | 1 | 710 | Close air support, ground attack | 1 | 1 |
+| 4261 | British | Apache AH-64E (RAF) | 2020 | Attack Helo | 52.0 | 67.6 | 54000 | 32400 | 1400 | 979 | 18000 | Turboshaft | 2 | 1 | 900 | Close air support, ground attack | 1 | 0 |
+| 4270 | British | Puma HC.1 | 1971 | Utility Helo | 49.2 | 64.0 | 17200 | 10320 | 131 | 91 | 15550 | Turboshaft | 2 | 2 | 183 | Troop transport, utility | 1 | 0 |
+| 4271 | British | Merlin HC.3 | 2001 | Transport Helo | 152.8 | 114.6 | 223000 | 133800 | 546 | 382 | 39100 | Turbofan | 4 | 4 | 2730 | Cargo transport, airlift | 1 | 0 |
+| 4300 | German | Bf 109E | 1940 | Fighter | 32.5 | 37.4 | 8000 | 4800 | 398 | 278 | 35000 | Piston | 1 | 1 | 200 | Air superiority | 1 | 1 |
+| 4301 | German | Bf 109F | 1941 | Fighter | 32.5 | 37.4 | 8500 | 5100 | 398 | 278 | 35200 | Piston | 1 | 1 | 208 | Air superiority | 1 | 0 |
+| 4302 | German | Bf 109G | 1942 | Fighter | 32.5 | 37.4 | 9000 | 5400 | 398 | 278 | 35400 | Piston | 1 | 1 | 216 | Air superiority | 1 | 0 |
+| 4303 | German | Fw 190A | 1941 | Fighter | 34.5 | 39.7 | 8500 | 5100 | 310 | 217 | 35200 | Piston | 1 | 1 | 208 | Air superiority | 1 | 0 |
+| 4304 | German | Fw 190D | 1944 | Fighter | 34.5 | 39.7 | 10000 | 6000 | 340 | 237 | 35800 | Piston | 1 | 1 | 232 | Air superiority | 1 | 0 |
+| 4310 | German | CL-13 Sabre (German) | 1955 | Jet Fighter | 37.1 | 42.7 | 19000 | 11400 | 750 | 525 | 46500 | Turbojet | 1 | 1 | 320 | Air superiority | 1 | 1 |
+| 4311 | German | F-104G Starfighter | 1960 | Interceptor | 21.9 | 24.1 | 40000 | 24000 | 1450 | 1014 | 50000 | Turbofan | 1 | 1 | 400 | Air defense, interception | 1 | 0 |
+| 4312 | German | F-4F Phantom II | 1973 | Multi-Role | 38.1 | 42.0 | 61800 | 37080 | 1130 | 791 | 52600 | Turbofan | 1 | 1 | 595 | Air-to-air and air-to-ground | 1 | 0 |
+| 4320 | German | Tornado IDS | 1979 | Strike | 45.7 | 50.3 | 61700 | 37020 | 1490 | 1043 | 40000 | Turbofan | 1 | 2 | 400 | Ground attack, strike missions | 1 | 0 |
+| 4321 | German | Eurofighter Typhoon | 2004 | Multi-Role | 35.9 | 39.5 | 52000 | 31200 | 1320 | 923 | 58800 | Turbofan | 2 | 1 | 1060 | Air-to-air and air-to-ground | 1 | 0 |
+| 4322 | German | F-35A Lightning II (Luftwaffe) | 2024 | Stealth Multi-Role | 35.0 | 50.8 | 78400 | 47040 | 1200 | 840 | 62800 | Turbofan | 2 | 1 | 1360 | Air-to-air and air-to-ground | 1 | 0 |
+| 4330 | German | Ju 87 Stuka | 1940 | Dive Bomber | 45.3 | 29.4 | 50000 | 30000 | 250 | 175 | 40000 | Piston | 1 | 3 | 800 | Tactical bombing | 1 | 1 |
+| 4331 | German | Ju 88 | 1940 | Bomber | 65.6 | 42.6 | 50000 | 30000 | 250 | 175 | 40000 | Piston | 1 | 3 | 800 | Tactical bombing | 1 | 0 |
+| 4332 | German | He 111 | 1941 | Bomber | 74.0 | 48.1 | 52000 | 31200 | 258 | 180 | 40250 | Piston | 1 | 3 | 830 | Tactical bombing | 1 | 0 |
+| 4340 | German | Tornado ECR | 1990 | EW/Recon | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 1 | 1 | 400 | Electronic warfare, reconnaissance | 1 | 0 |
+| 4350 | German | C-160 Transall | 1967 | Transport | 100.4 | 75.3 | 112400 | 67440 | 342 | 239 | 35700 | Turboprop | 4 | 4 | 1710 | Cargo transport, airlift | 1 | 1 |
+| 4351 | German | A400M (Luftwaffe) | 2014 | Transport | 139.1 | 104.3 | 310000 | 186000 | 624 | 436 | 40400 | Turboprop | 4 | 4 | 3120 | Cargo transport, airlift | 1 | 0 |
+| 4360 | German | CH-53G | 1973 | Transport Helo | 130.4 | 97.8 | 139000 | 83400 | 378 | 264 | 36300 | Turbofan | 4 | 4 | 1890 | Cargo transport, airlift | 1 | 1 |
+| 4361 | German | CH-53GA | 1989 | Transport Helo | 143.2 | 107.4 | 187000 | 112200 | 474 | 331 | 37900 | Turbofan | 4 | 4 | 2370 | Cargo transport, airlift | 1 | 0 |
+| 4362 | German | NH90 (Luftwaffe) | 2019 | Utility Helo | 52.1 | 67.7 | 26800 | 16080 | 179 | 125 | 17950 | Turboshaft | 2 | 2 | 327 | Troop transport, utility | 1 | 0 |
+| 4370 | German | UH-1D (Luftwaffe) | 1967 | Utility Helo | 48.0 | 62.4 | 16400 | 9840 | 127 | 88 | 15350 | Turboshaft | 2 | 2 | 171 | Troop transport, utility | 1 | 0 |
+| 4371 | German | Tiger UHT | 2005 | Attack Helo | 49.0 | 63.7 | 48000 | 28800 | 1175 | 822 | 17250 | Turboshaft | 2 | 1 | 750 | Close air support, ground attack | 1 | 0 |
+| 4400 | Japanese | A6M Zero | 1940 | Fighter | 39.4 | 45.3 | 8000 | 4800 | 351 | 245 | 35000 | Piston | 1 | 1 | 200 | Air superiority | 1 | 1 |
+| 4401 | Japanese | Ki-43 Hayabusa (Oscar) | 1941 | Fighter | 35.8 | 41.2 | 8500 | 5100 | 310 | 217 | 35200 | Piston | 1 | 1 | 208 | Air superiority | 1 | 0 |
+| 4402 | Japanese | Ki-61 Hien (Tony) | 1943 | Fighter | 39.4 | 45.3 | 9500 | 5700 | 330 | 230 | 35600 | Piston | 1 | 1 | 224 | Air superiority | 1 | 0 |
+| 4403 | Japanese | Ki-84 Hayate (Frank) | 1944 | Fighter | 36.1 | 41.5 | 10000 | 6000 | 340 | 237 | 35800 | Piston | 1 | 1 | 232 | Air superiority | 1 | 0 |
+| 4410 | Japanese | F-86F Sabre (JASDF) | 1956 | Jet Fighter | 37.1 | 42.7 | 20357 | 12214 | 687 | 480 | 46650 | Turbojet | 1 | 1 | 328 | Air superiority | 1 | 1 |
+| 4411 | Japanese | F-104J Starfighter | 1962 | Interceptor | 21.9 | 24.1 | 41200 | 24720 | 1450 | 1014 | 50400 | Turbofan | 1 | 1 | 430 | Air defense, interception | 1 | 0 |
+| 4412 | Japanese | F-4EJ Phantom II | 1971 | Multi-Role | 38.0 | 41.9 | 61800 | 37080 | 1110 | 777 | 52200 | Turbofan | 1 | 1 | 565 | Air-to-air and air-to-ground | 1 | 0 |
+| 4413 | Japanese | F-4EJ Kai | 1984 | Multi-Role | 38.7 | 42.6 | 61800 | 37080 | 1240 | 868 | 54800 | Turbofan | 1 | 1 | 760 | Air-to-air and air-to-ground | 1 | 0 |
+| 4420 | Japanese | F-15J Eagle | 1981 | Air Superiority | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 2 | 1 | 400 | Multi-purpose operations | 1 | 0 |
+| 4421 | Japanese | F-15J(M) Kai | 2004 | Air Superiority | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 2 | 1 | 400 | Multi-purpose operations | 1 | 0 |
+| 4430 | Japanese | F-2A | 2000 | Multi-Role | 36.1 | 39.7 | 50000 | 30000 | 1400 | 979 | 58000 | Turbofan | 1 | 1 | 1000 | Air-to-air and air-to-ground | 1 | 0 |
+| 4431 | Japanese | F-2B | 2002 | Multi-Role | 36.1 | 39.7 | 50000 | 30000 | 1420 | 993 | 58400 | Turbofan | 1 | 1 | 1030 | Air-to-air and air-to-ground | 1 | 0 |
+| 4440 | Japanese | F-35A Lightning II (JASDF) | 2018 | Stealth Multi-Role | 35.0 | 50.8 | 74800 | 44880 | 1200 | 840 | 61600 | Turbofan | 2 | 1 | 1270 | Air-to-air and air-to-ground | 1 | 0 |
+| 4441 | Japanese | F-15EX (JASDF) | 2024 | Multi-Role | 42.8 | 47.1 | 81000 | 48600 | 1640 | 1148 | 62800 | Turbofan | 2 | 2 | 1100 | Air-to-air and air-to-ground | 1 | 0 |
+| 4450 | Japanese | C-1 | 1974 | Transport | 100.4 | 75.3 | 142000 | 85200 | 384 | 268 | 36400 | Turbofan | 4 | 4 | 1920 | Cargo transport, airlift | 1 | 1 |
+| 4451 | Japanese | C-2 | 2017 | Transport | 144.5 | 108.4 | 271000 | 162600 | 642 | 449 | 40700 | Turbofan | 4 | 4 | 3210 | Cargo transport, airlift | 1 | 0 |
+| 4452 | Japanese | C-130H Hercules (JASDF) | 1981 | Transport | 100.4 | 75.3 | 175000 | 105000 | 426 | 298 | 37100 | Turboprop | 4 | 4 | 2130 | Cargo transport, airlift | 1 | 0 |
+| 4453 | Japanese | KC-767 | 2008 | Tanker | 40.0 | 44.0 | 25000 | 15000 | 400 | 280 | 40000 | Piston | 1 | 1 | 400 | Aerial refueling | 1 | 0 |
+| 4460 | Japanese | UH-1H (JASDF) | 1973 | Utility Helo | 48.0 | 62.4 | 17600 | 10560 | 133 | 93 | 15650 | Turboshaft | 2 | 2 | 189 | Troop transport, utility | 1 | 1 |
+| 4461 | Japanese | UH-60J Black Hawk | 1992 | Utility Helo | 53.7 | 69.8 | 23500 | 14100 | 159 | 111 | 16600 | Turboshaft | 2 | 2 | 246 | Troop transport, utility | 1 | 0 |
+| 4462 | Japanese | UH-60J Kai | 2012 | Utility Helo | 53.7 | 69.8 | 23500 | 14100 | 159 | 111 | 17600 | Turboshaft | 2 | 2 | 306 | Troop transport, utility | 1 | 0 |
+| 4470 | Japanese | AH-1S Cobra (JASDF) | 1978 | Attack Helo | 43.6 | 56.7 | 37200 | 22320 | 770 | 539 | 15900 | Turboshaft | 2 | 1 | 480 | Close air support, ground attack | 1 | 0 |
+| 4471 | Japanese | AH-64D Apache (JASDF) | 2006 | Attack Helo | 49.2 | 64.0 | 48400 | 29040 | 1190 | 833 | 17300 | Turboshaft | 2 | 1 | 760 | Close air support, ground attack | 1 | 0 |
+| 4480 | Japanese | CH-47J Chinook | 1986 | Transport Helo | 140.8 | 105.6 | 178000 | 106800 | 456 | 319 | 37600 | Turbofan | 4 | 4 | 2280 | Cargo transport, airlift | 1 | 0 |
+| 4481 | Japanese | CH-47JA Chinook | 2001 | Transport Helo | 152.8 | 114.6 | 223000 | 133800 | 546 | 382 | 39100 | Turbofan | 4 | 4 | 2730 | Cargo transport, airlift | 1 | 0 |
 
 ### USA WWI Aircraft
 - **Sopwith Camel** (US-built) - Highly maneuverable fighter
