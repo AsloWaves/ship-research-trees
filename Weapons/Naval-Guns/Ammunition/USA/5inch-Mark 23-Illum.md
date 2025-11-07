@@ -8,6 +8,7 @@ projectile_type: Illum
 introduced: 1920
 service_life: 1920-Present
 tags: [5inch, illum, mark-23, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 23 (Illum)

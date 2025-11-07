@@ -5,6 +5,7 @@ nation: USA
 type: Utility Helo
 introduced: 2002
 tags: [naval-aircraft, utility-helo, usa]
+completeness: partial
 ---
 
 # MH-60S Knighthawk

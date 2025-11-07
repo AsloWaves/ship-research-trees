@@ -1,6 +1,5 @@
 # Whidbey Island-Class Dock Landing Ships
 
-```yaml
 ---
 class_name: Whidbey Island-Class-LSD
 hull_numbers: LSD-41 to LSD-48
@@ -61,7 +60,6 @@ firsts:
 # Tags
 tags: [amphibious, lsd, modern, lcac, diesel, well-deck, 1985]
 ---
-```
 
 **LCAC-Optimized Design** - Whidbey Island-class designed specifically for LCAC hovercraft operations. 8 ships. First LSDs with diesel propulsion and significantly expanded well deck.
 

@@ -1,6 +1,5 @@
 # I-351-Class Transport Submarines
 
-```yaml
 ---
 class_name: I-351-Class Transport Submarines
 hull_numbers: I-351, I-352, I-353
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [submarine, i-351-class, transport-submarine, cargo-submarine, no-torpedoes, 300-ton-capacity, 100-percent-loss, desperate-supply, late-war, wwii, imperial-japanese-navy, ijn, 1944, 3-boats]
 ---
-```
 
 **Underwater Transports** - I-351-class were Japanese transport submarines. 3 boats commissioned 1944-1945. Purpose-built cargo submarines - 300 tons cargo capacity, could carry 50-60 troops. No torpedoes (pure transport). Large (3,512/4,290 tons), slow (15.8/6.3 knots). Desperate late-war design for supplying isolated garrisons when surface shipping impossible. All three lost 1945 (100% loss rate). I-351 sunk by USS Bluefish July 1945. Showed Japan's supply crisis - building submarines without weapons to sneak cargo past Allied blockade.
 

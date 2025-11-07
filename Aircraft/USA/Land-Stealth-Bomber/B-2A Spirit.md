@@ -5,6 +5,7 @@ nation: USA
 type: Stealth Bomber
 introduced: 1997
 tags: [ground-aircraft, stealth-bomber, usa]
+completeness: partial
 ---
 
 # B-2A Spirit

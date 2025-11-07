@@ -5,6 +5,7 @@ nation: British
 type: Multi-Role
 introduced: 1968
 tags: [naval-aircraft, multi-role, british]
+completeness: partial
 ---
 
 # Phantom FG.1

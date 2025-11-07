@@ -5,6 +5,7 @@ nation: German
 type: Guided Bomb
 introduced: 1943
 tags: [bomb, naval-bomb, guided-bomb, german]
+completeness: partial
 ---
 
 # Fritz X

@@ -8,6 +8,7 @@ projectile_type: AP
 introduced: 1944
 service_life: 1944-Present
 tags: [12inch, ap, mark-18, usa, ammunition]
+completeness: partial
 ---
 
 # 12" Mark 18 (AP)

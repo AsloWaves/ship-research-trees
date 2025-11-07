@@ -1,6 +1,5 @@
 # Gato-Class Submarines
 
-```yaml
 ---
 class_name: Gato-Class
 hull_numbers: SS-212 to SS-285, SS-361 to SS-363
@@ -45,7 +44,6 @@ firsts:
 # Tags
 tags: [submarine, ss, gato, fleet-submarine, diesel, wwii, mass-production, 1941, legendary, milestone]
 ---
-```
 
 **WWII Workhorse** - Gato-class were backbone of US submarine force in WWII Pacific. 77 boats built. Legendary class that devastated Japanese shipping.
 

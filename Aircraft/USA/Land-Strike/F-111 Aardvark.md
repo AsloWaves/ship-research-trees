@@ -5,6 +5,7 @@ nation: USA
 type: Strike
 introduced: 1967
 tags: [ground-aircraft, strike, usa]
+completeness: partial
 ---
 
 # F-111 Aardvark

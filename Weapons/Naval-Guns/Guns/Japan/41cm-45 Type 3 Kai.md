@@ -6,6 +6,7 @@ caliber: 41cm
 mark: Type 3 Kai
 year: 1936
 tags: [naval-gun, japan, 41cm]
+completeness: stub
 ---
 
 # 41cm/45 Type 3 Kai

@@ -5,6 +5,7 @@ nation: German
 type: Exercise
 introduced: 1975
 tags: [torpedo, exercise, german]
+completeness: partial
 ---
 
 # SUT Exercise

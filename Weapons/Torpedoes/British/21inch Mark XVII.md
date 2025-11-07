@@ -5,6 +5,7 @@ nation: British
 type: Hydrogen Peroxide
 introduced: 1945
 tags: [torpedo, hydrogen-peroxide, british]
+completeness: partial
 ---
 
 # 21" Mark XVII

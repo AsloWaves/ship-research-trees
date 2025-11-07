@@ -5,6 +5,7 @@ nation: German
 type: Acoustic
 introduced: 1972
 tags: [torpedo, acoustic, german]
+completeness: partial
 ---
 
 # AEG Seal Mod 2

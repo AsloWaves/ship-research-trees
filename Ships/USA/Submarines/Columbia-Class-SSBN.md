@@ -1,6 +1,5 @@
 # Columbia-Class Ballistic Missile Submarines
 
-```yaml
 ---
 class_name: Columbia-Class-SSBN
 hull_numbers: SSBN-826 to SSBN-837 (planned)
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [submarine, ssbn, columbia, nuclear, ballistic-missile, trident, modern, future, 2031, milestone]
 ---
-```
 
 **Next-Generation SSBNs** - Columbia-class will replace Ohio-class SSBNs. 12 boats planned. First boat Columbia (SSBN-826) under construction. Advanced design with life-of-ship reactor.
 

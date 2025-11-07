@@ -5,6 +5,7 @@ nation: German
 type: Interceptor
 introduced: 1960
 tags: [ground-aircraft, interceptor, german]
+completeness: partial
 ---
 
 # F-104G Starfighter

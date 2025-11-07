@@ -1,6 +1,5 @@
 # Tarawa-Class Amphibious Assault Ships
 
-```yaml
 ---
 class_name: Tarawa-Class
 hull_numbers: LHA-1 to LHA-5
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [amphibious, assault-ship, tarawa, lha, lha-1, cold-war, harrier, marines, 1976, 5-ships]
 ---
-```
 
 **First Multi-Purpose Assault Ships** - Tarawa-class were first true multi-purpose amphibious assault ships. 5 ships. Combined aviation (helicopters + Harriers), landing craft, and vehicle capacity. Served 1976-2014.
 

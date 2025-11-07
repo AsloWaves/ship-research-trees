@@ -1,6 +1,5 @@
 # Tucker-Class Destroyers
 
-```yaml
 ---
 class_name: Tucker-Class
 hull_numbers: DD-57 to DD-62
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [destroyer, oil-fired, turbine, thousand-tonners, 21-inch-torpedoes]
 ---
-```
 
 **Geared Turbine Pioneer** - USS Wadsworth was the first US destroyer with geared steam turbines, a technology that would become standard.
 

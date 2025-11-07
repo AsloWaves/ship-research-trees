@@ -1,6 +1,5 @@
 # Yamato-Class Battleships
 
-```yaml
 ---
 class_name: Yamato-Class
 hull_numbers: Battleship No. 1 (Yamato), No. 2 (Musashi), No. 3 (Shinano - converted to carrier)
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [battleship, yamato, musashi, shinano, super-battleship, 46cm, 18-inch, largest-ever, wwii, imperial-japanese-navy, ijn, 1941, leyte-gulf, ten-go, legendary, 2-ships]
 ---
-```
 
 **Largest Ever** - Yamato-class were largest, most powerful battleships ever built. 2 completed (3rd converted to carrier). 72,800 tons full load. 18.1-inch guns - largest naval guns ever. Sunk by US aircraft 1944-1945.
 

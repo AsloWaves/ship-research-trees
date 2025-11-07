@@ -5,6 +5,7 @@ nation: USA
 type: Transport
 introduced: 1941
 tags: [ground-aircraft, transport, usa]
+completeness: partial
 ---
 
 # C-47 Skytrain

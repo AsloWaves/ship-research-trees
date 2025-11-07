@@ -5,6 +5,7 @@ nation: USA
 type: SSM
 introduced: 2016
 tags: [missile, ssm, usa]
+completeness: stub
 ---
 
 # RGM-84N Harpoon Block II ER

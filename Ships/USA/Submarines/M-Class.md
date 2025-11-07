@@ -1,6 +1,5 @@
 # M-Class Submarine
 
-```yaml
 ---
 class_name: M-Class
 hull_numbers: SS-47
@@ -40,7 +39,6 @@ successor: "[[N-Class]]"
 # Tags
 tags: [submarine, ss, m-class, diesel, 1918]
 ---
-```
 
 **Single Boat Class** - M-1 (Schley) was single experimental submarine. Larger with extended range.
 

@@ -1,6 +1,5 @@
 # Aki-Class Battleships (Pre-Dreadnought)
 
-```yaml
 ---
 class_name: Aki-Class Pre-Dreadnought Battleships
 hull_numbers: None
@@ -54,7 +53,6 @@ firsts:
 # Tags
 tags: [battleship, aki-class, pre-dreadnought, coal-fired, obsolete-at-birth, washington-treaty, scrapped-1923, never-combat, last-pre-dreadnoughts, imperial-japanese-navy, ijn, 1911, 2-ships]
 ---
-```
 
 **Obsolete at Birth** - Aki-class were Japan's last pre-dreadnought battleships. 2 ships commissioned 1911. Four 12-inch guns (two twin turrets), 20 knots, coal-fired. Built after HMS Dreadnought (1906) revolutionized battleship design - obsolete when completed. Training ships throughout service. Both scrapped 1923 (Washington Naval Treaty). Never saw combat. Showed pre-dreadnought concept's rapid obsolescence - commissioned 1911, obsolete immediately, scrapped 1923 (12 years service).
 

@@ -1,6 +1,5 @@
 # Murakumo-Class Destroyers
 
-```yaml
 ---
 class_name: Murakumo-Class Destroyers
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, murakumo-class, turn-of-century, russo-japanese-war, coal-fired, 336-tons, all-scrapped-1920s, victorian-era, imperial-japanese-navy, ijn, 1900, 6-ships]
 ---
-```
 
 **Turn of Century Destroyers** - Murakumo-class were early Japanese destroyers from 1900. 6 ships commissioned 1900-1901. Tiny (336 tons), coal-fired reciprocating engines, 31 knots. Two 3-inch guns + four 18-inch torpedoes. All six fought Russo-Japanese War (1904-1905) - Japan's victory over Russia. All six scrapped 1921-1923 after 20+ years service. None survived to WWII. Represented turn-of-century destroyer technology before modern developments.
 

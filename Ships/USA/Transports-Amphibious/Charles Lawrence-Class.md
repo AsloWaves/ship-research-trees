@@ -1,6 +1,5 @@
 # Charles Lawrence-Class High Speed Transports
 
-```yaml
 ---
 class_name: Charles Lawrence-Class
 hull_numbers: APD-37 to APD-138 (various sub-classes)
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [transport, apd, high-speed-transport, destroyer-escort-conversion, charles-lawrence, apd-37, wwii, pacific, raiders, commandos, 1943, 83-ships]
 ---
-```
 
 **High Speed Transports** - Charles Lawrence-class APDs were destroyer escorts converted to high speed transports. 83 ships converted 1943-1945. Fast (24 knots) for commando raids, reconnaissance, and special operations.
 

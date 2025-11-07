@@ -1,6 +1,5 @@
 # Sturgeon-Class Submarines
 
-```yaml
 ---
 class_name: Sturgeon-Class
 hull_numbers: SSN-637 to SSN-687
@@ -40,7 +39,6 @@ successor: "[[Los Angeles-Class]]"
 # Tags
 tags: [submarine, ssn, sturgeon, nuclear, attack-submarine, cold-war, 1967, mass-production]
 ---
-```
 
 **Largest SSN Class (Until LA)** - Sturgeon-class were improved Permit design. 37 boats built. Largest US attack submarine class until Los Angeles.
 

@@ -5,6 +5,7 @@ nation: British
 type: Exercise
 introduced: 1990
 tags: [torpedo, exercise, british]
+completeness: partial
 ---
 
 # Spearfish Exercise

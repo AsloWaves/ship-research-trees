@@ -6,6 +6,7 @@ nation: USA
 caliber: 4"
 turret_type: Quad
 tags: [4inch, quad, usa, turret]
+completeness: partial
 ---
 
 # 4" Mark Mark 12 Quad Turret

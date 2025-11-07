@@ -6,6 +6,7 @@ nation: USA
 caliber: 5"
 turret_type: Single
 tags: [5inch, single, usa, turret]
+completeness: partial
 ---
 
 # 5"/38 Mark 24 Single Mount

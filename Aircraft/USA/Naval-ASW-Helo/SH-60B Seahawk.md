@@ -5,6 +5,7 @@ nation: USA
 type: ASW Helo
 introduced: 1984
 tags: [naval-aircraft, asw-helo, usa]
+completeness: partial
 ---
 
 # SH-60B Seahawk

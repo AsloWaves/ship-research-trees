@@ -5,6 +5,7 @@ nation: German
 type: Multi-Role
 introduced: 1973
 tags: [ground-aircraft, multi-role, german]
+completeness: partial
 ---
 
 # F-4F Phantom II

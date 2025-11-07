@@ -1,6 +1,5 @@
 # Barracuda-Class Submarines (V-Boats)
 
-```yaml
 ---
 class_name: Barracuda-Class-V
 hull_numbers: SS-163, SS-164, SS-166
@@ -45,7 +44,6 @@ firsts:
 # Tags
 tags: [submarine, ss, v-boats, barracuda, fleet-submarine, diesel, 1924, milestone]
 ---
-```
 
 **First Fleet Submarines** - Barracuda-class (V-1 to V-3) were first large US fleet submarines. 2,000+ tons displacement, 12,000nm range for Pacific operations.
 

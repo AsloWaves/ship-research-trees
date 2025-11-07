@@ -5,6 +5,7 @@ nation: USA
 type: TV-Guided
 introduced: 1967
 tags: [bomb, naval-bomb, tv-guided, usa]
+completeness: partial
 ---
 
 # AGM-62 Walleye

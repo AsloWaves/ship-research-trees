@@ -6,6 +6,7 @@ nation: USA
 caliber: 14"
 turret_type: Twin
 tags: [14inch, twin, usa, turret]
+completeness: partial
 ---
 
 # 14" Mark Mark 9 Twin Turret

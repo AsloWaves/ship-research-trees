@@ -1,6 +1,5 @@
 # Truxtun-Class Nuclear Guided Missile Cruiser
 
-```yaml
 ---
 class_name: Truxtun-Class
 hull_numbers: CGN-35
@@ -43,7 +42,6 @@ successor: "[[California-Class]]"
 # Tags
 tags: [cruiser, guided-missile, nuclear, cgn, terrier, cold-war, 1967]
 ---
-```
 
 **Nuclear Belknap** - Truxtun was nuclear-powered version of Belknap-class. Single-ended missile configuration with 5-inch gun forward.
 

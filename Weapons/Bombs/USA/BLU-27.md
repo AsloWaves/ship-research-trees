@@ -5,6 +5,7 @@ nation: USA
 type: Incendiary
 introduced: 1967
 tags: [bomb, naval-bomb, incendiary, usa]
+completeness: partial
 ---
 
 # BLU-27

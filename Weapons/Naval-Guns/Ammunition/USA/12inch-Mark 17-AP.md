@@ -8,6 +8,7 @@ projectile_type: AP
 introduced: 1912
 service_life: 1912-Present
 tags: [12inch, ap, mark-17, usa, ammunition]
+completeness: partial
 ---
 
 # 12" Mark 17 (AP)

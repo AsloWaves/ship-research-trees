@@ -1,6 +1,5 @@
 # Atlanta-Class Anti-Aircraft Light Cruisers
 
-```yaml
 ---
 class_name: Atlanta-Class
 hull_numbers: CLAA-51 to CLAA-54, CLAA-95 to CLAA-98
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [cruiser, light-cruiser, aa-cruiser, claa, 5-inch-38, 1941]
 ---
-```
 
 **Dedicated Anti-Aircraft Cruisers** - Atlanta-class designed as AA escorts with 12-16× 5-inch/38 DP guns in twin turrets. Destroyer leaders.
 

@@ -5,6 +5,7 @@ nation: USA
 type: Heavy Bomber
 introduced: 1943
 tags: [ground-aircraft, heavy-bomber, usa]
+completeness: partial
 ---
 
 # B-17G Flying Fortress

@@ -1,6 +1,5 @@
 # Kitty Hawk-Class Aircraft Carriers
 
-```yaml
 ---
 class_name: Kitty Hawk-Class
 hull_numbers: CV-63, CV-64, CV-66, CV-67
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [carrier, kitty-hawk, cv-63, supercarrier, conventional, 1961, cold-war, vietnam, desert-storm, oif, active]
 ---
-```
 
 **Improved Supercarriers** - Kitty Hawk-class were improved Forrestal design. 4 ships. Last conventional (non-nuclear) supercarriers built for US Navy. Served 1961-2009.
 

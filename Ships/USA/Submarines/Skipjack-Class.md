@@ -1,6 +1,5 @@
 # Skipjack-Class Submarines
 
-```yaml
 ---
 class_name: Skipjack-Class
 hull_numbers: SSN-585 to SSN-590
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [submarine, ssn, skipjack, nuclear, attack-submarine, teardrop-hull, cold-war, 1959, legendary, milestone]
 ---
-```
 
 **Revolutionary Design** - Skipjack-class combined nuclear power with Albacore teardrop hull. 6 boats. First to exceed 30 knots submerged (33+ knots). Template for all future SSNs.
 

@@ -7,6 +7,7 @@ introduced: 1965
 retired: 1972
 service_life: 1965-1972
 tags: [radar-missile, sidewinder-(sarh), usa, radar-required]
+completeness: partial
 ---
 
 # AIM-9C Sidewinder (SARH)

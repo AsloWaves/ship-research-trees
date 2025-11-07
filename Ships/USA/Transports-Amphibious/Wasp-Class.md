@@ -1,6 +1,5 @@
 # Wasp-Class Amphibious Assault Ships
 
-```yaml
 ---
 class_name: Wasp-Class
 hull_numbers: LHD-1 to LHD-8
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [amphibious, assault-ship, wasp, lhd, lhd-1, modern, marines, f35b, lcac, active, 2009, 8-ships]
 ---
-```
 
 **Current Amphibious Backbone** - Wasp-class are current US Navy amphibious assault ships. 8 ships all active. Improved Tarawa design with better aviation facilities. Can operate F-35B stealth fighters.
 

@@ -1,6 +1,5 @@
 # Charleston-Class Amphibious Cargo Ships
 
-```yaml
 ---
 class_name: Charleston-Class-LKA
 hull_numbers: LKA-113 to LKA-117
@@ -44,7 +43,6 @@ firsts:
 # Tags
 tags: [cargo, amphibious-cargo, lka, vietnam, cold-war, purpose-built, 1968]
 ---
-```
 
 **Final LKA Design** - Charleston-class were last purpose-built amphibious cargo ships for US Navy. 5 ships. Purpose-built rather than converted, served Amphibious Readiness Groups 1968-1994.
 

@@ -5,6 +5,7 @@ nation: German
 type: Strike
 introduced: 1995
 tags: [naval-aircraft, strike, german]
+completeness: partial
 ---
 
 # Tornado IDS Mid-Life

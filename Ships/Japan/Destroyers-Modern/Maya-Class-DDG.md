@@ -1,6 +1,5 @@
 # Maya-Class Aegis Destroyers (DDG)
 
-```yaml
 ---
 class_name: Maya-Class Aegis Destroyers
 hull_numbers: DDG-179, DDG-180
@@ -69,7 +68,6 @@ firsts:
 # Tags
 tags: [destroyer, maya-class, aegis, ddg, modern, post-1945, ballistic-missile-defense, bmd, sm-6, spy-1dv, jmsdf, 2020s, 2-ships, active, latest-aegis, cooperative-engagement-capability, cec]
 ---
-```
 
 **Latest Aegis Destroyers** - Maya-class are Japan's newest and most advanced Aegis destroyers. 2 ships commissioned 2020-2021. Largest Japanese destroyers (10,250 tons). Aegis Baseline J7.B (most advanced Japanese variant). SM-2, SM-3 Block IIA, SM-6 from commissioning. Cooperative Engagement Capability (CEC). COGLAG hybrid propulsion (gas turbine/electric). Advanced sonar (OQQ-24). Enhanced electronic warfare (SLQ-32(V)6). 96 VLS cells. One 5-inch gun. SH-60K helicopter. Both active as of 2025. Represent cutting-edge Japanese destroyer technology - ballistic missile defense, extended-range AAW, advanced ASW, future growth potential. Most capable JMSDF surface combatants.
 

@@ -1,6 +1,5 @@
 # Maine-Class Battleship (BB-10)
 
-```yaml
 ---
 class_name: Maine-Class-BB
 hull_numbers: BB-10
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [battleship, pre-dreadnought, bb-10, 1902, great-white-fleet, maine]
 ---
-```
 
 **Named After Maine** - USS Maine (BB-10) honored USS Maine (ACR-1) lost in Havana Harbor 1898. Solo ship. Improved pre-dreadnought design.
 

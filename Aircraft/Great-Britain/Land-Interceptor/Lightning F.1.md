@@ -5,6 +5,7 @@ nation: British
 type: Interceptor
 introduced: 1960
 tags: [ground-aircraft, interceptor, british]
+completeness: partial
 ---
 
 # Lightning F.1

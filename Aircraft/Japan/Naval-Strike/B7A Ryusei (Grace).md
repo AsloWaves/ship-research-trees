@@ -5,6 +5,7 @@ nation: Japanese
 type: Strike
 introduced: 1944
 tags: [naval-aircraft, strike, japanese]
+completeness: partial
 ---
 
 # B7A Ryusei (Grace)

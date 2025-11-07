@@ -6,6 +6,7 @@ caliber: 9cm
 mark: Type 5
 year: 1944
 tags: [naval-gun, japan, 9cm]
+completeness: stub
 ---
 
 # 9cm/65 Type 5

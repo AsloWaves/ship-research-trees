@@ -1,6 +1,5 @@
 # Taiyo-Class Escort Carriers
 
-```yaml
 ---
 class_name: Taiyo-Class
 hull_numbers: None (Taiyo, Unyo, Chuyo)
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [escort-carrier, taiyo, unyo, chuyo, converted-liner, diesel-carrier, submarine-losses, convoy-escort, aircraft-transport, wwii, imperial-japanese-navy, ijn, 1941, 3-ships]
 ---
-```
 
 **Escort Conversions** - Taiyo-class were escort carriers converted from ocean liners. 3 ships commissioned 1941-1942. Diesel-powered (21 knots). 27 aircraft. Convoy escort, aircraft ferry, training roles. All 3 sunk by US submarines 1943-1944 (100% loss rate). Slowest IJN carriers - too slow for fleet operations. Taiyo, Unyo, Chuyo - all lost within 13 months.
 

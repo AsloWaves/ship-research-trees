@@ -5,6 +5,7 @@ nation: USA
 type: SAM
 introduced: 2020
 tags: [missile, sam, usa]
+completeness: stub
 ---
 
 # RIM-162B ESSM Block II

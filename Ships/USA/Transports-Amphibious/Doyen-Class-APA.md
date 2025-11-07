@@ -1,6 +1,5 @@
 # Doyen-Class Attack Transports
 
-```yaml
 ---
 class_name: Doyen-Class-APA
 hull_numbers: APA-1, APA-11
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [transport, attack-transport, apa, wwii, first-apa, amphibious, 1943]
 ---
-```
 
 **First Dedicated APAs** - Doyen-class were first purpose-built attack transports for US Navy. 2 ships. Inspired by British "Glen" liner conversions with shallow draft for beach operations.
 

@@ -5,6 +5,7 @@ nation: USA
 type: Acoustic
 introduced: 1967
 tags: [torpedo, acoustic, usa]
+completeness: partial
 ---
 
 # Mark 46 Mod 1

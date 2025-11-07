@@ -1,6 +1,5 @@
 # Naniwa-Class Protected Cruisers
 
-```yaml
 ---
 class_name: Naniwa-Class Protected Cruisers
 hull_numbers: None
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [protected-cruiser, naniwa-class, british-built, armstrong, sino-japanese-war, russo-japanese-war, coal-fired, 1880s, earliest-cruisers, imperial-japanese-navy, ijn, 1886, 2-ships]
 ---
-```
 
 **Meiji Era Veterans** - Naniwa-class were Japan's first modern cruisers. 2 ships commissioned 1886-1887. British-built by Armstrong (Newcastle). 3,650 tons, coal-fired compound engines, 18 knots. Two 10.2-inch guns + six 6-inch. Protected cruiser design (deck armor only). Sino-Japanese War veterans (1894-1895). Russo-Japanese War service (1904-1905). Both scrapped 1912 (26 years old, obsolete). Represented Meiji-era naval modernization - Japan buying British warships to build modern fleet.
 

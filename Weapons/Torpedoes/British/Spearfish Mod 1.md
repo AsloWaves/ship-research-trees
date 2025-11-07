@@ -5,6 +5,7 @@ nation: British
 type: Wire-Guided
 introduced: 1992
 tags: [torpedo, wire-guided, british]
+completeness: partial
 ---
 
 # Spearfish Mod 1

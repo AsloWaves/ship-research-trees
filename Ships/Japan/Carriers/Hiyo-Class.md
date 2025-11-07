@@ -1,6 +1,5 @@
 # Hiyo-Class Aircraft Carriers
 
-```yaml
 ---
 class_name: Hiyo-Class
 hull_numbers: None (Hiyo, Junyo)
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [carrier, hiyo, junyo, converted-liner, merchant-conversion, santa-cruz, philippine-sea, wwii, imperial-japanese-navy, ijn, 1942, 2-ships]
 ---
-```
 
 **Converted Liners** - Hiyo-class were fleet carriers converted from ocean liner hulls. 2 ships commissioned 1942. 719 ft, 53 aircraft. Slower than fleet carriers (25.5 knots) due to merchant machinery. Both participated in all major 1942-1944 carrier battles. Hiyo sunk June 1944 (Philippine Sea) from torpedoes. Junyo survived war damaged, scrapped 1947.
 

@@ -1,6 +1,5 @@
 # Harpers Ferry-Class Dock Landing Ships
 
-```yaml
 ---
 class_name: Harpers Ferry-Class-LSD
 hull_numbers: LSD-49 to LSD-52
@@ -56,7 +55,6 @@ firsts:
 # Tags
 tags: [amphibious, lsd, modern, cargo-variant, diesel, well-deck, 1995]
 ---
-```
 
 **Cargo Variant** - Harpers Ferry-class are cargo-optimized variants of Whidbey Island design. 4 ships. Shortened well deck (2 LCAC vs 4) with increased vehicle/cargo stowage.
 

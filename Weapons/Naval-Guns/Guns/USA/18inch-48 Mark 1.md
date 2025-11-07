@@ -6,6 +6,7 @@ caliber: 18"
 mark: Mark 1
 year: 1943
 tags: [naval-gun, usa, 18inch]
+completeness: stub
 ---
 
 # 18"/48 Mark 1

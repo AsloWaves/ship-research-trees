@@ -1,6 +1,5 @@
 # Aylwin-Class Destroyers
 
-```yaml
 ---
 class_name: Aylwin-Class
 hull_numbers: DD-47 to DD-50
@@ -48,7 +47,6 @@ contemporary: "[[Cassin-Class]]"
 # Tags
 tags: [destroyer, oil-fired, turbine, thousand-tonners, 4-inch-guns]
 ---
-```
 
 **Contemporary to Cassin** - Nearly identical to Cassin-Class, but used Cramp turbines and White-Forster boilers. Same armament configuration.
 

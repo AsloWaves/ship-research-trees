@@ -1,6 +1,5 @@
 # O'Brien-Class Destroyers
 
-```yaml
 ---
 class_name: O'Brien-Class
 hull_numbers: DD-51 to DD-56
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [destroyer, oil-fired, turbine, thousand-tonners, 21-inch-torpedoes]
 ---
-```
 
 **First 21-inch Torpedoes** - Major upgrade from 18-inch to 21-inch (533mm) Mark 8 torpedoes, significantly increasing striking power.
 

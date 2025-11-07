@@ -5,6 +5,7 @@ nation: Japanese
 type: Alcohol
 introduced: 1932
 tags: [torpedo, alcohol, japanese]
+completeness: partial
 ---
 
 # Type 89 (Submarine)

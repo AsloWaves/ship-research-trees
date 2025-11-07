@@ -1,6 +1,5 @@
 # Leahy-Class Guided Missile Cruisers
 
-```yaml
 ---
 class_name: Leahy-Class
 hull_numbers: CG-16 to CG-24
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [cruiser, guided-missile, cg, terrier, purpose-built, cold-war, 1962]
 ---
-```
 
 **First Purpose-Built Missile Cruisers** - Leahy-class were first US cruisers designed from keel up as guided missile ships. Double-ended Terrier configuration.
 

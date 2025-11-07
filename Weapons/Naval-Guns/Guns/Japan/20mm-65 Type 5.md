@@ -6,6 +6,7 @@ caliber: 20mm
 mark: Type 5
 year: 1943
 tags: [naval-gun, japan, 20mm]
+completeness: stub
 ---
 
 # 20mm/65 Type 5

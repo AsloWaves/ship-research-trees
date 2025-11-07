@@ -1,6 +1,5 @@
 # Brooklyn-Class Light Cruisers
 
-```yaml
 ---
 class_name: Brooklyn-Class
 hull_numbers: CL-40 to CL-48
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [cruiser, light-cruiser, treaty-cruiser, 6-inch, 1937]
 ---
-```
 
 **Heavy Firepower Light Cruisers** - Brooklyn-class mounted 15× 6-inch guns to counter Japanese Mogami-class. Heaviest light cruiser armament.
 

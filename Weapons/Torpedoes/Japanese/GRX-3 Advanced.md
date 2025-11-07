@@ -5,6 +5,7 @@ nation: Japanese
 type: Wire-Guided
 introduced: 1980
 tags: [torpedo, wire-guided, japanese]
+completeness: partial
 ---
 
 # GRX-3 Advanced

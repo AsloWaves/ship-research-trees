@@ -5,6 +5,7 @@ nation: USA
 type: ASW
 introduced: 1961
 tags: [missile, asw, usa]
+completeness: stub
 ---
 
 # RUR-5 ASROC

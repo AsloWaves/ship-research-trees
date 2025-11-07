@@ -5,6 +5,7 @@ nation: British
 type: Nuclear
 introduced: 1976
 tags: [bomb, naval-bomb, nuclear, british]
+completeness: partial
 ---
 
 # WE.177A/B

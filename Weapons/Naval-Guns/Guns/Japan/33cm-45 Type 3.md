@@ -6,6 +6,7 @@ caliber: 33cm
 mark: Type 3
 year: 1936
 tags: [naval-gun, japan, 33cm]
+completeness: stub
 ---
 
 # 33cm/45 Type 3

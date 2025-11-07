@@ -1,6 +1,5 @@
 # Shimakaze (Destroyer)
 
-```yaml
 ---
 class_name: Shimakaze
 hull_numbers: None (unique ship)
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, super-destroyer, shimakaze, fastest-destroyer, torpedo-monster, experimental, one-of-a-kind, leyte-gulf, wwii, imperial-japanese-navy, ijn, 1943, legendary, 1-ship]
 ---
-```
 
 **Fastest Destroyer** - Shimakaze was experimental super destroyer - fastest destroyer ever built at 40.9 knots. Only ship completed of 16 planned. Fifteen 24-inch torpedoes (most ever on destroyer) in three quintuple launchers. Experimental high-pressure turbines. Commissioned May 1943. Sunk November 11, 1944 (Battle off Ormoc Bay). Legendary for extreme speed and torpedo power.
 

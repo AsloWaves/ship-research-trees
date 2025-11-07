@@ -5,6 +5,7 @@ nation: USA
 type: Multi-Role
 introduced: 1984
 tags: [ground-aircraft, multi-role, usa]
+completeness: partial
 ---
 
 # F-16C Block 30

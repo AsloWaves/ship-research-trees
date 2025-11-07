@@ -5,6 +5,7 @@ nation: USA
 type: Mine
 introduced: 1983
 tags: [bomb, naval-bomb, mine, usa]
+completeness: partial
 ---
 
 # Mk 62 Quickstrike

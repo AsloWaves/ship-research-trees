@@ -5,6 +5,7 @@ nation: Japanese
 type: Oxygen
 introduced: 1945
 tags: [torpedo, oxygen, japanese]
+completeness: partial
 ---
 
 # Kaiten Type 4

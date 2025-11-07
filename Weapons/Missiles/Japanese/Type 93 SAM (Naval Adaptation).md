@@ -5,6 +5,7 @@ nation: Japanese
 type: SAM
 introduced: 2008
 tags: [missile, sam, japanese]
+completeness: stub
 ---
 
 # Type 93 SAM (Naval Adaptation)

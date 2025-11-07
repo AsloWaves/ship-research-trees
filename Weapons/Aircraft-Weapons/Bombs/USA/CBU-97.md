@@ -7,6 +7,7 @@ introduced: 1992
 retired: Active
 service_life: 1992-Present
 tags: [gravity-bomb, sfw-(sensor-fuzed), usa]
+completeness: partial
 ---
 
 # CBU-97 SFW (Sensor Fuzed)

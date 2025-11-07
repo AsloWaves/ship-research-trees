@@ -5,6 +5,7 @@ nation: British
 type: Interceptor
 introduced: 1986
 tags: [ground-aircraft, interceptor, british]
+completeness: partial
 ---
 
 # Tornado F.3

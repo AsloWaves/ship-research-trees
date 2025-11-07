@@ -1,6 +1,5 @@
 # Chitose-Class Light Aircraft Carriers
 
-```yaml
 ---
 class_name: Chitose-Class
 hull_numbers: None (Chitose, Chiyoda)
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [carrier, light-carrier, chitose, chiyoda, converted-seaplane-tender, cape-engano, last-carrier-battle, wwii, imperial-japanese-navy, ijn, 1944, 2-ships]
 ---
-```
 
 **Converted Seaplane Tenders** - Chitose-class were light carriers converted from seaplane tenders. 2 ships. Originally commissioned 1938 as seaplane tenders, converted to carriers 1943-1944. 631 ft, 30 aircraft. Both sunk October 25, 1944 at Battle of Cape Engano - last major carrier battle in history.
 

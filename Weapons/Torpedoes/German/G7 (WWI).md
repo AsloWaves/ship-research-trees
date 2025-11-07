@@ -5,6 +5,7 @@ nation: German
 type: Steam
 introduced: 1916
 tags: [torpedo, steam, german]
+completeness: partial
 ---
 
 # G7 (WWI)

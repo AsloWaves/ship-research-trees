@@ -5,6 +5,7 @@ nation: USA
 type: Multi-Role
 introduced: 1966
 tags: [naval-aircraft, multi-role, usa]
+completeness: partial
 ---
 
 # F-4J Phantom II

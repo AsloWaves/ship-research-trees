@@ -5,6 +5,7 @@ nation: Japanese
 type: Wire-Guided
 introduced: 1970
 tags: [torpedo, wire-guided, japanese]
+completeness: partial
 ---
 
 # Type 80 Mod 1

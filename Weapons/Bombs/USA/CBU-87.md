@@ -5,6 +5,7 @@ nation: USA
 type: Cluster Bomb
 introduced: 1986
 tags: [bomb, naval-bomb, cluster-bomb, usa]
+completeness: partial
 ---
 
 # CBU-87

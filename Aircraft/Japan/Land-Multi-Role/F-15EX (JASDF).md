@@ -5,6 +5,7 @@ nation: Japanese
 type: Multi-Role
 introduced: 2024
 tags: [ground-aircraft, multi-role, japanese]
+completeness: partial
 ---
 
 # F-15EX (JASDF)

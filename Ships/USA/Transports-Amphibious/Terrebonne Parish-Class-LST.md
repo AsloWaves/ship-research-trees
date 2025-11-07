@@ -1,6 +1,5 @@
 # Terrebonne Parish-Class Landing Ship Tank
 
-```yaml
 ---
 class_name: Terrebonne Parish-Class-LST
 hull_numbers: LST-1156 to LST-1170
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [landing-ship, lst, cold-war, beaching, amphibious, 1952]
 ---
-```
 
 **First Post-War LST** - Terrebonne Parish-class were first purpose-designed post-WWII LSTs with 4 diesel engines and improved hull. 15 ships. Bridge between WWII and modern LST concepts.
 

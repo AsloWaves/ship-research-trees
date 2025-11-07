@@ -1,6 +1,5 @@
 # LST-1 Class Landing Ship, Tank
 
-```yaml
 ---
 class_name: LST-1-Class
 hull_numbers: LST-1 to LST-1152
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [landing-ship, lst, lst-1, wwii, normandy, pacific, mass-production, 1942, 1051-ships, legendary, milestone]
 ---
-```
 
 **Most Numerous Landing Ships Ever** - LST-1 class were most produced landing ships in history. 1,051 ships built 1942-1945. Revolutionary design: beach directly, unload tanks/vehicles via bow doors and ramp. Backbone of Allied amphibious operations.
 

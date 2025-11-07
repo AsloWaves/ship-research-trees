@@ -7,6 +7,7 @@ introduced: 1918
 retired: 1945
 service_life: 1918-1945
 tags: [gravity-bomb, 50lb-bomb, usa]
+completeness: partial
 ---
 
 # Mk 4 50lb Bomb

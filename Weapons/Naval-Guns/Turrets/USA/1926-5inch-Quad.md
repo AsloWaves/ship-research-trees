@@ -6,6 +6,7 @@ nation: USA
 caliber: 5"
 turret_type: Quad
 tags: [5inch, quad, usa, turret]
+completeness: partial
 ---
 
 # 5" Mark Mark 12 Quad Open Open Mount

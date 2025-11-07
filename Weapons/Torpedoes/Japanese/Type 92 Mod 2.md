@@ -5,6 +5,7 @@ nation: Japanese
 type: Alcohol
 introduced: 1938
 tags: [torpedo, alcohol, japanese]
+completeness: partial
 ---
 
 # Type 92 Mod 2

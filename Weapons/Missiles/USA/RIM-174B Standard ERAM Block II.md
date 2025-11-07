@@ -5,6 +5,7 @@ nation: USA
 type: SAM
 introduced: 2015
 tags: [missile, sam, usa]
+completeness: stub
 ---
 
 # RIM-174B Standard ERAM Block II

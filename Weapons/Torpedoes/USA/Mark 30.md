@@ -5,6 +5,7 @@ nation: USA
 type: Exercise
 introduced: 1945
 tags: [torpedo, exercise, usa]
+completeness: partial
 ---
 
 # Mark 30

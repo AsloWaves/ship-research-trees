@@ -8,6 +8,7 @@ projectile_type: Illum
 introduced: 1943
 service_life: 1943-Present
 tags: [6inch, illum, mark-35, usa, ammunition]
+completeness: partial
 ---
 
 # 6" Mark 35 (Illum)

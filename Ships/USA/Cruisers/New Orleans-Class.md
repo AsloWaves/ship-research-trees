@@ -1,6 +1,5 @@
 # New Orleans-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: New Orleans-Class
 hull_numbers: CA-32, CA-36 to CA-39, CA-44
@@ -42,7 +41,6 @@ successor: "[[Wichita-Class]]"
 # Tags
 tags: [cruiser, heavy-cruiser, treaty-cruiser, 1934]
 ---
-```
 
 **Final Treaty Heavy Cruiser Series** - Seven ships, improved protection, saw heavy WWII combat. Most successful treaty cruiser design.
 

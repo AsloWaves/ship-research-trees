@@ -5,6 +5,7 @@ nation: USA
 type: Cruise
 introduced: 1993
 tags: [missile, cruise, usa]
+completeness: stub
 ---
 
 # AGM-129B ACM (Stealth)

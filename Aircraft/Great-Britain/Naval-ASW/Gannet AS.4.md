@@ -5,6 +5,7 @@ nation: British
 type: ASW
 introduced: 1959
 tags: [naval-aircraft, asw, british]
+completeness: partial
 ---
 
 # Gannet AS.4

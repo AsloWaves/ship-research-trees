@@ -5,6 +5,7 @@ nation: USA
 type: Cruise
 introduced: 1983
 tags: [missile, cruise, usa]
+completeness: stub
 ---
 
 # BGM-109G GLCM (Nuclear)

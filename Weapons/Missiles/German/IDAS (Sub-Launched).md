@@ -5,6 +5,7 @@ nation: German
 type: SSM
 introduced: 2008
 tags: [missile, ssm, german]
+completeness: stub
 ---
 
 # IDAS (Sub-Launched)

@@ -1,6 +1,5 @@
 # LSM-1-Class Landing Ship Medium
 
-```yaml
 ---
 class_name: LSM-1-Class
 hull_numbers: LSM-1 to LSM-558
@@ -54,7 +53,6 @@ firsts:
 # Tags
 tags: [landing-ship, lsm, wwii, beaching, amphibious, 1944]
 ---
-```
 
 **"Ultimate Amphibious Ship"** - LSM-1-class were medium landing ships bridging gap between LCI and LST. 558 ships built April 1944-February 1946. Nicknamed "Sandscrapers" for 3.5-ft beaching draft. Admiral Barbey called them "ultimate amphibious ships."
 

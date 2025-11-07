@@ -5,6 +5,7 @@ nation: USA
 type: Interceptor
 introduced: 1958
 tags: [ground-aircraft, interceptor, usa]
+completeness: partial
 ---
 
 # F-104 Starfighter

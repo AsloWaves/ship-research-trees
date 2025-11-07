@@ -1,6 +1,5 @@
 # New York-Class Armored Cruiser
 
-```yaml
 ---
 class_name: New York-Class
 hull_numbers: ACR-2
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [cruiser, armored-cruiser, acr, 1893, acr-2]
 ---
-```
 
 **First Armored Cruiser** - New York (ACR-2) was first US armored cruiser to commission. 4-inch belt armor, 6× 8-inch guns. Served 40 years.
 

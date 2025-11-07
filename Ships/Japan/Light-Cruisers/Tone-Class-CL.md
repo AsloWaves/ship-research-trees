@@ -1,6 +1,5 @@
 # Tone-Class Protected Cruisers (1910)
 
-```yaml
 ---
 class_name: Tone-Class Protected Cruisers (1910 - not the WWII heavy cruiser)
 hull_numbers: None
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [protected-cruiser, tone-class-1910, not-wwii-tone, single-ship, last-protected-cruiser, coal-fired, wwi-service, name-later-reused, imperial-japanese-navy, ijn, 1910, 1-ship]
 ---
-```
 
 **Last Protected Cruiser** - Tone (1910) was Japan's last protected cruiser design. 1 ship commissioned 1910. Single ship class (unique). Medium-sized (4,100 tons), coal-fired, 23 knots. Two 8-inch guns + ten 4.7-inch. WWI Pacific service. Scrapped 1931 after 21 years service. Represented end of protected cruiser era - Japan transitioning to modern light cruisers (Tenryu onwards, 1919). Name later reused for famous WWII Tone-class heavy cruiser (1938). Note: Not same as WWII Tone.
 

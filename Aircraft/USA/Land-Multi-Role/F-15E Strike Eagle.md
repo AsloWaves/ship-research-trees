@@ -5,6 +5,7 @@ nation: USA
 type: Multi-Role
 introduced: 1988
 tags: [ground-aircraft, multi-role, usa]
+completeness: partial
 ---
 
 # F-15E Strike Eagle

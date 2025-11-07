@@ -1,6 +1,5 @@
 # Benson-Class Destroyers
 
-```yaml
 ---
 class_name: Benson-Class
 hull_numbers: DD-421 to DD-444
@@ -50,7 +49,6 @@ contemporary: "[[Gleaves-Class]]"
 # Tags
 tags: [destroyer, oil-fired, turbine, wwii, 5-inch-38, quintuple-mounts]
 ---
-```
 
 **WWII Workhorse** - First true WWII destroyer class with centerline quintuple torpedo mounts and enhanced AA capability.
 

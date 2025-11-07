@@ -5,6 +5,7 @@ nation: USA
 type: ASW/Patrol
 introduced: 2020
 tags: [naval-aircraft, asw/patrol, usa]
+completeness: partial
 ---
 
 # P-8A Block II

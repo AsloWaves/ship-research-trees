@@ -1,6 +1,5 @@
 # California-Class Nuclear Guided Missile Cruisers
 
-```yaml
 ---
 class_name: California-Class
 hull_numbers: CGN-36, CGN-37
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [cruiser, guided-missile, nuclear, cgn, standard-missile, cold-war, 1974]
 ---
-```
 
 **Standard Missile Nuclear Cruisers** - California-class were first nuclear cruisers with Standard SAM system. Twin 5-inch guns fore and aft.
 

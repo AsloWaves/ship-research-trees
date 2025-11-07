@@ -5,6 +5,7 @@ nation: British
 type: Jet Fighter
 introduced: 1954
 tags: [ground-aircraft, jet-fighter, british]
+completeness: partial
 ---
 
 # Hunter F.1

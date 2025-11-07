@@ -5,6 +5,7 @@ nation: USA
 type: Nuclear
 introduced: 1952
 tags: [bomb, naval-bomb, nuclear, usa]
+completeness: partial
 ---
 
 # Mk 7

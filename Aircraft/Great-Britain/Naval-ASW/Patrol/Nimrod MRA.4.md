@@ -5,6 +5,7 @@ nation: British
 type: ASW/Patrol
 introduced: 2010
 tags: [naval-aircraft, asw/patrol, british]
+completeness: partial
 ---
 
 # Nimrod MRA.4

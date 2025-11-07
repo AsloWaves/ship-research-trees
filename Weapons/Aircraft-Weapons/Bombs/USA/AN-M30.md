@@ -7,6 +7,7 @@ introduced: 1926
 retired: 1960
 service_life: 1926-1960
 tags: [gravity-bomb, 100lb-gp, usa]
+completeness: partial
 ---
 
 # AN-M30 100lb GP

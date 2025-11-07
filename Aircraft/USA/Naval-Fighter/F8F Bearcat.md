@@ -5,6 +5,7 @@ nation: USA
 type: Fighter
 introduced: 1945
 tags: [naval-aircraft, fighter, usa]
+completeness: partial
 ---
 
 # F8F Bearcat

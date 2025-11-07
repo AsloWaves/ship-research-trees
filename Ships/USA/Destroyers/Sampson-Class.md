@@ -1,6 +1,5 @@
 # Sampson-Class Destroyers
 
-```yaml
 ---
 class_name: Sampson-Class
 hull_numbers: DD-63 to DD-68
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [destroyer, oil-fired, turbine, thousand-tonners, aa-guns, triple-torpedo-mounts]
 ---
-```
 
 **AA Guns & Triple Mounts** - First US destroyers with dedicated anti-aircraft guns and unprecedented 12 torpedo tubes in triple mounts.
 

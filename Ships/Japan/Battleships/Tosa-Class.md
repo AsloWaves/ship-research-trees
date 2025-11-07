@@ -1,6 +1,5 @@
 # Tosa-Class Battleships (Cancelled)
 
-```yaml
 ---
 class_name: Tosa-Class
 hull_numbers: None (Tosa, Kaga)
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [battleship, tosa, kaga, cancelled, washington-treaty, never-completed, converted-carrier, target-ship, 16-inch-guns, imperial-japanese-navy, ijn, 1921, 0-ships]
 ---
-```
 
 **Cancelled Giants** - Tosa-class were planned super-battleships. 2 ships laid down 1920-1921. Ten 16.1-inch guns, 39,900 tons, 26.5 knots. Would have been most powerful Japanese battleships. Washington Naval Treaty (1922) cancelled both. Tosa ~50% complete - used as target ship 1925 (sunk). Kaga ~20% complete - converted to aircraft carrier (commissioned 1928, sunk Midway 1942). Never completed as battleships. Showed treaty's impact on naval arms race.
 

@@ -1,6 +1,5 @@
 # Omaha-Class Light Cruisers
 
-```yaml
 ---
 class_name: Omaha-Class
 hull_numbers: CL-4 to CL-13
@@ -42,7 +41,6 @@ successor: "[[Brooklyn-Class]]"
 # Tags
 tags: [cruiser, light-cruiser, post-wwi, scout-cruiser, 1923]
 ---
-```
 
 **First Post-WWI Light Cruisers** - Omaha-class were the first US cruisers built after WWI, designed 1918 to lead destroyer squadrons. Fast scouts with heavy torpedo armament.
 

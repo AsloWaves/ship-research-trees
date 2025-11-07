@@ -6,6 +6,7 @@ caliber: 15"
 mark: Mark IV
 year: 1938
 tags: [naval-gun, britain, 15inch]
+completeness: stub
 ---
 
 # 15"/45 Mark IV

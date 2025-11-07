@@ -5,6 +5,7 @@ nation: Japanese
 type: Observation Helo
 introduced: 1978
 tags: [naval-aircraft, observation-helo, japanese]
+completeness: partial
 ---
 
 # OH-6D

@@ -5,6 +5,7 @@ nation: USA
 type: Interceptor
 introduced: 1988
 tags: [naval-aircraft, interceptor, usa]
+completeness: partial
 ---
 
 # F-14A+ Tomcat

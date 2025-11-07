@@ -8,6 +8,7 @@ projectile_type: AP
 introduced: 1900
 service_life: 1900-Present
 tags: [5inch, ap, mark-15, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 15 (AP)

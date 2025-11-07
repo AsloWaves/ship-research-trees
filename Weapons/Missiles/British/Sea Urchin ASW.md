@@ -5,6 +5,7 @@ nation: British
 type: ASW
 introduced: 2005
 tags: [missile, asw, british]
+completeness: stub
 ---
 
 # Sea Urchin ASW

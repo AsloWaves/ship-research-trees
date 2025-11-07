@@ -5,6 +5,7 @@ nation: USA
 type: LGB
 introduced: 1983
 tags: [bomb, naval-bomb, lgb, usa]
+completeness: partial
 ---
 
 # GBU-24 Paveway III

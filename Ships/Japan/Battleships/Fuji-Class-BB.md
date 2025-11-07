@@ -1,6 +1,5 @@
 # Fuji-Class Battleships (BB)
 
-```yaml
 ---
 class_name: Fuji-Class Battleships
 hull_numbers: None (Japanese naming system)
@@ -62,7 +61,6 @@ firsts:
 # Tags
 tags: [battleship, fuji-class, pre-dreadnought, first-modern, british-built, russo-japanese-war, 2-ships, 1890s, jn, yashima-lost, fuji-survivor]
 ---
-```
 
 **First Modern Battleships** - Fuji-class were Japan's first modern battleships. 2 ships commissioned 1897-1898. Built in United Kingdom (British shipyards, British expertise). 12,533 tons, 18 knots, 4× 12-inch guns (2 twin turrets), 10× 6-inch secondary. Harvey nickel-steel armor (18-inch belt maximum). Pre-dreadnought design (mixed main/secondary batteries, reciprocating engines). Both fought Russo-Japanese War (1904-1905). Yashima lost May 1904 (mine off Port Arthur). Fuji survived war, served until 1922 (25 years service). Foundation of Japanese battleship development - established pattern for all future IJN battleships.
 

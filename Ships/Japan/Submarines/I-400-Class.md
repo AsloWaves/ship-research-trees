@@ -1,6 +1,5 @@
 # I-400-Class Submarine Aircraft Carriers
 
-```yaml
 ---
 class_name: I-400-Class (Sen-Toku Type)
 hull_numbers: I-400, I-401, I-402 (I-403 to I-405 cancelled)
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [submarine, i-400, i-401, sen-toku, submarine-carrier, aircraft-carrying, largest-submarine, seiran, bomber, strategic-weapon, wwii, imperial-japanese-navy, ijn, 1944, unique, legendary, 3-ships]
 ---
-```
 
 **Submarine Aircraft Carriers** - I-400-class were largest submarines of WWII and only submarine aircraft carriers designed for offensive strikes. 3 built 1944-1945. Could carry 3 Aichi M6A Seiran floatplane bombers. 400 ft long, 6,560 tons submerged. 37,500 nm range - could circle globe 1.5 times. Unique strategic weapons. Surrendered 1945, never saw combat.
 

@@ -1,6 +1,5 @@
 # Oregon City-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: Oregon City-Class
 hull_numbers: CA-122 to CA-125
@@ -42,7 +41,6 @@ successor: "[[Des Moines-Class]]"
 # Tags
 tags: [cruiser, heavy-cruiser, wwii, post-wwii, 8-inch, 1946]
 ---
-```
 
 **Modified Baltimore-Class** - Oregon City-class were improved Baltimores with single funnel, revised superstructure. Only 4 of 10 ordered completed.
 

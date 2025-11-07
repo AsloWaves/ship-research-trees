@@ -1,6 +1,5 @@
 # Zuiho-Class Light Aircraft Carriers
 
-```yaml
 ---
 class_name: Zuiho-Class
 hull_numbers: None (Zuiho, Shoho)
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [carrier, light-carrier, zuiho, shoho, coral-sea, santa-cruz, philippine-sea, cape-engano, converted-tender, wwii, imperial-japanese-navy, ijn, 1940, 2-ships]
 ---
-```
 
 **Submarine Tender Conversions** - Zuiho-class were light carriers converted from submarine tenders. 2 ships (Zuiho, Shoho). Single hangar design (learned from Ryujo). Shoho sunk at Coral Sea May 7, 1942 - first IJN carrier lost in WWII. Zuiho survived Santa Cruz, Philippine Sea, sunk at Cape Engano October 25, 1944.
 

@@ -1,6 +1,5 @@
 # Lexington-Class Aircraft Carriers
 
-```yaml
 ---
 class_name: Lexington-Class-CV
 hull_numbers: CV-2, CV-3
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [carrier, lexington, saratoga, cv-2, cv-3, battlecruiser-conversion, 1927, wwii, coral-sea, legendary]
 ---
-```
 
 **Battlecruiser Conversions** - Lexington (CV-2) and Saratoga (CV-3) converted from battlecruiser hulls under Washington Naval Treaty. Fast, powerful carriers. 2 ships.
 

@@ -1,6 +1,5 @@
 # Sakura-Class Destroyers
 
-```yaml
 ---
 class_name: Sakura-Class
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, sakura-class, pre-wwi, wwi, mass-produced, coal-fired, converted-patrol-boats, all-scrapped, 18-ships, early-design, imperial-japanese-navy, ijn, 1912, obsolete]
 ---
-```
 
 **Mass-Produced Early Destroyers** - Sakura-class were pre-WWI Japanese destroyers. 18 ships commissioned 1912-1913 - largest early destroyer class. Small (420 tons), coal-fired, lightly armed (two 3-inch guns + four 18-inch torpedoes). 30 knots. WWI convoy escort. Many converted to patrol boats/minesweepers 1920s (obsolete as destroyers). All scrapped or converted by 1936. None survived as destroyers to WWII. Showed early mass production before WWI.
 

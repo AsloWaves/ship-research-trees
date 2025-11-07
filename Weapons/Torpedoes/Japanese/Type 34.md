@@ -5,6 +5,7 @@ nation: Japanese
 type: Compressed Air
 introduced: 1901
 tags: [torpedo, compressed-air, japanese]
+completeness: partial
 ---
 
 # Type 34

@@ -5,6 +5,7 @@ nation: British
 type: Compressed Air
 introduced: 1866
 tags: [torpedo, compressed-air, british]
+completeness: partial
 ---
 
 # Whitehead Torpedo (Original)

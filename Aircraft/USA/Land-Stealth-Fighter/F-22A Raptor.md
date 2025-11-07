@@ -5,6 +5,7 @@ nation: USA
 type: Stealth Fighter
 introduced: 2005
 tags: [ground-aircraft, stealth-fighter, usa]
+completeness: partial
 ---
 
 # F-22A Raptor

@@ -5,6 +5,7 @@ nation: USA
 type: Attack Helo
 introduced: 1967
 tags: [ground-aircraft, attack-helo, usa]
+completeness: partial
 ---
 
 # AH-1 Cobra

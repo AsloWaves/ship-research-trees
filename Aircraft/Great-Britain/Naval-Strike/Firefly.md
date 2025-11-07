@@ -5,6 +5,7 @@ nation: British
 type: Strike
 introduced: 1944
 tags: [naval-aircraft, strike, british]
+completeness: partial
 ---
 
 # Firefly

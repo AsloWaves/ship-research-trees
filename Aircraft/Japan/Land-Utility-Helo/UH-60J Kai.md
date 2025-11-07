@@ -5,6 +5,7 @@ nation: Japanese
 type: Utility Helo
 introduced: 2012
 tags: [ground-aircraft, utility-helo, japanese]
+completeness: partial
 ---
 
 # UH-60J Kai

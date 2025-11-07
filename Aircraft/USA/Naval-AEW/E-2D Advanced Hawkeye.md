@@ -5,6 +5,7 @@ nation: USA
 type: AEW
 introduced: 2014
 tags: [naval-aircraft, aew, usa]
+completeness: partial
 ---
 
 # E-2D Advanced Hawkeye

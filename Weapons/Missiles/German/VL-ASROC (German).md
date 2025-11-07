@@ -5,6 +5,7 @@ nation: German
 type: ASW
 introduced: 1995
 tags: [missile, asw, german]
+completeness: stub
 ---
 
 # VL-ASROC (German)

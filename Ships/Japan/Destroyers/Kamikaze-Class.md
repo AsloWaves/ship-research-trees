@@ -1,6 +1,5 @@
 # Kamikaze-Class Destroyers
 
-```yaml
 ---
 class_name: Kamikaze-Class
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, kamikaze-class, wwi-era, interwar, oldest-destroyers, high-loss-rate, guadalcanal, aleutians, wwii, imperial-japanese-navy, ijn, 1922, 9-ships]
 ---
-```
 
 **WWI Veterans** - Kamikaze-class were WWI-era destroyers. 9 ships built 1922-1924. Four 4.7-inch guns + six 21-inch torpedoes. High speed (37 knots). Oldest destroyers in WWII combat (20-22 years old when fighting). All 9 saw action - 6 lost, 3 survived. Kamikaze (name ship) achieved rare distinction of surviving entire war. Obsolete but pressed into service for desperate convoy escort and patrol duties.
 

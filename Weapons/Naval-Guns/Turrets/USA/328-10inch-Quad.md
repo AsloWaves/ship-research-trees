@@ -6,6 +6,7 @@ nation: USA
 caliber: 10"
 turret_type: Quad
 tags: [10inch, quad, usa, turret]
+completeness: partial
 ---
 
 # 10" Mark Mark 3 Quad Turret

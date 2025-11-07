@@ -5,6 +5,7 @@ nation: Japanese
 type: Multi-Role
 introduced: 1971
 tags: [ground-aircraft, multi-role, japanese]
+completeness: partial
 ---
 
 # F-4EJ Phantom II

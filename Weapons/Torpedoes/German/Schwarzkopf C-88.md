@@ -5,6 +5,7 @@ nation: German
 type: Steam
 introduced: 1888
 tags: [torpedo, steam, german]
+completeness: partial
 ---
 
 # Schwarzkopf C/88

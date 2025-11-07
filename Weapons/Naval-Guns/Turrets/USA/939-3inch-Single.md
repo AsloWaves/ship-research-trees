@@ -6,6 +6,7 @@ nation: USA
 caliber: 3"
 turret_type: Single
 tags: [3inch, single, usa, turret]
+completeness: partial
 ---
 
 # 3" Mark Mark 10 Single DP Turret

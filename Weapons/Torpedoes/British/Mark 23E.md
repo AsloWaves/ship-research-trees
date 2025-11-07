@@ -5,6 +5,7 @@ nation: British
 type: Acoustic
 introduced: 1965
 tags: [torpedo, acoustic, british]
+completeness: partial
 ---
 
 # Mark 23E

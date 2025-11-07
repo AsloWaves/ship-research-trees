@@ -1,6 +1,5 @@
 # Harris-Class Attack Transports
 
-```yaml
 ---
 class_name: Harris-Class-APA
 hull_numbers: APA-2, APA-3, APA-12 to APA-17
@@ -44,7 +43,6 @@ successor: "[[Crescent City-Class-APA]]"
 # Tags
 tags: [transport, attack-transport, apa, wwii, wwi-conversion, amphibious, 1919]
 ---
-```
 
 **WWI Conversions** - Harris-class were WWI-era transports converted to early attack transports. 8 ships. Oldest ships used as APAs in WWII, saw action in all major theaters.
 

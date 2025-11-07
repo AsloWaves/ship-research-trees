@@ -1,6 +1,5 @@
 # Soryu-Class Attack Submarines (SSK)
 
-```yaml
 ---
 class_name: Soryu-Class Attack Submarines
 hull_numbers: SS-501 through SS-512
@@ -64,7 +63,6 @@ firsts:
 # Tags
 tags: [submarine, soryu-class, ssk, attack-submarine, aip, air-independent-propulsion, stirling-engine, lithium-ion, modern, post-1945, jmsdf, 2000s-2010s-2020s, 12-boats, active, advanced-technology]
 ---
-```
 
 **World-Class Conventional Submarines** - Soryu-class are Japan's most advanced attack submarines. 12 boats commissioned 2009-2021. Large (4,200 tons submerged - among largest conventional submarines). AIP (Air Independent Propulsion) via Stirling engines (SS-501 to SS-510) - 2+ weeks submerged without snorkeling. Last 2 boats (SS-511, SS-512): World-first lithium-ion batteries (no AIP, but longer range/speed). Very deep diving (650 meters test depth). Extremely quiet (anechoic tiles, pump-jet). 6 torpedo tubes, 30 weapons (Type 89 torpedoes, Harpoon missiles). Advanced sensors (ZQQ-7 flank array, Type 2076 sonar). All 12 active as of 2025. Among world's best conventional submarines - rival German Type 212/214, Swedish Gotland. Critical ASW/anti-ship capability vs China, North Korea.
 

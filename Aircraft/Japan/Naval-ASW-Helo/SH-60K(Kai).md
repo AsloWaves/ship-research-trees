@@ -5,6 +5,7 @@ nation: Japanese
 type: ASW Helo
 introduced: 2015
 tags: [naval-aircraft, asw-helo, japanese]
+completeness: partial
 ---
 
 # SH-60K(Kai)

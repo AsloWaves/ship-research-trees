@@ -5,6 +5,7 @@ nation: USA
 type: Recon
 introduced: 1965
 tags: [naval-aircraft, recon, usa]
+completeness: partial
 ---
 
 # RF-8G Crusader

@@ -1,6 +1,5 @@
 # Des Moines-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: Des Moines-Class
 hull_numbers: CA-134, CA-139, CA-148
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [cruiser, heavy-cruiser, post-wwii, autoloading, 8-inch, 1948, legendary, museum-ship]
 ---
-```
 
 **Automatic 8-inch Gun Cruisers** - Des Moines-class featured revolutionary automatic-loading 8-inch guns (10 rpm per barrel). Last US heavy cruisers.
 

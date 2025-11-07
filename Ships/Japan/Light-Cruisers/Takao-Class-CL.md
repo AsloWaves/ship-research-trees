@@ -1,6 +1,5 @@
 # Takao-Class Protected Cruisers (1888)
 
-```yaml
 ---
 class_name: Takao-Class Protected Cruisers (1888 - not the WWII heavy cruiser)
 hull_numbers: None
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [protected-cruiser, takao-class-1888, british-built, palmers, sino-japanese-war, coal-fired, earliest-cruisers, 1880s, meiji-modernization, imperial-japanese-navy, ijn, 1888, 2-ships]
 ---
-```
 
 **Earliest Modern Cruisers** - Takao-class (1888) were among Japan's first modern cruisers. 2 ships commissioned 1888-1889. British-built by Palmers. Tiny (1,720 tons), coal-fired, 18 knots. Two 10.2-inch guns (heavy for size). Sino-Japanese War veterans (1894-1895). Too old for Russo-Japanese War. Both scrapped 1911 (23 years service). Represented earliest Meiji-era naval modernization - Japan buying British ships to create modern navy. Note: Not same as WWII Takao-class heavy cruisers (1932).
 

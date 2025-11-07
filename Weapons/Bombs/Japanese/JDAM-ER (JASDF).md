@@ -5,6 +5,7 @@ nation: Japanese
 type: Extended Range
 introduced: 2020
 tags: [bomb, naval-bomb, extended-range, japanese]
+completeness: partial
 ---
 
 # JDAM-ER (JASDF)

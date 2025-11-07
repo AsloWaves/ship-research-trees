@@ -1,6 +1,5 @@
 # Benjamin Franklin-Class Ballistic Missile Submarines
 
-```yaml
 ---
 class_name: Benjamin Franklin-Class-SSBN
 hull_numbers: SSBN-640 to SSBN-659
@@ -40,7 +39,6 @@ successor: "[[Ohio-Class-SSBN]]"
 # Tags
 tags: [submarine, ssbn, benjamin-franklin, nuclear, ballistic-missile, poseidon, trident, cold-war, deterrent, 1965]
 ---
-```
 
 **Final "41 for Freedom" Class** - Benjamin Franklin-class were final and most advanced of "41 for Freedom" SSBNs. 12 boats. Last conventional SSBNs before Ohio-class.
 

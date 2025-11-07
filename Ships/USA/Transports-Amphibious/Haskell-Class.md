@@ -1,6 +1,5 @@
 # Haskell-Class Attack Transports
 
-```yaml
 ---
 class_name: Haskell-Class
 hull_numbers: APA-117 to APA-233
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [transport, apa, attack-transport, haskell, apa-117, wwii, pacific, iwo-jima, okinawa, mass-production, 1944, 117-ships, legendary]
 ---
-```
 
 **Most Numerous Attack Transports** - Haskell-class were most numerous attack transport class ever. 117 ships built 1944-1945. Converted Victory cargo ships. Backbone of Pacific amphibious operations 1945.
 

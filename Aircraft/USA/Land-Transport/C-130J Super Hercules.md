@@ -5,6 +5,7 @@ nation: USA
 type: Transport
 introduced: 1999
 tags: [ground-aircraft, transport, usa]
+completeness: partial
 ---
 
 # C-130J Super Hercules

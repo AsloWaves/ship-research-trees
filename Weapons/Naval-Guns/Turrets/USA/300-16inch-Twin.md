@@ -6,6 +6,7 @@ nation: USA
 caliber: 16"
 turret_type: Twin
 tags: [16inch, twin, usa, turret]
+completeness: partial
 ---
 
 # 16"/45 Mark 5/8 Twin Turret

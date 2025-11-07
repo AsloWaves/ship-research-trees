@@ -5,6 +5,7 @@ nation: Japanese
 type: ASW Flying Boat
 introduced: 1971
 tags: [naval-aircraft, asw-flying-boat, japanese]
+completeness: partial
 ---
 
 # PS-1

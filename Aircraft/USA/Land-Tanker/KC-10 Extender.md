@@ -5,6 +5,7 @@ nation: USA
 type: Tanker
 introduced: 1981
 tags: [ground-aircraft, tanker, usa]
+completeness: partial
 ---
 
 # KC-10 Extender

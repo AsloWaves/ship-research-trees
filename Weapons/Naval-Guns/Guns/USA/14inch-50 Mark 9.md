@@ -6,6 +6,7 @@ caliber: 14"
 mark: Mark 9
 year: 1940
 tags: [naval-gun, usa, 14inch]
+completeness: stub
 ---
 
 # 14"/50 Mark 9

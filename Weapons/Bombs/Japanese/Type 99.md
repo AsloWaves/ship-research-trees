@@ -5,6 +5,7 @@ nation: Japanese
 type: GP Bomb
 introduced: 1943
 tags: [bomb, naval-bomb, gp-bomb, japanese]
+completeness: partial
 ---
 
 # Type 99

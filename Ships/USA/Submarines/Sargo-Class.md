@@ -1,6 +1,5 @@
 # Sargo-Class Submarines
 
-```yaml
 ---
 class_name: Sargo-Class
 hull_numbers: SS-188 to SS-197
@@ -40,7 +39,6 @@ successor: "[[Tambor-Class]]"
 # Tags
 tags: [submarine, ss, sargo, fleet-submarine, diesel, wwii, 1939]
 ---
-```
 
 **Improved Salmon Design** - Sargo-class refined Salmon design with better diving characteristics. 10 boats. All served WWII.
 

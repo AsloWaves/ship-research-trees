@@ -1,6 +1,5 @@
 # Clemson-Class Destroyers
 
-```yaml
 ---
 class_name: Clemson-Class
 hull_numbers: DD-186 to DD-347
@@ -48,7 +47,6 @@ contemporary: null
 # Tags
 tags: [destroyer, oil-fired, turbine, flush-decker, wwi, largest-class]
 ---
-```
 
 **Largest Destroyer Class Ever** - 156 ships built, the largest destroyer class in US Navy history. Near-identical to Wickes but slightly improved.
 

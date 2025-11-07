@@ -1,6 +1,5 @@
 # Cleveland-Class Light Cruisers
 
-```yaml
 ---
 class_name: Cleveland-Class
 hull_numbers: CL-55 to CL-105
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [cruiser, light-cruiser, wwii, cleveland, mass-production, 1942, legendary]
 ---
-```
 
 **Most Numerous Light Cruiser Ever** - Cleveland-class: 27 ships completed as cruisers (9 more as Independence-class CVLs). WWII workhorse.
 

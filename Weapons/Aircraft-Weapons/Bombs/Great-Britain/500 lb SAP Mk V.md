@@ -7,6 +7,7 @@ introduced: 1940
 retired: 1955
 service_life: 1940-1955
 tags: [gravity-bomb, semi-armor-piercing, uk]
+completeness: partial
 ---
 
 # 500 lb SAP Mk V Semi-Armor Piercing

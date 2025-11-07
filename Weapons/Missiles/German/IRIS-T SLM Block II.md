@@ -5,6 +5,7 @@ nation: German
 type: SAM
 introduced: 2022
 tags: [missile, sam, german]
+completeness: stub
 ---
 
 # IRIS-T SLM Block II

@@ -5,6 +5,7 @@ nation: USA
 type: ASW
 introduced: 1987
 tags: [naval-aircraft, asw, usa]
+completeness: partial
 ---
 
 # S-3B Viking

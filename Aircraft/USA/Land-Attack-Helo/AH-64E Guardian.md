@@ -5,6 +5,7 @@ nation: USA
 type: Attack Helo
 introduced: 2011
 tags: [ground-aircraft, attack-helo, usa]
+completeness: partial
 ---
 
 # AH-64E Guardian

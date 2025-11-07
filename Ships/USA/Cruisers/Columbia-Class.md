@@ -1,6 +1,5 @@
 # Columbia-Class Protected Cruiser
 
-```yaml
 ---
 class_name: Columbia-Class
 hull_numbers: C-12, C-13
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [cruiser, protected-cruiser, 1894, c-12]
 ---
-```
 
 **Fast Protected Cruisers** - Columbia-class were large, fast protected cruisers designed as commerce raiders. 21+ knot speed, 9,000nm range.
 

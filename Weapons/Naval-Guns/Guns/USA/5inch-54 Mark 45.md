@@ -6,6 +6,7 @@ caliber: 5"
 mark: Mark 45
 year: 1971
 tags: [naval-gun, usa, 5inch]
+completeness: stub
 ---
 
 # 5"/54 Mark 45

@@ -5,6 +5,7 @@ nation: British
 type: Transport
 introduced: 2014
 tags: [ground-aircraft, transport, british]
+completeness: partial
 ---
 
 # A400M Atlas

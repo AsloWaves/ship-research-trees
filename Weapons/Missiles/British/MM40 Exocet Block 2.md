@@ -5,6 +5,7 @@ nation: British
 type: SSM
 introduced: 1992
 tags: [missile, ssm, british]
+completeness: stub
 ---
 
 # MM40 Exocet Block 2

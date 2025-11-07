@@ -7,6 +7,7 @@ introduced: 1943
 retired: Active
 service_life: 1943-Present
 tags: [depth-charge, depth-charge, usa]
+completeness: partial
 ---
 
 # Mk 9 Depth Charge

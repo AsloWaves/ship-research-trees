@@ -8,6 +8,7 @@ projectile_type: AP
 introduced: 1910
 service_life: 1910-Present
 tags: [4inch, ap, mark-9, usa, ammunition]
+completeness: partial
 ---
 
 # 4" Mark 9 (AP)

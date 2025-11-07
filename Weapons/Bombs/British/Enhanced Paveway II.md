@@ -5,6 +5,7 @@ nation: British
 type: LGB
 introduced: 1998
 tags: [bomb, naval-bomb, lgb, british]
+completeness: partial
 ---
 
 # Enhanced Paveway II

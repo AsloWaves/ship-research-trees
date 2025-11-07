@@ -1,6 +1,5 @@
 # Atlanta and Boston-Class Protected Cruisers
 
-```yaml
 ---
 class_name: Atlanta-Boston-Class
 hull_numbers: Atlanta, Boston
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [cruiser, protected-cruiser, abcd-ships, new-navy, first-steel, 1883]
 ---
-```
 
 **"New Navy" - First Steel Warships** - USS Atlanta and Boston were the first steel warships of the US Navy, marking the transition from the "Old Navy" to the "New Navy." Part of the famous "ABCD ships" program.
 

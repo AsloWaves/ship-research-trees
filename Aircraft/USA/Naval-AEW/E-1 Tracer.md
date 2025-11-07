@@ -5,6 +5,7 @@ nation: USA
 type: AEW
 introduced: 1958
 tags: [naval-aircraft, aew, usa]
+completeness: partial
 ---
 
 # E-1 Tracer

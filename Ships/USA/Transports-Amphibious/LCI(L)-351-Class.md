@@ -1,6 +1,5 @@
 # LCI(L)-351-Class Landing Craft Infantry (Large)
 
-```yaml
 ---
 class_name: LCI(L)-351-Class
 hull_numbers: LCI(L)-351 to LCI(L)-1098
@@ -60,7 +59,6 @@ firsts:
 # Tags
 tags: [landing-craft, lci, wwii, troop-transport, amphibious, 1943]
 ---
-```
 
 **Improved Infantry Transport** - LCI(L)-351-class were improved large landing craft with round conning tower and enclosed bow ramp. 748 ships. Major survivability improvements over LCI-1 class. Served both Pacific and European theaters 1943-1945.
 

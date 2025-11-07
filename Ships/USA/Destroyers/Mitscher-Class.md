@@ -1,6 +1,5 @@
 # Mitscher-Class Destroyer Leader
 
-```yaml
 ---
 class_name: Mitscher-Class
 hull_numbers: DL-2 to DL-5
@@ -51,7 +50,6 @@ contemporary: "[[Norfolk-Class]], [[Forrest Sherman-Class]]"
 # Tags
 tags: [destroyer-leader, dl, ddg, post-wwii, tartar, 1953]
 ---
-```
 
 **Production Destroyer Leader** - Four-ship class of destroyer leaders with balanced gun/ASW armament. Two later converted to guided missile destroyers.
 

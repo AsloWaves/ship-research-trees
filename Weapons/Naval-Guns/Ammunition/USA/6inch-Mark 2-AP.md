@@ -8,6 +8,7 @@ projectile_type: AP
 introduced: 1892
 service_life: 1892-Present
 tags: [6inch, ap, mark-2, usa, ammunition]
+completeness: partial
 ---
 
 # 6" Mark 2 (AP)

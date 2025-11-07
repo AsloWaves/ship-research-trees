@@ -1,6 +1,5 @@
 # Baltimore-Class Protected Cruiser
 
-```yaml
 ---
 class_name: Baltimore-Class-PC
 hull_numbers: C-3
@@ -42,7 +41,6 @@ successor: "[[Philadelphia-Class]]"
 # Tags
 tags: [cruiser, protected-cruiser, 1890, c-3]
 ---
-```
 
 **Early Protected Cruiser** - Baltimore (C-3) was protected cruiser with 4× 8-inch main guns. Not to be confused with WWII [[Baltimore-Class]] heavy cruisers.
 

@@ -5,6 +5,7 @@ nation: German
 type: Electric
 introduced: 1945
 tags: [torpedo, electric, german]
+completeness: partial
 ---
 
 # Dackel (Dachshund II)

@@ -6,6 +6,7 @@ nation: USA
 caliber: 12"
 turret_type: Single
 tags: [12inch, single, usa, turret]
+completeness: partial
 ---
 
 # 12" Mark Mark 8 Single Turret

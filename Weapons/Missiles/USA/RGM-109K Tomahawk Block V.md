@@ -5,6 +5,7 @@ nation: USA
 type: SSM
 introduced: 2019
 tags: [missile, ssm, usa]
+completeness: stub
 ---
 
 # RGM-109K Tomahawk Block V

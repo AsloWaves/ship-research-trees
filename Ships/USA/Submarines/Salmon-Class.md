@@ -1,6 +1,5 @@
 # Salmon-Class Submarines
 
-```yaml
 ---
 class_name: Salmon-Class
 hull_numbers: SS-182 to SS-187
@@ -44,7 +43,6 @@ firsts:
 # Tags
 tags: [submarine, ss, salmon, fleet-submarine, diesel, wwii, 1938, milestone]
 ---
-```
 
 **Eight Torpedo Tubes** - Salmon-class were first US submarines with 8 torpedo tubes (4 bow, 4 stern). 6 boats. Major firepower increase.
 

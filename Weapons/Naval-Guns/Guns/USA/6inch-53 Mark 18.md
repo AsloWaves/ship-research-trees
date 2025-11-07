@@ -6,6 +6,7 @@ caliber: 6"
 mark: Mark 18
 year: 1945
 tags: [naval-gun, usa, 6inch]
+completeness: stub
 ---
 
 # 6"/53 Mark 18

@@ -5,6 +5,7 @@ nation: British
 type: Acoustic
 introduced: 1985
 tags: [torpedo, acoustic, british]
+completeness: partial
 ---
 
 # Sting Ray Export

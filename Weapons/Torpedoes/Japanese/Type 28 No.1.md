@@ -5,6 +5,7 @@ nation: Japanese
 type: Compressed Air
 introduced: 1895
 tags: [torpedo, compressed-air, japanese]
+completeness: partial
 ---
 
 # Type 28 No.1

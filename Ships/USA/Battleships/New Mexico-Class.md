@@ -1,6 +1,5 @@
 # New Mexico-Class Battleships
 
-```yaml
 ---
 class_name: New Mexico-Class
 hull_numbers: BB-40, BB-41, BB-42
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [battleship, super-dreadnought, bb-40, bb-41, bb-42, 1918, 14-inch-guns, turbo-electric, wwii]
 ---
-```
 
 **Turbo-Electric Drive** - New Mexico-class introduced turbo-electric drive to US battleships. 3 ships. Improved Pennsylvania design with longer guns and better machinery.
 

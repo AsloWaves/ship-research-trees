@@ -1,6 +1,5 @@
 # Indiana-Class Battleships
 
-```yaml
 ---
 class_name: Indiana-Class-BB
 hull_numbers: BB-1, BB-2, BB-3
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [battleship, indiana, bb-1, bb-2, bb-3, first-battleship, pre-dreadnought, 1895, spanish-american-war, milestone]
 ---
-```
 
 **First US Battleships** - Indiana-class were first battleships commissioned by US Navy. 3 ships: Indiana (BB-1), Massachusetts (BB-2), Oregon (BB-3). Spanish-American War veterans.
 

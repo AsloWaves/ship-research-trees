@@ -5,6 +5,7 @@ nation: USA
 type: Attack Helo
 introduced: 1986
 tags: [ground-aircraft, attack-helo, usa]
+completeness: partial
 ---
 
 # AH-64A Apache

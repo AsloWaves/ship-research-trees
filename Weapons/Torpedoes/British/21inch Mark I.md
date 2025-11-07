@@ -5,6 +5,7 @@ nation: British
 type: Steam
 introduced: 1908
 tags: [torpedo, steam, british]
+completeness: partial
 ---
 
 # 21" Mark I

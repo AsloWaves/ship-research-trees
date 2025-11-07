@@ -5,6 +5,7 @@ nation: British
 type: Exercise
 introduced: 1910
 tags: [torpedo, exercise, british]
+completeness: partial
 ---
 
 # Practice Torpedo Mark I

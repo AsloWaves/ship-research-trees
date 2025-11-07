@@ -1,6 +1,5 @@
 # Philadelphia-Class Protected Cruiser
 
-```yaml
 ---
 class_name: Philadelphia-Class
 hull_numbers: C-4, C-5, C-6
@@ -42,7 +41,6 @@ successor: "[[Columbia-Class]]"
 # Tags
 tags: [cruiser, protected-cruiser, 1890, c-4]
 ---
-```
 
 **Philadelphia-Class Protected Cruisers** - Small protected cruisers with 12× 6-inch guns. 3 ships: Philadelphia, San Francisco, Olympia.
 

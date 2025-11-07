@@ -6,6 +6,7 @@ caliber: 16"
 mark: Mark III
 year: 1938
 tags: [naval-gun, britain, 16inch]
+completeness: stub
 ---
 
 # 16"/45 Mark III

@@ -5,6 +5,7 @@ nation: USA
 type: Heavy Bomber
 introduced: 1944
 tags: [ground-aircraft, heavy-bomber, usa]
+completeness: partial
 ---
 
 # B-29 Superfortress

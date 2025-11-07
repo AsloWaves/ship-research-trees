@@ -1,6 +1,5 @@
 # Argonaut-Class Submarine
 
-```yaml
 ---
 class_name: Argonaut-Class
 hull_numbers: SM-1 (later SS-166)
@@ -45,7 +44,6 @@ firsts:
 # Tags
 tags: [submarine, sm, ss, argonaut, minelayer, fleet-submarine, diesel, 1928, milestone]
 ---
-```
 
 **Giant Minelayer** - Argonaut (V-4) was largest US submarine until nuclear age. Designed as minelayer with 60 mines.
 

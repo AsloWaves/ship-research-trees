@@ -6,6 +6,7 @@ caliber: 6"
 mark: Mark 2
 year: 1892
 tags: [naval-gun, usa, 6inch]
+completeness: stub
 ---
 
 # 6"/47 Mark 2

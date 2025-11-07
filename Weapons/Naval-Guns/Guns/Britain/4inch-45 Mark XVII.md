@@ -6,6 +6,7 @@ caliber: 4"
 mark: Mark XVII
 year: 1944
 tags: [naval-gun, britain, 4inch]
+completeness: stub
 ---
 
 # 4"/45 Mark XVII

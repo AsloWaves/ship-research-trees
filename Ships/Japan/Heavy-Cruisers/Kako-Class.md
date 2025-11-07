@@ -1,6 +1,5 @@
 # Kako-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: Kako-Class (Furutaka subclass)
 hull_numbers: None (Kako, Furutaka)
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [heavy-cruiser, kako, furutaka, first-heavy-cruisers, treaty-cruiser, single-turrets, modernized, 100-percent-loss, wwii, imperial-japanese-navy, ijn, 1926, 2-ships]
 ---
-```
 
 **First Heavy Cruisers** - Kako-class (Furutaka subclass) were Japan's first heavy cruisers with 8-inch guns. 2 ships commissioned 1926. Originally six single 8-inch guns (unusual), modernized 1936-1937 to three twin turrets + 12 torpedoes. Both saw extensive combat. Both lost 1942 (100% loss rate). Kako first major IJN warship sunk WWII (August 10, 1942, submarine USS S-44). Furutaka sunk October 1942 (Battle of Cape Esperance). Represented Japanese transition to treaty cruisers.
 

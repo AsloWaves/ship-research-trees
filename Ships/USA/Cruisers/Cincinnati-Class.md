@@ -1,6 +1,5 @@
 # Cincinnati-Class Protected Cruiser
 
-```yaml
 ---
 class_name: Cincinnati-Class
 hull_numbers: C-7, C-8
@@ -42,7 +41,6 @@ successor: "[[Denver-Class]]"
 # Tags
 tags: [cruiser, protected-cruiser, 1894, c-7]
 ---
-```
 
 **Small Protected Cruisers** - Cincinnati-class were small protected cruisers with 1× 6-inch and 10× 5-inch guns. 2 ships: Cincinnati and Raleigh.
 

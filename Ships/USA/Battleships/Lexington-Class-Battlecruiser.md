@@ -1,6 +1,5 @@
 # Lexington-Class Battlecruisers (Cancelled/Converted)
 
-```yaml
 ---
 class_name: Lexington-Class-Battlecruiser
 hull_numbers: CC-1 to CC-6
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [battlecruiser, lexington, cc-1, cancelled, converted-to-carrier, washington-treaty, 1922, experimental, 16-inch-guns, milestone]
 ---
-```
 
 **Cancelled Battlecruisers** - Lexington-class were 6 battlecruisers ordered 1916. 8× 16-inch guns, 33+ knots, light armor. Cancelled under Washington Naval Treaty 1922. Lexington (CC-1) and Saratoga (CC-3) converted to aircraft carriers. Others scrapped on slipways.
 

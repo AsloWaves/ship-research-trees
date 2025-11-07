@@ -1,6 +1,5 @@
 # Amatsukaze-Class Destroyers (Pre-WWI)
 
-```yaml
 ---
 class_name: Amatsukaze-Class Destroyers
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, amatsukaze-class, pre-wwi, russo-japanese-war, british-built, yarrow-design, coal-fired, early-destroyer, all-scrapped-1920s, imperial-japanese-navy, ijn, 1905, 2-ships]
 ---
-```
 
 **British-Built Destroyers** - Amatsukaze-class were very early Japanese destroyers built in Britain. 2 ships commissioned 1905. British Yarrow design, built UK yards. Tiny (381 tons), coal-fired reciprocating engines. 31 knots (fast for 1905). Russo-Japanese War era. One 3-inch gun + five 6-pounders + two 18-inch torpedoes. Both scrapped 1924-1928 (obsolete). Represented Japanese practice of buying foreign-built ships before domestic construction capability matured.
 

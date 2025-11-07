@@ -6,6 +6,7 @@ nation: USA
 caliber: 3"
 turret_type: Quad
 tags: [3inch, quad, usa, turret]
+completeness: partial
 ---
 
 # 3" Mark Mark 26 Quad DP Turret

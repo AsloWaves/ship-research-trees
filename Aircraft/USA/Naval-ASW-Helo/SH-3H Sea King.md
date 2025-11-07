@@ -5,6 +5,7 @@ nation: USA
 type: ASW Helo
 introduced: 1974
 tags: [naval-aircraft, asw-helo, usa]
+completeness: partial
 ---
 
 # SH-3H Sea King

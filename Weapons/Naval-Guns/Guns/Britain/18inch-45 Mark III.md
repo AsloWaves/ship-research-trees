@@ -6,6 +6,7 @@ caliber: 18"
 mark: Mark III
 year: 1941
 tags: [naval-gun, britain, 18inch]
+completeness: stub
 ---
 
 # 18"/45 Mark III

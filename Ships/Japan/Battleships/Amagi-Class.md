@@ -1,6 +1,5 @@
 # Amagi-Class Battlecruisers (Cancelled)
 
-```yaml
 ---
 class_name: Amagi-Class
 hull_numbers: None (Amagi, Akagi, Atago, Takao)
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [battlecruiser, amagi, akagi, cancelled, washington-treaty, never-completed, converted-carrier, earthquake-damage, fast-battleship, imperial-japanese-navy, ijn, 1920, 0-ships]
 ---
-```
 
 **Fast Battleship Concept** - Amagi-class were planned battlecruisers. 4 ships laid down 1920-1921. Ten 16.1-inch guns, 30 knots, 41,200 tons. Fast battleship/battlecruiser hybrid. Washington Naval Treaty (1922) cancelled all four. Amagi ~40% complete, damaged by Great Kanto Earthquake (1923), scrapped. Akagi ~25% complete, converted to aircraft carrier (sunk Midway 1942). Atago and Takao cancelled early (names later used for heavy cruisers). Showed treaty impact on capital ship arms race.
 

@@ -1,6 +1,5 @@
 # Forrestal-Class Aircraft Carriers
 
-```yaml
 ---
 class_name: Forrestal-Class
 hull_numbers: CV-59, CV-60, CV-61, CV-62
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [carrier, forrestal, supercarrier, cv-59, angled-deck, steam-catapults, 1955, cold-war, vietnam]
 ---
-```
 
 **First Supercarriers** - Forrestal-class were first purpose-built supercarriers. 4 ships. Angled decks, steam catapults, 60,000+ tons. Set template for all future US carriers.
 

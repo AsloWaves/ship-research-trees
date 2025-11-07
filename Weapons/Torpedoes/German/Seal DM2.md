@@ -5,6 +5,7 @@ nation: German
 type: Acoustic
 introduced: 1965
 tags: [torpedo, acoustic, german]
+completeness: partial
 ---
 
 # Seal DM2

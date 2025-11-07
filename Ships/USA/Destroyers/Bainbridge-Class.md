@@ -1,6 +1,5 @@
 # Bainbridge-Class Destroyers
 
-```yaml
 ---
 class_name: Bainbridge-Class
 hull_numbers: DD-1 to DD-13
@@ -48,7 +47,6 @@ contemporary: "[[Truxtun-Class]]"
 # Tags
 tags: [destroyer, coal-fired, triple-expansion, first-generation]
 ---
-```
 
 **First US Destroyer Class** - Baseline design establishing American torpedo boat destroyer capabilities. Coal-fired triple-expansion engines, coastal defense role.
 

@@ -5,6 +5,7 @@ nation: USA
 type: Acoustic
 introduced: 1985
 tags: [torpedo, acoustic, usa]
+completeness: partial
 ---
 
 # ALWT (Advanced Lightweight)

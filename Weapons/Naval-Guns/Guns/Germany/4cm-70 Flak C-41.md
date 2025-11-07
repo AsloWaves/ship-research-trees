@@ -6,6 +6,7 @@ caliber: 4cm
 mark: Flak C/41
 year: 1941
 tags: [naval-gun, germany, 4cm]
+completeness: stub
 ---
 
 # 4cm/70 Flak C/41

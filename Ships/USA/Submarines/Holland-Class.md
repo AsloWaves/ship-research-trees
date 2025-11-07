@@ -1,6 +1,5 @@
 # Holland-Class Submarine
 
-```yaml
 ---
 class_name: Holland-Class
 hull_numbers: SS-1
@@ -45,7 +44,6 @@ firsts:
 # Tags
 tags: [submarine, ss, holland, 1900, first-submarine, milestone]
 ---
-```
 
 **First US Submarine** - Holland (SS-1) was the first commissioned submarine in the US Navy. Designed by John Philip Holland, purchased 1900.
 

@@ -1,6 +1,5 @@
 # Ranger-Class Aircraft Carrier
 
-```yaml
 ---
 class_name: Ranger-Class
 hull_numbers: CV-4
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [carrier, ranger, cv-4, first-purpose-built, 1934, wwii, atlantic]
 ---
-```
 
 **First Purpose-Built** - Ranger (CV-4) was first US carrier designed and built from the keel up as an aircraft carrier (not a conversion). Commissioned 1934.
 

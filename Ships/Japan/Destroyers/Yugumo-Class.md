@@ -1,6 +1,5 @@
 # Yugumo-Class Destroyers
 
-```yaml
 ---
 class_name: Yugumo-Class
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, yugumo-class, special-type, torpedo-destroyer, late-war, guadalcanal, wwii, imperial-japanese-navy, ijn, 1941, 19-ships]
 ---
-```
 
 **Kagero Refined** - Yugumo-class were improved Kagero-class destroyers. 19 ships built 1941-1944. Nearly identical to Kagero - same guns, torpedoes, speed. Slightly larger bridge structure. All but one (Asashimo) sunk 1942-1945. Last major destroyer class before wartime simplification forced simpler designs.
 

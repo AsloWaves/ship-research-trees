@@ -1,6 +1,5 @@
 # Taigei-Class Attack Submarines (SSK)
 
-```yaml
 ---
 class_name: Taigei-Class Attack Submarines
 hull_numbers: SS-513, SS-514, SS-515, SS-516, SS-517 (+ more building)
@@ -64,7 +63,6 @@ firsts:
 # Tags
 tags: [submarine, taigei-class, ssk, attack-submarine, lithium-ion, modern, post-1945, latest, advanced-technology, jmsdf, 2020s, ongoing-program, active]
 ---
-```
 
 **Latest Japanese Submarines** - Taigei-class are Japan's newest attack submarines. 5+ boats commissioned 2022-2025+ (ongoing program). Improved Soryu design: Same size (4,300 tons), but all lithium-ion batteries from start (no AIP - learned from SS-511/512). Enhanced automation, improved sensors (Type 18 sonar), more powerful electric motor (6,000 shp vs Soryu's 2,900). Better hydrodynamics, reduced acoustic signature. 6 torpedo tubes, 30 weapons. 650+ meter test depth. Crew 70 (vs Soryu's 65 - slightly larger despite automation). All active as of 2025. Represent latest evolution of Japanese submarine technology. Will replace remaining Oyashio-class boats. Expected total: 7-10 boats over 2020s-2030s.
 

@@ -5,6 +5,7 @@ nation: USA
 type: Attack
 introduced: 1956
 tags: [naval-aircraft, attack, usa]
+completeness: partial
 ---
 
 # A-4 Skyhawk

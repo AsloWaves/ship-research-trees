@@ -5,6 +5,7 @@ nation: Japanese
 type: SSM
 introduced: 1988
 tags: [missile, ssm, japanese]
+completeness: stub
 ---
 
 # SSM-1 Type 88

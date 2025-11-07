@@ -6,6 +6,7 @@ caliber: 12cm
 mark: 3rd Year
 year: 1918
 tags: [naval-gun, japan, 12cm]
+completeness: stub
 ---
 
 # 12cm/45 3rd Year

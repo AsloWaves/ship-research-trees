@@ -5,6 +5,7 @@ nation: USA
 type: Strategic Transport
 introduced: 1965
 tags: [ground-aircraft, strategic-transport, usa]
+completeness: partial
 ---
 
 # C-141 Starlifter

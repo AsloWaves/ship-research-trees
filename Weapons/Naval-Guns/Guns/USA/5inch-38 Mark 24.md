@@ -6,6 +6,7 @@ caliber: 5"
 mark: Mark 24
 year: 1945
 tags: [naval-gun, usa, 5inch]
+completeness: stub
 ---
 
 # 5"/38 Mark 24

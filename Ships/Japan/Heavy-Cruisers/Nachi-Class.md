@@ -1,6 +1,5 @@
 # Nachi-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: Nachi-Class (Myoko subclass)
 hull_numbers: None (Nachi, Haguro, Ashigara, Myoko)
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [heavy-cruiser, nachi, haguro, ashigara, myoko, treaty-cruiser, 10000-ton, long-lance-torpedoes, 100-percent-loss, wwii, imperial-japanese-navy, ijn, 1928, 4-ships]
 ---
-```
 
 **Treaty Cruisers** - Nachi-class (Myoko subclass) were Japan's first 10,000-ton treaty heavy cruisers. 4 ships commissioned 1928-1929. Ten 8-inch guns + 16 Long Lance torpedoes. High speed (35.5 knots). All 4 saw extensive combat. All 4 lost 1944-1945 (100% loss rate). Myoko sunk by submarine, Nachi at Manila Bay, Ashigara by submarine, Haguro surface action (last heavy cruiser lost, May 1945).
 

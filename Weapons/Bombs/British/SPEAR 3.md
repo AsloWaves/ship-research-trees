@@ -5,6 +5,7 @@ nation: British
 type: Powered Bomb
 introduced: 2021
 tags: [bomb, naval-bomb, powered-bomb, british]
+completeness: partial
 ---
 
 # SPEAR 3

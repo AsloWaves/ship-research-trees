@@ -5,6 +5,7 @@ nation: USA
 type: CIWS
 introduced: 1980
 tags: [missile, ciws, usa]
+completeness: stub
 ---
 
 # RIM-7P Sea Sparrow CIWS

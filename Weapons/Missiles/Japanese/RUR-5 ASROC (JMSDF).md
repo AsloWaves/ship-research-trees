@@ -5,6 +5,7 @@ nation: Japanese
 type: ASW
 introduced: 1977
 tags: [missile, asw, japanese]
+completeness: stub
 ---
 
 # RUR-5 ASROC (JMSDF)

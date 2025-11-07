@@ -5,6 +5,7 @@ nation: German
 type: ASW/Patrol
 introduced: 1995
 tags: [naval-aircraft, asw/patrol, german]
+completeness: partial
 ---
 
 # P-3C Orion (German)

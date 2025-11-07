@@ -8,6 +8,7 @@ projectile_type: AP
 introduced: 1920
 service_life: 1920-Present
 tags: [14inch, ap, mark-12, usa, ammunition]
+completeness: partial
 ---
 
 # 14" Mark 12 (AP)

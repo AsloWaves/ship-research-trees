@@ -5,6 +5,7 @@ nation: Japanese
 type: Cluster Bomb
 introduced: 1995
 tags: [bomb, naval-bomb, cluster-bomb, japanese]
+completeness: partial
 ---
 
 # CBU-87 (JASDF)

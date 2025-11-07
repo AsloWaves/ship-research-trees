@@ -1,6 +1,5 @@
 # Benham-Class Destroyers
 
-```yaml
 ---
 class_name: Benham-Class
 hull_numbers: DD-397 to DD-408
@@ -55,7 +54,6 @@ firsts:
 # Tags
 tags: [destroyer, oil-fired, turbine, treaty-ship, 5-inch-38, interwar]
 ---
-```
 
 **High-Pressure Innovation** - First to use 3 high-pressure boilers instead of 4, reducing weight and complexity.
 

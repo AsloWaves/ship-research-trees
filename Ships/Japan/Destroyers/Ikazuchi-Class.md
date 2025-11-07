@@ -1,6 +1,5 @@
 # Ikazuchi-Class Torpedo Boat Destroyers
 
-```yaml
 ---
 class_name: Ikazuchi-Class Torpedo Boat Destroyers
 hull_numbers: None
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [destroyer, ikazuchi-class, first-japanese-destroyers, thorneycroft-design, russo-japanese-war, coal-fired, 305-tons, 1899, built-in-japan, domestic-construction, imperial-japanese-navy, ijn, 2-ships]
 ---
-```
 
 **First Japanese Destroyers** - Ikazuchi-class were Japan's first domestically-built destroyers. 2 ships commissioned 1899. Built in Japan to British (Thorneycroft) design. Tiny (305 tons), coal-fired, 31 knots. One 3-inch gun + five 6-pounders + two 18-inch torpedoes. Russo-Japanese War veterans (1904-1905). Both scrapped 1913 after 14 years service. Represented Japan's transition from buying foreign warships to building domestically. Founded Japanese destroyer tradition - first of hundreds to follow.
 

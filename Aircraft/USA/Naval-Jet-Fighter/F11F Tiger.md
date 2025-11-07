@@ -5,6 +5,7 @@ nation: USA
 type: Jet Fighter
 introduced: 1956
 tags: [naval-aircraft, jet-fighter, usa]
+completeness: partial
 ---
 
 # F11F Tiger

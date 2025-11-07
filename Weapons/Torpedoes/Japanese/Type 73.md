@@ -5,6 +5,7 @@ nation: Japanese
 type: Wire-Guided
 introduced: 1967
 tags: [torpedo, wire-guided, japanese]
+completeness: partial
 ---
 
 # Type 73

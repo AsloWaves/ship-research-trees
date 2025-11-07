@@ -5,6 +5,7 @@ nation: USA
 type: Attack
 introduced: 1967
 tags: [naval-aircraft, attack, usa]
+completeness: partial
 ---
 
 # A-7 Corsair II

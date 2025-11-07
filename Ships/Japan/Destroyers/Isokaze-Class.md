@@ -1,6 +1,5 @@
 # Isokaze-Class Destroyers
 
-```yaml
 ---
 class_name: Isokaze-Class (Kagero subclass)
 hull_numbers: None
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [destroyer, isokaze-class, kagero-subclass, improved-kagero, 100-percent-loss, late-war-losses, wwii, imperial-japanese-navy, ijn, 1940, 4-ships]
 ---
-```
 
 **Refined Kageros** - Isokaze-class were improved Kagero-class destroyers. 4 ships commissioned 1940. Six 5-inch guns + eight Long Lance torpedoes. 35 knots. Better stability than Kagero. All four saw extensive combat. All four lost 1943-1945 (100% loss rate). Isokaze last sunk April 1945 - last Kagero-type destroyer lost. Represented peak of pre-war destroyer design maturity.
 

@@ -1,6 +1,5 @@
 # Fuso-Class Battleships
 
-```yaml
 ---
 class_name: Fuso-Class
 hull_numbers: Battleship (Fuso, Yamashiro)
@@ -64,7 +63,6 @@ firsts:
 # Tags
 tags: [battleship, fuso, yamashiro, super-dreadnought, 14-inch, 356mm, pagoda-mast, distinctive, wwi, wwii, imperial-japanese-navy, ijn, 1915, surigao-strait, leyte-gulf, night-battle, legendary, 2-ships]
 ---
-```
 
 **Pagoda Mast Battleships** - Fuso-class were first Japanese super-dreadnoughts. 2 ships built 1915. Twelve 14-inch guns (six twin turrets, all centerline). Famous for distinctive tall pagoda masts after 1930s modernization. Both sunk October 25, 1944 (Battle of Surigao Strait) - last battleship vs battleship action in history.
 

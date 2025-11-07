@@ -6,6 +6,7 @@ caliber: 12"
 mark: Mark XI*
 year: 1910
 tags: [naval-gun, britain, 12inch]
+completeness: stub
 ---
 
 # 12"/50 Mark XI*

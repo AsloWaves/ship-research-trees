@@ -6,6 +6,7 @@ nation: USA
 caliber: 3"
 turret_type: Twin
 tags: [3inch, twin, usa, turret]
+completeness: partial
 ---
 
 # 3" Mark Mark 33 Twin Open Open Mount

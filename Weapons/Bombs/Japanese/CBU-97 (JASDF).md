@@ -5,6 +5,7 @@ nation: Japanese
 type: Sensor Fused
 introduced: 2005
 tags: [bomb, naval-bomb, sensor-fused, japanese]
+completeness: partial
 ---
 
 # CBU-97 (JASDF)

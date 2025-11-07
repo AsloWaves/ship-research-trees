@@ -1,6 +1,5 @@
 # Tambor-Class Submarines
 
-```yaml
 ---
 class_name: Tambor-Class
 hull_numbers: SS-198 to SS-209
@@ -44,7 +43,6 @@ firsts:
 # Tags
 tags: [submarine, ss, tambor, fleet-submarine, diesel, wwii, 1940, milestone]
 ---
-```
 
 **Ten Torpedo Tubes** - Tambor-class increased to 10 torpedo tubes (6 bow, 4 stern). 12 boats commissioned just before/during WWII.
 

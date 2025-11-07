@@ -5,6 +5,7 @@ nation: German
 type: Jet Fighter
 introduced: 1955
 tags: [ground-aircraft, jet-fighter, german]
+completeness: partial
 ---
 
 # CL-13 Sabre (German)

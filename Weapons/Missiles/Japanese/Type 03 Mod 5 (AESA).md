@@ -5,6 +5,7 @@ nation: Japanese
 type: SAM
 introduced: 2017
 tags: [missile, sam, japanese]
+completeness: stub
 ---
 
 # Type 03 Mod 5 (AESA)

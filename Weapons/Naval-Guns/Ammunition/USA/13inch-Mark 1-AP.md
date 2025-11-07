@@ -8,6 +8,7 @@ projectile_type: AP
 introduced: 1895
 service_life: 1895-Present
 tags: [13inch, ap, mark-1, usa, ammunition]
+completeness: partial
 ---
 
 # 13" Mark 1 (AP)

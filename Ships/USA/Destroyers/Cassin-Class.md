@@ -1,6 +1,5 @@
 # Cassin-Class Destroyers
 
-```yaml
 ---
 class_name: Cassin-Class
 hull_numbers: DD-43 to DD-46
@@ -54,7 +53,6 @@ firsts:
 # Tags
 tags: [destroyer, oil-fired, turbine, thousand-tonners, 4-inch-guns]
 ---
-```
 
 **Thousand Tonner - Upgunned** - First 1000+ ton destroyers with 4-inch guns. Trade-off: larger caliber but slower speed.
 

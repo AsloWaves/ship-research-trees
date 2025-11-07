@@ -1,6 +1,5 @@
 # Bagley-Class Destroyers
 
-```yaml
 ---
 class_name: Bagley-Class
 hull_numbers: DD-386 to DD-393
@@ -50,7 +49,6 @@ contemporary: null
 # Tags
 tags: [destroyer, oil-fired, turbine, treaty-ship, 5-inch-38, interwar]
 ---
-```
 
 **Balanced Torpedo Design** - Maintained 16-tube armament with improved endurance and stability.
 

@@ -7,6 +7,7 @@ introduced: 1974
 retired: 2004
 service_life: 1974-2004
 tags: [radar-missile, phoenix, usa, radar-required]
+completeness: partial
 ---
 
 # AIM-54A Phoenix

@@ -1,6 +1,5 @@
 # Kearsarge-Class Battleships
 
-```yaml
 ---
 class_name: Kearsarge-Class
 hull_numbers: BB-5, BB-6
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [battleship, pre-dreadnought, bb-5, bb-6, superimposed-turrets, 1900, great-white-fleet]
 ---
-```
 
 **Superimposed Turrets** - Kearsarge-class pioneered superimposed turret design with 8-inch guns mounted atop 13-inch turrets. 2 ships. Innovative but flawed design.
 

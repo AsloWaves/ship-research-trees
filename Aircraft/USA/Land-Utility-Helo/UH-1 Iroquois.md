@@ -5,6 +5,7 @@ nation: USA
 type: Utility Helo
 introduced: 1959
 tags: [ground-aircraft, utility-helo, usa]
+completeness: partial
 ---
 
 # UH-1 Iroquois

@@ -1,6 +1,5 @@
 # Tang-Class Submarines
 
-```yaml
 ---
 class_name: Tang-Class
 hull_numbers: SS-563 to SS-568
@@ -45,7 +44,6 @@ firsts:
 # Tags
 tags: [submarine, ss, tang, attack-submarine, diesel, streamlined, cold-war, 1951, milestone]
 ---
-```
 
 **First Post-War Design** - Tang-class were first post-WWII designed attack submarines. 6 boats. Streamlined hull for 18+ knot submerged speed.
 

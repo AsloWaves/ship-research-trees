@@ -1,6 +1,5 @@
 # Wickes-Class Destroyers
 
-```yaml
 ---
 class_name: Wickes-Class
 hull_numbers: DD-75 to DD-185
@@ -48,7 +47,6 @@ contemporary: null
 # Tags
 tags: [destroyer, oil-fired, turbine, flush-decker, wwi, mass-production]
 ---
-```
 
 **Mass Production Era** - 111 ships built in massive WWI production effort. Standardized flush-deck design with high speed.
 

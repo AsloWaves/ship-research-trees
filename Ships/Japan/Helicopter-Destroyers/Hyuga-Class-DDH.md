@@ -1,6 +1,5 @@
 # Hyuga-Class Helicopter Destroyers (DDH)
 
-```yaml
 ---
 class_name: Hyuga-Class Helicopter Destroyers
 hull_numbers: DDH-181, DDH-182
@@ -69,7 +68,6 @@ firsts:
 # Tags
 tags: [helicopter-destroyer, hyuga-class, ddh, modern, post-1945, full-length-flight-deck, asw, 19000-tons, jmsdf, 2000s-2010s, 2-ships, active, carrier-like]
 ---
-```
 
 **First Full-Length Flight Deck** - Hyuga-class were revolutionary Japanese helicopter destroyers. 2 ships commissioned 2009, 2011. Large (19,000 tons - largest Japanese ships at time). Full-length flight deck (646 ft) - carrier-like appearance. Island superstructure starboard side. Two aircraft elevators. Up to 11 helicopters (SH-60K, MCH-101). 16 VLS cells (ESSM), SeaRAM, 2 Phalanx. Advanced ASW (OQQ-22 sonar, towed array). 30 knots, COGAG propulsion. Primary mission: Anti-submarine warfare. Secondary: Command ship, disaster relief. Controversial design (resembles carriers) but officially "destroyers." Both active as of 2025. Pioneered full-deck design that evolved into Izumo-class. Bridge between conventional destroyers and light carriers.
 

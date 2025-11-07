@@ -6,6 +6,7 @@ caliber: 6"
 mark: Mark IX
 year: 1915
 tags: [naval-gun, britain, 6inch]
+completeness: stub
 ---
 
 # 6"/45 Mark IX

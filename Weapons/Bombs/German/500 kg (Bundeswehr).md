@@ -5,6 +5,7 @@ nation: German
 type: GP Bomb
 introduced: 1965
 tags: [bomb, naval-bomb, gp-bomb, german]
+completeness: partial
 ---
 
 # 500 kg (Bundeswehr)

@@ -1,6 +1,5 @@
 # Seawolf-Class Submarines
 
-```yaml
 ---
 class_name: Seawolf-Class
 hull_numbers: SSN-21 to SSN-23
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [submarine, ssn, seawolf, nuclear, attack-submarine, tomahawk, modern, 1997, legendary, active, milestone]
 ---
-```
 
 **Most Advanced SSNs** - Seawolf-class were designed to hunt Soviet SSBNs. Most capable attack submarines ever built. Only 3 built due to high cost ($3B+ each).
 

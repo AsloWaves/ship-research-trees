@@ -5,6 +5,7 @@ nation: Japanese
 type: Compressed Air
 introduced: 1931
 tags: [torpedo, compressed-air, japanese]
+completeness: partial
 ---
 
 # Type 91 Mod 1

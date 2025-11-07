@@ -1,6 +1,5 @@
 # Paulding-Class Destroyers
 
-```yaml
 ---
 class_name: Paulding-Class
 hull_numbers: DD-22 to DD-42
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [destroyer, oil-fired, turbine, milestone, thousand-tonners]
 ---
-```
 
 **MILESTONE CLASS - Oil Revolution** - First oil-fired US destroyers, largest class built to date (21 ships). Major logistics and operational improvements.
 

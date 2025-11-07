@@ -1,6 +1,5 @@
 # Umikaze-Class Destroyers
 
-```yaml
 ---
 class_name: Umikaze-Class
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, umikaze-class, pre-wwi, early-destroyer, coal-fired, small-torpedo-boat, all-scrapped, never-wwii, obsolete, imperial-japanese-navy, ijn, 1911, 6-ships]
 ---
-```
 
 **Early Torpedo Boats** - Umikaze-class were early Japanese destroyers. 6 ships commissioned 1911. Tiny (380 tons), coal-fired, lightly armed (two 3-inch guns + four 18-inch torpedoes). 33 knots. Pre-WWI/WWI service. Convoy escort and patrol. All scrapped 1932-1936 (obsolete and treaty limits). None survived to WWII. Showed Japanese destroyer program beginnings - small torpedo boats before evolution to larger fleet destroyers.
 

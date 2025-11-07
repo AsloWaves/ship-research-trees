@@ -1,6 +1,5 @@
 # CVV Medium Aircraft Carrier (Cancelled)
 
-```yaml
 ---
 class_name: CVV-Medium-Carrier
 hull_numbers: CVV-1 to CVV-4+ (proposed)
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [carrier, cvv, medium-carrier, cancelled, affordable-carrier, 1970s, experimental, unbuilt, concept]
 ---
-```
 
 **Cancelled Medium Carrier** - CVV was 1970s proposal for "affordable" medium-sized conventional carriers. 50-60 aircraft, ~60,000 tons. Cheaper than Nimitz nuclear carriers. Build more carriers for same budget. Cancelled - Congress funded Nimitz-class instead.
 

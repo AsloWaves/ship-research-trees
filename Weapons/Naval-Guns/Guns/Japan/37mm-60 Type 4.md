@@ -6,6 +6,7 @@ caliber: 37mm
 mark: Type 4
 year: 1941
 tags: [naval-gun, japan, 37mm]
+completeness: stub
 ---
 
 # 37mm/60 Type 4

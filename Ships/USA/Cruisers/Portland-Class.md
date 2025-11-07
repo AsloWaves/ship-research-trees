@@ -1,6 +1,5 @@
 # Portland-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: Portland-Class
 hull_numbers: CA-33, CA-35
@@ -42,7 +41,6 @@ successor: "[[New Orleans-Class]]"
 # Tags
 tags: [cruiser, heavy-cruiser, treaty-cruiser, indianapolis, 1933]
 ---
-```
 
 **Improved Treaty Heavy Cruisers** - Enhanced protection over Northampton, heavier armor. USS Indianapolis most famous.
 

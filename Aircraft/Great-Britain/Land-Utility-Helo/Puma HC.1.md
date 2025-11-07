@@ -5,6 +5,7 @@ nation: British
 type: Utility Helo
 introduced: 1971
 tags: [ground-aircraft, utility-helo, british]
+completeness: partial
 ---
 
 # Puma HC.1

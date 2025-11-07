@@ -5,6 +5,7 @@ nation: USA
 type: SAM
 introduced: 2013
 tags: [missile, sam, usa]
+completeness: stub
 ---
 
 # SM-6 Block IA Dual I

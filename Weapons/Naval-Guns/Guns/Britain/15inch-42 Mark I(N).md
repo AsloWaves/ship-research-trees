@@ -6,6 +6,7 @@ caliber: 15"
 mark: Mark I(N)
 year: 1946
 tags: [naval-gun, britain, 15inch]
+completeness: stub
 ---
 
 # 15"/42 Mark I(N)

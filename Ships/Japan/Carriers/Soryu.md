@@ -1,6 +1,5 @@
 # Soryu (Aircraft Carrier)
 
-```yaml
 ---
 class_name: Soryu
 hull_numbers: None (unique ship, sister Hiryu modified)
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [carrier, soryu, pearl-harbor, midway, kido-butai, purpose-built, fast-carrier, wwii, imperial-japanese-navy, ijn, 1937, legendary, 1-ship]
 ---
-```
 
 **First Purpose-Built Carrier** - Soryu was first purpose-built (not converted) IJN fleet carrier. Commissioned 1937. 746 ft, 57-71 aircraft. High speed (34.5 knots). Pearl Harbor veteran. Template for subsequent IJN carrier designs. Sunk at Battle of Midway June 4, 1942 - destroyed in 3 minutes by dive bombers.
 

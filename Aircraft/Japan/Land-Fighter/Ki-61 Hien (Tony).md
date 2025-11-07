@@ -5,6 +5,7 @@ nation: Japanese
 type: Fighter
 introduced: 1943
 tags: [ground-aircraft, fighter, japanese]
+completeness: partial
 ---
 
 # Ki-61 Hien (Tony)

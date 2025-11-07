@@ -5,6 +5,7 @@ nation: British
 type: Strike
 introduced: 1962
 tags: [naval-aircraft, strike, british]
+completeness: partial
 ---
 
 # Buccaneer S.1

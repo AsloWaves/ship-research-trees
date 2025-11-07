@@ -5,6 +5,7 @@ nation: USA
 type: ASW/Patrol
 introduced: 1969
 tags: [naval-aircraft, asw/patrol, usa]
+completeness: partial
 ---
 
 # P-3C Orion

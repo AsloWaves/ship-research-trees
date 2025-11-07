@@ -8,6 +8,7 @@ projectile_type: HE
 introduced: 1928
 service_life: 1928-Present
 tags: [5inch, he, mark-12, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 12 (HE)

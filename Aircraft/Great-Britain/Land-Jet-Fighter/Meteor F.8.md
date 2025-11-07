@@ -5,6 +5,7 @@ nation: British
 type: Jet Fighter
 introduced: 1950
 tags: [ground-aircraft, jet-fighter, british]
+completeness: partial
 ---
 
 # Meteor F.8

@@ -5,6 +5,7 @@ nation: British
 type: V/STOL Stealth
 introduced: 2025
 tags: [naval-aircraft, v/stol-stealth, british]
+completeness: partial
 ---
 
 # F-35B Block 4

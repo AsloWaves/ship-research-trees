@@ -5,6 +5,7 @@ nation: German
 type: ASW/Patrol
 introduced: 1972
 tags: [naval-aircraft, asw/patrol, german]
+completeness: partial
 ---
 
 # Breguet Atlantic

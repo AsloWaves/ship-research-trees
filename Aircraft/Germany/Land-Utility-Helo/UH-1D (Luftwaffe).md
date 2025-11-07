@@ -5,6 +5,7 @@ nation: German
 type: Utility Helo
 introduced: 1967
 tags: [ground-aircraft, utility-helo, german]
+completeness: partial
 ---
 
 # UH-1D (Luftwaffe)

@@ -1,6 +1,5 @@
 # Norfolk-Class Destroyer Leader
 
-```yaml
 ---
 class_name: Norfolk-Class
 hull_numbers: DL-1
@@ -55,7 +54,6 @@ firsts:
 # Tags
 tags: [destroyer-leader, dl, post-wwii, experimental, asw, 1953]
 ---
-```
 
 **Experimental Destroyer Leader** - Single experimental ship testing "destroyer leader" concept. Large ASW-focused platform between destroyers and cruisers.
 

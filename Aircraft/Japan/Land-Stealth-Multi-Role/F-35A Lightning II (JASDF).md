@@ -5,6 +5,7 @@ nation: Japanese
 type: Stealth Multi-Role
 introduced: 2018
 tags: [ground-aircraft, stealth-multi-role, japanese]
+completeness: partial
 ---
 
 # F-35A Lightning II (JASDF)

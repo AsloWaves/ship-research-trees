@@ -6,6 +6,7 @@ caliber: 35mm
 mark: Type 5
 year: 1944
 tags: [naval-gun, japan, 35mm]
+completeness: stub
 ---
 
 # 35mm/65 Type 5

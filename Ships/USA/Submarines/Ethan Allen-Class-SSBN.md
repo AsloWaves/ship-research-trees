@@ -1,6 +1,5 @@
 # Ethan Allen-Class Ballistic Missile Submarines
 
-```yaml
 ---
 class_name: Ethan Allen-Class-SSBN
 hull_numbers: SSBN-608 to SSBN-618
@@ -40,7 +39,6 @@ successor: "[[Lafayette-Class-SSBN]]"
 # Tags
 tags: [submarine, ssbn, ethan-allen, nuclear, ballistic-missile, polaris, cold-war, deterrent, 1961]
 ---
-```
 
 **Purpose-Built SSBNs** - Ethan Allen-class were first purpose-built SSBNs (vs converted attack subs). 5 boats. 16 Polaris missiles. Part of "41 for Freedom."
 

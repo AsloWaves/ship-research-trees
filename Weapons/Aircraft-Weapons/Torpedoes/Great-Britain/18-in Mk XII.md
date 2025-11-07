@@ -7,6 +7,7 @@ introduced: 1930
 retired: 1955
 service_life: 1930-1955
 tags: [torpedo, aerial-torpedo, uk]
+completeness: partial
 ---
 
 # 18-in Mk XII Aerial Torpedo

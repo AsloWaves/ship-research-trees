@@ -5,6 +5,7 @@ nation: German
 type: Multi-Role Helo
 introduced: 2019
 tags: [naval-aircraft, multi-role-helo, german]
+completeness: partial
 ---
 
 # NH90 Sea Lion

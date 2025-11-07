@@ -7,6 +7,7 @@ introduced: 1942
 retired: 1955
 service_life: 1942-1955
 tags: [gravity-bomb, medium-capacity-bomb, uk]
+completeness: partial
 ---
 
 # 250 lb MC Medium Capacity Bomb

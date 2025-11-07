@@ -8,6 +8,7 @@ projectile_type: HC
 introduced: 1920
 service_life: 1920-Present
 tags: [14inch, hc, mark-13, usa, ammunition]
+completeness: partial
 ---
 
 # 14" Mark 13 (HC)

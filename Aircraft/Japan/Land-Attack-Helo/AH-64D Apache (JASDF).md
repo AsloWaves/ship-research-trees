@@ -5,6 +5,7 @@ nation: Japanese
 type: Attack Helo
 introduced: 2006
 tags: [ground-aircraft, attack-helo, japanese]
+completeness: partial
 ---
 
 # AH-64D Apache (JASDF)

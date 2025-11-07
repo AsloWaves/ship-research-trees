@@ -6,6 +6,7 @@ nation: USA
 caliber: 13"
 turret_type: Quad
 tags: [13inch, quad, usa, turret]
+completeness: partial
 ---
 
 # 13" Mark Mark 1 Quad Turret

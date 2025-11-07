@@ -5,6 +5,7 @@ nation: Japanese
 type: ASW Helo
 introduced: 1974
 tags: [naval-aircraft, asw-helo, japanese]
+completeness: partial
 ---
 
 # SH-3A Sea King (JMSDF)

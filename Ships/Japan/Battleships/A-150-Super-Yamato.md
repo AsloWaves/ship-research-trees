@@ -1,6 +1,5 @@
 # A-150 Super Yamato (Project Design)
 
-```yaml
 ---
 class_name: A-150 Design (Super Yamato)
 hull_numbers: None (never assigned, project only)
@@ -61,7 +60,6 @@ firsts:
 # Tags
 tags: [battleship, a-150, super-yamato, planned, cancelled, never-built, 20-inch-guns, largest-planned, design-study, wwii, battleship-era-end, what-if, jn, 1938-1941, ultimate-battleship]
 ---
-```
 
 **Ultimate Battleship That Never Was** - A-150 (Design A-150) was Japan's planned super-battleship. Design studies 1938-1941. Would have been largest battleships ever built: 98,000 tons full (vs Yamato's 72,800 tons). **510mm (20.1-inch) guns** - largest battleship guns ever planned! (vs Yamato's 18.1-inch). Six guns in three twin turrets. 16-inch belt, 9-inch deck, 26-inch turret faces. 30 knots, 190,000 shp. Never laid down - cancelled due to war priorities (shift to carrier warfare after Midway 1942, resources diverted to carriers/aircraft). Design studies only (preliminary plans, no construction). Symbol of battleship era's end - ultimate battleship concept obsolete before it could be built. A-150: Greatest "what-if" in naval history.
 

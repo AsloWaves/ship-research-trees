@@ -5,6 +5,7 @@ nation: USA
 type: Bunker Buster
 introduced: 2011
 tags: [bomb, naval-bomb, bunker-buster, usa]
+completeness: partial
 ---
 
 # GBU-57 MOP

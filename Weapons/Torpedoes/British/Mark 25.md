@@ -5,6 +5,7 @@ nation: British
 type: Rocket
 introduced: 1950
 tags: [torpedo, rocket, british]
+completeness: partial
 ---
 
 # Mark 25

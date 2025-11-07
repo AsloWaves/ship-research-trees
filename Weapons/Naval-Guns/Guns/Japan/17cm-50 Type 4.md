@@ -6,6 +6,7 @@ caliber: 17cm
 mark: Type 4
 year: 1941
 tags: [naval-gun, japan, 17cm]
+completeness: stub
 ---
 
 # 17cm/50 Type 4

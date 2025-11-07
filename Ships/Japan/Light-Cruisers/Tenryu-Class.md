@@ -1,6 +1,5 @@
 # Tenryu-Class Light Cruisers
 
-```yaml
 ---
 class_name: Tenryu-Class
 hull_numbers: None (Tenryu, Tatsuta)
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [light-cruiser, tenryu, tatsuta, first-modern-cruisers, small-cruiser, oldest-cruisers, wwii, imperial-japanese-navy, ijn, 1919, 2-ships]
 ---
-```
 
 **Smallest Cruisers** - Tenryu-class were Japan's first modern light cruisers. 2 ships built 1919. Smallest cruisers in IJN (3,230 tons). Four 5.5-inch guns + six 21-inch torpedoes. Oldest cruisers in WWII combat (built 1919, fought 1941-1944). Both sunk by submarines - Tenryu December 1942, Tatsuta March 1944.
 

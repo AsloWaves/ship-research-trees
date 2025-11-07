@@ -5,6 +5,7 @@ nation: USA
 type: Jet Fighter
 introduced: 1949
 tags: [naval-aircraft, jet-fighter, usa]
+completeness: partial
 ---
 
 # F9F Panther

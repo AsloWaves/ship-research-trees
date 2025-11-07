@@ -1,6 +1,5 @@
 # Yubari Light Cruiser
 
-```yaml
 ---
 class_name: Yubari (unique ship)
 hull_numbers: None
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [light-cruiser, yubari, experimental-design, hiraga-design, compact-cruiser, innovative, wwii, imperial-japanese-navy, ijn, 1923, 1-ship]
 ---
-```
 
 **The Experiment** - Yubari was an experimental light cruiser testing compact design concepts. 1 ship built 1923. Smallest "true" cruiser (2,890 tons) with six 5.5-inch guns + torpedoes. Revolutionary weight-saving techniques by designer Yuzuru Hiraga. Influenced all subsequent IJN cruiser designs. High speed (35.5 knots) on small hull. Sunk April 1944 by submarine USS Bluegill.
 

@@ -6,6 +6,7 @@ caliber: 8cm
 mark: Type 4
 year: 1941
 tags: [naval-gun, japan, 8cm]
+completeness: stub
 ---
 
 # 8cm/55 Type 4

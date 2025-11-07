@@ -5,6 +5,7 @@ nation: USA
 type: Sensor Fused
 introduced: 1992
 tags: [bomb, naval-bomb, sensor-fused, usa]
+completeness: partial
 ---
 
 # CBU-97

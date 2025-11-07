@@ -1,6 +1,5 @@
 # I-15-Class Submarines (Type B1)
 
-```yaml
 ---
 class_name: I-15-Class (Type B1)
 hull_numbers: I-15, I-17, I-19, I-21, I-23, I-25, I-26, I-27, I-28, I-29, I-30, I-31, I-32, I-33, I-34, I-35, I-36, I-37, I-38, I-39
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [submarine, cruiser-submarine, i-15-class, type-b1, fleet-submarine, aircraft-carrying, wwii, imperial-japanese-navy, ijn, 1940, 20-ships]
 ---
-```
 
 **Cruiser Submarines** - I-15-class (Type B1) were most numerous IJN submarine class. 20 boats built 1940-1944. Large fleet submarines (2,584/3,654 tons) with one floatplane for reconnaissance. Six torpedo tubes forward, 5.5-inch deck gun. Long range (14,000 nm). All but one lost 1942-1945. I-19 sank USS Wasp (carrier) and USS O'Brien (destroyer) with single torpedo salvo - most destructive submarine attack in history.
 

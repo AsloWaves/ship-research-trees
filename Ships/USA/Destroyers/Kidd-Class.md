@@ -1,6 +1,5 @@
 # Kidd-Class Guided Missile Destroyers
 
-```yaml
 ---
 class_name: Kidd-Class
 hull_numbers: DDG-993 to DDG-996
@@ -55,7 +54,6 @@ firsts:
 # Tags
 tags: [destroyer, guided-missile, ddg, gas-turbine, kidd, ayatollah, 1981]
 ---
-```
 
 **"Ayatollah-Class"** - Four AAW-enhanced Spruance-class destroyers originally built for Iran. Kept by US Navy after Iranian Revolution. Most heavily armed conventionally-powered US destroyers.
 

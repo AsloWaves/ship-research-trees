@@ -1,6 +1,5 @@
 # Narwhal-Class Submarine (SSN-671)
 
-```yaml
 ---
 class_name: Narwhal-Class-SSN
 hull_numbers: SSN-671
@@ -45,7 +44,6 @@ firsts:
 # Tags
 tags: [submarine, ssn, narwhal, nuclear, attack-submarine, natural-circulation, cold-war, 1969, milestone]
 ---
-```
 
 **Natural Circulation Reactor** - Narwhal (SSN-671) tested S5G natural circulation reactor. Eliminated noisy reactor coolant pumps for improved stealth.
 

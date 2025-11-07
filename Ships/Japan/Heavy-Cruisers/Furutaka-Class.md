@@ -1,6 +1,5 @@
 # Furutaka-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: Furutaka-Class
 hull_numbers: None (Furutaka, Kako)
@@ -65,7 +64,6 @@ firsts:
 # Tags
 tags: [heavy-cruiser, furutaka, kako, first-treaty-cruiser, first-8-inch, savo-island, guadalcanal, wwii, imperial-japanese-navy, ijn, 1926, 2-ships]
 ---
-```
 
 **First Heavy Cruisers** - Furutaka-class were Japan's first 8-inch gun heavy cruisers and first treaty cruisers. 2 ships built 1926. Originally six single 8-inch guns, modernized 1937-1939 to three twin turrets. Both lost at Guadalcanal 1942. Kako first major IJN warship sunk in WWII (August 10, 1942).
 

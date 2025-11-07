@@ -5,6 +5,7 @@ nation: USA
 type: Strategic Bomber
 introduced: 1955
 tags: [ground-aircraft, strategic-bomber, usa]
+completeness: partial
 ---
 
 # B-52 Stratofortress

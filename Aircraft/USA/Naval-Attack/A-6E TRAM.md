@@ -5,6 +5,7 @@ nation: USA
 type: Attack
 introduced: 1979
 tags: [naval-aircraft, attack, usa]
+completeness: partial
 ---
 
 # A-6E TRAM

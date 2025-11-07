@@ -5,6 +5,7 @@ nation: German
 type: Acoustic
 introduced: 1943
 tags: [torpedo, acoustic, german]
+completeness: partial
 ---
 
 # T4 Falke (Falcon)

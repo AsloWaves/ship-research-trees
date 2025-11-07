@@ -1,6 +1,5 @@
 # Hirado-Class Light Cruisers
 
-```yaml
 ---
 class_name: Hirado-Class Protected Cruisers
 hull_numbers: None
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [light-cruiser, hirado-class, protected-cruiser, pre-wwi, coal-fired, all-scrapped-1940, wwi-service, obsolete, imperial-japanese-navy, ijn, 1912, 3-ships]
 ---
-```
 
 **Protected Cruiser Veterans** - Hirado-class were early Japanese protected cruisers. 3 ships commissioned 1912. Medium-sized (5,050 tons), coal-fired, six 6-inch guns. 26 knots. WWI service (Pacific, Indian Ocean). Training and reserve duties 1920s-1930s. All three scrapped 1940 (obsolete). None saw WWII combat. Represented pre-dreadnought protected cruiser design before light cruiser evolution.
 

@@ -1,6 +1,5 @@
 # Myoko-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: Myoko-Class
 hull_numbers: None (Myoko, Nachi, Haguro, Ashigara)
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [heavy-cruiser, myoko, nachi, haguro, ashigara, treaty-cruiser, 8-inch, 203mm, torpedo-cruiser, high-speed, wwii, imperial-japanese-navy, ijn, 1929, 4-ships]
 ---
-```
 
 **Treaty Powerhouses** - Myoko-class were first IJN 10,000-ton treaty heavy cruisers. 4 ships built 1929. Ten 8-inch guns + sixteen 24-inch torpedoes - most heavily armed treaty cruisers. High speed (35.5 knots). All four participated in major Pacific battles. All four sunk 1944-1945 (Myoko survived war but scrapped as constructive total loss).
 

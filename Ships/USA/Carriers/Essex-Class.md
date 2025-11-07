@@ -1,6 +1,5 @@
 # Essex-Class Aircraft Carriers
 
-```yaml
 ---
 class_name: Essex-Class
 hull_numbers: CV-9 to CV-21, CV-31 to CV-47
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [carrier, essex, cv-9, wwii, pacific, mass-production, 1942, legendary, 24-ships, midway, leyte-gulf, philippine-sea]
 ---
-```
 
 **WWII Backbone** - Essex-class were most numerous US carriers ever. 24 ships built 1942-1950. Fast fleet carriers that dominated Pacific War. Many modernized and served into 1990s.
 

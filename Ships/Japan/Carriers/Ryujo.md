@@ -1,6 +1,5 @@
 # Ryujo (Aircraft Carrier)
 
-```yaml
 ---
 class_name: Ryujo
 hull_numbers: None (unique ship)
@@ -59,7 +58,6 @@ firsts:
 # Tags
 tags: [carrier, light-carrier, ryujo, pearl-harbor, eastern-solomons, unstable, london-treaty, wwii, imperial-japanese-navy, ijn, 1933, 1-ship]
 ---
-```
 
 **Unstable Experiment** - Ryujo was light carrier designed under London Naval Treaty restrictions (under 10,000 tons). Commissioned 1933 with two-tier hangars - dangerously top-heavy. Rebuilt 1936 (upper hangar removed). Pearl Harbor veteran (China operations). Sunk at Battle of Eastern Solomons August 24, 1942 - first IJN carrier lost after Midway.
 

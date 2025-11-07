@@ -5,6 +5,7 @@ nation: British
 type: Multi-Role
 introduced: 1969
 tags: [ground-aircraft, multi-role, british]
+completeness: partial
 ---
 
 # Phantom FGR.2

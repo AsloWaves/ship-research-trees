@@ -1,6 +1,5 @@
 # Mahan-Class Destroyers
 
-```yaml
 ---
 class_name: Mahan-Class
 hull_numbers: DD-364 to DD-379
@@ -50,7 +49,6 @@ contemporary: null
 # Tags
 tags: [destroyer, oil-fired, turbine, treaty-ship, 5-inch-38, interwar]
 ---
-```
 
 **Enhanced Torpedo Power** - Increased torpedo armament to 12 tubes in 3 quad mounts while maintaining treaty limit.
 

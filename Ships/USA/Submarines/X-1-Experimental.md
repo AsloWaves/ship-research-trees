@@ -1,6 +1,5 @@
 # X-1 Midget Submarine (Experimental)
 
-```yaml
 ---
 class_name: X-1-Experimental
 hull_numbers: X-1
@@ -45,7 +44,6 @@ firsts:
 # Tags
 tags: [submarine, x-1, experimental, midget-submarine, research, harbor-defense, 1955, unique, hydrogen-peroxide]
 ---
-```
 
 **Experimental Midget Submarine** - X-1 was smallest US Navy submarine. Midget submarine for research and harbor defense evaluation. Originally hydrogen peroxide powered, converted to diesel-electric after explosion. Evaluated offensive and defensive capabilities of midget submarines.
 

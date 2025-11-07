@@ -5,6 +5,7 @@ nation: Japanese
 type: Training
 introduced: 1920
 tags: [torpedo, training, japanese]
+completeness: partial
 ---
 
 # Type 45 Practice

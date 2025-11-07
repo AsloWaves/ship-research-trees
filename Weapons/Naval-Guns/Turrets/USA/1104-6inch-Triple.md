@@ -6,6 +6,7 @@ nation: USA
 caliber: 6"
 turret_type: Triple
 tags: [6inch, triple, usa, turret]
+completeness: partial
 ---
 
 # 6" Mark Mark 17 Triple DP Turret

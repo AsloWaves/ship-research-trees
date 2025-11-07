@@ -1,6 +1,5 @@
 # Gerald R. Ford-Class Nuclear Aircraft Carriers
 
-```yaml
 ---
 class_name: Gerald R. Ford-Class
 hull_numbers: CVN-78, CVN-79, CVN-80, CVN-81
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [carrier, ford, cvn-78, nuclear, supercarrier, emals, 2017, modern, future, active, milestone]
 ---
-```
 
 **Next-Generation Carrier** - Gerald R. Ford-class are newest US carriers. EMALS electromagnetic catapults replace steam cats. Advanced automation reduces crew 20%. CVN-78 commissioned 2017.
 

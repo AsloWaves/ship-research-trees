@@ -5,6 +5,7 @@ nation: USA
 type: Torpedo Bomber
 introduced: 1942
 tags: [naval-aircraft, torpedo-bomber, usa]
+completeness: partial
 ---
 
 # TBF Avenger

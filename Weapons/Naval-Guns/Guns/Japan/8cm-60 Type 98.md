@@ -6,6 +6,7 @@ caliber: 8cm
 mark: Type 98
 year: 1938
 tags: [naval-gun, japan, 8cm]
+completeness: stub
 ---
 
 # 8cm/60 Type 98

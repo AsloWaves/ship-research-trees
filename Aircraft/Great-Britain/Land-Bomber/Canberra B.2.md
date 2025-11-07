@@ -5,6 +5,7 @@ nation: British
 type: Bomber
 introduced: 1951
 tags: [ground-aircraft, bomber, british]
+completeness: partial
 ---
 
 # Canberra B.2

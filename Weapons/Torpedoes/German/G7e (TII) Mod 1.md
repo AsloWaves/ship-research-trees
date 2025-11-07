@@ -5,6 +5,7 @@ nation: German
 type: Electric
 introduced: 1942
 tags: [torpedo, electric, german]
+completeness: partial
 ---
 
 # G7e (TII) Mod 1

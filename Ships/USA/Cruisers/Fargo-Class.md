@@ -1,6 +1,5 @@
 # Fargo-Class Light Cruisers
 
-```yaml
 ---
 class_name: Fargo-Class
 hull_numbers: CL-106, CL-107
@@ -42,7 +41,6 @@ successor: "[[Worcester-Class]]"
 # Tags
 tags: [cruiser, light-cruiser, wwii, fargo, 1945]
 ---
-```
 
 **Modified Cleveland-Class** - Fargo-class were improved Clevelands with single funnel, revised superstructure. Only 2 of 13 ordered completed.
 

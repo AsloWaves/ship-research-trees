@@ -5,6 +5,7 @@ nation: British
 type: Acoustic
 introduced: 1988
 tags: [torpedo, acoustic, british]
+completeness: partial
 ---
 
 # Stingray Mod 1

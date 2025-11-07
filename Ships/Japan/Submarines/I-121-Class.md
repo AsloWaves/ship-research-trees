@@ -1,6 +1,5 @@
 # I-121-Class Submarines
 
-```yaml
 ---
 class_name: I-121-Class (Type KD3a)
 hull_numbers: I-121, I-122, I-123
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [submarine, i-121-class, type-kd3a, kaidai, interwar, early-fleet-sub, 1920s, wwii-service, 67-percent-loss, imperial-japanese-navy, ijn, 1927, 3-boats]
 ---
-```
 
 **Interwar Fleet Boats** - I-121-class were early Japanese fleet submarines. 3 boats commissioned 1927. Medium-sized (1,390/1,768 tons), six torpedo tubes + 12 torpedoes. 17.3 knots surfaced. Kaidai (fleet submarine) type - designed for fleet scouting and attack. Two lost in combat (I-121, I-122). One (I-123) became training sub, scrapped 1945. Represented 1920s Japanese submarine development - learning fleet submarine operations before larger designs.
 

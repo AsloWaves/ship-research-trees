@@ -8,6 +8,7 @@ projectile_type: AP
 introduced: 1912
 service_life: 1912-Present
 tags: [14inch, ap, mark-9, usa, ammunition]
+completeness: partial
 ---
 
 # 14" Mark 9 (AP)

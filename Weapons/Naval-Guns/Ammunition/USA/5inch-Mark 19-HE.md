@@ -8,6 +8,7 @@ projectile_type: HE
 introduced: 1915
 service_life: 1915-Present
 tags: [5inch, he, mark-19, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 19 (HE)

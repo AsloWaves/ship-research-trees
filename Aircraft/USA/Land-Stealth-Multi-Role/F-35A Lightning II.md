@@ -5,6 +5,7 @@ nation: USA
 type: Stealth Multi-Role
 introduced: 2016
 tags: [ground-aircraft, stealth-multi-role, usa]
+completeness: partial
 ---
 
 # F-35A Lightning II

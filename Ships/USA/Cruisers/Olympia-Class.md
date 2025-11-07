@@ -1,6 +1,5 @@
 # Olympia-Class Protected Cruiser
 
-```yaml
 ---
 class_name: Olympia-Class
 hull_numbers: Olympia (C-6)
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [cruiser, protected-cruiser, flagship, manila-bay, museum-ship, 1895]
 ---
-```
 
 **Flagship of Manila Bay** - USS Olympia was Commodore Dewey's flagship at the Battle of Manila Bay (1898), the decisive naval battle of the Spanish-American War. Only surviving protected cruiser in the world.
 

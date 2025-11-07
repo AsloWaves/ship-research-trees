@@ -5,6 +5,7 @@ nation: German
 type: SSM
 introduced: 1992
 tags: [missile, ssm, german]
+completeness: stub
 ---
 
 # MM40 Exocet Block 2

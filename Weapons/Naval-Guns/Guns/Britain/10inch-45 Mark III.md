@@ -6,6 +6,7 @@ caliber: 10"
 mark: Mark III
 year: 1916
 tags: [naval-gun, britain, 10inch]
+completeness: stub
 ---
 
 # 10"/45 Mark III

@@ -5,6 +5,7 @@ nation: Japanese
 type: GP Bomb
 introduced: 1942
 tags: [bomb, naval-bomb, gp-bomb, japanese]
+completeness: partial
 ---
 
 # Type 98

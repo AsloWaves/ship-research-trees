@@ -1,6 +1,5 @@
 # Ibuki-Class Heavy Cruisers (Cancelled)
 
-```yaml
 ---
 class_name: Ibuki-Class Heavy Cruisers
 hull_numbers: None
@@ -54,7 +53,6 @@ firsts:
 # Tags
 tags: [heavy-cruiser, ibuki-class, cancelled, never-completed, converted-carrier, steel-shortage, improved-mogami, final-design, wwii, imperial-japanese-navy, ijn, 1940s, 0-ships]
 ---
-```
 
 **Never Completed** - Ibuki-class were Japan's final heavy cruiser design. 4 ships planned as improved Mogami-class. Ten 8-inch guns, 35 knots, 12,200 tons. Construction begun 1942-1943 but war priorities intervened. Ibuki converted to light carrier (incomplete at surrender). Other three (Ikoma, Kurama, planned 4th) cancelled 1943-1944 (steel shortages). None completed. Showed Japan's late-war inability to finish major warships - resources/shipyards overwhelmed by losses. Design improvements over Mogami but never tested.
 

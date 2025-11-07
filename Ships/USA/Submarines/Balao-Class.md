@@ -1,6 +1,5 @@
 # Balao-Class Submarines
 
-```yaml
 ---
 class_name: Balao-Class
 hull_numbers: SS-285 to SS-416
@@ -45,7 +44,6 @@ firsts:
 # Tags
 tags: [submarine, ss, balao, fleet-submarine, diesel, wwii, mass-production, 1943, legendary, milestone]
 ---
-```
 
 **Most Numerous Class** - Balao-class were most numerous US submarine class ever. 120 boats completed. Improved Gato with thicker hull for deeper diving (400ft).
 

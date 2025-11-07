@@ -1,6 +1,5 @@
 # Halibut-Class Submarine
 
-```yaml
 ---
 class_name: Halibut-Class
 hull_numbers: SSGN-587
@@ -40,7 +39,6 @@ successor: "[[Tullibee-Class]]"
 # Tags
 tags: [submarine, ssgn, halibut, nuclear, cruise-missile, regulus, special-ops, cold-war, 1960]
 ---
-```
 
 **Nuclear Cruise Missile Sub** - Halibut (SSGN-587) was only nuclear-powered Regulus missile submarine. Later converted to special operations.
 

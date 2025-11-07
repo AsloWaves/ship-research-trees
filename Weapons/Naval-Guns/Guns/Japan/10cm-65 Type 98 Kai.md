@@ -6,6 +6,7 @@ caliber: 10cm
 mark: Type 98 Kai
 year: 1943
 tags: [naval-gun, japan, 10cm]
+completeness: stub
 ---
 
 # 10cm/65 Type 98 Kai

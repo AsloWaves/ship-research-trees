@@ -5,6 +5,7 @@ nation: USA
 type: Jet Fighter
 introduced: 1945
 tags: [ground-aircraft, jet-fighter, usa]
+completeness: partial
 ---
 
 # P-80 Shooting Star

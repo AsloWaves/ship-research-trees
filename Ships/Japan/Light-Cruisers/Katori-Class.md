@@ -1,6 +1,5 @@
 # Katori-Class Light Cruisers
 
-```yaml
 ---
 class_name: Katori-Class
 hull_numbers: None (Katori, Kashima, Kashi)
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [training-cruiser, katori-class, diesel-cruiser, slow-cruiser, misused-ships, 100-percent-loss, submarine-losses, truk-raid, wwii, imperial-japanese-navy, ijn, 1940, 3-ships]
 ---
-```
 
 **Tragic Misuse** - Katori-class were training cruisers never meant for combat. 3 ships commissioned 1940-1941. Slow (18 knots), lightly armed, diesel-powered for long range. Designed to train naval cadets in peacetime. War forced them into combat roles - flagship duties, convoy escort, patrol. **All 3 lost 1943-1944** (100% loss rate) - killed performing missions they weren't designed for. Katori sunk at Truk, Kashima by submarine, Kashi by submarine.
 

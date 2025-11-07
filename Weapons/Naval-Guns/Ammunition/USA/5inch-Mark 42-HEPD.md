@@ -8,6 +8,7 @@ projectile_type: HEPD
 introduced: 1956
 service_life: 1956-Present
 tags: [5inch, hepd, mark-42, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 42 (HEPD)

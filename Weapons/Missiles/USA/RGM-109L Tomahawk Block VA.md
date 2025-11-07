@@ -5,6 +5,7 @@ nation: USA
 type: SSM
 introduced: 2021
 tags: [missile, ssm, usa]
+completeness: stub
 ---
 
 # RGM-109L Tomahawk Block VA

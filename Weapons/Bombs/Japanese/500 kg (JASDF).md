@@ -5,6 +5,7 @@ nation: Japanese
 type: GP Bomb
 introduced: 1965
 tags: [bomb, naval-bomb, gp-bomb, japanese]
+completeness: partial
 ---
 
 # 500 kg (JASDF)

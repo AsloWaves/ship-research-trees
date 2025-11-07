@@ -5,6 +5,7 @@ nation: Japanese
 type: Transport
 introduced: 1981
 tags: [ground-aircraft, transport, japanese]
+completeness: partial
 ---
 
 # C-130H Hercules (JASDF)

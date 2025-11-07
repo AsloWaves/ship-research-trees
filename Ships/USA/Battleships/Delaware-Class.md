@@ -1,6 +1,5 @@
 # Delaware-Class Dreadnought Battleships
 
-```yaml
 ---
 class_name: Delaware-Class
 hull_numbers: BB-28, BB-29
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [battleship, dreadnought, bb-28, bb-29, 1910, 12-inch-guns, milestone]
 ---
-```
 
 **10-Gun Dreadnoughts** - Delaware-class were first US dreadnoughts with 10× 12-inch guns. 2 ships. Improved South Carolina design with superfiring turrets.
 

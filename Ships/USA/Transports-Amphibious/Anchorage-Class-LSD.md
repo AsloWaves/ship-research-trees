@@ -1,6 +1,5 @@
 # Anchorage-Class Dock Landing Ships
 
-```yaml
 ---
 class_name: Anchorage-Class-LSD
 hull_numbers: LSD-36 to LSD-40
@@ -58,7 +57,6 @@ firsts:
 # Tags
 tags: [amphibious, lsd, vietnam, lcac, cold-war, well-deck, 1969]
 ---
-```
 
 **First LCAC-Capable LSDs** - Anchorage-class were first dock landing ships designed to accommodate LCAC hovercraft. 5 ships. Enhanced cargo capacity and modern defensive systems.
 

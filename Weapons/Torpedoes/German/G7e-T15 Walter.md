@@ -5,6 +5,7 @@ nation: German
 type: HTP
 introduced: 1945
 tags: [torpedo, htp, german]
+completeness: partial
 ---
 
 # G7e/T15 Walter

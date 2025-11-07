@@ -1,6 +1,5 @@
 # Tulare-Class Amphibious Cargo Ship
 
-```yaml
 ---
 class_name: Tulare-Class-LKA
 hull_numbers: LKA-112
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [cargo, amphibious-cargo, aka, lka, cold-war, mariner-conversion, unique, 1956]
 ---
-```
 
 **Mariner Conversion** - USS Tulare was unique single-ship class converted from Mariner-type commercial hull. Solo ship. Larger and faster than WWII-era C2 conversions.
 

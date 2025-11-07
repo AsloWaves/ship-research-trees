@@ -5,6 +5,7 @@ nation: USA
 type: Heavy Transport Helo
 introduced: 1982
 tags: [ground-aircraft, heavy-transport-helo, usa]
+completeness: partial
 ---
 
 # CH-47D Chinook

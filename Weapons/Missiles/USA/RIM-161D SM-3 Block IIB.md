@@ -5,6 +5,7 @@ nation: USA
 type: SAM
 introduced: 2025
 tags: [missile, sam, usa]
+completeness: stub
 ---
 
 # RIM-161D SM-3 Block IIB

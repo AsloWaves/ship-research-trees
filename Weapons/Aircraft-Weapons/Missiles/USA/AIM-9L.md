@@ -7,6 +7,7 @@ introduced: 1977
 retired: 2000
 service_life: 1977-2000
 tags: [ir-missile, sidewinder, usa]
+completeness: partial
 ---
 
 # AIM-9L Sidewinder

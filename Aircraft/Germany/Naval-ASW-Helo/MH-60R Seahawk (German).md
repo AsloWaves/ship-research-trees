@@ -5,6 +5,7 @@ nation: German
 type: ASW Helo
 introduced: 2025
 tags: [naval-aircraft, asw-helo, german]
+completeness: partial
 ---
 
 # MH-60R Seahawk (German)

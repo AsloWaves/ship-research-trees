@@ -5,6 +5,7 @@ nation: USA
 type: Utility Helo
 introduced: 2006
 tags: [ground-aircraft, utility-helo, usa]
+completeness: partial
 ---
 
 # UH-60M Black Hawk

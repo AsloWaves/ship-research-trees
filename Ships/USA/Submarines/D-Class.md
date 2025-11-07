@@ -1,6 +1,5 @@
 # D-Class Submarines
 
-```yaml
 ---
 class_name: D-Class
 hull_numbers: SS-17 to SS-19
@@ -44,7 +43,6 @@ firsts:
 # Tags
 tags: [submarine, ss, d-class, diesel, 1909, milestone]
 ---
-```
 
 **First Diesel Submarines** - D-class were first US submarines with diesel engines. Revolutionary improvement over dangerous gasoline engines. 3 boats built.
 

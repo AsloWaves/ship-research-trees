@@ -5,6 +5,7 @@ nation: German
 type: Nuclear
 introduced: 1944
 tags: [torpedo, nuclear, german]
+completeness: partial
 ---
 
 # Barracuda

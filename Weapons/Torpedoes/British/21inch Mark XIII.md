@@ -5,6 +5,7 @@ nation: British
 type: Oxygen (Experimental)
 introduced: 1935
 tags: [torpedo, oxygen-(experimental), british]
+completeness: partial
 ---
 
 # 21" Mark XIII

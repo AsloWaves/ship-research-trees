@@ -5,6 +5,7 @@ nation: British
 type: Strike
 introduced: 1953
 tags: [naval-aircraft, strike, british]
+completeness: partial
 ---
 
 # Wyvern

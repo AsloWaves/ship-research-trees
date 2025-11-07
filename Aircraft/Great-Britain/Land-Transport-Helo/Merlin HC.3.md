@@ -5,6 +5,7 @@ nation: British
 type: Transport Helo
 introduced: 2001
 tags: [ground-aircraft, transport-helo, british]
+completeness: partial
 ---
 
 # Merlin HC.3

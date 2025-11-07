@@ -1,6 +1,5 @@
 # Tillman "Maximum" Battleships - Cancelled Design Studies (1916-1917)
 
-```yaml
 ---
 class_name: Tillman-Maximum-Battleships
 hull_numbers: None assigned (design studies only)
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [battleship, tillman, maximum-battleship, cancelled, design-study, 1916, 1917, 16-inch, 18-inch, sextuple-turrets, extreme, unbuilt, concept, panama-canal]
 ---
-```
 
 **Extreme Battleship Design Studies** - "Tillman Maximum Battleships" were WWI-era design studies for the largest possible battleships that could use Panama Canal. Up to 24× 16-inch guns in sextuple turrets, or 15× 18-inch guns. 70,000-80,000 tons. Ordered by Senator Tillman to establish "maximum" battleship limits. Navy not seriously interested. Never proceeded beyond paper studies.
 

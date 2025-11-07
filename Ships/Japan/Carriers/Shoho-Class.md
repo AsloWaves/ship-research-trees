@@ -1,6 +1,5 @@
 # Shoho-Class Light Carriers
 
-```yaml
 ---
 class_name: Shoho-Class
 hull_numbers: None (Shoho, Zuiho)
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [light-carrier, shoho, zuiho, converted-tender, coral-sea, leyte-gulf, first-carrier-sunk, wwii, imperial-japanese-navy, ijn, 1940, 2-ships]
 ---
-```
 
 **Converted Tenders** - Shoho-class were light carriers converted from submarine tenders. 2 ships commissioned 1940-1941. 30 aircraft, 28 knots. Quick conversions provided carriers when needed. Shoho sunk at Coral Sea (May 1942) - first Japanese carrier lost, first sunk by carrier aircraft. Zuiho survived until Leyte Gulf (October 1944) - longest-serving early conversion. Both saw extensive combat 1942-1944.
 

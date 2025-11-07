@@ -5,6 +5,7 @@ nation: USA
 type: SAM
 introduced: 1976
 tags: [missile, sam, usa]
+completeness: stub
 ---
 
 # RIM-7E Sea Sparrow Mk 2

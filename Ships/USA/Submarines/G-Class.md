@@ -1,6 +1,5 @@
 # G-Class Submarines
 
-```yaml
 ---
 class_name: G-Class
 hull_numbers: SS-19.5 to SS-21, SS-31
@@ -44,7 +43,6 @@ firsts:
 # Tags
 tags: [submarine, ss, g-class, diesel, deck-gun, 1912, milestone]
 ---
-```
 
 **First Deck Gun Submarines** - G-class were first US submarines with deck gun (3-inch). 4 boats built.
 

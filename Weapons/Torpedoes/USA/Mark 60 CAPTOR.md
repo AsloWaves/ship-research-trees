@@ -5,6 +5,7 @@ nation: USA
 type: Mine-Torpedo
 introduced: 1979
 tags: [torpedo, mine-torpedo, usa]
+completeness: partial
 ---
 
 # Mark 60 CAPTOR

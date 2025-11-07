@@ -5,6 +5,7 @@ nation: British
 type: Exercise
 introduced: 1960
 tags: [torpedo, exercise, british]
+completeness: partial
 ---
 
 # Mark 20 Exercise

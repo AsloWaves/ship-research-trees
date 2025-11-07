@@ -1,6 +1,5 @@
 # Kaga (Aircraft Carrier)
 
-```yaml
 ---
 class_name: Kaga
 hull_numbers: None (unique ship)
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [carrier, kaga, pearl-harbor, midway, kido-butai, converted-battleship, washington-treaty, wwii, imperial-japanese-navy, ijn, 1928, legendary, 1-ship]
 ---
-```
 
 **Pearl Harbor Carrier** - Kaga was one of six carriers at Pearl Harbor. Converted from Tosa-class battleship after Washington Naval Treaty. 812 ft, 72-90 aircraft. Second-largest air group at Pearl Harbor (29 first wave aircraft). Sunk at Battle of Midway June 4, 1942 - same day as Akagi.
 

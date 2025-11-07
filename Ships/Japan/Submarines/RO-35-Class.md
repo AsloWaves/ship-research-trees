@@ -1,6 +1,5 @@
 # RO-35-Class Submarines
 
-```yaml
 ---
 class_name: RO-35-Class (Type L3)
 hull_numbers: RO-35 through RO-43, RO-45, RO-46, RO-48 through RO-50
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [submarine, ro-35-class, coastal-submarine, improved-ro-100, 8-torpedoes, high-loss-rate, 78-percent-loss, limited-capability, wwii, imperial-japanese-navy, ijn, 1943, 18-boats]
 ---
-```
 
 **Improved Coastal Boats** - RO-35-class were improved coastal defense submarines. 18 boats built 1943-1944. Slightly larger than RO-100 (700/960 tons). Eight torpedoes (doubled from RO-100's four) - significant improvement. 14 knots surfaced, 8 submerged. Still slow, still limited, still misused. 14 lost (78% loss rate). 4 survived to surrender. Last coastal submarine class to see combat. Showed improvement over RO-100 but still inadequate for Pacific warfare.
 

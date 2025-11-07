@@ -5,6 +5,7 @@ nation: German
 type: Pattern
 introduced: 1942
 tags: [torpedo, pattern, german]
+completeness: partial
 ---
 
 # LuT (Lagenunabhängiger Torpedo)

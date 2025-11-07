@@ -5,6 +5,7 @@ nation: Japanese
 type: Air Superiority
 introduced: 1981
 tags: [ground-aircraft, air-superiority, japanese]
+completeness: partial
 ---
 
 # F-15J Eagle

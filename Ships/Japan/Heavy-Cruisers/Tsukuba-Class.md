@@ -1,6 +1,5 @@
 # Tsukuba-Class Armored Cruisers
 
-```yaml
 ---
 class_name: Tsukuba-Class Armored Cruisers
 hull_numbers: None
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [armored-cruiser, tsukuba-class, proto-battlecruiser, 12-inch-guns, magazine-explosion, coal-fired, pre-wwi, washington-treaty, transitional-design, imperial-japanese-navy, ijn, 1907, 2-ships]
 ---
-```
 
 **Proto-Battlecruisers** - Tsukuba-class were Japanese armored cruisers with battleship guns. 2 ships commissioned 1907-1908. Four 12-inch guns (two twin turrets), 20.5 knots, 13,750 tons. Proto-battlecruisers - armored cruisers with capital ship armament before "battlecruiser" term existed. Coal-fired reciprocating engines. Tsukuba lost to magazine explosion 1917 (241 killed). Ikoma scrapped 1924 (Washington Treaty). Represented transition from armored cruiser to battlecruiser concept (later perfected in Kongo-class).
 

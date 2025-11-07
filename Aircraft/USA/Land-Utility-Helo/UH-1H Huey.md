@@ -5,6 +5,7 @@ nation: USA
 type: Utility Helo
 introduced: 1967
 tags: [ground-aircraft, utility-helo, usa]
+completeness: partial
 ---
 
 # UH-1H Huey

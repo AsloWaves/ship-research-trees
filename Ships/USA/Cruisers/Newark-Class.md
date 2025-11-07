@@ -1,6 +1,5 @@
 # Newark-Class Protected Cruiser
 
-```yaml
 ---
 class_name: Newark-Class
 hull_numbers: C-1
@@ -42,7 +41,6 @@ successor: "[[Charleston-Class]]"
 # Tags
 tags: [cruiser, protected-cruiser, 1891, c-1]
 ---
-```
 
 **First "C" Designation** - Newark (C-1) was first US cruiser with "C" hull number designation. Protected cruiser with 12× 6-inch guns.
 

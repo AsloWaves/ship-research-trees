@@ -1,6 +1,5 @@
 # Asagiri-Class Destroyers (DD)
 
-```yaml
 ---
 class_name: Asagiri-Class Destroyers
 hull_numbers: DD-151 through DD-158
@@ -68,7 +67,6 @@ firsts:
 # Tags
 tags: [destroyer, asagiri-class, modern, cold-war, pre-vls, asw-focused, 8-ships, jmsdf, 1988-1991, general-purpose, all-retired, cogog]
 ---
-```
 
 **Pre-VLS General Purpose Destroyers** - Asagiri-class were JMSDF's general-purpose destroyers before VLS adoption. 8 ships commissioned 1988-1991. 4,200 tons, 30 knots, balanced armament (ASW, AAW, anti-surface). Pre-VLS design: Mk 29 launcher (8-cell Sea Sparrow), ASROC octuple launcher, 8× Harpoon SSM. 76mm Oto Melara gun, 2× Phalanx CIWS. SH-60J helicopter (ASW). COGOG propulsion (gas turbines only). OQS-4A hull sonar, OQR-1 TACTASS towed array. Last JMSDF destroyers without VLS (Murasame-class 1996+ introduced 16-cell VLS, later upgraded to 32-cell). All 8 served 32-35 years (1988-1991 to 2020-2023). All retired by March 2023. Replaced by Mogami-class frigates. Asagiri-class: Capable workhorses, bridge between Cold War and modern designs.
 

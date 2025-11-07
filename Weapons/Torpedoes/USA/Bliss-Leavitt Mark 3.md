@@ -5,6 +5,7 @@ nation: USA
 type: Steam
 introduced: 1908
 tags: [torpedo, steam, usa]
+completeness: partial
 ---
 
 # Bliss-Leavitt Mark 3

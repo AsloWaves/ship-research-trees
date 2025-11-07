@@ -1,6 +1,5 @@
 # Shiratsuyu-Class Destroyers
 
-```yaml
 ---
 class_name: Shiratsuyu-Class
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, shiratsuyu-class, torpedo-destroyer, special-type, shigure, lucky-ship, guadalcanal, wwii, imperial-japanese-navy, ijn, 1936, 10-ships]
 ---
-```
 
 **Torpedo Masters** - Shiratsuyu-class were improved Hatsuharu-class destroyers. 10 ships built 1936-1937. Five 5-inch guns + eight 24-inch torpedoes in new quad mounts. All 10 lost in combat 1942-1945 (100% casualty rate). Shigure became "lucky ship" - survived multiple disasters that destroyed entire squadrons.
 

@@ -1,6 +1,5 @@
 # NR-1 Deep Submergence Research Submarine (Experimental)
 
-```yaml
 ---
 class_name: NR-1-Experimental
 hull_numbers: NR-1
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [submarine, nr-1, experimental, research, nuclear, deep-submergence, oceanographic, recovery, 1969, unique, milestone]
 ---
-```
 
 **Experimental Research Submarine** - NR-1 was smallest nuclear submarine ever built. Deep submergence research and recovery vessel. Rolled on ocean floor with extendable wheels. 39 years of service, never formally commissioned. Unique nuclear-powered research submarine.
 

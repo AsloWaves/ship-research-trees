@@ -5,6 +5,7 @@ nation: Japanese
 type: Dive Bomber
 introduced: 1940
 tags: [naval-aircraft, dive-bomber, japanese]
+completeness: partial
 ---
 
 # D3A Val

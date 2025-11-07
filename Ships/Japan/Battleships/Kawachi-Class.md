@@ -1,6 +1,5 @@
 # Kawachi-Class Battleships
 
-```yaml
 ---
 class_name: Kawachi-Class
 hull_numbers: None (Kawachi, Settsu)
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [battleship, kawachi, settsu, first-dreadnought, magazine-explosion, reciprocating-engines, obsolete, target-ship, imperial-japanese-navy, ijn, 1912, 2-ships]
 ---
-```
 
 **First Dreadnoughts** - Kawachi-class were Japan's first dreadnought battleships. 2 ships commissioned 1912. Twelve 12-inch guns (four twins + four singles). 20.5 knots. Reciprocating engines (obsolete). Kawachi lost July 1918 to magazine explosion (peacetime disaster, 600+ killed). Settsu survived WWI, converted to target ship 1924, survived WWII as hulk, scrapped 1946-1947. Obsolete by WWII but Settsu used for training.
 

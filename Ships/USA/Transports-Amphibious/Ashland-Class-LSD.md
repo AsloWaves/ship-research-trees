@@ -1,6 +1,5 @@
 # Ashland-Class Landing Ships, Dock
 
-```yaml
 ---
 class_name: Ashland-Class-LSD
 hull_numbers: LSD-1 to LSD-12
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [landing-ship, lsd, lsd-1, ashland, well-deck, wwii, pacific, normandy, 1943, 8-ships, milestone]
 ---
-```
 
 **First Landing Ship Docks** - Ashland-class were first LSDs with ballast well decks. 8 ships built 1943-1944. Revolutionary concept: carry landing craft in flooded well deck, release at sea. Mother ship for smaller landing craft.
 

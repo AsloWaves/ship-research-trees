@@ -5,6 +5,7 @@ nation: USA
 type: Nuclear
 introduced: 1945
 tags: [torpedo, nuclear, usa]
+completeness: partial
 ---
 
 # Mark 25 "Atomic Astor"

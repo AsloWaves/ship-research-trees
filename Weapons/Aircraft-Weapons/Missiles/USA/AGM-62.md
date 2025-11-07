@@ -7,6 +7,7 @@ introduced: 1967
 retired: 1997
 service_life: 1967-1997
 tags: [anti-radar-missile, walleye, usa]
+completeness: partial
 ---
 
 # AGM-62 Walleye

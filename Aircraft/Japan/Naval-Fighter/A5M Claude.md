@@ -5,6 +5,7 @@ nation: Japanese
 type: Fighter
 introduced: 1940
 tags: [naval-aircraft, fighter, japanese]
+completeness: partial
 ---
 
 # A5M Claude

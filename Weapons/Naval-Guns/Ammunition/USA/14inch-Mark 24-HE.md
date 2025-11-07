@@ -8,6 +8,7 @@ projectile_type: HE
 introduced: 1944
 service_life: 1944-Present
 tags: [14inch, he, mark-24, usa, ammunition]
+completeness: partial
 ---
 
 # 14" Mark 24 (HE)

@@ -1,6 +1,5 @@
 # Chester-Class Protected Cruiser (Scout Cruiser)
 
-```yaml
 ---
 class_name: Chester-Class
 hull_numbers: CS-1, CS-2, CS-3
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [cruiser, protected-cruiser, scout-cruiser, turbines, 1908, cs-1]
 ---
-```
 
 **Last Protected Cruisers** - Chester-class were fast scout cruisers with turbine propulsion. First US turbine cruisers. Last protected cruisers built.
 

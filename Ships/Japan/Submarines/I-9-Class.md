@@ -1,6 +1,5 @@
 # I-9-Class Submarines (Type A)
 
-```yaml
 ---
 class_name: I-9-Class (Type A)
 hull_numbers: I-9, I-10, I-11
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [submarine, i-9-class, type-a, cruiser-submarine, aircraft-carrying, pearl-harbor-recon, long-range, fleet-submarine, wwii, imperial-japanese-navy, ijn, 1941, 3-boats]
 ---
-```
 
 **Aircraft-Carrying Cruisers** - I-9-class were large cruiser submarines carrying floatplanes. 3 boats commissioned 1941-1942. 365 ft long, 2,919/4,149 tons. Six torpedo tubes + 5.5-inch deck gun + 1 floatplane. Long range (16,000 nm). I-10 reconnoitered Pearl Harbor before attack. I-11 contributed to sinking USS Juneau (Sullivan brothers). All 3 lost 1942-1944 (100% loss rate).
 

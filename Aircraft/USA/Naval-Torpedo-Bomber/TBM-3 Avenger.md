@@ -5,6 +5,7 @@ nation: USA
 type: Torpedo Bomber
 introduced: 1944
 tags: [naval-aircraft, torpedo-bomber, usa]
+completeness: partial
 ---
 
 # TBM-3 Avenger

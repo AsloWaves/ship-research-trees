@@ -1,6 +1,5 @@
 # Yubari - Experimental Light Cruiser
 
-```yaml
 ---
 class_name: Yubari (Experimental Light Cruiser)
 hull_numbers: None (single ship)
@@ -63,7 +62,6 @@ firsts:
 # Tags
 tags: [light-cruiser, yubari, experimental, innovative, compact-design, hiraga, single-ship, wwii, influential, jn, 1923, legendary]
 ---
-```
 
 **Revolutionary Experimental Design** - Yubari was Japan's experimental compact light cruiser. 1 ship commissioned July 1923. Designed by legendary naval architect Yuzuru Hiraga. Revolutionary concept: **5,500-ton firepower on 3,893-ton hull** (compact design!). 6× 140mm guns, 4× 24-inch torpedoes, 35.5 knots - same armament as larger cruisers but 33% smaller/lighter! Innovative weight-saving techniques. Test-bed for design concepts - influenced ALL subsequent Japanese cruisers. Only 1 built (experimental). Fought entire WWII (21 years service). Lost April 27, 1944 (torpedoed by USS Bluegill off Palau). Legendary ship - Hiraga's masterpiece, changed Japanese naval architecture forever.
 

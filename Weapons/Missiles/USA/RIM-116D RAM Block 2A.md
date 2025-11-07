@@ -5,6 +5,7 @@ nation: USA
 type: CIWS
 introduced: 2020
 tags: [missile, ciws, usa]
+completeness: stub
 ---
 
 # RIM-116D RAM Block 2A

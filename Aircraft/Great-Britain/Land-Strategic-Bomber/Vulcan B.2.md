@@ -5,6 +5,7 @@ nation: British
 type: Strategic Bomber
 introduced: 1960
 tags: [ground-aircraft, strategic-bomber, british]
+completeness: partial
 ---
 
 # Vulcan B.2

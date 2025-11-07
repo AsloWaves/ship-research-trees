@@ -5,6 +5,7 @@ nation: British
 type: Cruise
 introduced: 2021
 tags: [missile, cruise, british]
+completeness: stub
 ---
 
 # Tomahawk Block V (UK)

@@ -5,6 +5,7 @@ nation: British
 type: Compressed Air
 introduced: 1882
 tags: [torpedo, compressed-air, british]
+completeness: partial
 ---
 
 # Whitehead Mark III

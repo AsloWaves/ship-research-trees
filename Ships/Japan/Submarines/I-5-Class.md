@@ -1,6 +1,5 @@
 # I-5-Class Submarines (Kaidai Type II)
 
-```yaml
 ---
 class_name: I-5-Class Submarines (Kaidai Type II)
 hull_numbers: I-5, I-6, I-7
@@ -56,7 +55,6 @@ firsts:
 # Tags
 tags: [submarine, i-5-class, kaidai-type-ii, fleet-submarine, 1932, interwar, wwii, pearl-harbor, 100-percent-loss, all-sunk, seawolf-sinking, long-range, imperial-japanese-navy, ijn, 3-boats]
 ---
-```
 
 **Improved Fleet Submarines** - I-5-Class were improved Kaidai Type II fleet submarines. 3 boats commissioned 1932. Larger and faster than I-1-Class (Kaidai I): 2,300 tons submerged, 18 knots surface. Six 21-inch torpedo tubes, 16 torpedoes carried. 10,000 nm range (trans-Pacific). One 4.7-inch deck gun. All 3 served WWII from Pearl Harbor (December 1941). All 3 lost (100% loss). I-6 sank USS Seawolf SS-197 (October 1944) in friendly fire incident - thought to be American submarine. Refined Kaidai design with incremental improvements. Evolved into larger I-9-Class and specialized types.
 

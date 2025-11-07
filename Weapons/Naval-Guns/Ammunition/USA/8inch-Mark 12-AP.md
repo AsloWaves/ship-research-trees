@@ -8,6 +8,7 @@ projectile_type: AP
 introduced: 1934
 service_life: 1934-Present
 tags: [8inch, ap, mark-12, usa, ammunition]
+completeness: partial
 ---
 
 # 8" Mark 12 (AP)

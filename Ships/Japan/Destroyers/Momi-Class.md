@@ -1,6 +1,5 @@
 # Momi-Class Destroyers
 
-```yaml
 ---
 class_name: Momi-Class
 hull_numbers: None
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [destroyer, momi-class, wwi-era, smallest-destroyers, patrol-boats, mostly-scrapped, obsolete, limited-wwii-service, imperial-japanese-navy, ijn, 1920, 21-ships]
 ---
-```
 
 **Smallest Destroyers** - Momi-class were tiny WWI-era destroyers. 21 ships built 1920-1922. Very small (850 tons), three 4.7-inch guns, four 21-inch torpedoes, 36 knots. Obsolete by 1930s - most converted to patrol boats (1939-1940) or scrapped. Only 4 retained as destroyers for WWII service, all 4 lost in combat 1942-1944. Smallest destroyers in IJN WWII service.
 

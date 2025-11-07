@@ -1,6 +1,5 @@
 # Izumo-Class Helicopter Destroyers (DDH)
 
-```yaml
 ---
 class_name: Izumo-Class Helicopter Destroyers
 hull_numbers: DDH-183, DDH-184
@@ -67,7 +66,6 @@ firsts:
 # Tags
 tags: [helicopter-destroyer, izumo-class, ddh, light-carrier, f-35b-capable, modern, post-1945, largest-japanese-warships, 27000-tons, jmsdf, 2010s, 2-ships, active, multi-role]
 ---
-```
 
 **Largest Japanese Warships Since WWII** - Izumo-class are Japan's largest warships since 1945. 2 ships commissioned 2015, 2017. Huge (27,000 tons full - larger than WWII carriers!). Full-length flight deck (814 ft). Originally designed for 14 helicopters (SH-60K, MCH-101). Modified 2020s for F-35B Lightning II stealth fighters - now light aircraft carriers. Can operate up to 12 F-35B + helicopters. 16 VLS cells (ESSM), 2 Phalanx, SeaRAM. Advanced ASW (OQQ-23 sonar). Multi-role: ASW, air defense, amphibious support, disaster relief, command ship. Both active as of 2025. Officially "helicopter destroyers" but functionally light carriers. Largest JMSDF ships ever - comparable to WWII carriers in size. F-35B capability transforms Japanese naval power.
 

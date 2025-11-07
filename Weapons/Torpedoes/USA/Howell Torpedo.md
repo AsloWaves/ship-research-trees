@@ -5,6 +5,7 @@ nation: USA
 type: Flywheel
 introduced: 1889
 tags: [torpedo, flywheel, usa]
+completeness: partial
 ---
 
 # Howell Torpedo

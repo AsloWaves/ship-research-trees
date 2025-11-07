@@ -5,6 +5,7 @@ nation: USA
 type: Cruise
 introduced: 1999
 tags: [missile, cruise, usa]
+completeness: stub
 ---
 
 # AGM-154A JSOW

@@ -5,6 +5,7 @@ nation: Japanese
 type: Oxygen
 introduced: 1933
 tags: [torpedo, oxygen, japanese]
+completeness: partial
 ---
 
 # Type 93 Model 1 (Mod 1)

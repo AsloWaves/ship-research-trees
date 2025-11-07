@@ -5,6 +5,7 @@ nation: USA
 type: UAV Tanker
 introduced: 2021
 tags: [naval-aircraft, uav-tanker, usa]
+completeness: partial
 ---
 
 # MQ-25 Stingray

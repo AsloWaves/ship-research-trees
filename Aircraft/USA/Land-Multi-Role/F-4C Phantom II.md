@@ -5,6 +5,7 @@ nation: USA
 type: Multi-Role
 introduced: 1963
 tags: [ground-aircraft, multi-role, usa]
+completeness: partial
 ---
 
 # F-4C Phantom II

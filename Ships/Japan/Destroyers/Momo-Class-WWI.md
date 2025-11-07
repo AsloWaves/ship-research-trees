@@ -1,6 +1,5 @@
 # Momo-Class Destroyers (WWI - Second Class)
 
-```yaml
 ---
 class_name: Momo-Class Destroyers (Second WWI Class, not the earlier Momi-class)
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, momo-class-wwi, oil-fired, three-shaft, wwi-destroyer, all-scrapped-1930s, treaty-limits, transitional-design, imperial-japanese-navy, ijn, 1916, 8-ships]
 ---
-```
 
 **Oil-Fired Transition** - Momo-class were WWI Japanese destroyers. 8 ships commissioned 1916-1917. Improved Kaba-class with oil-firing (not coal). Three-shaft turbines (unusual configuration). Three 4.7-inch guns + six 21-inch torpedoes. 31.5 knots. First Japanese oil-fired destroyers. All eight scrapped 1932-1936 (treaty limits, obsolete). None survived to WWII. Represented transition from coal to oil, from reciprocating to turbines - WWI technological evolution.
 

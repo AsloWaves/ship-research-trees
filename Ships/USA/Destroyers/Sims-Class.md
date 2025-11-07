@@ -1,6 +1,5 @@
 # Sims-Class Destroyers
 
-```yaml
 ---
 class_name: Sims-Class
 hull_numbers: DD-409 to DD-420
@@ -55,7 +54,6 @@ firsts:
 # Tags
 tags: [destroyer, oil-fired, turbine, interwar, 5-inch-38, mark-37-fcs]
 ---
-```
 
 **Advanced Fire Control** - First destroyer class with the revolutionary Mark 37 GFCS and automated fire control computer.
 

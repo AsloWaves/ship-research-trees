@@ -5,6 +5,7 @@ nation: Japanese
 type: Compressed Air
 introduced: 1911
 tags: [torpedo, compressed-air, japanese]
+completeness: partial
 ---
 
 # Type 44 Year 3

@@ -1,6 +1,5 @@
 # Triton-Class Submarine
 
-```yaml
 ---
 class_name: Triton-Class
 hull_numbers: SSN-586
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [submarine, ssn, triton, nuclear, radar-picket, cold-war, 1959, milestone]
 ---
-```
 
 **Giant Radar Picket** - Triton (SSN-586) was largest submarine until Ohio-class. Only SSN with two reactors. Built as radar picket for carrier groups.
 

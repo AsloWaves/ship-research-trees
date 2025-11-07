@@ -5,6 +5,7 @@ nation: USA
 type: UAV Attack
 introduced: 2007
 tags: [ground-aircraft, uav-attack, usa]
+completeness: partial
 ---
 
 # MQ-9 Reaper

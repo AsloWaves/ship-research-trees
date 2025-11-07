@@ -5,6 +5,7 @@ nation: German
 type: Compressed Air
 introduced: 1873
 tags: [torpedo, compressed-air, german]
+completeness: partial
 ---
 
 # Schwarzkopf Torpedo C/73

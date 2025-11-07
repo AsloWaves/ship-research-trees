@@ -1,6 +1,5 @@
 # Tolland-Class Attack Cargo Ships
 
-```yaml
 ---
 class_name: Tolland-Class-AKA
 hull_numbers: AKA-64 to AKA-108
@@ -44,7 +43,6 @@ successor: "[[Andromeda-Class-LKA]]"
 # Tags
 tags: [cargo, attack-cargo, aka, wwii, c2-hull, amphibious, 1944]
 ---
-```
 
 **Larger Cargo Capacity** - Tolland-class attack cargo ships based on C2-S-AJ3 hull with greater capacity than Artemis-class. 32 ships (1 cancelled). Many present at Tokyo Bay surrender.
 

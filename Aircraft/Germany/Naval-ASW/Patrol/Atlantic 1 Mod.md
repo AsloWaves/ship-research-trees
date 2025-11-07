@@ -5,6 +5,7 @@ nation: German
 type: ASW/Patrol
 introduced: 1981
 tags: [naval-aircraft, asw/patrol, german]
+completeness: partial
 ---
 
 # Atlantic 1 Mod

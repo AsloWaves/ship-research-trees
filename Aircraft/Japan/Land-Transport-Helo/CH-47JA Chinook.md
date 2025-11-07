@@ -5,6 +5,7 @@ nation: Japanese
 type: Transport Helo
 introduced: 2001
 tags: [ground-aircraft, transport-helo, japanese]
+completeness: partial
 ---
 
 # CH-47JA Chinook

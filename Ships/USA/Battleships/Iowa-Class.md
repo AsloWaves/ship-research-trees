@@ -1,6 +1,5 @@
 # Iowa-Class Battleships
 
-```yaml
 ---
 class_name: Iowa-Class
 hull_numbers: BB-61, BB-62, BB-63, BB-64, BB-65 (cancelled), BB-66 (cancelled)
@@ -54,7 +53,6 @@ firsts:
 # Tags
 tags: [battleship, iowa, new-jersey, missouri, wisconsin, bb-61, bb-62, bb-63, bb-64, fast-battleship, 1943, wwii, korea, vietnam, gulf-war, tomahawk, legendary, museum-ship, active, milestone, 4-ships]
 ---
-```
 
 **Ultimate Battleships** - Iowa-class were most powerful US battleships ever. 4 built (2 cancelled). 33 knots - fastest battleships ever. Served WWII, Korea, Vietnam, Gulf War. Last battleships in service (Missouri 1992).
 

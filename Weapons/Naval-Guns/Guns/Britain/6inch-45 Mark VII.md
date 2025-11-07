@@ -6,6 +6,7 @@ caliber: 6"
 mark: Mark VII
 year: 1899
 tags: [naval-gun, britain, 6inch]
+completeness: stub
 ---
 
 # 6"/45 Mark VII

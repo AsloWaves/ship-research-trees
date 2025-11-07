@@ -8,6 +8,7 @@ projectile_type: HC
 introduced: 1938
 service_life: 1938-Present
 tags: [6inch, hc, mark-25, usa, ammunition]
+completeness: partial
 ---
 
 # 6" Mark 25 (HC)

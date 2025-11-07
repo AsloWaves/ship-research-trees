@@ -5,6 +5,7 @@ nation: USA
 type: Steam
 introduced: 1927
 tags: [torpedo, steam, usa]
+completeness: partial
 ---
 
 # Mark 12

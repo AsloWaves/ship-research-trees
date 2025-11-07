@@ -1,6 +1,5 @@
 # Casa Grande-Class Dock Landing Ships
 
-```yaml
 ---
 class_name: Casa Grande-Class-LSD
 hull_numbers: LSD-13 to LSD-27
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [amphibious, lsd, dock-landing-ship, wwii, well-deck, 1944, pacific]
 ---
-```
 
 **First Purpose-Built LSDs** - Casa Grande-class introduced innovative floodable well deck design for amphibious operations. 15 ships. Revolutionized amphibious warfare doctrine.
 

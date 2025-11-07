@@ -5,6 +5,7 @@ nation: Japanese
 type: GP Bomb
 introduced: 1975
 tags: [bomb, naval-bomb, gp-bomb, japanese]
+completeness: partial
 ---
 
 # Mk 82 (JASDF)

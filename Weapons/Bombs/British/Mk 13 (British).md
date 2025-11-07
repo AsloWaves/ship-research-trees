@@ -5,6 +5,7 @@ nation: British
 type: GP Bomb
 introduced: 1960
 tags: [bomb, naval-bomb, gp-bomb, british]
+completeness: partial
 ---
 
 # Mk 13 (British)

@@ -5,6 +5,7 @@ nation: British
 type: V/STOL
 introduced: 1978
 tags: [naval-aircraft, v/stol, british]
+completeness: partial
 ---
 
 # Sea Harrier FRS.1

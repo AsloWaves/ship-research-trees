@@ -1,6 +1,5 @@
 # Virginia-Class Submarines
 
-```yaml
 ---
 class_name: Virginia-Class
 hull_numbers: SSN-774 to SSN-843+ (ongoing)
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [submarine, ssn, virginia, nuclear, attack-submarine, tomahawk, modern, 2004, active, milestone]
 ---
-```
 
 **Current SSN Class** - Virginia-class are current US attack submarines. 24 built, 66 planned. More affordable than Seawolf while maintaining high capability.
 

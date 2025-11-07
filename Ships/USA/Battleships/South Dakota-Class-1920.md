@@ -1,6 +1,5 @@
 # South Dakota-Class Battleships (1920 - Cancelled)
 
-```yaml
 ---
 class_name: South Dakota-Class-1920
 hull_numbers: BB-49 to BB-54
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [battleship, south-dakota-1920, bb-49, cancelled, washington-treaty, 1922, experimental, unbuilt, 12-guns, triple-turrets, milestone]
 ---
-```
 
 **Cancelled Super Battleships** - South Dakota-class (1920) were 6 super battleships planned post-WWI. 12× 16-inch guns in four triple turrets. Cancelled 1922 under Washington Naval Treaty. Different from WWII South Dakota-class (BB-57).
 

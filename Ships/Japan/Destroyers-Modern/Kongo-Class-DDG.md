@@ -1,6 +1,5 @@
 # Kongo-Class Aegis Destroyers (DDG)
 
-```yaml
 ---
 class_name: Kongo-Class Aegis Destroyers
 hull_numbers: DDG-173 through DDG-177 (later renumbered DDG-173, 174, 175, 177)
@@ -68,7 +67,6 @@ firsts:
 # Tags
 tags: [destroyer, kongo-class, aegis, ddg, modern, ballistic-missile-defense, bmd, sm-3, jmsdf, japanese-maritime-self-defense-force, 1990s, 4-ships, active, aegis-destroyer]
 ---
-```
 
 **First Japanese Aegis Destroyers** - Kongo-class are Japan's first Aegis-equipped destroyers. 4 ships commissioned 1993-1998. Large (9,485 tons full load), gas turbine, 30 knots. Based on US Arleigh Burke-class design. AN/SPY-1D Aegis radar system (4 phased array faces). 90 Mk 41 VLS cells carrying SM-2 Standard, SM-3 ballistic missile defense interceptors, ASROC. Two 5-inch guns. Helicopter capable. Ballistic Missile Defense (BMD) mission critical for Japan homeland defense. All 4 active as of 2025. Represented quantum leap in JMSDF capability - from conventional destroyers to world-class Aegis platforms. Technology transfer from US Navy.
 

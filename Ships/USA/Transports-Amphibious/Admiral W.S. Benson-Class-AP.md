@@ -1,6 +1,5 @@
 # Admiral W.S. Benson-Class Transport Ships
 
-```yaml
 ---
 class_name: Admiral W.S. Benson-Class-AP
 hull_numbers: AP-120 to AP-127
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [transport, ap, wwii, c3-conversion, army-service, 1944]
 ---
-```
 
 **C3 Conversions for Army** - Admiral W.S. Benson-class were C3 cargo ship conversions for Army transport service. 8 ships. Large troop capacity (4,500), transferred to Army 1946 and renamed for generals.
 

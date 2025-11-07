@@ -6,6 +6,7 @@ nation: USA
 caliber: 13"
 turret_type: Single
 tags: [13inch, single, usa, turret]
+completeness: partial
 ---
 
 # 13" Mark Mark 1 Single Turret

@@ -1,6 +1,5 @@
 # Bayfield-Class Attack Transports
 
-```yaml
 ---
 class_name: Bayfield-Class-APA
 hull_numbers: APA-33 to APA-116
@@ -44,7 +43,6 @@ successor: "[[Haskell-Class-APA]]"
 # Tags
 tags: [transport, attack-transport, apa, wwii, c3-hull, amphibious, 1943]
 ---
-```
 
 **Primary APA Class** - Bayfield-class were the first attack transports built in substantial numbers. 34 ships based on C3-S-A2 merchant hull. Second most numerous APA class after Haskell.
 

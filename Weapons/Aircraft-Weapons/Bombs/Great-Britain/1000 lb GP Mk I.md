@@ -7,6 +7,7 @@ introduced: 1939
 retired: 1943
 service_life: 1939-1943
 tags: [gravity-bomb, general-purpose-bomb, uk]
+completeness: partial
 ---
 
 # 1000 lb GP Mk I General Purpose Bomb

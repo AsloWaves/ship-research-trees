@@ -6,6 +6,7 @@ caliber: 4"
 mark: QF Mark XXI
 year: 1943
 tags: [naval-gun, britain, 4inch]
+completeness: stub
 ---
 
 # 4"/45 QF Mark XXI

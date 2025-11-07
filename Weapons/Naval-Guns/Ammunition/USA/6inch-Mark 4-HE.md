@@ -8,6 +8,7 @@ projectile_type: HE
 introduced: 1900
 service_life: 1900-Present
 tags: [6inch, he, mark-4, usa, ammunition]
+completeness: partial
 ---
 
 # 6" Mark 4 (HE)

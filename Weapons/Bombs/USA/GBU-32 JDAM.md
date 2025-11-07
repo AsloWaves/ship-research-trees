@@ -5,6 +5,7 @@ nation: USA
 type: GPS-Guided
 introduced: 1999
 tags: [bomb, naval-bomb, gps-guided, usa]
+completeness: partial
 ---
 
 # GBU-32 JDAM

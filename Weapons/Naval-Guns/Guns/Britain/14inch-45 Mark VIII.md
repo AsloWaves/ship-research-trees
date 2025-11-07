@@ -6,6 +6,7 @@ caliber: 14"
 mark: Mark VIII
 year: 1943
 tags: [naval-gun, britain, 14inch]
+completeness: stub
 ---
 
 # 14"/45 Mark VIII

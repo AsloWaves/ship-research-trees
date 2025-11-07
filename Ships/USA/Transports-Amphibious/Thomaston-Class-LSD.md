@@ -1,6 +1,5 @@
 # Thomaston-Class Dock Landing Ships
 
-```yaml
 ---
 class_name: Thomaston-Class-LSD
 hull_numbers: LSD-28 to LSD-35
@@ -55,7 +54,6 @@ firsts:
 # Tags
 tags: [amphibious, lsd, cold-war, well-deck, 1954]
 ---
-```
 
 **Cold War Modernization** - Thomaston-class represented major step forward in LSD design with 40% greater displacement and speed than WWII predecessors. 8 ships. Served through Vietnam War era.
 

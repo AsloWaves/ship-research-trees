@@ -1,6 +1,5 @@
 # Montgomery-Class Unprotected Cruiser
 
-```yaml
 ---
 class_name: Montgomery-Class
 hull_numbers: C-9, C-10, C-11
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [cruiser, unprotected-cruiser, 1893, c-9]
 ---
-```
 
 **Only Unprotected Cruisers** - Montgomery-class were small unprotected cruisers with no armor. Only US unprotected cruisers built. 3 ships.
 

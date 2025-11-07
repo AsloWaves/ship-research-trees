@@ -5,6 +5,7 @@ nation: German
 type: Multi-Role
 introduced: 2004
 tags: [ground-aircraft, multi-role, german]
+completeness: partial
 ---
 
 # Eurofighter Typhoon

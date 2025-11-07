@@ -5,6 +5,7 @@ nation: British
 type: Fighter
 introduced: 1945
 tags: [naval-aircraft, fighter, british]
+completeness: partial
 ---
 
 # Seafire Mk XV

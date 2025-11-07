@@ -5,6 +5,7 @@ nation: USA
 type: UAV Recon
 introduced: 2001
 tags: [ground-aircraft, uav-recon, usa]
+completeness: partial
 ---
 
 # RQ-4 Global Hawk

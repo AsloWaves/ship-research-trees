@@ -5,6 +5,7 @@ nation: USA
 type: UAV Multi-Role
 introduced: 2020
 tags: [ground-aircraft, uav-multi-role, usa]
+completeness: partial
 ---
 
 # MQ-9B Sky Guardian

@@ -5,6 +5,7 @@ nation: Japanese
 type: ASW Helo
 introduced: 1991
 tags: [naval-aircraft, asw-helo, japanese]
+completeness: partial
 ---
 
 # SH-60J Seahawk

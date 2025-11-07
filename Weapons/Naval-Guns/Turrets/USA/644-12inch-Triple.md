@@ -6,6 +6,7 @@ nation: USA
 caliber: 12"
 turret_type: Triple
 tags: [12inch, triple, usa, turret]
+completeness: partial
 ---
 
 # 12" Mark Mark 5 Triple Turret

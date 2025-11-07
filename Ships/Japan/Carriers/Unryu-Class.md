@@ -1,6 +1,5 @@
 # Unryu-Class Aircraft Carriers
 
-```yaml
 ---
 class_name: Unryu-Class
 hull_numbers: None (Unryu, Amagi, Katsuragi, plus 13 cancelled)
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [carrier, unryu-class, amagi, katsuragi, mass-production, simplified-design, emergency-carriers, too-late, wwii, imperial-japanese-navy, ijn, 1944, 3-ships]
 ---
-```
 
 **Emergency Carriers** - Unryu-class were simplified Hiryu-type carriers for mass production. 16 planned, only 3 completed 1944-1945. Based on 1939 Hiryu design (not modern Shokaku). 746 ft, 65 aircraft. Too few, too late - none saw combat. Unryu and Amagi sunk by submarines 1944-1945. Katsuragi survived as only IJN fleet carrier to survive war intact.
 

@@ -1,6 +1,5 @@
 # Hosho (Aircraft Carrier)
 
-```yaml
 ---
 class_name: Hosho
 hull_numbers: None (unique ship)
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [carrier, hosho, first-carrier, purpose-built, interwar, wwii, imperial-japanese-navy, ijn, 1922, historic, 1-ship]
 ---
-```
 
 **World's First** - Hosho was the first purpose-built aircraft carrier commissioned in the world (December 27, 1922). Designed from keel up as carrier, not conversion. Small (551 ft, 15-21 aircraft) but proved carrier concept. Pearl Harbor veteran (limited role). Survived war, scrapped 1947. Name means "Flying Phoenix."
 

@@ -1,6 +1,5 @@
 # Pensacola-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: Pensacola-Class
 hull_numbers: CA-24, CA-25
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [cruiser, heavy-cruiser, treaty-cruiser, 8-inch, 1930]
 ---
-```
 
 **First Treaty Heavy Cruisers** - Pensacola-class were the first cruisers designed under Washington Naval Treaty 10,000-ton limit with 8-inch guns. Light armor, heavy armament.
 

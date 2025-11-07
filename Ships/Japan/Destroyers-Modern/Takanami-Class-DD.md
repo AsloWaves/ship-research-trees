@@ -1,6 +1,5 @@
 # Takanami-Class Destroyers (DD)
 
-```yaml
 ---
 class_name: Takanami-Class Destroyers
 hull_numbers: DD-110, DD-111, DD-112, DD-113, DD-114
@@ -67,7 +66,6 @@ firsts:
 # Tags
 tags: [destroyer, takanami-class, dd, modern, post-1945, improved-murasame, general-purpose, asw-focused, jmsdf, 2000s, 5-ships, active]
 ---
-```
 
 **Improved Murasame-Class** - Takanami-class are improved Murasame-class destroyers. 5 ships commissioned 2003-2006. Same size (6,300 tons), same role (general-purpose ASW), but refined design. Better 127mm gun (Oto Melara 127/54 vs 76mm). Same 32 Mk 41 VLS (ESSM, ASROC). 8× Type 90 anti-ship missiles. Improved sensors (OPS-24B, FCS-2-31). SH-60K helicopter. COGAG propulsion, 30 knots. Crew 175 (automated). All 5 active as of 2025 (19-22 years service). Cost-effective workhorses between Murasame (1996-1999) and Akizuki (2012-2014). Takanami-class: Solid, reliable, continuous evolution of Japanese destroyer design.
 

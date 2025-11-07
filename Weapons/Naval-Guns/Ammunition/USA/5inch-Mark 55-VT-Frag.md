@@ -8,6 +8,7 @@ projectile_type: VT-Frag
 introduced: 1943
 service_life: 1943-Present
 tags: [5inch, vt-frag, mark-55, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 55 (VT-Frag)

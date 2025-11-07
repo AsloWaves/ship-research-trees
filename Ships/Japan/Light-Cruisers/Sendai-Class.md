@@ -1,6 +1,5 @@
 # Sendai-Class Light Cruisers
 
-```yaml
 ---
 class_name: Sendai-Class
 hull_numbers: None (Sendai, Jintsu, Naka)
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [light-cruiser, sendai, jintsu, naka, night-fighting, guadalcanal, solomons, destroyer-leader, wwii, imperial-japanese-navy, ijn, 1924, 3-ships]
 ---
-```
 
 **Night Battle Cruisers** - Sendai-class were 1920s light cruisers designed as destroyer flotilla leaders. 3 ships. Seven 5.5-inch guns + eight 24-inch torpedoes. High speed (35 knots). All three lost in night surface actions 1942-1944 (Guadalcanal and Solomons campaigns). Jintsu's sacrifice at Kolombangara epitomized IJN night-fighting spirit.
 

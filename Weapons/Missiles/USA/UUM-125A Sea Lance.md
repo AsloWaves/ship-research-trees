@@ -5,6 +5,7 @@ nation: USA
 type: ASW
 introduced: 1988
 tags: [missile, asw, usa]
+completeness: stub
 ---
 
 # UUM-125A Sea Lance

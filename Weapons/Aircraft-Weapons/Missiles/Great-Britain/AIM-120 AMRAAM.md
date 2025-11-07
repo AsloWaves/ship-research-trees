@@ -7,6 +7,7 @@ introduced: 1991
 retired: Active
 service_life: 1991-Present
 tags: [radar-missile, advanced-medium-range-aam, uk, radar-required]
+completeness: partial
 ---
 
 # AIM-120 AMRAAM Advanced Medium Range AAM

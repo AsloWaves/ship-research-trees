@@ -5,6 +5,7 @@ nation: Japanese
 type: V/STOL Stealth
 introduced: 2024
 tags: [naval-aircraft, v/stol-stealth, japanese]
+completeness: partial
 ---
 
 # F-35B Lightning II (JMSDF)

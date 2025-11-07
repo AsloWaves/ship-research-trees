@@ -1,6 +1,5 @@
 # LCI(G)-Class Landing Craft Infantry (Gunboat)
 
-```yaml
 ---
 class_name: LCI(G)-Class
 hull_numbers: Various (conversions from LCI(L) hulls)
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [landing-craft, lci-gunboat, wwii, fire-support, amphibious, 1943]
 ---
-```
 
 **Close-In Fire Support** - LCI(G)-class were gunboat conversions from LCI(L) hulls providing close-in fire support for amphibious operations. Multiple flotillas converted 1943-1945. Combined 40mm guns, 20mm AA, .50 cal MGs, and rockets. Post-Tarawa fire support doctrine.
 

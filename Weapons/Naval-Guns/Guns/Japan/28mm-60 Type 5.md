@@ -6,6 +6,7 @@ caliber: 28mm
 mark: Type 5
 year: 1943
 tags: [naval-gun, japan, 28mm]
+completeness: stub
 ---
 
 # 28mm/60 Type 5

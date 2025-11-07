@@ -6,6 +6,7 @@ nation: USA
 caliber: 18"
 turret_type: Twin
 tags: [18inch, twin, usa, turret]
+completeness: partial
 ---
 
 # 18" Mark Mark 1 Twin Turret

@@ -5,6 +5,7 @@ nation: British
 type: Electric
 introduced: 1948
 tags: [torpedo, electric, british]
+completeness: partial
 ---
 
 # Mark 21

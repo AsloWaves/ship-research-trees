@@ -8,6 +8,7 @@ projectile_type: Illum
 introduced: 1935
 service_life: 1935-Present
 tags: [5inch, illum, mark-14, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 14 (Illum)

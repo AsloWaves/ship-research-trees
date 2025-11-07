@@ -5,6 +5,7 @@ nation: USA
 type: Jet Fighter
 introduced: 1960
 tags: [naval-aircraft, jet-fighter, usa]
+completeness: partial
 ---
 
 # F8U-2 Crusader

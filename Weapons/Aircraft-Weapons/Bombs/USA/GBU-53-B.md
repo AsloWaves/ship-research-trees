@@ -7,6 +7,7 @@ introduced: 2017
 retired: Active
 service_life: 2017-Present
 tags: [gps-guided-bomb, sdb-ii, usa, gps-guided]
+completeness: partial
 ---
 
 # GBU-53/B SDB II

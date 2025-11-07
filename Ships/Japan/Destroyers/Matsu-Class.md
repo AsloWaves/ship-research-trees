@@ -1,6 +1,5 @@
 # Matsu-Class Destroyers
 
-```yaml
 ---
 class_name: Matsu-Class
 hull_numbers: None
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [destroyer, matsu-class, emergency-design, mass-production, simplified-design, convoy-escort, heavy-aa, late-war, wwii, imperial-japanese-navy, ijn, 1944, 18-ships]
 ---
-```
 
 **Emergency Escorts** - Matsu-class were simplified emergency destroyers. 18 ships built 1944-1945. Smaller (1,262 tons), slower (28 knots), heavily armed with AA. Three 5-inch DP guns + 25-40 light AA + four torpedoes. Rapid construction (6-8 months). Convoy escort and ASW primary roles. 9 lost, 9 survived war (50% survival - best for late-war destroyers). All-welded construction, mass-production design.
 

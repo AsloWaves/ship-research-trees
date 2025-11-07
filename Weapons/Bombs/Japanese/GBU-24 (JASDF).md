@@ -5,6 +5,7 @@ nation: Japanese
 type: LGB
 introduced: 1998
 tags: [bomb, naval-bomb, lgb, japanese]
+completeness: partial
 ---
 
 # GBU-24 (JASDF)

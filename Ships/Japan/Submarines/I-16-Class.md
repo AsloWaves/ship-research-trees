@@ -1,6 +1,5 @@
 # I-16-Class Submarines
 
-```yaml
 ---
 class_name: I-16-Class (Type C1)
 hull_numbers: I-16, I-18, I-20, I-22, I-24
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [submarine, i-16-class, type-c1, midget-submarine-carrier, ko-hyoteki, pearl-harbor-attack, 100-percent-loss, all-sunk, wwii, imperial-japanese-navy, ijn, 1940, 5-boats]
 ---
-```
 
 **Pearl Harbor Midget Carriers** - I-16-class were Japanese submarines carrying midget submarines. 5 boats commissioned 1940-1941. Large (2,184/3,561 tons), carried one Ko-hyoteki midget submarine on deck. Pearl Harbor attack (December 7, 1941) - all five launched midgets into harbor. Eight torpedo tubes + 20 torpedoes. 23.6 knots surfaced. All five lost 1942-1945 (100% loss rate). I-24's midget captured - Ensign Sakamaki became first Japanese POW of WWII. Showed midget submarine concept - mother sub carries mini-sub for harbor penetration.
 

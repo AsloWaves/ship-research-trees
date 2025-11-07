@@ -6,6 +6,7 @@ caliber: 10"
 mark: Mark I
 year: 1901
 tags: [naval-gun, britain, 10inch]
+completeness: stub
 ---
 
 # 10"/40 Mark I

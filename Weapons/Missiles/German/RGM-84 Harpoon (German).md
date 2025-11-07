@@ -5,6 +5,7 @@ nation: German
 type: SSM
 introduced: 1985
 tags: [missile, ssm, german]
+completeness: stub
 ---
 
 # RGM-84 Harpoon (German)

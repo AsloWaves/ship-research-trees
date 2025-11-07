@@ -1,6 +1,5 @@
 # Baltimore-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: Baltimore-Class
 hull_numbers: CA-68 to CA-136
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [cruiser, heavy-cruiser, wwii, 8-inch, baltimore, 1943, legendary]
 ---
-```
 
 **Best US Heavy Cruiser** - Baltimore-class were the most successful heavy cruiser design. 14 ships saw extensive WWII service in Pacific.
 

@@ -1,6 +1,5 @@
 # I-13-Class Submarines
 
-```yaml
 ---
 class_name: I-13-Class (Type AM)
 hull_numbers: I-13, I-14
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [submarine, i-13-class, aircraft-carrying, seiran-bombers, panama-canal-mission, huge-range, 100-percent-loss, largest-aircraft-subs, wwii, imperial-japanese-navy, ijn, 1944, 2-boats]
 ---
-```
 
 **Panama Canal Hunters** - I-13-class were the largest Japanese aircraft-carrying submarines. 2 boats commissioned 1944-1945. Two Seiran floatplane bombers carried for Panama Canal attack. Huge (2,934/4,172 tons), long range (21,000 nm). Both lost 1945. I-13 sunk by destroyer escort USS Lawrence C. Taylor (July 1945). I-14 surrendered August 1945, later scuttled by US Navy. Mission never accomplished - war ended first.
 

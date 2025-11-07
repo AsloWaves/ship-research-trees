@@ -5,6 +5,7 @@ nation: Japanese
 type: Incendiary
 introduced: 1944
 tags: [bomb, naval-bomb, incendiary, japanese]
+completeness: partial
 ---
 
 # Type 3 Cluster

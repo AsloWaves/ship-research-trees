@@ -1,6 +1,5 @@
 # Virginia-Class Nuclear Guided Missile Cruisers
 
-```yaml
 ---
 class_name: Virginia-Class
 hull_numbers: CGN-38 to CGN-41
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [cruiser, guided-missile, nuclear, cgn, standard-missile, tomahawk, cold-war, 1976]
 ---
-```
 
 **Tomahawk Nuclear Cruisers** - Virginia-class were last pre-Aegis nuclear cruisers. First cruisers with Tomahawk cruise missiles. 4 ships commissioned 1976-1980.
 

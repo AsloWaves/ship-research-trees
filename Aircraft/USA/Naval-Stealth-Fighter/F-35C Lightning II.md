@@ -5,6 +5,7 @@ nation: USA
 type: Stealth Fighter
 introduced: 2019
 tags: [naval-aircraft, stealth-fighter, usa]
+completeness: partial
 ---
 
 # F-35C Lightning II

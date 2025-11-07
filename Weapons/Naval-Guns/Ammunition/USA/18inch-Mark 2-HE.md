@@ -8,6 +8,7 @@ projectile_type: HE
 introduced: 1943
 service_life: 1943-Present
 tags: [18inch, he, mark-2, usa, ammunition]
+completeness: partial
 ---
 
 # 18" Mark 2 (HE)

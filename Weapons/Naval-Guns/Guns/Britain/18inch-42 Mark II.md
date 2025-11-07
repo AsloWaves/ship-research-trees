@@ -6,6 +6,7 @@ caliber: 18"
 mark: Mark II
 year: 1920
 tags: [naval-gun, britain, 18inch]
+completeness: stub
 ---
 
 # 18"/42 Mark II

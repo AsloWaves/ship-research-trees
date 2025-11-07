@@ -5,6 +5,7 @@ nation: British
 type: AEW
 introduced: 1960
 tags: [naval-aircraft, aew, british]
+completeness: partial
 ---
 
 # Gannet AEW.3

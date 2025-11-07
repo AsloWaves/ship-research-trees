@@ -5,6 +5,7 @@ nation: USA
 type: Recon
 introduced: 1962
 tags: [naval-aircraft, recon, usa]
+completeness: partial
 ---
 
 # RA-5C Vigilante

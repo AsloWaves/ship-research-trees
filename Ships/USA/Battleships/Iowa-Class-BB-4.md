@@ -1,6 +1,5 @@
 # Iowa-Class Battleship (BB-4)
 
-```yaml
 ---
 class_name: Iowa-Class-BB-4
 hull_numbers: BB-4
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [battleship, pre-dreadnought, bb-4, 1897, spanish-american-war]
 ---
-```
 
 **Improved Indiana Design** - USS Iowa (BB-4) was single-ship class, improved version of Indiana. Larger, faster, better armed. Spanish-American War veteran.
 

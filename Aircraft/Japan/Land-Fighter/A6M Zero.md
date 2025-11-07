@@ -5,6 +5,7 @@ nation: Japanese
 type: Fighter
 introduced: 1940
 tags: [ground-aircraft, fighter, japanese]
+completeness: partial
 ---
 
 # A6M Zero

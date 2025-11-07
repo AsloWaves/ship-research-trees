@@ -5,6 +5,7 @@ nation: German
 type: Acoustic
 introduced: 1944
 tags: [torpedo, acoustic, german]
+completeness: partial
 ---
 
 # T5 Zaunkönig II

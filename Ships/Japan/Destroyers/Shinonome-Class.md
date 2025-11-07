@@ -1,6 +1,5 @@
 # Shinonome-Class Destroyers (Pre-WWI)
 
-```yaml
 ---
 class_name: Shinonome-Class Destroyers
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, shinonome-class, pre-wwi, russo-japanese-war, domestically-built, coal-fired, early-destroyer, all-scrapped-1920s, 360-tons, imperial-japanese-navy, ijn, 1905, 4-ships]
 ---
-```
 
 **Early Domestic Destroyers** - Shinonome-class were early Japanese destroyers built domestically. 4 ships commissioned 1905. Very small (360 tons), coal-fired reciprocating engines. Two 3-inch guns + four 18-inch torpedoes. 29 knots. Russo-Japanese War era design. All four scrapped 1924-1928 (obsolete). None survived to WWII. Showed Japan's early destroyer construction capability - domestic yards building own designs after learning from British (Amatsukaze-class).
 

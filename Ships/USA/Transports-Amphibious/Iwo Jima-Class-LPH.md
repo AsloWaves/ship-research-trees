@@ -1,6 +1,5 @@
 # Iwo Jima-Class Amphibious Assault Ships (Helicopter)
 
-```yaml
 ---
 class_name: Iwo Jima-Class-LPH
 hull_numbers: LPH-2, LPH-3, LPH-7, LPH-9, LPH-10, LPH-11, LPH-12
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [amphibious, assault-ship, lph, iwo-jima, lph-2, helicopter-carrier, vietnam, cold-war, marines, 1961, 7-ships, milestone]
 ---
-```
 
 **First Helicopter Assault Ships** - Iwo Jima-class were first purpose-built amphibious assault ships designed for helicopter operations. 7 ships. Pioneered vertical envelopment - landing Marines by helicopter instead of beach assault.
 

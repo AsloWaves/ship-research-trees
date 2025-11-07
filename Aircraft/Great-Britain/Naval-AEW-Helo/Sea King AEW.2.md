@@ -5,6 +5,7 @@ nation: British
 type: AEW Helo
 introduced: 1982
 tags: [naval-aircraft, aew-helo, british]
+completeness: partial
 ---
 
 # Sea King AEW.2

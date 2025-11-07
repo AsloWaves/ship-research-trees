@@ -5,6 +5,7 @@ nation: German
 type: ASW
 introduced: 2022
 tags: [missile, asw, german]
+completeness: stub
 ---
 
 # RUM-139C (NATO)

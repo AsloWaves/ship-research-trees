@@ -6,6 +6,7 @@ nation: USA
 caliber: 6"
 turret_type: Twin
 tags: [6inch, twin, usa, turret]
+completeness: partial
 ---
 
 # 6" Mark Mark 14 Twin DP Turret

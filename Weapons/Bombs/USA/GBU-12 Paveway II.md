@@ -5,6 +5,7 @@ nation: USA
 type: LGB
 introduced: 1976
 tags: [bomb, naval-bomb, lgb, usa]
+completeness: partial
 ---
 
 # GBU-12 Paveway II

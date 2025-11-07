@@ -1,6 +1,5 @@
 # Shinyo Escort Carrier
 
-```yaml
 ---
 class_name: Shinyo (unique ship)
 hull_numbers: None
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [escort-carrier, shinyo, converted-liner, german-ship, uss-spadefish, shortest-service, submarine-loss, wwii, imperial-japanese-navy, ijn, 1943, 1-ship]
 ---
-```
 
 **German Conversion** - Shinyo was an escort carrier converted from German luxury liner Scharnhorst. 1 ship commissioned December 1943. 33 aircraft, 22 knots. Largest Japanese escort carrier. Used for aircraft transport and training. Sunk November 17, 1944 by submarine USS Spadefish (Yellow Sea) - shortest service life of any Japanese carrier (11 months). Over 1,100 killed. Only German-built ship used as Japanese carrier.
 

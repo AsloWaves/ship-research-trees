@@ -6,6 +6,7 @@ caliber: 23cm
 mark: Type 4
 year: 1941
 tags: [naval-gun, japan, 23cm]
+completeness: stub
 ---
 
 # 23cm/50 Type 4

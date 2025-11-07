@@ -1,6 +1,5 @@
 # Alaska-Class Large Cruisers / Battlecruisers
 
-```yaml
 ---
 class_name: Alaska-Class
 hull_numbers: CB-1, CB-2, CB-3 (cancelled), CB-4 (cancelled), CB-5 (cancelled), CB-6 (cancelled)
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [cruiser, battlecruiser, alaska, cb-1, large-cruiser, 12-inch-guns, wwii, 1944, experimental, 2-ships, unique]
 ---
-```
 
 **Battlecruisers / Large Cruisers** - Alaska-class were unique "large cruisers" with 12-inch guns. 2 built (4 cancelled). Fast (33 kn) with battleship-caliber guns but cruiser armor. Designed to counter Japanese heavy cruisers and commerce raiders.
 

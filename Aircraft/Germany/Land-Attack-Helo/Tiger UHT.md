@@ -5,6 +5,7 @@ nation: German
 type: Attack Helo
 introduced: 2005
 tags: [ground-aircraft, attack-helo, german]
+completeness: partial
 ---
 
 # Tiger UHT

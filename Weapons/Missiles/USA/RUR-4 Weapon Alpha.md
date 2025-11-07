@@ -5,6 +5,7 @@ nation: USA
 type: ASW
 introduced: 1951
 tags: [missile, asw, usa]
+completeness: stub
 ---
 
 # RUR-4 Weapon Alpha

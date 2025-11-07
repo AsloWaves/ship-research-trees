@@ -5,6 +5,7 @@ nation: USA
 type: Tanker
 introduced: 2019
 tags: [ground-aircraft, tanker, usa]
+completeness: partial
 ---
 
 # KC-46 Pegasus

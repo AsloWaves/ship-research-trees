@@ -5,6 +5,7 @@ nation: German
 type: Laser/GPS
 introduced: 2015
 tags: [bomb, naval-bomb, laser/gps, german]
+completeness: partial
 ---
 
 # GBU-54 (Luftwaffe)

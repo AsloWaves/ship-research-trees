@@ -1,6 +1,5 @@
 # O-Class Submarines
 
-```yaml
 ---
 class_name: O-Class
 hull_numbers: SS-62 to SS-77
@@ -40,7 +39,6 @@ successor: "[[R-Class]]"
 # Tags
 tags: [submarine, ss, o-class, diesel, wwi, 1918]
 ---
-```
 
 **Last Alphabet Class** - O-class were final alphabetical designation submarines. 16 boats built. Last of early designs.
 

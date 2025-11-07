@@ -1,6 +1,5 @@
 # Long Beach-Class Nuclear Guided Missile Cruiser
 
-```yaml
 ---
 class_name: Long Beach-Class
 hull_numbers: CGN-9
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [cruiser, guided-missile, nuclear, cgn, talos, terrier, cold-war, 1961, legendary, phased-array]
 ---
-```
 
 **First Nuclear Cruiser** - Long Beach was first nuclear-powered surface warship and longest cruiser ever built. Featured revolutionary phased-array "billboard" radars.
 

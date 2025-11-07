@@ -5,6 +5,7 @@ nation: USA
 type: Multi-Role
 introduced: 2019
 tags: [naval-aircraft, multi-role, usa]
+completeness: partial
 ---
 
 # F/A-18E/F Block III

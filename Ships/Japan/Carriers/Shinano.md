@@ -1,6 +1,5 @@
 # Shinano (Aircraft Carrier)
 
-```yaml
 ---
 class_name: Shinano
 hull_numbers: None (unique ship, converted Yamato-class)
@@ -54,7 +53,6 @@ firsts:
 # Tags
 tags: [carrier, super-carrier, shinano, converted-battleship, armored-carrier, largest-carrier, shortest-life, maiden-voyage-sinking, submarine, archerfish, wwii, imperial-japanese-navy, ijn, 1944, tragic, 1-ship]
 ---
-```
 
 **Doomed Giant** - Shinano was largest aircraft carrier in world (1944-1955), converted from third Yamato-class battleship. 872 ft, 71,890 tons. Heaviest carrier armor ever (7.5-inch flight deck). Support carrier for ferrying/reserve aircraft. Commissioned November 19, 1944. Sunk by USS Archerfish November 29, 1944 - 10 days after commissioning. Maiden voyage became death voyage. 1,435 killed. Shortest operational life of any major warship.
 

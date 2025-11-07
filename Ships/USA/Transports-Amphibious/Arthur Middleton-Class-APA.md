@@ -1,6 +1,5 @@
 # Arthur Middleton-Class Attack Transports
 
-```yaml
 ---
 class_name: Arthur Middleton-Class-APA
 hull_numbers: APA-25, APA-26, APA-27
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [transport, attack-transport, apa, wwii, c3-hull, colonial-names, 1942]
 ---
-```
 
 **Enhanced C3 Transports** - Arthur Middleton-class were larger C3-based transports with enhanced passenger/cargo capacity. 3 ships. All named after American colonial leaders, served major Pacific and European amphibious operations.
 

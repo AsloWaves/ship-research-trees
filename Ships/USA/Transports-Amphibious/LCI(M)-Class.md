@@ -1,6 +1,5 @@
 # LCI(M)-Class Landing Craft Infantry (Mortar)
 
-```yaml
 ---
 class_name: LCI(M)-Class
 hull_numbers: Various (conversions from LCI(L) hulls)
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [landing-craft, lci-mortar, wwii, fire-support, amphibious, 1945]
 ---
-```
 
 **Indirect Fire Support** - LCI(M)-class were mortar support conversions from LCI(L) hulls providing naval surface fire support using chemical mortars. Limited conversions, primarily 1945. Least common LCI variant. 3× M2 4.2-inch chemical mortars for high-angle fire on inland targets.
 

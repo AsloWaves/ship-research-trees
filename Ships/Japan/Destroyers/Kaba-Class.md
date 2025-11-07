@@ -1,6 +1,5 @@
 # Kaba-Class Destroyers
 
-```yaml
 ---
 class_name: Kaba-Class
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, kaba-class, wwi-destroyer, first-mass-produced, coal-oil-firing, obsolete-by-wwii, treaty-scrapping, mixed-survival, imperial-japanese-navy, ijn, 1915, 10-ships]
 ---
-```
 
 **WWI Veterans** - Kaba-class were Japan's first mass-produced destroyers. 10 ships commissioned 1915-1916. Small (665 tons), slow (30 knots), lightly armed (three 4.7-inch guns + six torpedoes). Coal/oil mixed firing (transitional technology). WWI convoy escort and patrol duties. Most scrapped 1932 (treaty limitations). Four survived to WWII - all lost 1942-1944. Showed obsolescence - WWI-era ships facing WWII combat. Last lost 1944 (29 years old). Represented Japanese destroyer origins.
 

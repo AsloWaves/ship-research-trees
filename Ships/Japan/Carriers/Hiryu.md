@@ -1,6 +1,5 @@
 # Hiryu (Aircraft Carrier)
 
-```yaml
 ---
 class_name: Hiryu
 hull_numbers: None (unique ship, modified Soryu)
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [carrier, hiryu, pearl-harbor, midway, kido-butai, port-island, yorktown-killer, last-survivor, wwii, imperial-japanese-navy, ijn, 1939, legendary, 1-ship]
 ---
-```
 
 **Last Survivor** - Hiryu was modified Soryu-class carrier with unique port-side island. Commissioned 1939. Pearl Harbor veteran. Only carrier to survive first Midway dive bomber attack. Launched counterstrikes that fatally damaged USS Yorktown. Last of four carriers sunk at Midway - scuttled June 5, 1942 after surviving longest.
 

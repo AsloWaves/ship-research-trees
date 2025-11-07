@@ -1,6 +1,5 @@
 # Ohio-Class Ballistic Missile Submarines
 
-```yaml
 ---
 class_name: Ohio-Class-SSBN
 hull_numbers: SSBN-726 to SSBN-743 (14 SSBN), SSGN-726 to SSGN-729 (4 SSGN)
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [submarine, ssbn, ssgn, ohio, nuclear, ballistic-missile, cruise-missile, trident, tomahawk, modern, 1981, legendary, active, milestone]
 ---
-```
 
 **Largest US Submarines** - Ohio-class are largest US submarines ever built. 18 boats total: 14 Trident II SSBNs + 4 converted to Tomahawk SSGNs. Backbone of nuclear deterrent.
 

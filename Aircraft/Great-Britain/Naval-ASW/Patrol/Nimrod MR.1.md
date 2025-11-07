@@ -5,6 +5,7 @@ nation: British
 type: ASW/Patrol
 introduced: 1969
 tags: [naval-aircraft, asw/patrol, british]
+completeness: partial
 ---
 
 # Nimrod MR.1

@@ -1,6 +1,5 @@
 # Minekaze-Class Destroyers
 
-```yaml
 ---
 class_name: Minekaze-Class Destroyers
 hull_numbers: Various (Japanese numbering system)
@@ -58,7 +57,6 @@ firsts:
 # Tags
 tags: [destroyer, minekaze-class, interwar, wwii, fast-destroyer, 39-knots, 15-ships, high-losses, jn, 1920s, first-post-wwi]
 ---
-```
 
 **Fastest Destroyers of 1920s** - Minekaze-class were Japan's first post-WWI destroyers. 15 ships commissioned 1920-1922. Revolutionary speed: 39 knots (fastest destroyers in world when built!). Set speed records for destroyers. 1,650 tons, 4× 120mm guns, 6× 21-inch torpedoes. Designed for high-speed scouting and torpedo attacks. Bridge between WWI designs and revolutionary Fubuki-class. All 15 fought entire WWII. 13 lost (86.7% casualty rate). 2 survivors: Namikaze, Hakaze. Minekaze-class: Speed demons of 1920s, paid heavy price in WWII.
 

@@ -5,6 +5,7 @@ nation: USA
 type: Hypersonic
 introduced: 2022
 tags: [missile, hypersonic, usa]
+completeness: stub
 ---
 
 # Conventional Prompt Strike

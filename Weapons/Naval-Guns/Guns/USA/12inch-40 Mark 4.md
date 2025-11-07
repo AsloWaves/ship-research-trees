@@ -6,6 +6,7 @@ caliber: 12"
 mark: Mark 4
 year: 1900
 tags: [naval-gun, usa, 12inch]
+completeness: stub
 ---
 
 # 12"/40 Mark 4

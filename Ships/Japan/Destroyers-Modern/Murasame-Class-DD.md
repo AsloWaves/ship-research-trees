@@ -1,6 +1,5 @@
 # Murasame-Class Destroyers (DD)
 
-```yaml
 ---
 class_name: Murasame-Class Destroyers
 hull_numbers: DD-101 through DD-109
@@ -68,7 +67,6 @@ firsts:
 # Tags
 tags: [destroyer, murasame-class, dd, modern, post-1945, general-purpose, first-vls, asw-focused, jmsdf, 1990s, 9-ships, active, long-service]
 ---
-```
 
 **First VLS Destroyers** - Murasame-class are JMSDF's first destroyers with Vertical Launch System. 9 ships commissioned 1996-1999. Compact general-purpose destroyers (6,200 tons). 16 Mk 41 VLS cells (most upgraded to 32). SeaSparrow ESSM, ASROC. One 76mm OTO Melara Super Rapid gun. 8× Harpoon anti-ship missiles. SH-60J/K helicopter. Advanced ASW (OQS-5 sonar, OQR-1 towed array). Crew 165 (automated). Multi-role but ASW-focused. All 9 active as of 2025 (26-29 years service - remarkable longevity). First modern Japanese destroyers to use VLS technology. Mix of US (VLS, radar) and European (OTO gun) systems. Workhorses of JMSDF - proven reliable design serving decades.
 

@@ -1,6 +1,5 @@
 # USS Dolphin (AGSS-555) - Deep Diving Research Submarine
 
-```yaml
 ---
 class_name: Dolphin-AGSS-555-Experimental
 hull_numbers: AGSS-555
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [submarine, agss-555, experimental, research, deep-diving, dolphin, depth-record, 1968, acoustic-research, unique]
 ---
-```
 
 **Deep Diving Research Submarine** - USS Dolphin was the deepest diving US submarine, establishing world depth record exceeding 3,000 feet. Purpose-built for deep diving research and development. 38-year career (longest for US sub at that time). Tested advanced submarine structures, sensors, weapons, and systems at extreme depths.
 

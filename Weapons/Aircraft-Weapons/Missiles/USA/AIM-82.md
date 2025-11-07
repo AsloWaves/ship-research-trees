@@ -7,6 +7,7 @@ introduced: 1970
 retired: 1970
 service_life: 1970-1970
 tags: [ir-missile, advanced-sidewinder, usa]
+completeness: partial
 ---
 
 # AIM-82 Advanced Sidewinder

@@ -6,6 +6,7 @@ caliber: 51cm
 mark: Type 6
 year: 1944
 tags: [naval-gun, japan, 51cm]
+completeness: stub
 ---
 
 # 51cm/50 Type 6

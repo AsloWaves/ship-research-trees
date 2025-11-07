@@ -1,6 +1,5 @@
 # LCI(R)-Class Landing Craft Infantry (Rocket)
 
-```yaml
 ---
 class_name: LCI(R)-Class
 hull_numbers: Various (conversions from LCI(L) hulls)
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [landing-craft, lci-rocket, wwii, fire-support, amphibious, 1943]
 ---
-```
 
 **Devastating Rocket Bombardment** - LCI(R)-class were rocket ship conversions from LCI(L) hulls providing shore bombardment and suppressive fire support. Substantial numbers converted late 1943 onwards. 504 rockets in single saturation run. First combat: late 1943, New Britain Island.
 

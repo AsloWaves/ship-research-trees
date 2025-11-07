@@ -5,6 +5,7 @@ nation: USA
 type: Multi-Role
 introduced: 2021
 tags: [ground-aircraft, multi-role, usa]
+completeness: partial
 ---
 
 # F-15EX Eagle II

@@ -1,6 +1,5 @@
 # Yorktown-Class Aircraft Carriers
 
-```yaml
 ---
 class_name: Yorktown-Class-CV
 hull_numbers: CV-5, CV-6, CV-8
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [carrier, yorktown, enterprise-cv6, hornet, cv-5, cv-6, cv-8, 1937, wwii, midway, coral-sea, doolittle-raid, legendary]
 ---
-```
 
 **Classic Fleet Carriers** - Yorktown, Enterprise, Hornet. Best balanced pre-war carrier design. 3 ships. Fast, well-protected, large air groups. WWII workhorses.
 

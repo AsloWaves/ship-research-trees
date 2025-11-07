@@ -1,6 +1,5 @@
 # Zumwalt-Class (DDG-1000)
 
-```yaml
 ---
 class_name: Zumwalt-Class
 hull_numbers: DDG-1000 to DDG-1002
@@ -56,7 +55,6 @@ firsts:
 # Tags
 tags: [destroyer, stealth, electric-propulsion, modern, ddg-1000, future]
 ---
-```
 
 **Stealth Multi-Mission** - Revolutionary stealth destroyer with tumblehome hull and integrated electric drive. Only 3 built due to cost.
 

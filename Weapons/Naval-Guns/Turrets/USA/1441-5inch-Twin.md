@@ -6,6 +6,7 @@ nation: USA
 caliber: 5"
 turret_type: Twin
 tags: [5inch, twin, usa, turret]
+completeness: partial
 ---
 
 # 5" Mark Mark 30 Twin SP Turret

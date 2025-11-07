@@ -7,6 +7,7 @@ introduced: 2014
 retired: Active
 service_life: 2014-Present
 tags: [anti-ship-missile, jassm-er, usa, gps-guided]
+completeness: partial
 ---
 
 # AGM-158B JASSM-ER

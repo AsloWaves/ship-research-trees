@@ -5,6 +5,7 @@ nation: Japanese
 type: Interceptor
 introduced: 1962
 tags: [ground-aircraft, interceptor, japanese]
+completeness: partial
 ---
 
 # F-104J Starfighter

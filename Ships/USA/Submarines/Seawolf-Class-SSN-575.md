@@ -1,6 +1,5 @@
 # Seawolf-Class Submarine (SSN-575)
 
-```yaml
 ---
 class_name: Seawolf-Class-SSN-575
 hull_numbers: SSN-575
@@ -40,7 +39,6 @@ successor: "[[Skate-Class]]"
 # Tags
 tags: [submarine, ssn, seawolf, nuclear, attack-submarine, cold-war, 1957]
 ---
-```
 
 **Experimental Reactor** - Seawolf (SSN-575) tested sodium-cooled reactor. Single boat. Sodium reactor proved problematic, replaced with PWR 1960.
 

@@ -1,6 +1,5 @@
 # Chikuma-Class Protected Cruisers
 
-```yaml
 ---
 class_name: Chikuma-Class Protected Cruisers
 hull_numbers: None
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [light-cruiser, chikuma-class, protected-cruiser, pre-wwi, coal-fired, 8-guns, all-scrapped-1930s, wwi-service, obsolete, imperial-japanese-navy, ijn, 1912, 3-ships]
 ---
-```
 
 **Eight-Gun Protected Cruisers** - Chikuma-class were early Japanese protected cruisers. 3 ships commissioned 1912. Medium-sized (4,950 tons), coal-fired, eight 6-inch guns. 26 knots. WWI Pacific operations. Training ships 1920s. All three scrapped 1931-1936 (obsolete, treaty limits). None survived to WWII. Heavier armed than Hirado-class but same limitations (coal, slow, obsolete). Represented pre-WWI protected cruiser peak before modern light cruisers.
 

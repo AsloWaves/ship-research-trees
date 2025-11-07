@@ -1,6 +1,5 @@
 # Grayback-Class Guided Missile Submarines (SSG)
 
-```yaml
 ---
 class_name: Grayback-Class
 hull_numbers: SSG-574, SSG-577
@@ -45,7 +44,6 @@ firsts:
 # Tags
 tags: [submarine, ssg, grayback, cruise-missile, regulus, diesel, cold-war, 1958, milestone]
 ---
-```
 
 **Cruise Missile Submarines** - Grayback-class were purpose-built to carry Regulus cruise missiles. 2 diesel boats with deck hangars.
 

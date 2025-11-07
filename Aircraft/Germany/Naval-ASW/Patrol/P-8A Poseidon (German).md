@@ -5,6 +5,7 @@ nation: German
 type: ASW/Patrol
 introduced: 2022
 tags: [naval-aircraft, asw/patrol, german]
+completeness: partial
 ---
 
 # P-8A Poseidon (German)

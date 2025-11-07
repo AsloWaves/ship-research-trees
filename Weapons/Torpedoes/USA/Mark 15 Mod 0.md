@@ -5,6 +5,7 @@ nation: USA
 type: Steam
 introduced: 1938
 tags: [torpedo, steam, usa]
+completeness: partial
 ---
 
 # Mark 15 Mod 0

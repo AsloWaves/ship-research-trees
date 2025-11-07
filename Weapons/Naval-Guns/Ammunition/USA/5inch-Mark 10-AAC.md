@@ -8,6 +8,7 @@ projectile_type: AAC
 introduced: 1918
 service_life: 1918-Present
 tags: [5inch, aac, mark-10, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 10 (AAC)

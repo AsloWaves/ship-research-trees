@@ -5,6 +5,7 @@ nation: Japanese
 type: Wire-Guided
 introduced: 1978
 tags: [torpedo, wire-guided, japanese]
+completeness: partial
 ---
 
 # GRX-2 Prototype

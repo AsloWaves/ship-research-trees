@@ -6,6 +6,7 @@ nation: USA
 caliber: 16"
 turret_type: Single
 tags: [16inch, single, usa, turret]
+completeness: partial
 ---
 
 # 16"/50 Mark 2/3 Single Turret

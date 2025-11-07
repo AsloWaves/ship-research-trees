@@ -7,6 +7,7 @@ introduced: 1970
 retired: Active
 service_life: 1970-Present
 tags: [unguided-rocket, 20mm-gun-pod-(sp), usa]
+completeness: partial
 ---
 
 # SUU-23/A 20mm Gun Pod (SP)

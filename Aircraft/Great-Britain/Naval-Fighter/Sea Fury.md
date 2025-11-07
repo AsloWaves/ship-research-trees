@@ -5,6 +5,7 @@ nation: British
 type: Fighter
 introduced: 1947
 tags: [naval-aircraft, fighter, british]
+completeness: partial
 ---
 
 # Sea Fury

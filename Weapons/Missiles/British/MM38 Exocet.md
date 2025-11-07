@@ -5,6 +5,7 @@ nation: British
 type: SSM
 introduced: 1975
 tags: [missile, ssm, british]
+completeness: stub
 ---
 
 # MM38 Exocet

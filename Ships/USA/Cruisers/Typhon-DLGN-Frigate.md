@@ -1,6 +1,5 @@
 # Typhon Nuclear-Powered Guided Missile Frigate (DLGN) - Cancelled
 
-```yaml
 ---
 class_name: Typhon-DLGN-Frigate
 hull_numbers: DLGN (proposed, no hull numbers assigned)
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [frigate, cruiser, dlgn, typhon, cancelled, nuclear, phased-array-radar, 1960s, experimental, unbuilt, advanced-technology]
 ---
-```
 
 **Cancelled Nuclear Frigate** - Typhon DLGN was revolutionary nuclear-powered guided missile frigate designed around advanced Typhon weapons system. First phased-array radar on frigate. Multiple simultaneous target capability. Cancelled January 1964 due to radar system failures and escalating costs.
 

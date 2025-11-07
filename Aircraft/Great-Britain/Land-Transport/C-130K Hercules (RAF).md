@@ -5,6 +5,7 @@ nation: British
 type: Transport
 introduced: 1967
 tags: [ground-aircraft, transport, british]
+completeness: partial
 ---
 
 # C-130K Hercules (RAF)

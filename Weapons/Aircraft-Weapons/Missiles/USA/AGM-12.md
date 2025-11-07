@@ -7,6 +7,7 @@ introduced: 1959
 retired: 1970
 service_life: 1959-1970
 tags: [anti-radar-missile, bullpup, usa]
+completeness: partial
 ---
 
 # AGM-12 Bullpup

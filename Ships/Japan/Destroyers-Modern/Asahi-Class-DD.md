@@ -1,6 +1,5 @@
 # Asahi-Class Destroyers (DD)
 
-```yaml
 ---
 class_name: Asahi-Class Destroyers
 hull_numbers: DD-119, DD-120
@@ -67,7 +66,6 @@ firsts:
 # Tags
 tags: [destroyer, asahi-class, dd, modern, post-1945, general-purpose, conventional-destroyer, fcs-3a, jmsdf, 2010s, 2-ships, active, cost-effective]
 ---
-```
 
 **Cost-Effective General-Purpose Destroyers** - Asahi-class are modern Japanese general-purpose destroyers. 2 ships commissioned 2018-2019. Smaller than Aegis ships (6,800 tons vs 10,000+) but highly capable. FCS-3A AESA radar (2 arrays - Japanese indigenous technology). 32 Mk 41 VLS cells (ESSM, SM-2, ASROC). One 5-inch gun. 8× Type 90 anti-ship missiles. SH-60K helicopter. Advanced sonar (OQQ-24, OQR-3 towed array). Crew 230 (reduced via automation). Multi-role: Air defense, anti-submarine, anti-surface. Cost-effective complement to expensive Aegis destroyers. Both active as of 2025. Fill fleet needs without Aegis expense - "good enough" for most missions while Aegis handles BMD.
 

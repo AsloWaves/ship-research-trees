@@ -6,6 +6,7 @@ caliber: 10cm
 mark: Type 4
 year: 1941
 tags: [naval-gun, japan, 10cm]
+completeness: stub
 ---
 
 # 10cm/55 Type 4

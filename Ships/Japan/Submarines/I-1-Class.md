@@ -1,6 +1,5 @@
 # I-1-Class Submarines (Kaidai Type I)
 
-```yaml
 ---
 class_name: I-1-Class Submarines (Kaidai Type I)
 hull_numbers: I-1, I-2, I-3, I-4
@@ -56,7 +55,6 @@ firsts:
 # Tags
 tags: [submarine, i-1-class, kaidai-type-i, fleet-submarine, 1920s, interwar, wwii, 100-percent-loss, all-sunk, trans-pacific, long-range, imperial-japanese-navy, ijn, 4-boats]
 ---
-```
 
 **First Fleet Submarines** - I-1-Class were Japan's first large fleet submarines. 4 boats commissioned 1926-1929. Kaidai Type I (first of series). Large (1,635 tons surface), diesel-electric, 17.5 knots surface. Six 21-inch torpedo tubes, 14 torpedoes carried. 10,000 nm range (trans-Pacific capability). One 4.7-inch deck gun. All 4 served WWII (1941-1945). All 4 lost (100% loss rate). I-1 sank USS Edsall DD-219 (March 1942). Founded Japanese fleet submarine tradition - trans-Pacific range, fleet speed, heavy torpedo armament. Evolved into later Kaidai types and specialized submarines.
 

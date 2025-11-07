@@ -1,6 +1,5 @@
 # Wyoming-Class Battleships
 
-```yaml
 ---
 class_name: Wyoming-Class
 hull_numbers: BB-32, BB-33
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [battleship, dreadnought, bb-32, bb-33, 1912, 12-inch-guns, wwii, normandy, atomic-tests]
 ---
-```
 
 **Maximum 12-Inch Armament** - Wyoming-class carried most 12-inch guns of any US battleship with 12 total. 2 ships. Last US battleships with 12-inch main battery before switch to 14-inch guns.
 

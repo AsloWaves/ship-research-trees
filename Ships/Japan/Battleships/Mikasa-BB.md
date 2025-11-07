@@ -1,6 +1,5 @@
 # Mikasa - Flagship of Tsushima
 
-```yaml
 ---
 class_name: Mikasa (Pre-Dreadnought Battleship)
 hull_numbers: None (single ship)
@@ -65,7 +64,6 @@ firsts:
 # Tags
 tags: [battleship, mikasa, pre-dreadnought, flagship, tsushima, togo, preserved-ship, museum-ship, russo-japanese-war, single-ship, legendary, british-built, jn, 1902, krupp-armor, yokosuka]
 ---
-```
 
 **Legendary Flagship** - Mikasa was Japan's most famous pre-dreadnought battleship. 1 ship commissioned March 1, 1902. Built in United Kingdom (Vickers, Barrow-in-Furness). 15,428 tons, 18 knots, 4× 12-inch guns, 14× 6-inch secondary. Krupp cemented armor (9-inch belt - best available 1900s). **Admiral Togo's flagship** at Battle of Tsushima (May 27-28, 1905) - most decisive naval battle in history. Led line of battle that destroyed Russian Baltic Fleet. Survived battle with minimal damage. Sank at moorings September 1905 (magazine explosion), raised and repaired. Served until 1923 (disarmed Washington Treaty). **Preserved as museum ship in Yokosuka** since 1926. **ONLY surviving pre-dreadnought battleship worldwide!** National Historic Site of Japan. Symbol of Japanese naval heritage and Tsushima victory.
 

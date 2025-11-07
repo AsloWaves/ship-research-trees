@@ -1,6 +1,5 @@
 # Gleaves-Class Destroyers
 
-```yaml
 ---
 class_name: Gleaves-Class
 hull_numbers: DD-423 to DD-497
@@ -50,7 +49,6 @@ contemporary: "[[Benson-Class]]"
 # Tags
 tags: [destroyer, oil-fired, turbine, wwii, 5-inch-38]
 ---
-```
 
 **Contemporary to Benson** - Near-identical to Benson-Class but with Westinghouse turbines and highest steam temperature.
 

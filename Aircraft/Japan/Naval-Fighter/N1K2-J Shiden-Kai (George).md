@@ -5,6 +5,7 @@ nation: Japanese
 type: Fighter
 introduced: 1944
 tags: [naval-aircraft, fighter, japanese]
+completeness: partial
 ---
 
 # N1K2-J Shiden-Kai (George)

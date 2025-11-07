@@ -1,6 +1,5 @@
 # Atago-Class Aegis Destroyers (DDG)
 
-```yaml
 ---
 class_name: Atago-Class Aegis Destroyers
 hull_numbers: DDG-177, DDG-178
@@ -68,7 +67,6 @@ firsts:
 # Tags
 tags: [destroyer, atago-class, aegis, ddg, modern, ballistic-missile-defense, bmd, sm-3, spy-1dv, jmsdf, 2000s, 2-ships, active, improved-aegis]
 ---
-```
 
 **Improved Aegis Destroyers** - Atago-class are Japan's second-generation Aegis destroyers. 2 ships commissioned 2007-2008. Larger than Kongo (10,000 tons full vs 9,485). Based on US Arleigh Burke Flight IIA. 96 Mk 41 VLS cells (+6 over Kongo). Improved AN/SPY-1D(V) Aegis radar. Enhanced ballistic missile defense (SM-3 Block IIA capable). SM-2, SM-3, SM-6, ASROC, Harpoon. One 5-inch gun. SH-60K helicopter. Advanced ASW suite. Both active as of 2025. Represented evolution from Kongo - larger, more capable, enhanced BMD. Critical component of Japan's integrated air/missile defense network.
 

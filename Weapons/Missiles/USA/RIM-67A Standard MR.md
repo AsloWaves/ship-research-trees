@@ -5,6 +5,7 @@ nation: USA
 type: SAM
 introduced: 1967
 tags: [missile, sam, usa]
+completeness: stub
 ---
 
 # RIM-67A Standard MR

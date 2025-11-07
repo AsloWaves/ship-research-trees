@@ -5,6 +5,7 @@ nation: USA
 type: Dive Bomber
 introduced: 1943
 tags: [naval-aircraft, dive-bomber, usa]
+completeness: partial
 ---
 
 # SB2C Helldiver

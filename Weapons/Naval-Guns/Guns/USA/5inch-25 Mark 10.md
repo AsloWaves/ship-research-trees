@@ -6,6 +6,7 @@ caliber: 5"
 mark: Mark 10
 year: 1918
 tags: [naval-gun, usa, 5inch]
+completeness: stub
 ---
 
 # 5"/25 Mark 10

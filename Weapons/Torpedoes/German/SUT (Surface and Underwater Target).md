@@ -5,6 +5,7 @@ nation: German
 type: Wire-Guided
 introduced: 1967
 tags: [torpedo, wire-guided, german]
+completeness: partial
 ---
 
 # SUT (Surface and Underwater Target)

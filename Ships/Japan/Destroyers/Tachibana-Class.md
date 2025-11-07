@@ -1,6 +1,5 @@
 # Tachibana-Class Destroyers
 
-```yaml
 ---
 class_name: Tachibana-Class
 hull_numbers: None
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [destroyer, tachibana-class, emergency-design, improved-matsu, last-destroyers, 100-percent-survival, no-combat-losses, late-war, wwii, imperial-japanese-navy, ijn, 1945, 14-ships]
 ---
-```
 
 **The Survivors** - Tachibana-class were improved emergency destroyers. 14 ships commissioned 1945. Slightly larger than Matsu-class (1,289 tons). Three 5-inch DP guns + 28 light AA + four torpedoes. **All 14 survived war intact** (100% survival rate - unique for IJN destroyer class). Most commissioned too late for combat (February-July 1945). Used for repatriation 1945-1947, then scrapped. Last destroyers built for Imperial Japanese Navy.
 

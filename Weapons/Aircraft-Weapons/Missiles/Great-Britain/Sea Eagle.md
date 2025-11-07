@@ -7,6 +7,7 @@ introduced: 1985
 retired: 2000
 service_life: 1985-2000
 tags: [anti-ship-missile, uk]
+completeness: partial
 ---
 
 # Sea Eagle

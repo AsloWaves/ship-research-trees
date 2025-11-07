@@ -1,6 +1,5 @@
 # Hatsu-Class Destroyers (Pre-WWI)
 
-```yaml
 ---
 class_name: Hatsu-Class Destroyers
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, hatsu-class, pre-wwi, russo-japanese-war-era, coal-fired, 375-tons, torpedo-boat-destroyer, all-scrapped-1920s, obsolete, imperial-japanese-navy, ijn, 1905, 6-ships]
 ---
-```
 
 **Russo-Japanese War Era** - Hatsu-class were very early Japanese destroyers. 6 ships commissioned 1905-1906 during/after Russo-Japanese War. Tiny (375 tons), coal-fired reciprocating engines, two 3-inch guns + four 18-inch torpedoes. 29 knots. Torpedo boat destroyers (original destroyer role). WWI coastal patrol. All six scrapped 1924-1928 (obsolete). None survived to WWII. Represented Japanese destroyer program's earliest generation - before mass production, before modern concepts.
 

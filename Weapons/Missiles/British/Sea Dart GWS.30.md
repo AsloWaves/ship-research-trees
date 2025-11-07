@@ -5,6 +5,7 @@ nation: British
 type: SAM
 introduced: 1973
 tags: [missile, sam, british]
+completeness: stub
 ---
 
 # Sea Dart GWS.30

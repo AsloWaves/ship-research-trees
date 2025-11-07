@@ -8,6 +8,7 @@ projectile_type: AP
 introduced: 1943
 service_life: 1943-Present
 tags: [16inch, ap, mark-8, usa, ammunition]
+completeness: partial
 ---
 
 # 16" Mark 8 (AP)

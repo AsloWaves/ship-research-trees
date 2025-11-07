@@ -1,6 +1,5 @@
 # Artemis-Class Attack Cargo Ships
 
-```yaml
 ---
 class_name: Artemis-Class-AKA
 hull_numbers: AKA-21 to AKA-52
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [cargo, attack-cargo, aka, wwii, shallow-draft, amphibious, 1944]
 ---
-```
 
 **Shallow-Draft Cargo Ships** - Artemis-class were purpose-built attack cargo ships with shallow 15-foot draft for Pacific operations. 32 ships. First dedicated AKA class with specialized design.
 

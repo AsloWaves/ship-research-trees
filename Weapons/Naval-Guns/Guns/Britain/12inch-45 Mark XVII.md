@@ -6,6 +6,7 @@ caliber: 12"
 mark: Mark XVII
 year: 1942
 tags: [naval-gun, britain, 12inch]
+completeness: stub
 ---
 
 # 12"/45 Mark XVII

@@ -6,6 +6,7 @@ caliber: 16"
 mark: Mark IV
 year: 1943
 tags: [naval-gun, britain, 16inch]
+completeness: stub
 ---
 
 # 16"/45 Mark IV

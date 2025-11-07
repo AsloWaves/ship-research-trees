@@ -5,6 +5,7 @@ nation: USA
 type: Multi-Role
 introduced: 1967
 tags: [ground-aircraft, multi-role, usa]
+completeness: partial
 ---
 
 # F-4E Phantom II

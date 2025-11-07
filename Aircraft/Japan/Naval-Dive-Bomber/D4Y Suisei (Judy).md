@@ -5,6 +5,7 @@ nation: Japanese
 type: Dive Bomber
 introduced: 1942
 tags: [naval-aircraft, dive-bomber, japanese]
+completeness: partial
 ---
 
 # D4Y Suisei (Judy)

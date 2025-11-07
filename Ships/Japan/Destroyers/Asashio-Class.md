@@ -1,6 +1,5 @@
 # Asashio-Class Destroyers
 
-```yaml
 ---
 class_name: Asashio-Class
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, asashio-class, special-type, torpedo-destroyer, guadalcanal, 100-percent-loss, wwii, imperial-japanese-navy, ijn, 1937, 10-ships]
 ---
-```
 
 **Pre-War Excellence** - Asashio-class were improved Shiratsuyu-class destroyers. 10 ships built 1937-1938. Six 5-inch guns in three twin turrets + eight 24-inch torpedoes. All 10 lost in combat 1942-1943 (100% loss rate). Set template for subsequent Kagero and Yugumo classes. Heavy Guadalcanal losses.
 

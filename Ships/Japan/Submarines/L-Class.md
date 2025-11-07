@@ -1,6 +1,5 @@
 # L-Class Submarines (L-1 through L-4)
 
-```yaml
 ---
 class_name: L-Class Submarines
 hull_numbers: L-1, L-2, L-3, L-4
@@ -55,7 +54,6 @@ firsts:
 # Tags
 tags: [submarine, l-class, transitional-design, 1920s, diesel-electric, medium-fleet-type, interwar, all-scrapped-1935, never-combat, imperial-japanese-navy, ijn, 4-boats]
 ---
-```
 
 **Transitional Submarines** - L-Class were transitional Japanese submarines. 4 boats commissioned 1920-1921. Medium size (1,060 tons submerged - 19× larger than No. 1-Class!). Diesel-electric, 16 knots surface, 10 knots submerged. Six 21-inch torpedo tubes, 10 torpedoes. One 3-inch deck gun. 5,000 nm range. All 4 served interwar period only (1920-1935). All scrapped 1935 when obsolete (15 years service). Never saw combat. Bridge between primitive gasoline boats (No. 1-Class 1905) and modern fleet submarines (I-1-Class 1926). Tested technologies and doctrine for later Kaidai types.
 

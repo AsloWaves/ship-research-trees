@@ -5,6 +5,7 @@ nation: German
 type: SSM
 introduced: 2023
 tags: [missile, ssm, german]
+completeness: stub
 ---
 
 # NSM Block II

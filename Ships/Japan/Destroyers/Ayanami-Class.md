@@ -1,6 +1,5 @@
 # Ayanami-Class Destroyers
 
-```yaml
 ---
 class_name: Ayanami-Class (Special Type II, Fubuki subclass)
 hull_numbers: None
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [destroyer, ayanami-class, special-type-ii, fubuki-subclass, 9-torpedoes, guadalcanal, 100-percent-loss, night-battles, wwii, imperial-japanese-navy, ijn, 1930, 10-ships]
 ---
-```
 
 **Middle Fubukis** - Ayanami-class (Special Type II) were the second batch of Fubuki-class destroyers. 10 ships commissioned 1930-1931. Six 5-inch guns + nine Long Lance torpedoes. 38 knots. Intermediate evolution between original Fubukis and final Akatsuki-class. All ten saw intensive combat. All ten lost 1942-1944 (100% loss rate). Ayanami sunk at fierce night battle off Guadalcanal. Uranami last sunk November 26, 1944 - last Fubuki-type destroyer lost. Represented Japanese destroyer design maturity.
 

@@ -1,6 +1,5 @@
 # Cachalot-Class Submarines
 
-```yaml
 ---
 class_name: Cachalot-Class
 hull_numbers: SS-170, SS-171
@@ -40,7 +39,6 @@ successor: "[[Porpoise-Class]]"
 # Tags
 tags: [submarine, ss, cachalot, fleet-submarine, diesel, 1933]
 ---
-```
 
 **Compact Fleet Submarines** - Cachalot-class tested smaller fleet submarine design. 2 boats. First with torpedo data computer.
 

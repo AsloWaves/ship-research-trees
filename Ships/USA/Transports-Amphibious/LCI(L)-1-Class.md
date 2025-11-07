@@ -1,6 +1,5 @@
 # LCI(L)-1-Class Landing Craft Infantry (Large)
 
-```yaml
 ---
 class_name: LCI(L)-1-Class
 hull_numbers: LCI(L)-1 to LCI(L)-350
@@ -58,7 +57,6 @@ firsts:
 # Tags
 tags: [landing-craft, lci, wwii, troop-transport, amphibious, 1942]
 ---
-```
 
 **Ocean-Going Infantry Transport** - LCI(L)-1-class were first large landing craft infantry vessels with 200-troop capacity and 4,000 nm range. 350 ships. Square conning tower, side ramps. Served both Pacific and European theaters 1943-1945.
 

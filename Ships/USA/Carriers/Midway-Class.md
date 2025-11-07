@@ -1,6 +1,5 @@
 # Midway-Class Aircraft Carriers
 
-```yaml
 ---
 class_name: Midway-Class
 hull_numbers: CV-41, CV-42, CV-43
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [carrier, midway, cv-41, armored-deck, 1945, cold-war, vietnam, desert-storm, active, legendary]
 ---
-```
 
 **Armored Deck Carriers** - Midway-class were first US carriers with armored flight decks. 3 ships. Largest US carriers until Forrestal. Served 1945-1992.
 

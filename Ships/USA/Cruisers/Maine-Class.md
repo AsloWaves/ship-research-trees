@@ -1,6 +1,5 @@
 # Maine-Class Armored Cruiser
 
-```yaml
 ---
 class_name: Maine-Class
 hull_numbers: ACR-1, ACR-4 to ACR-6
@@ -42,7 +41,6 @@ successor: "[[Pennsylvania-Class]]"
 # Tags
 tags: [cruiser, armored-cruiser, acr, 10-inch, 1903, acr-1]
 ---
-```
 
 **Heavy Armored Cruisers** - Maine-class were large armored cruisers with 4× 10-inch guns. 3 ships built as second-class battleships (ACR designation).
 

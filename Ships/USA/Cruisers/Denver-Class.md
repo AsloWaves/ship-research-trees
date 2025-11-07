@@ -1,6 +1,5 @@
 # Denver-Class Protected Cruiser
 
-```yaml
 ---
 class_name: Denver-Class
 hull_numbers: C-14, C-15, C-16, C-17, C-18
@@ -42,7 +41,6 @@ successor: "[[St. Louis-Class]]"
 # Tags
 tags: [cruiser, protected-cruiser, 1904, c-14]
 ---
-```
 
 **Small Protected Cruisers** - Denver-class were small protected cruisers with 10× 5-inch guns. Last traditional protected cruiser design. 5 ships built.
 

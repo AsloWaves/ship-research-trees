@@ -5,6 +5,7 @@ nation: USA
 type: Stealth Bomber
 introduced: 2025
 tags: [ground-aircraft, stealth-bomber, usa]
+completeness: partial
 ---
 
 # B-21 Raider

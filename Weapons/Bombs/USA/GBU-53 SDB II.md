@@ -5,6 +5,7 @@ nation: USA
 type: Small Diameter
 introduced: 2014
 tags: [bomb, naval-bomb, small-diameter, usa]
+completeness: partial
 ---
 
 # GBU-53 SDB II

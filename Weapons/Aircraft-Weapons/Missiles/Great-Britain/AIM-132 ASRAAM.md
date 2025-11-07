@@ -7,6 +7,7 @@ introduced: 1998
 retired: Active
 service_life: 1998-Present
 tags: [ir-missile, advanced-short-range-aam, uk]
+completeness: partial
 ---
 
 # AIM-132 ASRAAM Advanced Short Range AAM

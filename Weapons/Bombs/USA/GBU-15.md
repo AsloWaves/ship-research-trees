@@ -5,6 +5,7 @@ nation: USA
 type: TV-Guided
 introduced: 1975
 tags: [bomb, naval-bomb, tv-guided, usa]
+completeness: partial
 ---
 
 # GBU-15

@@ -1,6 +1,5 @@
 # Agano-Class Light Cruisers
 
-```yaml
 ---
 class_name: Agano-Class
 hull_numbers: None (Agano, Noshiro, Yahagi, Sakawa)
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [light-cruiser, agano, noshiro, yahagi, sakawa, destroyer-leader, modern-design, yamato-escort, bikini-atoll, wwii, imperial-japanese-navy, ijn, 1942, 4-ships]
 ---
-```
 
 **Modern Light Cruisers** - Agano-class were last IJN light cruisers, designed as destroyer flotilla leaders. 4 ships completed 1942-1944. Six 6-inch guns + eight 24-inch torpedoes. High speed (35 knots). All four lost 1944-1946 (three in combat, Sakawa at Bikini Atoll atomic tests). Yahagi escorted Yamato on final mission (Operation Ten-Go).
 

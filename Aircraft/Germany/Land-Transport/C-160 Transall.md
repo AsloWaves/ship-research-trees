@@ -5,6 +5,7 @@ nation: German
 type: Transport
 introduced: 1967
 tags: [ground-aircraft, transport, german]
+completeness: partial
 ---
 
 # C-160 Transall

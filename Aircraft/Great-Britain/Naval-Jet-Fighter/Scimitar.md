@@ -5,6 +5,7 @@ nation: British
 type: Jet Fighter
 introduced: 1958
 tags: [naval-aircraft, jet-fighter, british]
+completeness: partial
 ---
 
 # Scimitar

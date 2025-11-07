@@ -1,6 +1,5 @@
 # USS Albacore (AGSS-569) - Revolutionary Experimental Submarine
 
-```yaml
 ---
 class_name: Albacore-AGSS-569-Experimental
 hull_numbers: AGSS-569
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [submarine, agss-569, experimental, research, teardrop-hull, albacore, revolutionary, 1953, milestone, historic-landmark, skipjack-predecessor]
 ---
-```
 
 **Revolutionary Experimental Submarine** - USS Albacore pioneered the American teardrop hull form that became the standard for ALL modern submarines worldwide. First submarine designed to operate primarily underwater. Achieved 33 knots submerged (world record for diesel-electric). National Historic Landmark. Influenced Skipjack, Permit, Sturgeon, Los Angeles, Seawolf, Virginia, and all modern submarines.
 

@@ -1,6 +1,5 @@
 # Nautilus-Class Submarine
 
-```yaml
 ---
 class_name: Nautilus-Class
 hull_numbers: SSN-571
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [submarine, ssn, nautilus, nuclear, attack-submarine, cold-war, 1954, legendary, milestone, museum-ship]
 ---
-```
 
 **First Nuclear Submarine** - Nautilus (SSN-571) was world's first nuclear-powered submarine. Revolutionary unlimited underwater endurance. Changed naval warfare forever.
 

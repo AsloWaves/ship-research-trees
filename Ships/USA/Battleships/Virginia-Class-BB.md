@@ -1,6 +1,5 @@
 # Virginia-Class Battleships
 
-```yaml
 ---
 class_name: Virginia-Class-BB
 hull_numbers: BB-13 to BB-17
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [battleship, pre-dreadnought, bb-13, virginia, 1906, great-white-fleet, 5-ships]
 ---
-```
 
 **Superimposed Turrets** - Virginia-class featured unusual 8-inch turrets mounted atop 12-inch turret structures. 5 ships. All participated in Great White Fleet.
 

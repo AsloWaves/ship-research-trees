@@ -5,6 +5,7 @@ nation: German
 type: Exercise
 introduced: 1936
 tags: [torpedo, exercise, german]
+completeness: partial
 ---
 
 # G7 Übung (Exercise)

@@ -6,6 +6,7 @@ caliber: 3"
 mark: Mark 18
 year: 1928
 tags: [naval-gun, usa, 3inch]
+completeness: stub
 ---
 
 # 3"/50 Mark 18

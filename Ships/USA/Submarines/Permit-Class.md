@@ -1,6 +1,5 @@
 # Permit-Class Submarines (Thresher-Class)
 
-```yaml
 ---
 class_name: Permit-Class
 hull_numbers: SSN-593 to SSN-621
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [submarine, ssn, permit, thresher, nuclear, attack-submarine, cold-war, 1961, milestone]
 ---
-```
 
 **Second Generation SSNs** - Permit-class (originally Thresher-class) were quieter, deeper-diving submarines with advanced sonar. 14 boats. Renamed after Thresher loss.
 

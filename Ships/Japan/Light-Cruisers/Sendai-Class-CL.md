@@ -1,6 +1,5 @@
 # Sendai-Class Light Cruisers (CL)
 
-```yaml
 ---
 class_name: Sendai-Class Light Cruisers
 hull_numbers: None (Japanese naming system)
@@ -66,7 +65,6 @@ firsts:
 # Tags
 tags: [light-cruiser, sendai-class, 5500-ton, interwar, wwii, fast-cruiser, flotilla-leader, 3-ships, all-lost, 100-percent-loss, 1943-losses, empress-augusta-bay, kolombangara, jn, 1920s]
 ---
-```
 
 **Final 5,500-Ton Type** - Sendai-class were the last 5,500-ton light cruisers. 3 ships commissioned 1924-1925. Most refined Kuma/Nagara/Sendai design. Improved AA armament. Same specs: 5,832 tons, 35.5 knots, 7× 140mm guns, 8× 24-inch Long Lance torpedoes. Destroyer flotilla leaders. All 3 fought entire WWII. **All 3 lost in 1943** (100% casualty rate). **All lost within 2 months** (November-December 1943!). Famous battles: Sendai at Empress Augusta Bay (November 2, 1943, night action), Jintsuu at Kolombangara (July 13, 1943, heroic last stand), Naka at Truk (February 17, 1944, carrier raid). Sendai-class: Final evolution of successful design, complete sacrifice in 1943.
 

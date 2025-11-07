@@ -5,6 +5,7 @@ nation: German
 type: ASW Helo
 introduced: 1972
 tags: [naval-aircraft, asw-helo, german]
+completeness: partial
 ---
 
 # Sea King Mk 41

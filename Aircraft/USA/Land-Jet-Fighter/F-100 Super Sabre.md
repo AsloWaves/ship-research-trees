@@ -5,6 +5,7 @@ nation: USA
 type: Jet Fighter
 introduced: 1954
 tags: [ground-aircraft, jet-fighter, usa]
+completeness: partial
 ---
 
 # F-100 Super Sabre

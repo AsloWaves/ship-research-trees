@@ -7,6 +7,7 @@ introduced: 1978
 retired: Active
 service_life: 1978-Present
 tags: [ir-missile, uk]
+completeness: partial
 ---
 
 # AIM-9L Sidewinder

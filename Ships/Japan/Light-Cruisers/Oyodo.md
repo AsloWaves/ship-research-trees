@@ -1,6 +1,5 @@
 # Oyodo Light Cruiser
 
-```yaml
 ---
 class_name: Oyodo (unique ship)
 hull_numbers: None
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [light-cruiser, oyodo, command-ship, unique-design, submarine-command, six-floatplanes, last-cruiser-sunk, kure-raid, wwii, imperial-japanese-navy, ijn, 1943, 1-ship]
 ---
-```
 
 **The Command Ship** - Oyodo was a unique light cruiser designed as submarine flotilla command ship. 1 ship commissioned 1943. Only six 6.1-inch guns (two triple turrets) but six reconnaissance floatplanes. Powerful AA (8× 100mm DP + 52× 25mm). High speed (35 knots), long range (10,000 nm). Used as fleet command ship instead of submarine command. Survived until July 28, 1945 - last IJN cruiser sunk (Kure raid).
 

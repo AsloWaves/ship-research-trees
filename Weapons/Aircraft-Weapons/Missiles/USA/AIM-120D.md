@@ -7,6 +7,7 @@ introduced: 2015
 retired: Active
 service_life: 2015-Present
 tags: [radar-missile, amraam, usa, radar-required, gps-guided]
+completeness: partial
 ---
 
 # AIM-120D AMRAAM

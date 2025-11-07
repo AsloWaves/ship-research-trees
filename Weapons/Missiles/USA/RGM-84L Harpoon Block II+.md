@@ -5,6 +5,7 @@ nation: USA
 type: SSM
 introduced: 2008
 tags: [missile, ssm, usa]
+completeness: stub
 ---
 
 # RGM-84L Harpoon Block II+

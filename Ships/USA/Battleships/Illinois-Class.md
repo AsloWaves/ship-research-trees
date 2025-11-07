@@ -1,6 +1,5 @@
 # Illinois-Class Battleships
 
-```yaml
 ---
 class_name: Illinois-Class
 hull_numbers: BB-7, BB-8
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [battleship, pre-dreadnought, bb-7, bb-8, 1901, great-white-fleet]
 ---
-```
 
 **Last Fire-Tube Boilers** - Illinois-class were last US battleships with fire-tube boilers. 2 ships. Improved Kearsarge without superimposed turrets.
 

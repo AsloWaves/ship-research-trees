@@ -6,6 +6,7 @@ caliber: 3"
 mark: Mark 27
 year: 1945
 tags: [naval-gun, usa, 3inch]
+completeness: stub
 ---
 
 # 3"/50 Mark 27

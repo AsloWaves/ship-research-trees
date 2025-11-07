@@ -5,6 +5,7 @@ nation: Japanese
 type: Jet Fighter
 introduced: 1956
 tags: [ground-aircraft, jet-fighter, japanese]
+completeness: partial
 ---
 
 # F-86F Sabre (JASDF)

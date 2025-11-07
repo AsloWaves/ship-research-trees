@@ -5,6 +5,7 @@ nation: Japanese
 type: ASW/Patrol
 introduced: 1995
 tags: [naval-aircraft, asw/patrol, japanese]
+completeness: partial
 ---
 
 # P-3C Update III (JMSDF)

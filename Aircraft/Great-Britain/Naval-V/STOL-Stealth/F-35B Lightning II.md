@@ -5,6 +5,7 @@ nation: British
 type: V/STOL Stealth
 introduced: 2018
 tags: [naval-aircraft, v/stol-stealth, british]
+completeness: partial
 ---
 
 # F-35B Lightning II

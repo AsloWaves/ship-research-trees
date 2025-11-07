@@ -5,6 +5,7 @@ nation: Japanese
 type: Alcohol
 introduced: 1936
 tags: [torpedo, alcohol, japanese]
+completeness: partial
 ---
 
 # Type 89 Export

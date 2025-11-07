@@ -1,6 +1,5 @@
 # I-201-Class Submarines (Type Sen-Taka)
 
-```yaml
 ---
 class_name: I-201-Class (Type Sen-Taka)
 hull_numbers: I-201, I-202, I-203 (plus I-204 through I-208 incomplete)
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [submarine, high-speed-submarine, i-201-class, type-sen-taka, advanced-submarine, streamlined, fastest-wwii-submarine, wwii, imperial-japanese-navy, ijn, 1945, 3-ships]
 ---
-```
 
 **Fastest WWII Submarines** - I-201-class were revolutionary high-speed submarines - fastest in WWII at 19 knots submerged. 3 completed 1945 (5 more incomplete at war's end). Streamlined design, no deck gun. Too late for combat but influenced all post-war submarine development. Captured by US, studied extensively. Inspired US Tang-class and influenced Soviet, British designs.
 

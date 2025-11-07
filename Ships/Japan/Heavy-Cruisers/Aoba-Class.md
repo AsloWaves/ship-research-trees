@@ -1,6 +1,5 @@
 # Aoba-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: Aoba-Class
 hull_numbers: None (Aoba, Kinugasa)
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [heavy-cruiser, aoba, kinugasa, early-treaty-cruiser, guadalcanal, savo-island, cape-esperance, night-fighting, wwii, imperial-japanese-navy, ijn, 1927, 2-ships]
 ---
-```
 
 **Night Battle Cruisers** - Aoba-class were early treaty heavy cruisers, improved Furutaka design. 2 ships built 1927. Six 8-inch guns + eight 24-inch torpedoes. High speed (35 knots). Both lost in Guadalcanal campaign. Kinugasa sunk November 1942 (Battle of Guadalcanal). Aoba survived multiple battles but sunk July 1945 (Kure air raid).
 

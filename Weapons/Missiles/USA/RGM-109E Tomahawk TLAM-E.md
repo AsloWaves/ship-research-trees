@@ -5,6 +5,7 @@ nation: USA
 type: SSM
 introduced: 2004
 tags: [missile, ssm, usa]
+completeness: stub
 ---
 
 # RGM-109E Tomahawk TLAM-E

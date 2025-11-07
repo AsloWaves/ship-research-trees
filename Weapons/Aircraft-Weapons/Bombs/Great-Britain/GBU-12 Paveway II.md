@@ -7,6 +7,7 @@ introduced: 1976
 retired: Active
 service_life: 1976-Present
 tags: [laser-guided-bomb, 500-lb-lgb, uk, laser-guided]
+completeness: partial
 ---
 
 # GBU-12 Paveway II 500 lb LGB

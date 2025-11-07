@@ -1,6 +1,5 @@
 # Farragut-Class Destroyers
 
-```yaml
 ---
 class_name: Farragut-Class
 hull_numbers: DD-348 to DD-355
@@ -56,7 +55,6 @@ firsts:
 # Tags
 tags: [destroyer, oil-fired, turbine, treaty-ship, 5-inch-38, interwar]
 ---
-```
 
 **New Era - Treaty Destroyers** - First modern US destroyers built under Washington/London Treaty 1500-ton limit. Revolutionary 5-inch/38 dual-purpose guns.
 

@@ -1,6 +1,5 @@
 # Langley-Class Aircraft Carrier
 
-```yaml
 ---
 class_name: Langley-Class
 hull_numbers: CV-1
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [carrier, langley, cv-1, first-carrier, experimental, converted, 1922, milestone, museum-ship]
 ---
-```
 
 **First US Carrier** - Langley (CV-1) was the US Navy's first aircraft carrier, converted from the collier Jupiter. Commissioned 1922. Experimental platform that proved carrier aviation concept.
 

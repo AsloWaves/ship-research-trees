@@ -1,6 +1,5 @@
 # Kongo-Class Fast Battleships
 
-```yaml
 ---
 class_name: Kongo-Class
 hull_numbers: Battlecruiser/Battleship (Kongo, Hiei, Haruna, Kirishima)
@@ -65,7 +64,6 @@ firsts:
 # Tags
 tags: [battleship, battlecruiser, kongo, hiei, haruna, kirishima, fast-battleship, 14-inch, 356mm, vickers, british-built, wwi, wwii, imperial-japanese-navy, ijn, 1913, guadalcanal, modernized, legendary, 4-ships]
 ---
-```
 
 **British-Built Fast Battleships** - Kongo-class were originally British-designed battlecruisers, later converted to fast battleships. 4 ships (Kongo built UK, others Japan). Most active IJN battleships in WWII. High speed (30+ knots) made them valuable. All 4 sunk 1942-1944.
 

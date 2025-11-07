@@ -5,6 +5,7 @@ nation: German
 type: LGB
 introduced: 1995
 tags: [bomb, naval-bomb, lgb, german]
+completeness: partial
 ---
 
 # GBU-24 (Luftwaffe)

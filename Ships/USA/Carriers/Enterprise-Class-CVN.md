@@ -1,6 +1,5 @@
 # Enterprise-Class Nuclear Aircraft Carrier
 
-```yaml
 ---
 class_name: Enterprise-Class-CVN
 hull_numbers: CVN-65
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [carrier, enterprise, cvn-65, nuclear, first-nuclear-carrier, 1961, cold-war, vietnam, gulf-war, gwot, legendary, milestone]
 ---
-```
 
 **First Nuclear Carrier** - Enterprise (CVN-65) was world's first nuclear-powered aircraft carrier. Commissioned 1961. Eight A2W reactors. Served 51 years - longest carrier service.
 

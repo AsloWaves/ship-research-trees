@@ -1,6 +1,5 @@
 # Dolphin-Class Submarine
 
-```yaml
 ---
 class_name: Dolphin-Class
 hull_numbers: SS-169
@@ -40,7 +39,6 @@ successor: "[[Cachalot-Class]]"
 # Tags
 tags: [submarine, ss, dolphin, fleet-submarine, diesel, 1932]
 ---
-```
 
 **Experimental Design** - Dolphin (SS-169) was single experimental submarine testing design concepts for future fleet submarines.
 

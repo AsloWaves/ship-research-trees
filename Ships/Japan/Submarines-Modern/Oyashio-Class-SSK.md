@@ -1,6 +1,5 @@
 # Oyashio-Class Attack Submarines (SSK)
 
-```yaml
 ---
 class_name: Oyashio-Class Attack Submarines
 hull_numbers: SS-590 through SS-597 (some renumbered)
@@ -64,7 +63,6 @@ firsts:
 # Tags
 tags: [submarine, oyashio-class, ssk, attack-submarine, conventional, diesel-electric, pre-aip, tear-drop-hull, jmsdf, 1990s-2000s, 11-boats, some-active, advanced-conventional]
 ---
-```
 
 **Advanced Conventional Submarines** - Oyashio-class are refined conventional attack submarines. 11 boats commissioned 1998-2008. Last large pre-AIP class for JMSDF. Tear-drop hull design (optimized hydrodynamics). 4,000 tons submerged, 269 ft long. Diesel-electric (no AIP - predates Soryu). 6 torpedo tubes, 20 weapons (Type 89 torpedoes, Harpoon missiles). Advanced for era: Anechoic coating, improved sonar (ZQQ-5B, ZQQ-6), quiet machinery. 350-meter test depth. 20 knots submerged. Crew 70. Bridge between earlier Harushio and advanced Soryu (AIP/Li-ion). Some retired as Taigei replaces them, most still active as of 2025. Proven design serving 15-25+ years. Represented Japanese conventional submarine excellence before AIP revolution.
 

@@ -1,6 +1,5 @@
 # Shirane-Class Helicopter Destroyers (DDH)
 
-```yaml
 ---
 class_name: Shirane-Class Helicopter Destroyers
 hull_numbers: DDH-143, DDH-144
@@ -69,7 +68,6 @@ firsts:
 # Tags
 tags: [helicopter-destroyer, shirane-class, ddh, cold-war, asw-command, 3-helicopters, 2-ships, jmsdf, 1980-1981, both-retired, large-destroyer, steam-turbine, 35-year-service]
 ---
-```
 
 **First 3-Helicopter Destroyers** - Shirane-class were JMSDF's first destroyers with 3-helicopter capacity. 2 ships commissioned 1980-1981. 6,800 tons (largest Japanese destroyers when built). Extended aft flight deck, large hangar (3× SH-60J Seahawks). ASW command ships (coordinate multi-ship ASW operations). 32 knots (steam turbines, 70,000 shp). Balanced armament: 2× 5-inch guns, Mk 29 Sea Sparrow, 8× Harpoon, ASROC, torpedoes. OQS-101 bow sonar, OQR-1 towed array. Cold War ASW mission (Soviet submarine threat). Both served 35-37 years (exceptional longevity). DDH-143 Shirane retired March 2015 (35 years), DDH-144 Kurama retired March 2017 (37 years - longest-serving JMSDF destroyer!). Replaced by Hyuga/Izumo-class (larger, 4 helicopters, more advanced). Shirane-class: Bridge between Haruna and modern helicopter destroyers, pioneered multi-helicopter operations.
 

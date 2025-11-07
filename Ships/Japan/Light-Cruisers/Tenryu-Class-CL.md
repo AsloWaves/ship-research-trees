@@ -1,6 +1,5 @@
 # Tenryu-Class Light Cruisers (CL)
 
-```yaml
 ---
 class_name: Tenryu-Class Light Cruisers
 hull_numbers: None (Japanese naming system)
@@ -61,7 +60,6 @@ firsts:
 # Tags
 tags: [light-cruiser, tenryu-class, first-modern, interwar, wwii, flotilla-leader, 2-ships, both-lost, 100-percent-loss, jn, 1919, prototype]
 ---
-```
 
 **First Modern Light Cruisers** - Tenryu-class were Japan's first modern light cruisers. 2 ships commissioned 1919. Designed as destroyer flotilla leaders. 4,350 tons, 33 knots, 4× 140mm guns, 6× 21-inch torpedoes. Bridge between old protected cruisers and modern 5,500-ton series (Kuma/Nagara/Sendai). Experimental/prototype class - lessons learned → 5,500-ton design. Both ships fought entire WWII. Both lost in action (100% casualty rate). Tenryu torpedoed December 1942, Tatsuta March 1944. Small but influential class - pioneered Japanese light cruiser concept.
 

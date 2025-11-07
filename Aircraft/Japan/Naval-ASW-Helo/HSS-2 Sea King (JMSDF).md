@@ -5,6 +5,7 @@ nation: Japanese
 type: ASW Helo
 introduced: 1965
 tags: [naval-aircraft, asw-helo, japanese]
+completeness: partial
 ---
 
 # HSS-2 Sea King (JMSDF)

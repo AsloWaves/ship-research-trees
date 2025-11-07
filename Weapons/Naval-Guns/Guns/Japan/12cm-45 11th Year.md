@@ -6,6 +6,7 @@ caliber: 12cm
 mark: 11th Year
 year: 1922
 tags: [naval-gun, japan, 12cm]
+completeness: stub
 ---
 
 # 12cm/45 11th Year

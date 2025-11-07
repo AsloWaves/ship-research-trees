@@ -1,6 +1,5 @@
 # Allen M. Sumner-Class Destroyers
 
-```yaml
 ---
 class_name: Allen M. Sumner-Class
 hull_numbers: DD-692 class
@@ -54,7 +53,6 @@ firsts:
 # Tags
 tags: [destroyer, oil-fired, turbine, wwii, 5-inch-38, twin-mounts]
 ---
-```
 
 **Twin Gun Mounts** - Revolutionary design with 3 twin 5-inch mounts, increasing firepower by 20% over Fletcher.
 

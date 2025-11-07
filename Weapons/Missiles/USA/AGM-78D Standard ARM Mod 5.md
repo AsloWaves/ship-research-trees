@@ -5,6 +5,7 @@ nation: USA
 type: SAM
 introduced: 1975
 tags: [missile, sam, usa]
+completeness: stub
 ---
 
 # AGM-78D Standard ARM Mod 5

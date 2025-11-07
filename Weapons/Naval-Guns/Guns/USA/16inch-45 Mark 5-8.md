@@ -6,6 +6,7 @@ caliber: 16"
 mark: Mark 5/8
 year: 1938
 tags: [naval-gun, usa, 16inch]
+completeness: stub
 ---
 
 # 16"/45 Mark 5/8

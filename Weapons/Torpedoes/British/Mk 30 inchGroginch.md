@@ -5,6 +5,7 @@ nation: British
 type: Nuclear
 introduced: 1955
 tags: [torpedo, nuclear, british]
+completeness: partial
 ---
 
 # Mk 30 "Grog"

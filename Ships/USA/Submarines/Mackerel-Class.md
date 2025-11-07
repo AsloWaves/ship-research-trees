@@ -1,6 +1,5 @@
 # Mackerel-Class Submarines
 
-```yaml
 ---
 class_name: Mackerel-Class
 hull_numbers: SS-204, SS-205
@@ -40,7 +39,6 @@ successor: "[[Gato-Class]]"
 # Tags
 tags: [submarine, ss, mackerel, small-submarine, diesel, wwii, 1941]
 ---
-```
 
 **Small Patrol Submarines** - Mackerel-class were smaller submarines for restricted waters. 2 boats. Experimental design.
 

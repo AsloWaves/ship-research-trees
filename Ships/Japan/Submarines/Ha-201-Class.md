@@ -1,6 +1,5 @@
 # Ha-201-Class Submarines (Coastal Defense)
 
-```yaml
 ---
 class_name: Ha-201-Class Coastal Defense Submarines (Type STS)
 hull_numbers: Ha-201 through Ha-210
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [submarine, ha-201-class, coastal-submarine, fast-submerged, 13-knots-submerged, type-sts, all-survived, never-combat, late-war, too-late, advanced-technology, wwii, imperial-japanese-navy, ijn, 1945, 10-boats]
 ---
-```
 
 **Revolutionary but Too Late** - Ha-201-class were advanced Japanese coastal submarines. 10 boats commissioned 1945. Revolutionary: 13 knots submerged (faster than surfaced!) - fastest submerged speed of any WWII submarine. Small (377 tons), two torpedoes (no reloads), electric-priority design. All commissioned January-August 1945 (too late for combat). All survived war (0% loss rate - war ended before deployment). Scrapped 1945-1948. Showed Japanese submarine technology advanced but timing disastrous - revolutionary boats commissioned when war ending.
 

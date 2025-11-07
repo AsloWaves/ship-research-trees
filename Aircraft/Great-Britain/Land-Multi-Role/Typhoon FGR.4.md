@@ -5,6 +5,7 @@ nation: British
 type: Multi-Role
 introduced: 2007
 tags: [ground-aircraft, multi-role, british]
+completeness: partial
 ---
 
 # Typhoon FGR.4

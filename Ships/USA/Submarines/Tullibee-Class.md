@@ -1,6 +1,5 @@
 # Tullibee-Class Submarine
 
-```yaml
 ---
 class_name: Tullibee-Class
 hull_numbers: SSN-597
@@ -45,7 +44,6 @@ firsts:
 # Tags
 tags: [submarine, ssn, tullibee, nuclear, attack-submarine, quiet, cold-war, 1960, milestone]
 ---
-```
 
 **Quiet Submarine** - Tullibee (SSN-597) was experimental quiet submarine with turbo-electric drive. Quietest submarine when commissioned.
 

@@ -8,6 +8,7 @@ projectile_type: HC
 introduced: 1943
 service_life: 1943-Present
 tags: [16inch, hc, mark-13, usa, ammunition]
+completeness: partial
 ---
 
 # 16" Mark 13 (HC)

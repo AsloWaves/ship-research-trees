@@ -1,6 +1,5 @@
 # F-Class Submarines
 
-```yaml
 ---
 class_name: F-Class
 hull_numbers: SS-20 to SS-23
@@ -40,7 +39,6 @@ successor: "[[G-Class]]"
 # Tags
 tags: [submarine, ss, f-class, diesel, 1912]
 ---
-```
 
 **Continued Development** - F-class submarines carried more torpedoes (8 total). 4 boats built. Continued diesel-electric development.
 

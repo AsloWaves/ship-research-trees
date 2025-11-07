@@ -5,6 +5,7 @@ nation: USA
 type: Cruise
 introduced: 1996
 tags: [missile, cruise, usa]
+completeness: stub
 ---
 
 # AGM-86C CALCM

@@ -5,6 +5,7 @@ nation: USA
 type: Cruise
 introduced: 2015
 tags: [missile, cruise, usa]
+completeness: stub
 ---
 
 # AGM-154E JSOW-E

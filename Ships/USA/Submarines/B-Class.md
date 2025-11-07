@@ -1,6 +1,5 @@
 # B-Class Submarines
 
-```yaml
 ---
 class_name: B-Class
 hull_numbers: SS-10 to SS-12
@@ -40,7 +39,6 @@ successor: "[[C-Class]]"
 # Tags
 tags: [submarine, ss, b-class, 1907]
 ---
-```
 
 **Improved Design** - B-class submarines were larger with two torpedo tubes. 3 boats built by Fore River Shipbuilding.
 

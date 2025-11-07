@@ -5,6 +5,7 @@ nation: German
 type: Steam
 introduced: 1944
 tags: [torpedo, steam, german]
+completeness: partial
 ---
 
 # G7a (TI) Final

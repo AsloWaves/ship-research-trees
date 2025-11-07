@@ -1,6 +1,5 @@
 # Ko-hyoteki-Class Midget Submarines
 
-```yaml
 ---
 class_name: Ko-hyoteki-Class (Type A)
 hull_numbers: Various (Ha-1 through Ha-79 series)
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [submarine, midget-submarine, ko-hyoteki, type-a, pearl-harbor, sydney-harbor, suicide-weapon, two-man-sub, wwii, imperial-japanese-navy, ijn, 1938, 50-boats]
 ---
-```
 
 **Two-Man Submarines** - Ko-hyoteki-class were midget submarines with 2-man crew. ~50 built 1938-1945. 78.5 feet long, 46 tons. Two external torpedoes. Carried by mother submarines to target areas. Used at Pearl Harbor (5 boats, all lost), Sydney Harbor, Diego Suarez, Guadalcanal. Essentially suicide weapons - few returned. First American killed at Pearl Harbor was from Ko-hyoteki torpedo.
 

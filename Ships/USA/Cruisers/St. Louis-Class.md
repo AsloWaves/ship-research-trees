@@ -1,6 +1,5 @@
 # St. Louis-Class Protected Cruiser
 
-```yaml
 ---
 class_name: St. Louis-Class
 hull_numbers: C-20, C-22
@@ -42,7 +41,6 @@ successor: "[[Chester-Class]]"
 # Tags
 tags: [cruiser, protected-cruiser, 1906, c-20]
 ---
-```
 
 **Large Protected Cruisers** - St. Louis-class were large protected cruisers with 14× 6-inch guns. Last large protected cruiser design. 2 ships built.
 

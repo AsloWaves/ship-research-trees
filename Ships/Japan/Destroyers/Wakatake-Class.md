@@ -1,6 +1,5 @@
 # Wakatake-Class Destroyers
 
-```yaml
 ---
 class_name: Wakatake-Class
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, wakatake-class, small-destroyer, 1920s, patrol-boat-conversion, mostly-converted, pre-war-disposal, imperial-japanese-navy, ijn, 1923, 8-ships]
 ---
-```
 
 **Tiny Veterans** - Wakatake-class were small destroyers built post-WWI. 8 ships commissioned 1923-1924. Very small (820 tons), three 4.7-inch guns, four torpedoes, 39 knots. Obsolete by 1930s. Seven reclassified as patrol boats 1940 or scrapped pre-war. Only one served WWII as destroyer (Sanae, lost 1944). Represented economic 1920s building - cheap, simple, effective for peacetime but inadequate for modern war.
 

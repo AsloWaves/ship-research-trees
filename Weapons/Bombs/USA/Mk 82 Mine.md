@@ -5,6 +5,7 @@ nation: USA
 type: Mine
 introduced: 1960
 tags: [bomb, naval-bomb, mine, usa]
+completeness: partial
 ---
 
 # Mk 82 Mine

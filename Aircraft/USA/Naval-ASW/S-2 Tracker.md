@@ -5,6 +5,7 @@ nation: USA
 type: ASW
 introduced: 1954
 tags: [naval-aircraft, asw, usa]
+completeness: partial
 ---
 
 # S-2 Tracker

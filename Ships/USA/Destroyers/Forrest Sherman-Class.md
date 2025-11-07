@@ -1,6 +1,5 @@
 # Forrest Sherman-Class Destroyers
 
-```yaml
 ---
 class_name: Forrest Sherman-Class
 hull_numbers: DD-931 to DD-951
@@ -56,7 +55,6 @@ firsts:
 # Tags
 tags: [destroyer, oil-fired, turbine, post-wwii, 5-inch-54, conventional]
 ---
-```
 
 **Modern Conventional Design** - First post-WWII designed destroyers with advanced 5-inch/54 guns and high-pressure steam. Highly modified during service.
 

@@ -5,6 +5,7 @@ nation: USA
 type: Reconnaissance
 introduced: 1967
 tags: [ground-aircraft, reconnaissance, usa]
+completeness: partial
 ---
 
 # U-2R Dragon Lady

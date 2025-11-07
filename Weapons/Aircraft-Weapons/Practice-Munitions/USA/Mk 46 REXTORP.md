@@ -7,6 +7,7 @@ introduced: 1965
 retired: Active
 service_life: 1965-Present
 tags: [practice-munition, exercise-torpedo, usa]
+completeness: partial
 ---
 
 # Mk 46 REXTORP Exercise Torpedo

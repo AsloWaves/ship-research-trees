@@ -1,6 +1,5 @@
 # New Orleans-Class Protected Cruiser
 
-```yaml
 ---
 class_name: New Orleans-Class-PC
 hull_numbers: No hull number
@@ -42,7 +41,6 @@ successor: "[[Denver-Class]]"
 # Tags
 tags: [cruiser, protected-cruiser, purchased, 1898]
 ---
-```
 
 **Purchased Protected Cruisers** - New Orleans-class were purchased from British builder (originally built for Brazil). 2 ships acquired 1898.
 

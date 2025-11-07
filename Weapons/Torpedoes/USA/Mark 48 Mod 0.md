@@ -5,6 +5,7 @@ nation: USA
 type: Wire-Guided
 introduced: 1972
 tags: [torpedo, wire-guided, usa]
+completeness: partial
 ---
 
 # Mark 48 Mod 0

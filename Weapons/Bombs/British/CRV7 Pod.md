@@ -5,6 +5,7 @@ nation: British
 type: Rocket Pod
 introduced: 1975
 tags: [bomb, naval-bomb, rocket-pod, british]
+completeness: partial
 ---
 
 # CRV7 Pod

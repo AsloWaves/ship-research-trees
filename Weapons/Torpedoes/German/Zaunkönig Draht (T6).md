@@ -5,6 +5,7 @@ nation: German
 type: Wire-Guided
 introduced: 1944
 tags: [torpedo, wire-guided, german]
+completeness: partial
 ---
 
 # Zaunkönig Draht (T6)

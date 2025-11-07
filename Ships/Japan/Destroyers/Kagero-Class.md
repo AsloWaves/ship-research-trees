@@ -1,6 +1,5 @@
 # Kagero-Class Destroyers
 
-```yaml
 ---
 class_name: Kagero-Class
 hull_numbers: DD-110 through DD-127
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, kagero-class, special-type, yukikaze, torpedo-destroyer, wwii, imperial-japanese-navy, ijn, 1939, 18-ships]
 ---
-```
 
 **Peak Destroyers** - Kagero-class were peak of IJN Special Type destroyer development. 18 ships built 1939-1941. Six 5-inch guns + eight 24-inch torpedoes. High speed (35.5 knots). Most successful IJN destroyer class. All but Yukikaze sunk 1942-1944. Yukikaze survived entire war undamaged - "miracle ship."
 

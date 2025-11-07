@@ -1,6 +1,5 @@
 # Kuma-Class Light Cruisers
 
-```yaml
 ---
 class_name: Kuma-Class
 hull_numbers: None (Kuma, Tama, Kitakami, Oi, Kiso)
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [light-cruiser, kuma, tama, kitakami, oi, kiso, torpedo-cruiser, kaiten, interwar, wwii, imperial-japanese-navy, ijn, 1920, 5-ships]
 ---
-```
 
 **First Post-WWI Cruisers** - Kuma-class were first post-WWI Japanese light cruisers. 5 ships built 1920-1921. Seven 5.5-inch guns + eight 24-inch torpedoes. High speed (36 knots). All five lost 1943-1946. Kitakami and Oi converted to torpedo cruisers (40 torpedoes each), then kaiten suicide submarine carriers - most unusual conversions in naval history.
 

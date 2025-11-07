@@ -5,6 +5,7 @@ nation: USA
 type: Reconnaissance
 introduced: 1966
 tags: [ground-aircraft, reconnaissance, usa]
+completeness: partial
 ---
 
 # SR-71 Blackbird

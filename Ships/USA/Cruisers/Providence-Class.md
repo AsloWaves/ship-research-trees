@@ -1,6 +1,5 @@
 # Providence-Class Guided Missile Light Cruisers
 
-```yaml
 ---
 class_name: Providence-Class
 hull_numbers: CLG-6, CLG-8
@@ -43,7 +42,6 @@ successor: "[[Leahy-Class]]"
 # Tags
 tags: [cruiser, light-cruiser, guided-missile, clg, terrier, conversion, cold-war, 1959]
 ---
-```
 
 **Terrier Conversions** - Providence and Topeka converted from Cleveland-class with Terrier SAM systems. Similar to Galveston but with Terrier instead of Talos.
 

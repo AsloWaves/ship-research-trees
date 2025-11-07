@@ -5,6 +5,7 @@ nation: British
 type: Aerial
 introduced: 1943
 tags: [torpedo, aerial, british]
+completeness: partial
 ---
 
 # 18" Mark XV (Aerial)

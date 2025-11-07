@@ -5,6 +5,7 @@ nation: British
 type: Heavy Bomb
 introduced: 1945
 tags: [bomb, naval-bomb, heavy-bomb, british]
+completeness: partial
 ---
 
 # Grand Slam

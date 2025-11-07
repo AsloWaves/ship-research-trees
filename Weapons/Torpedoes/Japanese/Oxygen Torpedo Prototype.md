@@ -5,6 +5,7 @@ nation: Japanese
 type: Oxygen
 introduced: 1931
 tags: [torpedo, oxygen, japanese]
+completeness: partial
 ---
 
 # Oxygen Torpedo Prototype

@@ -1,6 +1,5 @@
 # Charleston-Class Protected Cruiser
 
-```yaml
 ---
 class_name: Charleston-Class
 hull_numbers: C-2, C-19
@@ -42,7 +41,6 @@ successor: "[[Newark-Class]]"
 # Tags
 tags: [cruiser, protected-cruiser, 1889, c-2]
 ---
-```
 
 **Early Protected Cruisers** - Charleston-class were small protected cruisers with 2× 8-inch and 6× 6-inch guns. 2 ships built.
 

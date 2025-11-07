@@ -5,6 +5,7 @@ nation: USA
 type: SAM
 introduced: 2008
 tags: [missile, sam, usa]
+completeness: stub
 ---
 
 # RIM-174A Standard ERAM

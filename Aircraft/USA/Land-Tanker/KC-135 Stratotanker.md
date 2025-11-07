@@ -5,6 +5,7 @@ nation: USA
 type: Tanker
 introduced: 1957
 tags: [ground-aircraft, tanker, usa]
+completeness: partial
 ---
 
 # KC-135 Stratotanker

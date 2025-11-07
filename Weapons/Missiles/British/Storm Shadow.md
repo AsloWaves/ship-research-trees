@@ -5,6 +5,7 @@ nation: British
 type: Cruise
 introduced: 2002
 tags: [missile, cruise, british]
+completeness: stub
 ---
 
 # Storm Shadow

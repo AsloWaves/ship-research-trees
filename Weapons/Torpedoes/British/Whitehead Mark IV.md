@@ -5,6 +5,7 @@ nation: British
 type: Steam
 introduced: 1886
 tags: [torpedo, steam, british]
+completeness: partial
 ---
 
 # Whitehead Mark IV

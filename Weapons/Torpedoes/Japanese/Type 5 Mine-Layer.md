@@ -5,6 +5,7 @@ nation: Japanese
 type: Special
 introduced: 1940
 tags: [torpedo, special, japanese]
+completeness: partial
 ---
 
 # Type 5 Mine-Layer

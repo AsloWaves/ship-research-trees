@@ -5,6 +5,7 @@ nation: Japanese
 type: Fighter
 introduced: 1944
 tags: [ground-aircraft, fighter, japanese]
+completeness: partial
 ---
 
 # Ki-84 Hayate (Frank)

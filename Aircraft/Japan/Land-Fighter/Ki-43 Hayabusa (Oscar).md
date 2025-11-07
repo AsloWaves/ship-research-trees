@@ -5,6 +5,7 @@ nation: Japanese
 type: Fighter
 introduced: 1941
 tags: [ground-aircraft, fighter, japanese]
+completeness: partial
 ---
 
 # Ki-43 Hayabusa (Oscar)

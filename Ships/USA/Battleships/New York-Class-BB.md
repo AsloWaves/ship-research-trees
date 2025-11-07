@@ -1,6 +1,5 @@
 # New York-Class Battleships
 
-```yaml
 ---
 class_name: New York-Class-BB
 hull_numbers: BB-34, BB-35
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [battleship, dreadnought, bb-34, bb-35, 1914, 14-inch-guns, wwii, normandy, museum-ship]
 ---
-```
 
 **First 14-Inch Guns** - New York-class were first US battleships armed with 14-inch main guns. 2 ships. Marked significant increase in firepower over 12-inch armed predecessors.
 

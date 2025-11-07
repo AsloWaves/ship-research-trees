@@ -1,6 +1,5 @@
 # Charles F. Adams-Class (DDG)
 
-```yaml
 ---
 class_name: Charles F. Adams-Class
 hull_numbers: DDG-2 to DDG-24
@@ -50,7 +49,6 @@ contemporary: "[[Farragut-Coontz-Class]]"
 # Tags
 tags: [destroyer, guided-missile, tartar, ddg, cold-war]
 ---
-```
 
 **Balanced Missile Destroyer** - Purpose-built DDG with better gun armament than Farragut-class, using compact Tartar missiles.
 

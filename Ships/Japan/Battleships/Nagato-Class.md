@@ -1,6 +1,5 @@
 # Nagato-Class Battleships
 
-```yaml
 ---
 class_name: Nagato-Class
 hull_numbers: Battleship No. 1 (Nagato), No. 2 (Mutsu)
@@ -57,7 +56,6 @@ firsts:
 # Tags
 tags: [battleship, nagato, mutsu, 16-inch, 41cm, fast-battleship, wwi, interwar, wwii, imperial-japanese-navy, ijn, 1920, modernized, crossroads, legendary, 2-ships]
 ---
-```
 
 **First 16-Inch Guns** - Nagato-class were world's first battleships with 16-inch guns. 2 ships built 1920-1921. Fast battleships (26.5 knots). Served WWI through WWII. Extensively modernized 1930s. Nagato survived war, sunk at Bikini Atoll atomic tests 1946.
 

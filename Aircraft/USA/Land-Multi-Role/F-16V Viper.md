@@ -5,6 +5,7 @@ nation: USA
 type: Multi-Role
 introduced: 2015
 tags: [ground-aircraft, multi-role, usa]
+completeness: partial
 ---
 
 # F-16V Viper

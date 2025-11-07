@@ -5,6 +5,7 @@ nation: USA
 type: Fighter
 introduced: 1942
 tags: [ground-aircraft, fighter, usa]
+completeness: partial
 ---
 
 # P-47 Thunderbolt

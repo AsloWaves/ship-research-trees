@@ -5,6 +5,7 @@ nation: Japanese
 type: SSM
 introduced: 2022
 tags: [missile, ssm, japanese]
+completeness: stub
 ---
 
 # ASM-3A (Extended Range)

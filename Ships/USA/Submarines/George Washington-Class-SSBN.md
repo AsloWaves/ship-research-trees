@@ -1,6 +1,5 @@
 # George Washington-Class Ballistic Missile Submarines
 
-```yaml
 ---
 class_name: George Washington-Class-SSBN
 hull_numbers: SSBN-598 to SSBN-602
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [submarine, ssbn, george-washington, nuclear, ballistic-missile, polaris, cold-war, deterrent, 1959, legendary, milestone]
 ---
-```
 
 **First SSBNs** - George Washington-class were first ballistic missile submarines. 5 boats. Carried 16 Polaris missiles. Started "41 for Freedom" SSBN fleet.
 

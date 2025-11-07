@@ -6,6 +6,7 @@ caliber: 14"
 mark: Mark X
 year: 1955
 tags: [naval-gun, britain, 14inch]
+completeness: stub
 ---
 
 # 14"/50 Mark X

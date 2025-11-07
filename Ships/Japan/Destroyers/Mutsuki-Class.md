@@ -1,6 +1,5 @@
 # Mutsuki-Class Destroyers
 
-```yaml
 ---
 class_name: Mutsuki-Class
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, mutsuki-class, small-destroyer, early-design, guadalcanal, aleutians, wwii, imperial-japanese-navy, ijn, 1926, 12-ships]
 ---
-```
 
 **Small Warriors** - Mutsuki-class were 1920s-era small destroyers. 12 ships built 1926-1927. Four 4.7-inch guns + six 24-inch torpedoes. High speed (37 knots). Smallest IJN destroyers in WWII. All 12 saw combat - 9 lost in action, 3 survived war but scrapped. Kikuzuki first IJN destroyer sunk by aircraft (Tulagi, May 1942).
 

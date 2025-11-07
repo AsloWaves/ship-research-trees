@@ -6,6 +6,7 @@ caliber: 5"
 mark: Mark 14
 year: 1922
 tags: [naval-gun, usa, 5inch]
+completeness: stub
 ---
 
 # 5"/51 Mark 14

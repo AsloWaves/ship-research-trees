@@ -5,6 +5,7 @@ nation: USA
 type: SAM
 introduced: 2020
 tags: [missile, sam, usa]
+completeness: stub
 ---
 
 # RIM-174C Standard ERAM Block III

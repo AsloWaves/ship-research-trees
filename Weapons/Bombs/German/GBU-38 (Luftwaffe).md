@@ -5,6 +5,7 @@ nation: German
 type: GPS-Guided
 introduced: 2010
 tags: [bomb, naval-bomb, gps-guided, german]
+completeness: partial
 ---
 
 # GBU-38 (Luftwaffe)

@@ -1,6 +1,5 @@
 # Taiho (Aircraft Carrier)
 
-```yaml
 ---
 class_name: Taiho
 hull_numbers: None (unique ship, class of one)
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [carrier, taiho, armored-carrier, philippine-sea, shortest-career, modern-design, aviation-fuel-explosion, wwii, imperial-japanese-navy, ijn, 1944, tragic, 1-ship]
 ---
-```
 
 **Armored Tragedy** - Taiho was IJN's first armored carrier with 3.1-inch armored flight deck. Commissioned March 7, 1944. Most modern IJN carrier design. Sunk June 19, 1944 (Battle of Philippine Sea) by single submarine torpedo that caused catastrophic aviation fuel explosion. Only 3 months of service - shortest career of any major IJN carrier. 1,650 killed.
 

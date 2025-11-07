@@ -5,6 +5,7 @@ nation: British
 type: ASW Helo
 introduced: 1976
 tags: [naval-aircraft, asw-helo, british]
+completeness: partial
 ---
 
 # Lynx HAS.2

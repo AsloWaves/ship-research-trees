@@ -1,6 +1,5 @@
 # Mogami-Class Multi-Mission Frigates (FFM)
 
-```yaml
 ---
 class_name: Mogami-Class Multi-Mission Frigates
 hull_numbers: FFM-1 through FFM-12+ (ongoing program)
@@ -69,7 +68,6 @@ firsts:
 # Tags
 tags: [frigate, mogami-class, ffm, multi-mission, modern, post-1945, cost-effective, unmanned-systems, mine-warfare, compact, jmsdf, 2020s, ongoing-program, 12-plus-ships, active]
 ---
-```
 
 **Latest Multi-Mission Frigates** - Mogami-class are Japan's newest compact frigates. 12+ ships commissioned 2022-2025+ (ongoing program, 22 total planned). Small and economical (5,500 tons, $470M - half the cost of destroyers). Multi-role: ASW, mine warfare, patrol, surface combat. 16 Mk 41 VLS (ESSM, ASROC), one 5-inch gun, 8× Type 17 anti-ship missiles, SeaRAM. SH-60K helicopter. Unmanned systems integration (USVs for mine hunting). Advanced sonar (OQQ-25, OQR-4). CODLAD hybrid propulsion (diesel-electric + diesel). Crew 90 (highly automated). Replace aging destroyer escorts and dedicated minesweepers (2-in-1 capability). All active as of 2025. Largest modern Japanese ship program - low-cost mass production strategy. Future JMSDF backbone for routine missions.
 

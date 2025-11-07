@@ -6,6 +6,7 @@ caliber: 8"
 mark: Mark IX
 year: 1932
 tags: [naval-gun, britain, 8inch]
+completeness: stub
 ---
 
 # 8"/50 Mark IX

@@ -5,6 +5,7 @@ nation: USA
 type: Jet Fighter
 introduced: 1954
 tags: [naval-aircraft, jet-fighter, usa]
+completeness: partial
 ---
 
 # F9F-8 Cougar

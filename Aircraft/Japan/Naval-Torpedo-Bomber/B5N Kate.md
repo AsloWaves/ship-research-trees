@@ -5,6 +5,7 @@ nation: Japanese
 type: Torpedo Bomber
 introduced: 1940
 tags: [naval-aircraft, torpedo-bomber, japanese]
+completeness: partial
 ---
 
 # B5N Kate

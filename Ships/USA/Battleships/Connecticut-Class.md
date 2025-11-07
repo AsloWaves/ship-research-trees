@@ -1,6 +1,5 @@
 # Connecticut-Class Battleships
 
-```yaml
 ---
 class_name: Connecticut-Class
 hull_numbers: BB-18 to BB-25
@@ -45,7 +44,6 @@ firsts:
 # Tags
 tags: [battleship, connecticut, bb-18, pre-dreadnought, great-white-fleet, 1906, wwi, 8-ships]
 ---
-```
 
 **Great White Fleet** - Connecticut-class were last and largest US pre-dreadnought class. 8 ships. Famous for Great White Fleet world cruise 1907-1909. Largest homogeneous battleship class before Essex carriers.
 

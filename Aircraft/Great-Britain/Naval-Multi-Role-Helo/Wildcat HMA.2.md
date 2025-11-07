@@ -5,6 +5,7 @@ nation: British
 type: Multi-Role Helo
 introduced: 2015
 tags: [naval-aircraft, multi-role-helo, british]
+completeness: partial
 ---
 
 # Wildcat HMA.2

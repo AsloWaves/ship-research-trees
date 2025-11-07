@@ -1,6 +1,5 @@
 # Smith-Class Destroyers
 
-```yaml
 ---
 class_name: Smith-Class
 hull_numbers: DD-17 to DD-21
@@ -54,7 +53,6 @@ firsts:
 # Tags
 tags: [destroyer, coal-fired, turbine, milestone, second-generation]
 ---
-```
 
 **MILESTONE CLASS** - Revolutionary leap introducing steam turbine propulsion and true ocean-going capability. 50% larger than predecessors.
 

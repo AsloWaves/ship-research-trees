@@ -5,6 +5,7 @@ nation: Japanese
 type: Alcohol
 introduced: 1922
 tags: [torpedo, alcohol, japanese]
+completeness: partial
 ---
 
 # Type 8 No.4

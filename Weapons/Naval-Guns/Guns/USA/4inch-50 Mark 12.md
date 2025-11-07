@@ -6,6 +6,7 @@ caliber: 4"
 mark: Mark 12
 year: 1922
 tags: [naval-gun, usa, 4inch]
+completeness: stub
 ---
 
 # 4"/50 Mark 12

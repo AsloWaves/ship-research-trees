@@ -1,6 +1,5 @@
 # America-Class Amphibious Assault Ships
 
-```yaml
 ---
 class_name: America-Class-LHA
 hull_numbers: LHA-6, LHA-7, LHA-8, LHA-9, LHA-10 (building), LHA-11 (planned)
@@ -55,7 +54,6 @@ firsts:
 # Tags
 tags: [amphibious, assault-ship, america, lha, lha-6, modern, f35b, lightning-carrier, active, 2014, future]
 ---
-```
 
 **Aviation-Focused Assault Ships** - America-class are newest amphibious assault ships. Aviation-focused with enhanced F-35B operations. LHA-6/7 have no well deck (aviation only). LHA-8+ restore well deck.
 

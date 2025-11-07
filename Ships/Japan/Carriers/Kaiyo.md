@@ -1,6 +1,5 @@
 # Kaiyo Escort Carrier
 
-```yaml
 ---
 class_name: Kaiyo (unique ship)
 hull_numbers: None
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [escort-carrier, kaiyo, converted-liner, only-survivor, aircraft-transport, training-carrier, wwii, imperial-japanese-navy, ijn, 1943, 1-ship]
 ---
-```
 
 **The Survivor** - Kaiyo was an escort carrier converted from luxury liner Argentina Maru. 1 ship commissioned 1943. 24 aircraft, 24 knots (faster than Taiyo-class). Aircraft transport, training, and occasional combat. **Only IJN escort carrier to survive war.** Multiple close calls with submarines and air attacks. Used for repatriation 1945-1947, then scrapped 1948. Lucky ship that outlasted all other Japanese escort carriers.
 

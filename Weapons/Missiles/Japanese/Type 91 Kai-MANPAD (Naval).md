@@ -5,6 +5,7 @@ nation: Japanese
 type: SAM
 introduced: 1995
 tags: [missile, sam, japanese]
+completeness: stub
 ---
 
 # Type 91 Kai-MANPAD (Naval)

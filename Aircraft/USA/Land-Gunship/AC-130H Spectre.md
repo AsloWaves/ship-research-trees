@@ -5,6 +5,7 @@ nation: USA
 type: Gunship
 introduced: 1972
 tags: [ground-aircraft, gunship, usa]
+completeness: partial
 ---
 
 # AC-130H Spectre

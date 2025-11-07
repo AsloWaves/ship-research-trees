@@ -1,6 +1,5 @@
 # Juneau-Class Anti-Aircraft Light Cruisers
 
-```yaml
 ---
 class_name: Juneau-Class
 hull_numbers: CLAA-119, CLAA-120, CLAA-121
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [cruiser, light-cruiser, aa-cruiser, claa, 5-inch-38, 1946]
 ---
-```
 
 **Improved AA Cruisers** - Juneau-class were modified Atlanta-class with improved AA battery. 3 ships commissioned after WWII ended. Distinct class from Atlanta.
 

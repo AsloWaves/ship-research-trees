@@ -5,6 +5,7 @@ nation: German
 type: Strike
 introduced: 1979
 tags: [ground-aircraft, strike, german]
+completeness: partial
 ---
 
 # Tornado IDS

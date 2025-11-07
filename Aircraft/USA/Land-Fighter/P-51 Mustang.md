@@ -5,6 +5,7 @@ nation: USA
 type: Fighter
 introduced: 1943
 tags: [ground-aircraft, fighter, usa]
+completeness: partial
 ---
 
 # P-51 Mustang

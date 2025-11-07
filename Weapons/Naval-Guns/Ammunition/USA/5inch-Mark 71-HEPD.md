@@ -8,6 +8,7 @@ projectile_type: HEPD
 introduced: 1965
 service_life: 1965-Present
 tags: [5inch, hepd, mark-71, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 71 (HEPD)

@@ -5,6 +5,7 @@ nation: USA
 type: Multi-Role Helo
 introduced: 2020
 tags: [naval-aircraft, multi-role-helo, usa]
+completeness: partial
 ---
 
 # MH-60R Block II

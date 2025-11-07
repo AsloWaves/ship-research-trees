@@ -1,6 +1,5 @@
 # Independence-Class Light Aircraft Carriers
 
-```yaml
 ---
 class_name: Independence-Class
 hull_numbers: CVL-22 to CVL-30
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [carrier, cvl, light-carrier, independence, cruiser-conversion, 1943, wwii, pacific]
 ---
-```
 
 **Light Carriers** - Independence-class were light carriers converted from Cleveland-class cruiser hulls. 9 ships built rapidly 1942-1943 to provide carriers quickly during WWII buildup.
 

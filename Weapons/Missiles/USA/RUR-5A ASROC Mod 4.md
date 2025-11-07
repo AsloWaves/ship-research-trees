@@ -5,6 +5,7 @@ nation: USA
 type: ASW
 introduced: 1971
 tags: [missile, asw, usa]
+completeness: stub
 ---
 
 # RUR-5A ASROC Mod 4

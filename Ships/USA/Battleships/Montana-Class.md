@@ -1,6 +1,5 @@
 # Montana-Class Battleships (Cancelled)
 
-```yaml
 ---
 class_name: Montana-Class
 hull_numbers: BB-67, BB-68, BB-69, BB-70, BB-71
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [battleship, montana, bb-67, cancelled, super-battleship, 1943, experimental, unbuilt, 12-guns, milestone]
 ---
-```
 
 **Ultimate US Battleship Design** - Montana-class would have been most powerful US battleships. 5 ships planned (BB-67 to BB-71). 12× 16-inch guns vs Iowa's 9. Better armor but slower (28 kn vs 33 kn). Cancelled July 1943 - carriers prioritized.
 

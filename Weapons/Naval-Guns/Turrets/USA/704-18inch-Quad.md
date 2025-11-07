@@ -6,6 +6,7 @@ nation: USA
 caliber: 18"
 turret_type: Quad
 tags: [18inch, quad, usa, turret]
+completeness: partial
 ---
 
 # 18" Mark Mark 1 Quad Turret

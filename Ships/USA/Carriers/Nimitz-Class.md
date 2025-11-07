@@ -1,6 +1,5 @@
 # Nimitz-Class Nuclear Aircraft Carriers
 
-```yaml
 ---
 class_name: Nimitz-Class
 hull_numbers: CVN-68 to CVN-77
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [carrier, nimitz, cvn-68, nuclear, supercarrier, 1975, cold-war, gulf-war, gwot, oef, oif, active, legendary, 10-ships]
 ---
-```
 
 **Nuclear Backbone** - Nimitz-class are backbone of US carrier force. 10 ships commissioned 1975-2009. Two A4W reactors vs Enterprise's eight. 100,000+ tons. All currently active.
 

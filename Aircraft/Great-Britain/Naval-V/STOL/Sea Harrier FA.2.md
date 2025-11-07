@@ -5,6 +5,7 @@ nation: British
 type: V/STOL
 introduced: 1993
 tags: [naval-aircraft, v/stol, british]
+completeness: partial
 ---
 
 # Sea Harrier FA.2

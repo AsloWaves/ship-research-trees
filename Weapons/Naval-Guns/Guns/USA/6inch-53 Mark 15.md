@@ -6,6 +6,7 @@ caliber: 6"
 mark: Mark 15
 year: 1939
 tags: [naval-gun, usa, 6inch]
+completeness: stub
 ---
 
 # 6"/53 Mark 15

@@ -8,6 +8,7 @@ projectile_type: AP
 introduced: 1975
 service_life: 1975-Present
 tags: [8inch, ap, mark-71, usa, ammunition]
+completeness: partial
 ---
 
 # 8" Mark 71 (AP)

@@ -6,6 +6,7 @@ caliber: 16"
 mark: Mark 2/3
 year: Unknown
 tags: [naval-gun, usa, 16inch]
+completeness: stub
 ---
 
 # 16"/50 Mark 2/3

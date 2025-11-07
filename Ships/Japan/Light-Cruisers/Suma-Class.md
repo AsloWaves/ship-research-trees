@@ -1,6 +1,5 @@
 # Suma-Class Protected Cruisers
 
-```yaml
 ---
 class_name: Suma-Class Protected Cruisers
 hull_numbers: None
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [protected-cruiser, suma-class, british-built, armstrong, sino-japanese-war, russo-japanese-war, coal-fired, 1890s, 32-years-service, meiji-era, imperial-japanese-navy, ijn, 1896, 2-ships]
 ---
-```
 
 **Victorian Era Veterans** - Suma-class were early Japanese protected cruisers. 2 ships commissioned 1896. British-built by Armstrong. Small (2,657 tons), coal-fired compound engines, 20 knots. Two 6-inch guns + six 4.7-inch. Protected cruiser design. Sino-Japanese War veterans (1894-1895). Russo-Japanese War service (1904-1905). Both scrapped 1928 after 32 years service - exceptional longevity. Represented Meiji-era naval modernization and expansion.
 

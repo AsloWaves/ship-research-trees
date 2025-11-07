@@ -1,6 +1,5 @@
 # Takao-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: Takao-Class
 hull_numbers: None (Takao, Atago, Maya, Chokai)
@@ -57,7 +56,6 @@ firsts:
 # Tags
 tags: [heavy-cruiser, takao, atago, maya, chokai, 8-inch, 203mm, treaty-cruiser, fast-cruiser, torpedo-cruiser, wwii, imperial-japanese-navy, ijn, 1932, guadalcanal, leyte-gulf, legendary, 4-ships]
 ---
-```
 
 **Powerful Treaty Cruisers** - Takao-class were most powerful IJN treaty cruisers. 4 ships built 1932. Maximum 8-inch gun armament (10 guns in five twin turrets). Heavy torpedo battery (16× 24-inch). High speed (35+ knots). Active throughout Pacific War. All four sunk 1942-1944.
 

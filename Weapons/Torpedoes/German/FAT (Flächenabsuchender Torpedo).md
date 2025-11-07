@@ -5,6 +5,7 @@ nation: German
 type: Pattern
 introduced: 1943
 tags: [torpedo, pattern, german]
+completeness: partial
 ---
 
 # FAT (Flächenabsuchender Torpedo)

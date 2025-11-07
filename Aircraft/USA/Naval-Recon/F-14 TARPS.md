@@ -5,6 +5,7 @@ nation: USA
 type: Recon
 introduced: 1981
 tags: [naval-aircraft, recon, usa]
+completeness: partial
 ---
 
 # F-14 TARPS

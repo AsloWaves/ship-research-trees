@@ -5,6 +5,7 @@ nation: German
 type: Cluster Munition
 introduced: 1982
 tags: [bomb, naval-bomb, cluster-munition, german]
+completeness: partial
 ---
 
 # MW-1

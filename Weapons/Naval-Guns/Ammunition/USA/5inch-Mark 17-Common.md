@@ -8,6 +8,7 @@ projectile_type: Common
 introduced: 1910
 service_life: 1910-Present
 tags: [5inch, common, mark-17, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 17 (Common)

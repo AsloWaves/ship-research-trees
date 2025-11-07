@@ -5,6 +5,7 @@ nation: Japanese
 type: ASW
 introduced: 2024
 tags: [missile, asw, japanese]
+completeness: stub
 ---
 
 # Type 07 VLA Mod 3

@@ -7,6 +7,7 @@ introduced: 1943
 retired: 1955
 service_life: 1943-1955
 tags: [unguided-rocket, 5-inch-rocket, usa]
+completeness: partial
 ---
 
 # HVAR 5-inch Rocket

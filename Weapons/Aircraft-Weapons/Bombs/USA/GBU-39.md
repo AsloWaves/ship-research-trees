@@ -7,6 +7,7 @@ introduced: 2006
 retired: Active
 service_life: 2006-Present
 tags: [gps-guided-bomb, sdb-(small-diameter-bomb), usa, gps-guided]
+completeness: partial
 ---
 
 # GBU-39 SDB (Small Diameter Bomb)

@@ -1,6 +1,5 @@
 # Tone-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: Tone-Class
 hull_numbers: None (Tone, Chikuma)
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [heavy-cruiser, tone, chikuma, scout-cruiser, aviation-cruiser, all-guns-forward, pearl-harbor, midway, wwii, imperial-japanese-navy, ijn, 1938, unique-design, 2-ships]
 ---
-```
 
 **Scout Cruisers** - Tone-class were unique heavy cruisers with all eight 8-inch guns forward, large aviation facilities aft. 2 ships. Scout cruiser concept - support carrier operations with reconnaissance aircraft (5-7 floatplanes). Both participated in all six major carrier battles 1941-1942. Tone sunk October 1944 (Kure air raid). Chikuma sunk October 25, 1944 (Battle off Samar).
 

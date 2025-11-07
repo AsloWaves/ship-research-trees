@@ -1,6 +1,5 @@
 # Pennsylvania-Class Battleships
 
-```yaml
 ---
 class_name: Pennsylvania-Class
 hull_numbers: BB-38, BB-39
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [battleship, super-dreadnought, bb-38, bb-39, 1916, 14-inch-guns, pearl-harbor, memorial, wwii]
 ---
-```
 
 **Triple Turrets** - Pennsylvania-class were first US battleships with triple gun turrets, mounting 12× 14-inch guns in four turrets. 2 ships. Arizona lost at Pearl Harbor.
 

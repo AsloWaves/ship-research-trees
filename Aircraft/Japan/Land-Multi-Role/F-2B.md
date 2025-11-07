@@ -5,6 +5,7 @@ nation: Japanese
 type: Multi-Role
 introduced: 2002
 tags: [ground-aircraft, multi-role, japanese]
+completeness: partial
 ---
 
 # F-2B

@@ -8,6 +8,7 @@ projectile_type: AAC
 introduced: 1948
 service_life: 1948-Present
 tags: [6inch, aac, mark-32, usa, ammunition]
+completeness: partial
 ---
 
 # 6" Mark 32 (AAC)

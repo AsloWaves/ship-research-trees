@@ -1,6 +1,5 @@
 # Tennessee-Class Battleships
 
-```yaml
 ---
 class_name: Tennessee-Class-BB
 hull_numbers: BB-43, BB-44
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [battleship, super-dreadnought, bb-43, bb-44, 1920, 14-inch-guns, pearl-harbor, wwii, turbo-electric]
 ---
-```
 
 **Pearl Harbor Survivors** - Tennessee-class both damaged at Pearl Harbor, extensively rebuilt and served entire Pacific War. 2 ships. Final evolution of 14-inch gun super-dreadnoughts.
 

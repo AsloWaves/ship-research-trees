@@ -6,6 +6,7 @@ caliber: 12"
 mark: Mark XV
 year: 1925
 tags: [naval-gun, britain, 12inch]
+completeness: stub
 ---
 
 # 12"/50 Mark XV

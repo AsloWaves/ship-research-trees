@@ -1,6 +1,5 @@
 # Alaska-Class Large Cruisers
 
-```yaml
 ---
 class_name: Alaska-Class
 hull_numbers: CB-1, CB-2
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [cruiser, large-cruiser, battlecruiser, wwii, 12-inch, cb, 1944]
 ---
-```
 
 **US Battlecruisers** - Alaska-class were large cruisers (CB) with 12-inch guns. Only 2 of 6 completed. Too expensive, arrived late in war.
 

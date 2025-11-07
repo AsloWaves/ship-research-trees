@@ -1,6 +1,5 @@
 # Akizuki-Class Destroyers
 
-```yaml
 ---
 class_name: Akizuki-Class
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, anti-aircraft-destroyer, aa-destroyer, akizuki-class, fleet-defense, dual-purpose-guns, wwii, imperial-japanese-navy, ijn, 1942, 12-ships]
 ---
-```
 
 **AA Specialists** - Akizuki-class were specialized anti-aircraft destroyers, first IJN destroyers designed primarily for fleet air defense. 12 ships completed 1942-1944 (plus 16 Fuyutsuki sub-class 1944-1945). Eight dual-purpose 100mm guns in four twin turrets. Reduced torpedoes (4 vs 8) for AA focus. Most sunk 1943-1945 by submarines and air attack.
 

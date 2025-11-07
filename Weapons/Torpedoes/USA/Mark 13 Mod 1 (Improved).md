@@ -5,6 +5,7 @@ nation: USA
 type: Steam
 introduced: 1942
 tags: [torpedo, steam, usa]
+completeness: partial
 ---
 
 # Mark 13 Mod 1 (Improved)

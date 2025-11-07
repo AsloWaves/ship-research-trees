@@ -5,6 +5,7 @@ nation: Japanese
 type: SSM
 introduced: 1995
 tags: [missile, ssm, japanese]
+completeness: stub
 ---
 
 # ASM-2

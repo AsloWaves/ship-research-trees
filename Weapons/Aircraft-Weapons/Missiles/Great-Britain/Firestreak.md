@@ -7,6 +7,7 @@ introduced: 1957
 retired: 1988
 service_life: 1957-1988
 tags: [ir-missile, uk]
+completeness: partial
 ---
 
 # Firestreak

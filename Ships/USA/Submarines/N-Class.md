@@ -1,6 +1,5 @@
 # N-Class Submarines
 
-```yaml
 ---
 class_name: N-Class
 hull_numbers: SS-53 to SS-59
@@ -40,7 +39,6 @@ successor: "[[O-Class]]"
 # Tags
 tags: [submarine, ss, n-class, diesel, wwi, 1917]
 ---
-```
 
 **Late WWI Class** - N-class were smaller coastal submarines. 7 boats built late in WWI.
 

@@ -5,6 +5,7 @@ nation: Japanese
 type: Special
 introduced: 1944
 tags: [torpedo, special, japanese]
+completeness: partial
 ---
 
 # Type 7 (Depth Charge)

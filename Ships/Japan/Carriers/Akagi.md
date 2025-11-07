@@ -1,6 +1,5 @@
 # Akagi (Aircraft Carrier)
 
-```yaml
 ---
 class_name: Akagi
 hull_numbers: None (unique ship)
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [carrier, akagi, pearl-harbor, midway, kido-butai, flagship, converted-battlecruiser, wwii, imperial-japanese-navy, ijn, 1927, legendary, 1-ship]
 ---
-```
 
 **Pearl Harbor Flagship** - Akagi was flagship of Kido Butai (carrier striking force) at Pearl Harbor. Converted from battlecruiser (Amagi-class). 855 ft, 66-91 aircraft. Led six carrier attack force December 7, 1941. Sunk at Battle of Midway June 4, 1942.
 

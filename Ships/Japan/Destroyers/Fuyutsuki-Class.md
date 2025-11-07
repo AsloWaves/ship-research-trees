@@ -1,6 +1,5 @@
 # Fuyutsuki-Class Destroyers
 
-```yaml
 ---
 class_name: Fuyutsuki-Class (Akizuki subclass)
 hull_numbers: None
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [destroyer, fuyutsuki-class, akizuki-subclass, aa-destroyer, improved-design, late-war, 50-percent-survival, wwii, imperial-japanese-navy, ijn, 1944, 12-ships]
 ---
-```
 
 **Refined AA Destroyers** - Fuyutsuki-class were improved Akizuki-class AA destroyers. 12 ships commissioned 1944-1945. Eight 100mm DP guns + 40-52 light AA. 33 knots. Refined design with better stability, more AA. Most commissioned too late for significant combat (1945). 6 lost, 6 survived (50% survival rate). Last IJN destroyers built in quantity. Represented peak Japanese AA destroyer design but too late to matter.
 

@@ -5,6 +5,7 @@ nation: Japanese
 type: Acoustic
 introduced: 1943
 tags: [torpedo, acoustic, japanese]
+completeness: partial
 ---
 
 # Type 43 (Acoustic Homing)

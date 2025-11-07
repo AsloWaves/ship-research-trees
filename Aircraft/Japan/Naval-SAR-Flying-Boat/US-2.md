@@ -5,6 +5,7 @@ nation: Japanese
 type: SAR Flying Boat
 introduced: 2007
 tags: [naval-aircraft, sar-flying-boat, japanese]
+completeness: partial
 ---
 
 # US-2

@@ -5,6 +5,7 @@ nation: USA
 type: Cruise
 introduced: 1984
 tags: [missile, cruise, usa]
+completeness: stub
 ---
 
 # BGM-109A Gryphon

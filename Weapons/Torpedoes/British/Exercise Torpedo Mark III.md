@@ -5,6 +5,7 @@ nation: British
 type: Exercise
 introduced: 1945
 tags: [torpedo, exercise, british]
+completeness: partial
 ---
 
 # Exercise Torpedo Mark III

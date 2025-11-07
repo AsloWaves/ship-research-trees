@@ -1,6 +1,5 @@
 # Akatsuki-Class Destroyers
 
-```yaml
 ---
 class_name: Akatsuki-Class (Special Type III, Fubuki subclass)
 hull_numbers: None
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [destroyer, akatsuki-class, special-type-iii, fubuki-subclass, night-battles, searchlight-sacrifice, soviet-transfer, rescued-allied-sailors, 100-percent-loss, wwii, imperial-japanese-navy, ijn, 1932, 4-ships]
 ---
-```
 
 **Final Fubukis** - Akatsuki-class (Special Type III) were the final evolution of Fubuki-class destroyers. 4 ships commissioned 1932-1933. Six 5-inch guns + eight Long Lance torpedoes. 38 knots. All four saw intensive combat. All four lost 1942-1945 (100% loss rate). Akatsuki sunk at Guadalcanal (searchlight sacrifice). Ikazuchi rescued 422 Allied survivors (Exeter, Encounter) - remarkable humanity. Hibiki survived to 1947, transferred to Soviet Union. Represented peak Fubuki-type design maturity.
 

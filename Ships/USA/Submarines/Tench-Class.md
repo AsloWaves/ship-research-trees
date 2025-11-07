@@ -1,6 +1,5 @@
 # Tench-Class Submarines
 
-```yaml
 ---
 class_name: Tench-Class
 hull_numbers: SS-417 to SS-529
@@ -40,7 +39,6 @@ successor: "[[Tang-Class]]"
 # Tags
 tags: [submarine, ss, tench, fleet-submarine, diesel, wwii, 1944]
 ---
-```
 
 **Final WWII Design** - Tench-class were final evolution of WWII fleet submarine. Only 29 of 128 ordered completed due to war's end.
 

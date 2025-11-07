@@ -7,6 +7,7 @@ introduced: 1977
 retired: Active
 service_life: 1977-Present
 tags: [anti-ship-missile, harpoon, usa, radar-required]
+completeness: partial
 ---
 
 # AGM-84 Harpoon

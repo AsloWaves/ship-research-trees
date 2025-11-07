@@ -5,6 +5,7 @@ nation: USA
 type: Small Diameter
 introduced: 2006
 tags: [bomb, naval-bomb, small-diameter, usa]
+completeness: partial
 ---
 
 # GBU-39 SDB

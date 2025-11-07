@@ -1,6 +1,5 @@
 # Gridley-Class Destroyers
 
-```yaml
 ---
 class_name: Gridley-Class
 hull_numbers: DD-380 to DD-383
@@ -55,7 +54,6 @@ firsts:
 # Tags
 tags: [destroyer, oil-fired, turbine, treaty-ship, 5-inch-38, interwar, speed-record]
 ---
-```
 
 **Maximum Torpedoes & Speed** - Ultimate torpedo-focused treaty destroyer with record-breaking speed.
 

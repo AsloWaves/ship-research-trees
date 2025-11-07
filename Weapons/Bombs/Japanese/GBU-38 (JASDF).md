@@ -5,6 +5,7 @@ nation: Japanese
 type: GPS-Guided
 introduced: 2012
 tags: [bomb, naval-bomb, gps-guided, japanese]
+completeness: partial
 ---
 
 # GBU-38 (JASDF)

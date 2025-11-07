@@ -1,6 +1,5 @@
 # Plunger-Class Submarines (A-Class)
 
-```yaml
 ---
 class_name: Plunger-Class
 hull_numbers: SS-2 to SS-8
@@ -40,7 +39,6 @@ successor: "[[B-Class]]"
 # Tags
 tags: [submarine, ss, a-class, plunger, 1903]
 ---
-```
 
 **First Production Class** - Plunger/A-class were first production submarines for US Navy. 7 boats designated SS-2 through SS-8. Improved Holland design.
 

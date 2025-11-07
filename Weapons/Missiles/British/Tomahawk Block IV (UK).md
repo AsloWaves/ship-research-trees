@@ -5,6 +5,7 @@ nation: British
 type: Cruise
 introduced: 2008
 tags: [missile, cruise, british]
+completeness: stub
 ---
 
 # Tomahawk Block IV (UK)

@@ -5,6 +5,7 @@ nation: USA
 type: SSM
 introduced: 2024
 tags: [missile, ssm, usa]
+completeness: stub
 ---
 
 # AGM-158C-2 LRASM Block II

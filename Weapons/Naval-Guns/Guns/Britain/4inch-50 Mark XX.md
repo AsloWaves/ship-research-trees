@@ -6,6 +6,7 @@ caliber: 4"
 mark: Mark XX
 year: 1955
 tags: [naval-gun, britain, 4inch]
+completeness: stub
 ---
 
 # 4"/50 Mark XX

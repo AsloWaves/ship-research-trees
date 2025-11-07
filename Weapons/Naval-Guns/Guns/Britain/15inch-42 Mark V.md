@@ -6,6 +6,7 @@ caliber: 15"
 mark: Mark V
 year: 1942
 tags: [naval-gun, britain, 15inch]
+completeness: stub
 ---
 
 # 15"/42 Mark V

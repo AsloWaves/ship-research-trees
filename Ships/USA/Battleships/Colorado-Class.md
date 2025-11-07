@@ -1,6 +1,5 @@
 # Colorado-Class Battleships
 
-```yaml
 ---
 class_name: Colorado-Class
 hull_numbers: BB-45, BB-46, BB-48
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [battleship, colorado, maryland, west-virginia, bb-45, bb-46, bb-48, 16-inch-guns, 1923, pearl-harbor, wwii, leyte-gulf, milestone]
 ---
-```
 
 **First 16-Inch Guns** - Colorado-class were first US battleships with 16-inch guns. 3 ships (4th Washington cancelled under treaty). "Big Five" with Tennessee-class. Pearl Harbor veterans.
 

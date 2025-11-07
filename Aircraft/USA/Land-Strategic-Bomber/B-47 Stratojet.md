@@ -5,6 +5,7 @@ nation: USA
 type: Strategic Bomber
 introduced: 1951
 tags: [ground-aircraft, strategic-bomber, usa]
+completeness: partial
 ---
 
 # B-47 Stratojet

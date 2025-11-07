@@ -7,6 +7,7 @@ introduced: 1975
 retired: Active
 service_life: 1975-Present
 tags: [practice-munition, practice-bomb, usa]
+completeness: partial
 ---
 
 # BDU-48 Practice Bomb

@@ -1,6 +1,5 @@
 # C-Class Submarines
 
-```yaml
 ---
 class_name: C-Class
 hull_numbers: SS-9 to SS-13
@@ -40,7 +39,6 @@ successor: "[[D-Class]]"
 # Tags
 tags: [submarine, ss, c-class, 1908]
 ---
-```
 
 **Larger Coastal Submarines** - C-class were significantly larger with twin shafts. 5 boats built. First US submarines over 100 feet.
 

@@ -5,6 +5,7 @@ nation: USA
 type: Steam
 introduced: 1890
 tags: [torpedo, steam, usa]
+completeness: partial
 ---
 
 # Whitehead Torpedo (1890)

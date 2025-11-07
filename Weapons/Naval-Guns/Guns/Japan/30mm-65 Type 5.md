@@ -6,6 +6,7 @@ caliber: 30mm
 mark: Type 5
 year: 1944
 tags: [naval-gun, japan, 30mm]
+completeness: stub
 ---
 
 # 30mm/65 Type 5

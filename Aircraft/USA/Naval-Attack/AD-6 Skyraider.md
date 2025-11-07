@@ -5,6 +5,7 @@ nation: USA
 type: Attack
 introduced: 1953
 tags: [naval-aircraft, attack, usa]
+completeness: partial
 ---
 
 # AD-6 Skyraider

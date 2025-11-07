@@ -1,6 +1,5 @@
 # Nevada-Class Battleships
 
-```yaml
 ---
 class_name: Nevada-Class
 hull_numbers: BB-36, BB-37
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [battleship, nevada, oklahoma, bb-36, bb-37, super-dreadnought, all-or-nothing, oil-fired, 1916, wwi, pearl-harbor, wwii, atomic-test, milestone]
 ---
-```
 
 **Revolutionary Design** - Nevada-class introduced revolutionary all-or-nothing armor scheme and oil-fired propulsion. 2 ships. Triple turrets. Nevada sole survivor of Pearl Harbor battleship row.
 

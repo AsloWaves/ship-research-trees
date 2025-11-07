@@ -5,6 +5,7 @@ nation: British
 type: Exercise
 introduced: 1980
 tags: [torpedo, exercise, british]
+completeness: partial
 ---
 
 # Tigerfish Exercise

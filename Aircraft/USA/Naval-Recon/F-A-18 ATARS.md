@@ -5,6 +5,7 @@ nation: USA
 type: Recon
 introduced: 1996
 tags: [naval-aircraft, recon, usa]
+completeness: partial
 ---
 
 # F/A-18 ATARS

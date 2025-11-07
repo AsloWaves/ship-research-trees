@@ -6,6 +6,7 @@ caliber: 15cm
 mark: Type 3
 year: 1940
 tags: [naval-gun, japan, 15cm]
+completeness: stub
 ---
 
 # 15cm/55 Type 3

@@ -1,6 +1,5 @@
 # Gearing-Class Destroyers
 
-```yaml
 ---
 class_name: Gearing-Class
 hull_numbers: DD-710 class
@@ -50,7 +49,6 @@ contemporary: null
 # Tags
 tags: [destroyer, oil-fired, turbine, wwii, 5-inch-38, twin-mounts, gearing]
 ---
-```
 
 **Extended Sumner** - Lengthened version of Sumner-Class with improved endurance and seakeeping. Last conventional gun destroyers.
 

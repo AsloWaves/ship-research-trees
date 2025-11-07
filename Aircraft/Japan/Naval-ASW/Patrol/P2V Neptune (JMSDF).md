@@ -5,6 +5,7 @@ nation: Japanese
 type: ASW/Patrol
 introduced: 1958
 tags: [naval-aircraft, asw/patrol, japanese]
+completeness: partial
 ---
 
 # P2V Neptune (JMSDF)

@@ -6,6 +6,7 @@ nation: USA
 caliber: 18"
 turret_type: Triple
 tags: [18inch, triple, usa, turret]
+completeness: partial
 ---
 
 # 18" Mark Mark 1 Triple Turret

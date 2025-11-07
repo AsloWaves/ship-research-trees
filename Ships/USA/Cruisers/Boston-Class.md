@@ -1,6 +1,5 @@
 # Boston-Class Guided Missile Heavy Cruisers
 
-```yaml
 ---
 class_name: Boston-Class
 hull_numbers: CAG-1, CAG-2
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [cruiser, heavy-cruiser, guided-missile, cag, terrier, conversion, cold-war, 1955]
 ---
-```
 
 **First Guided Missile Cruisers** - Boston and Canberra converted from Baltimore-class with Terrier SAM systems. First US missile cruisers (CAG).
 

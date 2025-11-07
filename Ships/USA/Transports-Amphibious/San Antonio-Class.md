@@ -1,6 +1,5 @@
 # San Antonio-Class Amphibious Transport Docks
 
-```yaml
 ---
 class_name: San Antonio-Class
 hull_numbers: LPD-17 to LPD-30
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [amphibious, lpd, san-antonio, lpd-17, transport-dock, modern, stealth, marines, lcac, 2006, active, 11-ships]
 ---
-```
 
 **Modern Amphibious Transports** - San Antonio-class are most modern and capable amphibious transport docks. 11 commissioned, 13 planned. Replaced Austin-class. Advanced stealth features and C4ISR systems.
 

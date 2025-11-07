@@ -5,6 +5,7 @@ nation: German
 type: SSM
 introduced: 1991
 tags: [missile, ssm, german]
+completeness: stub
 ---
 
 # Kormoran Mk 2

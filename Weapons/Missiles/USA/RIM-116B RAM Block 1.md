@@ -5,6 +5,7 @@ nation: USA
 type: CIWS
 introduced: 2000
 tags: [missile, ciws, usa]
+completeness: stub
 ---
 
 # RIM-116B RAM Block 1

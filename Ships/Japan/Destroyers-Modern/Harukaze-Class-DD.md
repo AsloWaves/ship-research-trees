@@ -1,6 +1,5 @@
 # Harukaze-Class Destroyers (DD)
 
-```yaml
 ---
 class_name: Harukaze-Class Destroyers
 hull_numbers: DD-101, DD-102
@@ -63,7 +62,6 @@ firsts:
 # Tags
 tags: [destroyer, harukaze-class, first-post-wwii, jmsdf, cold-war, us-equipment, asw-focused, 2-ships, 1956, historic, post-war-japan, dd-101]
 ---
-```
 
 **First Post-WWII Destroyers** - Harukaze-class were Japan's first destroyers built after WWII. 2 ships commissioned 1956. First warships for Japan Maritime Self-Defense Force (JMSDF, established 1954). Marked Japan's return to naval construction (11 years after WWII surrender). 2,340 tons, 30 knots, 3× 5-inch guns, ASW weapons. US equipment throughout (5-inch Mk 39 guns, SPS-6 radar, SQS-4 sonar, Mk 37 fire control). Modest size (post-war constraints, constitutional limitations, economic recovery). ASW-focused mission (Cold War, counter Soviet submarines). Both served 29-30 years (1956-1985/1986). Harukaze DD-101 (first JMSDF destroyer number). Yukikaze DD-102 (honored legendary WWII survivor destroyer). Foundation for modern JMSDF development - established patterns for future Japanese destroyers.
 

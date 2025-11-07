@@ -5,6 +5,7 @@ nation: British
 type: Heavy Bomb
 introduced: 1944
 tags: [bomb, naval-bomb, heavy-bomb, british]
+completeness: partial
 ---
 
 # Tallboy

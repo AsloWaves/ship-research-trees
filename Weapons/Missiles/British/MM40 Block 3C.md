@@ -5,6 +5,7 @@ nation: British
 type: SSM
 introduced: 2015
 tags: [missile, ssm, british]
+completeness: stub
 ---
 
 # MM40 Block 3C

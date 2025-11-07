@@ -5,6 +5,7 @@ nation: Japanese
 type: Attack Helo
 introduced: 1978
 tags: [ground-aircraft, attack-helo, japanese]
+completeness: partial
 ---
 
 # AH-1S Cobra (JASDF)

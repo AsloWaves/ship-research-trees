@@ -1,6 +1,5 @@
 # I-54-Class Submarines
 
-```yaml
 ---
 class_name: I-54-Class (Type B1)
 hull_numbers: I-54, I-56, I-58
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [submarine, i-54-class, type-b1, uss-indianapolis, worst-us-naval-disaster, cruiser-submarine, i-58-survivor, hashimoto, 67-percent-loss, wwii, imperial-japanese-navy, ijn, 1944, 3-boats]
 ---
-```
 
 **Indianapolis Killer** - I-54-class were Type B1 cruiser submarines. 3 boats commissioned 1944. Large (2,589/3,654 tons), long-range (14,000 nm). Six torpedo tubes + 17 torpedoes. I-58 sank USS Indianapolis (July 30, 1945) - 1,196 killed, worst US naval disaster at sea. I-58 only IJN sub to survive war after sinking major US warship. I-54 and I-56 lost 1945. I-58 surrendered August 1945, scuttled 1946. 67% loss rate.
 

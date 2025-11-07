@@ -1,6 +1,5 @@
 # Albany-Class Guided Missile Cruisers
 
-```yaml
 ---
 class_name: Albany-Class
 hull_numbers: CG-10, CG-11, CG-12
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [cruiser, guided-missile, cg, talos, tartar, conversion, cold-war, all-missile, 1962]
 ---
-```
 
 **All-Missile Cruisers** - Albany, Chicago, Columbus most extensively rebuilt conversions. All guns removed, replaced with Talos and Tartar SAM systems.
 

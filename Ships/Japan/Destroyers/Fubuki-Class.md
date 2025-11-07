@@ -1,6 +1,5 @@
 # Fubuki-Class Destroyers (Special Type / Tokugata)
 
-```yaml
 ---
 class_name: Fubuki-Class Destroyers (Special Type / Tokugata)
 hull_numbers: Various (Japanese numbering system)
@@ -60,7 +59,6 @@ firsts:
 # Tags
 tags: [destroyer, fubuki-class, special-type, tokugata, interwar, wwii, revolutionary, enclosed-turrets, long-lance, 24-ships, high-losses, jn, 1920s-1930s, game-changer]
 ---
-```
 
 **Revolutionary "Special Type"** - Fubuki-class were revolutionary destroyers that changed naval warfare worldwide. 24 ships commissioned 1928-1932. First destroyers with enclosed gun turrets (protected crews). 6× 127mm guns in 3 twin turrets. 9× 24-inch Long Lance torpedoes (most powerful torpedo armament afloat). 38 knots (fastest destroyers when built). 2,090 tons (large for era). Influenced all subsequent destroyer designs globally (British Tribal, US Fletcher copied features). All 24 fought entire WWII. 21 lost (87.5% casualty rate - highest of any major class). 3 survived: Ushio, Hibiki (USSR Vernyi), Inazuma. Famous incidents: Amagiri rammed PT-109 (JFK's boat, 1943), Ikazuchi rescued 422 Allied sailors (honorable action, 1942). Fubuki-class: Game-changers that defined modern destroyers.
 

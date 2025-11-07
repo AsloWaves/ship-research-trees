@@ -5,6 +5,7 @@ nation: Japanese
 type: Oxygen
 introduced: 1942
 tags: [torpedo, oxygen, japanese]
+completeness: partial
 ---
 
 # Type 1 Land-Attack

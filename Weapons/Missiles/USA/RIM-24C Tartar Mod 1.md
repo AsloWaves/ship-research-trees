@@ -5,6 +5,7 @@ nation: USA
 type: SAM
 introduced: 1970
 tags: [missile, sam, usa]
+completeness: stub
 ---
 
 # RIM-24C Tartar Mod 1

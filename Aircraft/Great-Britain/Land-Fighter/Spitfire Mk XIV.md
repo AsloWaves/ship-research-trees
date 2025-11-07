@@ -5,6 +5,7 @@ nation: British
 type: Fighter
 introduced: 1944
 tags: [ground-aircraft, fighter, british]
+completeness: partial
 ---
 
 # Spitfire Mk XIV

@@ -1,6 +1,5 @@
 # Ibuki Aircraft Carrier
 
-```yaml
 ---
 class_name: Ibuki (unique incomplete carrier conversion)
 hull_numbers: None
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [carrier, ibuki, incomplete, converted-cruiser, mogami-class, never-completed, abandoned, scrapped-incomplete, wwii, imperial-japanese-navy, ijn, 1943, 0-ships]
 ---
-```
 
 **The Incomplete Conversion** - Ibuki was a heavy cruiser being converted to aircraft carrier. Originally fourth Mogami-class cruiser, converted during construction 1943. Conversion ~80% complete by war's end but never finished. 27 aircraft planned, 29 knots. Work abandoned 1945, scrapped incomplete 1946-1947. Most advanced Japanese carrier conversion never completed. Showed desperation - converting cruisers mid-construction - but too late, too slow.
 

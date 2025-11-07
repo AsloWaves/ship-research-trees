@@ -6,6 +6,7 @@ caliber: 18"
 mark: Mark I
 year: 1917
 tags: [naval-gun, britain, 18inch]
+completeness: stub
 ---
 
 # 18"/40 Mark I

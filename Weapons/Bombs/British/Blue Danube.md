@@ -5,6 +5,7 @@ nation: British
 type: Nuclear
 introduced: 1953
 tags: [bomb, naval-bomb, nuclear, british]
+completeness: partial
 ---
 
 # Blue Danube

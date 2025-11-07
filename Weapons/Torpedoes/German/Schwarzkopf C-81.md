@@ -5,6 +5,7 @@ nation: German
 type: Compressed Air
 introduced: 1881
 tags: [torpedo, compressed-air, german]
+completeness: partial
 ---
 
 # Schwarzkopf C/81

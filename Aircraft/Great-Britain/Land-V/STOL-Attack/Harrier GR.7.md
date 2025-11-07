@@ -5,6 +5,7 @@ nation: British
 type: V/STOL Attack
 introduced: 1990
 tags: [ground-aircraft, v/stol-attack, british]
+completeness: partial
 ---
 
 # Harrier GR.7

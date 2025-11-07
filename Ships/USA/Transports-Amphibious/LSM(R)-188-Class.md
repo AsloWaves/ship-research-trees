@@ -1,6 +1,5 @@
 # LSM(R)-188-Class Landing Ship Medium (Rocket)
 
-```yaml
 ---
 class_name: LSM(R)-188-Class
 hull_numbers: LSM(R)-188 to LSM(R)-199
@@ -54,7 +53,6 @@ firsts:
 # Tags
 tags: [landing-ship, lsm-rocket, wwii, fire-support, amphibious, 1944]
 ---
-```
 
 **Devastating Rocket Ships** - LSM(R)-188-class were rocket-armed fire support conversions from LSM-1 hulls. 12 ships (LSM(R)-188 to LSM(R)-199) converted late 1944. Each mounted 75-85 automatic rocket launchers. Life Magazine: firepower "greater than two Iowa-class battleships combined" at close range.
 

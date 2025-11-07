@@ -5,6 +5,7 @@ nation: German
 type: Stealth Multi-Role
 introduced: 2024
 tags: [ground-aircraft, stealth-multi-role, german]
+completeness: partial
 ---
 
 # F-35A Lightning II (Luftwaffe)

@@ -1,6 +1,5 @@
 # Shokaku-Class Aircraft Carriers
 
-```yaml
 ---
 class_name: Shokaku-Class
 hull_numbers: None (Shokaku, Zuikaku)
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [carrier, shokaku, zuikaku, pearl-harbor, coral-sea, midway-survivor, santa-cruz, philippine-sea, best-ijn-carriers, wwii, imperial-japanese-navy, ijn, 1941, legendary, 2-ships]
 ---
-```
 
 **Best IJN Carriers** - Shokaku-class were best balanced IJN fleet carriers. 2 ships built. Pearl Harbor veterans. Only carriers to participate in all six major carrier battles (Pearl Harbor, Coral Sea, Eastern Solomons, Santa Cruz, Philippine Sea, Leyte Gulf). Faster (34 knots) and better armored than predecessors. Both sunk 1944.
 

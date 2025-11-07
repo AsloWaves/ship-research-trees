@@ -5,6 +5,7 @@ nation: German
 type: Electric
 introduced: 1944
 tags: [torpedo, electric, german]
+completeness: partial
 ---
 
 # G7v Dachshund

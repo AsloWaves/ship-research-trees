@@ -5,6 +5,7 @@ nation: USA
 type: Fighter
 introduced: 1942
 tags: [naval-aircraft, fighter, usa]
+completeness: partial
 ---
 
 # F4F-4 Wildcat

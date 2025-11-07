@@ -1,6 +1,5 @@
 # Barbel-Class Submarines
 
-```yaml
 ---
 class_name: Barbel-Class
 hull_numbers: SS-580 to SS-582
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [submarine, ss, barbel, attack-submarine, diesel, cold-war, teardrop-hull, 1959, milestone]
 ---
-```
 
 **Last Diesel Attack Subs** - Barbel-class were last diesel-electric attack submarines built by US Navy. 3 boats with Albacore teardrop hull.
 

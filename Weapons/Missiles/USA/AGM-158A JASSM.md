@@ -5,6 +5,7 @@ nation: USA
 type: Cruise
 introduced: 2003
 tags: [missile, cruise, usa]
+completeness: stub
 ---
 
 # AGM-158A JASSM

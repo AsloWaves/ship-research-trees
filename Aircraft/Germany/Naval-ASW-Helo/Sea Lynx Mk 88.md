@@ -5,6 +5,7 @@ nation: German
 type: ASW Helo
 introduced: 1981
 tags: [naval-aircraft, asw-helo, german]
+completeness: partial
 ---
 
 # Sea Lynx Mk 88

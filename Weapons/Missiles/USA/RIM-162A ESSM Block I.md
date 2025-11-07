@@ -5,6 +5,7 @@ nation: USA
 type: SAM
 introduced: 2004
 tags: [missile, sam, usa]
+completeness: stub
 ---
 
 # RIM-162A ESSM Block I

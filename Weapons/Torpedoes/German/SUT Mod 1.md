@@ -5,6 +5,7 @@ nation: German
 type: Wire-Guided
 introduced: 1970
 tags: [torpedo, wire-guided, german]
+completeness: partial
 ---
 
 # SUT Mod 1

@@ -1,6 +1,5 @@
 # Pennsylvania-Class Armored Cruisers
 
-```yaml
 ---
 class_name: Pennsylvania-Class
 hull_numbers: ACR-4 to ACR-8 (later CA-4 to CA-8)
@@ -45,7 +44,6 @@ contemporary: null
 # Tags
 tags: [cruiser, armored-cruiser, pre-dreadnought-era, 1905]
 ---
-```
 
 **First Modern Armored Cruisers** - Pennsylvania-class represented the US Navy's first large-scale armored cruiser program with heavy side armor and powerful mixed battery.
 

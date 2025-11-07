@@ -1,6 +1,5 @@
 # R-Class Submarines
 
-```yaml
 ---
 class_name: R-Class
 hull_numbers: SS-78 to SS-97
@@ -44,7 +43,6 @@ firsts:
 # Tags
 tags: [submarine, ss, r-class, diesel, wwi, 21-inch-torpedo, 1918, milestone]
 ---
-```
 
 **First 21-Inch Torpedo Subs** - R-class were first US submarines with larger 21-inch torpedoes. 20 boats built for WWI service.
 

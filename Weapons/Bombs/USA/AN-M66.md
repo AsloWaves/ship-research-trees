@@ -5,6 +5,7 @@ nation: USA
 type: GP Bomb
 introduced: 1943
 tags: [bomb, naval-bomb, gp-bomb, usa]
+completeness: partial
 ---
 
 # AN-M66

@@ -1,6 +1,5 @@
 # Northampton-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: Northampton-Class
 hull_numbers: CA-26 to CA-31
@@ -42,7 +41,6 @@ successor: "[[Portland-Class]]"
 # Tags
 tags: [cruiser, heavy-cruiser, treaty-cruiser, 8-inch, 1930]
 ---
-```
 
 **Second Treaty Heavy Cruiser Class** - Improved Pensacola design with 9× 8-inch guns in triple turrets. Better balanced layout.
 

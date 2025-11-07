@@ -5,6 +5,7 @@ nation: USA
 type: SSM
 introduced: 1993
 tags: [missile, ssm, usa]
+completeness: stub
 ---
 
 # RGM-109C Tomahawk TLAM-C

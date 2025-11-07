@@ -1,6 +1,5 @@
 # Kuma-Class Light Cruisers (CL)
 
-```yaml
 ---
 class_name: Kuma-Class Light Cruisers
 hull_numbers: None (Japanese naming system)
@@ -62,7 +61,6 @@ firsts:
 # Tags
 tags: [light-cruiser, kuma-class, 5500-ton, interwar, wwii, fast-cruiser, flotilla-leader, 5-ships, high-losses, jn, 1920s, guadalcanal]
 ---
-```
 
 **First 5,500-Ton Type** - Kuma-class were Japan's first 5,500-ton light cruisers. 5 ships commissioned 1920-1921. Designed as destroyer flotilla leaders. 36 knots (fastest cruisers when commissioned). 7× 140mm (5.5-inch) guns, 8× 24-inch torpedoes. Light armor (2.5-inch belt). 5,100/5,832 tons. Started series: Kuma (5), Nagara (6), Sendai (3) = 14 total 5,500-ton cruisers (interwar workhorse class). All 5 fought entire WWII. 4 lost (80% casualty rate). 1 survivor: Kitakami (converted to kaiten suicide torpedo carrier). High-speed scouts and flotilla leaders 1920s-1940s. Kuma-class: Foundation of Japanese light cruiser force.
 

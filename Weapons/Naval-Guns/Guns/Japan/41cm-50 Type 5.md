@@ -6,6 +6,7 @@ caliber: 41cm
 mark: Type 5
 year: 1945
 tags: [naval-gun, japan, 41cm]
+completeness: stub
 ---
 
 # 41cm/50 Type 5

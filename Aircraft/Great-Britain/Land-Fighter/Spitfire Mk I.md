@@ -5,6 +5,7 @@ nation: British
 type: Fighter
 introduced: 1940
 tags: [ground-aircraft, fighter, british]
+completeness: partial
 ---
 
 # Spitfire Mk I

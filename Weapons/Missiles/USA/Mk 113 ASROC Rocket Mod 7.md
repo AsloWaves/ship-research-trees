@@ -5,6 +5,7 @@ nation: USA
 type: ASW
 introduced: 1968
 tags: [missile, asw, usa]
+completeness: stub
 ---
 
 # Mk 113 ASROC Rocket Mod 7

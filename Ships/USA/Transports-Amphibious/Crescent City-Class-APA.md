@@ -1,6 +1,5 @@
 # Crescent City-Class Attack Transports
 
-```yaml
 ---
 class_name: Crescent City-Class-APA
 hull_numbers: APA-21, APA-28, APA-31, APA-32
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [transport, attack-transport, apa, wwii, c3-hull, amphibious, 1941]
 ---
-```
 
 **First C3 APAs** - Crescent City-class were first attack transports based on C3 merchant hull. 4 ships. Earned 33 battle stars collectively, served from Guadalcanal through Okinawa.
 

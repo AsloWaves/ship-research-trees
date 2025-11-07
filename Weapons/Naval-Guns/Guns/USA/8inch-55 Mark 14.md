@@ -6,6 +6,7 @@ caliber: 8"
 mark: Mark 14
 year: 1936
 tags: [naval-gun, usa, 8inch]
+completeness: stub
 ---
 
 # 8"/55 Mark 14

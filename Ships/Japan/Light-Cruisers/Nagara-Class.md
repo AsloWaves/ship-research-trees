@@ -1,6 +1,5 @@
 # Nagara-Class Light Cruisers
 
-```yaml
 ---
 class_name: Nagara-Class
 hull_numbers: None (Nagara, Isuzu, Natori, Yura, Kinu, Abukuma)
@@ -51,7 +50,6 @@ firsts:
 # Tags
 tags: [light-cruiser, nagara-class, destroyer-leader, guadalcanal, philippines, midway, wwii, imperial-japanese-navy, ijn, 1922, 6-ships]
 ---
-```
 
 **1920s Destroyer Leaders** - Nagara-class were improved Kuma-class light cruisers. 6 ships built 1922-1923. Seven 5.5-inch guns + eight 24-inch torpedoes. High speed (36 knots). All six lost in combat 1942-1945 (100% loss rate). Participated extensively in every major campaign from Pearl Harbor to Philippines.
 

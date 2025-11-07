@@ -5,6 +5,7 @@ nation: USA
 type: Transport
 introduced: 1942
 tags: [ground-aircraft, transport, usa]
+completeness: partial
 ---
 
 # C-54 Skymaster

@@ -5,6 +5,7 @@ nation: German
 type: Maritime Patrol
 introduced: 1975
 tags: [naval-aircraft, maritime-patrol, german]
+completeness: partial
 ---
 
 # Do 24 (Reactivated)

@@ -5,6 +5,7 @@ nation: German
 type: Exercise
 introduced: 1965
 tags: [torpedo, exercise, german]
+completeness: partial
 ---
 
 # Seal Exercise

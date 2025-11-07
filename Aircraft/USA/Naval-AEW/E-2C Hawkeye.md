@@ -5,6 +5,7 @@ nation: USA
 type: AEW
 introduced: 1973
 tags: [naval-aircraft, aew, usa]
+completeness: partial
 ---
 
 # E-2C Hawkeye

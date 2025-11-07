@@ -5,6 +5,7 @@ nation: USA
 type: EW
 introduced: 1971
 tags: [naval-aircraft, ew, usa]
+completeness: partial
 ---
 
 # EA-6B Prowler

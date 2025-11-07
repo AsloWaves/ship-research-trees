@@ -1,6 +1,5 @@
 # Hatsuharu-Class Destroyers
 
-```yaml
 ---
 class_name: Hatsuharu-Class
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, hatsuharu-class, topweight-crisis, fourth-fleet-incident, stability-problems, modified-design, wwii, imperial-japanese-navy, ijn, 1933, 6-ships]
 ---
-```
 
 **Problem Children** - Hatsuharu-class were destroyers plagued by severe topweight problems. 6 ships built 1933-1935. Originally had six 5-inch guns + nine 24-inch torpedoes - too heavy, dangerously unstable. After "Fourth Fleet Incident" (1935 typhoon capsizing), all 6 extensively modified to improve stability. Reduced armament to five guns + six torpedoes. All 6 lost in combat 1942-1943. Design lessons influenced subsequent classes.
 

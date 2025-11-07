@@ -5,6 +5,7 @@ nation: USA
 type: Transport
 introduced: 1974
 tags: [ground-aircraft, transport, usa]
+completeness: partial
 ---
 
 # C-130H Hercules

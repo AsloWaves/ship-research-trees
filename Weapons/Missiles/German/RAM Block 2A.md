@@ -5,6 +5,7 @@ nation: German
 type: SAM
 introduced: 2020
 tags: [missile, sam, german]
+completeness: stub
 ---
 
 # RAM Block 2A

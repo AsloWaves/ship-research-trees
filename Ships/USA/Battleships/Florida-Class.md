@@ -1,6 +1,5 @@
 # Florida-Class Battleships
 
-```yaml
 ---
 class_name: Florida-Class
 hull_numbers: BB-30, BB-31
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [battleship, dreadnought, bb-30, bb-31, 1911, 12-inch-guns, turbines, pearl-harbor]
 ---
-```
 
 **First All-Turbine Battleships** - Florida-class were first US battleships with turbine propulsion for both ships. 2 ships. Improved Delaware design with better machinery arrangement.
 

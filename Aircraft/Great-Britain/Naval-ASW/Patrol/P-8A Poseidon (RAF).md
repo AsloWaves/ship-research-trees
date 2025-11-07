@@ -5,6 +5,7 @@ nation: British
 type: ASW/Patrol
 introduced: 2020
 tags: [naval-aircraft, asw/patrol, british]
+completeness: partial
 ---
 
 # P-8A Poseidon (RAF)

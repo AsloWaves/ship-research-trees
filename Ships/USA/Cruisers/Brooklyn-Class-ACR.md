@@ -1,6 +1,5 @@
 # Brooklyn-Class Armored Cruiser
 
-```yaml
 ---
 class_name: Brooklyn-Class-ACR
 hull_numbers: ACR-3 to ACR-8
@@ -42,7 +41,6 @@ successor: "[[Pennsylvania-Class]]"
 # Tags
 tags: [cruiser, armored-cruiser, acr, 1896, acr-3]
 ---
-```
 
 **Early Armored Cruiser Class** - Brooklyn-class (ACR) were first US armored cruiser class with 8× 8-inch guns. 6 ships built. Not to be confused with WWII [[Brooklyn-Class]] light cruisers.
 

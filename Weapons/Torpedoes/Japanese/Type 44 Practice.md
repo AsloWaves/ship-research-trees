@@ -5,6 +5,7 @@ nation: Japanese
 type: Training
 introduced: 1911
 tags: [torpedo, training, japanese]
+completeness: partial
 ---
 
 # Type 44 Practice

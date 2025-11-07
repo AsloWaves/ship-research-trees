@@ -7,6 +7,7 @@ introduced: 1976
 retired: Active
 service_life: 1976-Present
 tags: [laser-guided-bomb, paveway-ii-(1000lb), usa, laser-guided]
+completeness: partial
 ---
 
 # GBU-16 Paveway II (1000lb)

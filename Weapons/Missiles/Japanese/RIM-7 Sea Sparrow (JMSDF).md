@@ -5,6 +5,7 @@ nation: Japanese
 type: SAM
 introduced: 1981
 tags: [missile, sam, japanese]
+completeness: stub
 ---
 
 # RIM-7 Sea Sparrow (JMSDF)

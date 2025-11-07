@@ -1,6 +1,5 @@
 # Spruance-Class Destroyers
 
-```yaml
 ---
 class_name: Spruance-Class
 hull_numbers: DD-963 to DD-992
@@ -55,7 +54,6 @@ firsts:
 # Tags
 tags: [destroyer, gas-turbine, vls, tomahawk, asw, 1975, milestone]
 ---
-```
 
 **Gas Turbine Revolution** - First US gas turbine destroyers. Large ASW-focused hulls, later gained Tomahawk strike capability.
 

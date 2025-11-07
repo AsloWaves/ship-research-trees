@@ -5,6 +5,7 @@ nation: USA
 type: Export Fighter
 introduced: 1972
 tags: [ground-aircraft, export-fighter, usa]
+completeness: partial
 ---
 
 # F-5E Tiger II

@@ -5,6 +5,7 @@ nation: Japanese
 type: Oxygen
 introduced: 1944
 tags: [torpedo, oxygen, japanese]
+completeness: partial
 ---
 
 # Type 93 Pure Oxygen Mk3

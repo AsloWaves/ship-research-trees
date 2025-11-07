@@ -1,6 +1,5 @@
 # L-Class Submarines
 
-```yaml
 ---
 class_name: L-Class
 hull_numbers: SS-40 to SS-51
@@ -40,7 +39,6 @@ successor: "[[M-Class]]"
 # Tags
 tags: [submarine, ss, l-class, diesel, wwi, 1916]
 ---
-```
 
 **WWI Coastal Submarines** - L-class were first US submarines to see extensive WWI service. 11 boats built.
 

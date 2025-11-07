@@ -8,6 +8,7 @@ projectile_type: HE
 introduced: 1938
 service_life: 1938-Present
 tags: [5inch, he, mark-48, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 48 (HE)

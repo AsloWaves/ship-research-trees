@@ -1,6 +1,5 @@
 # LST-542-Class Landing Ship Tank
 
-```yaml
 ---
 class_name: LST-542-Class
 hull_numbers: LST-542 to LST-1151
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [landing-ship, lst, wwii, beaching, amphibious, 1943]
 ---
-```
 
 **Improved WWII LST** - LST-542-class were improved Type II LSTs with hydraulic bow doors, internal ramps, and enhanced systems. 609 ships. Major production class serving through Vietnam War.
 

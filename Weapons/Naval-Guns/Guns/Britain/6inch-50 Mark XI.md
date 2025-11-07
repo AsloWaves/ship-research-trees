@@ -6,6 +6,7 @@ caliber: 6"
 mark: Mark XI
 year: 1923
 tags: [naval-gun, britain, 6inch]
+completeness: stub
 ---
 
 # 6"/50 Mark XI

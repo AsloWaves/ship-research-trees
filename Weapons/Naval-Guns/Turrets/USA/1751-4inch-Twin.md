@@ -6,6 +6,7 @@ nation: USA
 caliber: 4"
 turret_type: Twin
 tags: [4inch, twin, usa, turret]
+completeness: partial
 ---
 
 # 4" Mark Mark 10 Twin Open Open Mount

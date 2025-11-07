@@ -5,6 +5,7 @@ nation: USA
 type: Fighter
 introduced: 1943
 tags: [naval-aircraft, fighter, usa]
+completeness: partial
 ---
 
 # F6F Hellcat

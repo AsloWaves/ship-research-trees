@@ -1,6 +1,5 @@
 # Skate-Class Submarines
 
-```yaml
 ---
 class_name: Skate-Class
 hull_numbers: SSN-578 to SSN-581
@@ -45,7 +44,6 @@ firsts:
 # Tags
 tags: [submarine, ssn, skate, nuclear, attack-submarine, cold-war, 1957, milestone]
 ---
-```
 
 **First Production Nuclear Subs** - Skate-class were first production nuclear attack submarines. 4 boats. Smaller, more economical than Nautilus.
 

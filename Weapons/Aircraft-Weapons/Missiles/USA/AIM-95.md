@@ -7,6 +7,7 @@ introduced: 1974
 retired: 1975
 service_life: 1974-1975
 tags: [ir-missile, agile, usa]
+completeness: partial
 ---
 
 # AIM-95 Agile

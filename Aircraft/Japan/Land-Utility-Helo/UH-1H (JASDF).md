@@ -5,6 +5,7 @@ nation: Japanese
 type: Utility Helo
 introduced: 1973
 tags: [ground-aircraft, utility-helo, japanese]
+completeness: partial
 ---
 
 # UH-1H (JASDF)

@@ -8,6 +8,7 @@ projectile_type: HC
 introduced: 1935
 service_life: 1935-Present
 tags: [14inch, hc, mark-16, usa, ammunition]
+completeness: partial
 ---
 
 # 14" Mark 16 (HC)

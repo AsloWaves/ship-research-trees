@@ -8,6 +8,7 @@ projectile_type: AP
 introduced: 1941
 service_life: 1941-Present
 tags: [5inch, ap, mark-53, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 53 (AP)

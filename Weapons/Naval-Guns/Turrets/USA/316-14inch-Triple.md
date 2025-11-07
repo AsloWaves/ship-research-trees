@@ -6,6 +6,7 @@ nation: USA
 caliber: 14"
 turret_type: Triple
 tags: [14inch, triple, usa, turret]
+completeness: partial
 ---
 
 # 14"/50 Mark 4 Triple Turret

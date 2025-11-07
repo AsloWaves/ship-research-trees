@@ -6,6 +6,7 @@ caliber: 33cm
 mark: Type 5
 year: 1941
 tags: [naval-gun, japan, 33cm]
+completeness: stub
 ---
 
 # 33cm/50 Type 5

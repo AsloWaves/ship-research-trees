@@ -7,6 +7,7 @@ introduced: 1943
 retired: 1955
 service_life: 1943-1955
 tags: [unguided-rocket, 3-inch-rocket, uk]
+completeness: partial
 ---
 
 # RP-3 60 lb HE 3-inch Rocket

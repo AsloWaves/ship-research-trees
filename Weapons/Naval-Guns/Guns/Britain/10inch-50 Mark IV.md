@@ -6,6 +6,7 @@ caliber: 10"
 mark: Mark IV
 year: 1928
 tags: [naval-gun, britain, 10inch]
+completeness: stub
 ---
 
 # 10"/50 Mark IV

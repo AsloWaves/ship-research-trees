@@ -1,6 +1,5 @@
 # Truxtun-Class Destroyers
 
-```yaml
 ---
 class_name: Truxtun-Class
 hull_numbers: DD-14 to DD-16
@@ -48,7 +47,6 @@ contemporary: "[[Bainbridge-Class]]"
 # Tags
 tags: [destroyer, coal-fired, triple-expansion, first-generation]
 ---
-```
 
 **Contemporary to Bainbridge** - Minor improvements: slightly larger (+13t), faster (+1kn), more powerful (+1,300 ihp), one additional 6-pounder gun.
 

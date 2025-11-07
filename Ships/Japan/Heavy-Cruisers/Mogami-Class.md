@@ -1,6 +1,5 @@
 # Mogami-Class Heavy Cruisers
 
-```yaml
 ---
 class_name: Mogami-Class
 hull_numbers: None (Mogami, Mikuma, Suzuya, Kumano)
@@ -65,7 +64,6 @@ firsts:
 # Tags
 tags: [heavy-cruiser, light-cruiser, mogami, mikuma, suzuya, kumano, 8-inch, 203mm, 6-inch, treaty-cruiser, fast-cruiser, conversion, wwii, imperial-japanese-navy, ijn, 1935, midway, leyte-gulf, legendary, 4-ships]
 ---
-```
 
 **Treaty Cruiser Evolution** - Mogami-class were designed as light cruisers (15× 6.1-inch guns) but converted to heavy cruisers (10× 8-inch guns) 1939-1940. 4 ships. Treaty loophole - built as light, upgraded to heavy. High speed (35+ knots). All four sunk 1942-1944. Mogami converted to hybrid cruiser-carrier 1943.
 

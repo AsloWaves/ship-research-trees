@@ -5,6 +5,7 @@ nation: USA
 type: SSM
 introduced: 2018
 tags: [missile, ssm, usa]
+completeness: stub
 ---
 
 # AGM-158C LRASM

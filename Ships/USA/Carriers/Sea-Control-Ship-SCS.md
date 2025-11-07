@@ -1,6 +1,5 @@
 # Sea Control Ship (SCS) - Cancelled
 
-```yaml
 ---
 class_name: Sea-Control-Ship-SCS
 hull_numbers: SCS (proposed, none assigned)
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [carrier, scs, sea-control-ship, cancelled, mini-carrier, vstol, harrier, 1970s, zumwalt, high-low, experimental, unbuilt]
 ---
-```
 
 **Cancelled Mini-Carrier** - Sea Control Ship was 1970s proposal for small, affordable helicopter/VSTOL carriers. 17,000 tons, 14 helicopters + 3 Harriers. Part of Admiral Zumwalt's "High-Low" fleet concept. $100-130 million each. Cancelled 1975 by Congress in favor of Nimitz supercarriers. Design sold to Spain and Thailand.
 

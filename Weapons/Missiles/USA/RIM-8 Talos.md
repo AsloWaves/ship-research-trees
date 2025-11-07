@@ -5,6 +5,7 @@ nation: USA
 type: SAM
 introduced: 1959
 tags: [missile, sam, usa]
+completeness: stub
 ---
 
 # RIM-8 Talos

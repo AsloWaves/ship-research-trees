@@ -5,6 +5,7 @@ nation: Japanese
 type: Observation Helo
 introduced: 1999
 tags: [naval-aircraft, observation-helo, japanese]
+completeness: partial
 ---
 
 # OH-1 Ninja

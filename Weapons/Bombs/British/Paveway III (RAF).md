@@ -5,6 +5,7 @@ nation: British
 type: LGB
 introduced: 1985
 tags: [bomb, naval-bomb, lgb, british]
+completeness: partial
 ---
 
 # Paveway III (RAF)

@@ -7,6 +7,7 @@ introduced: 1982
 retired: 2008
 service_life: 1982-2008
 tags: [radar-missile, sparrow, usa, radar-required]
+completeness: partial
 ---
 
 # AIM-7M Sparrow

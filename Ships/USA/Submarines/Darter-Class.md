@@ -1,6 +1,5 @@
 # Darter-Class Submarine
 
-```yaml
 ---
 class_name: Darter-Class
 hull_numbers: SS-576
@@ -40,7 +39,6 @@ successor: "[[Barbel-Class]]"
 # Tags
 tags: [submarine, ss, darter, attack-submarine, diesel, cold-war, 1956]
 ---
-```
 
 **Single Boat** - Darter (SS-576) was single experimental attack submarine. Modified Tang design with improved sonar.
 

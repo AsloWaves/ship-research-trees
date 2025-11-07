@@ -1,6 +1,5 @@
 # Wasp-Class Aircraft Carrier
 
-```yaml
 ---
 class_name: Wasp-Class-CV
 hull_numbers: CV-7
@@ -45,7 +44,6 @@ firsts:
 # Tags
 tags: [carrier, wasp, cv-7, 1940, wwii, guadalcanal, torpedoed]
 ---
-```
 
 **Treaty Tonnage Carrier** - Wasp (CV-7) was smaller carrier built to use up remaining tonnage under Washington Naval Treaty. Commissioned 1940. Torpedoed and sunk September 1942.
 

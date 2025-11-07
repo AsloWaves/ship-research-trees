@@ -1,6 +1,5 @@
 # Chicago-Class Protected Cruiser
 
-```yaml
 ---
 class_name: Chicago-Class
 hull_numbers: Chicago (C-1)
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [cruiser, protected-cruiser, abcd-ships, new-navy, 1889]
 ---
-```
 
 **Larger "New Navy" Cruiser** - USS Chicago was the largest of the ABCD ships, with heavier armament and greater displacement than Atlanta/Boston.
 

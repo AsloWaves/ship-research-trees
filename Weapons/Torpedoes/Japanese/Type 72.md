@@ -5,6 +5,7 @@ nation: Japanese
 type: Electric
 introduced: 1960
 tags: [torpedo, electric, japanese]
+completeness: partial
 ---
 
 # Type 72

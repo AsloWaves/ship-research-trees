@@ -1,6 +1,5 @@
 # Newport-Class Landing Ship Tank
 
-```yaml
 ---
 class_name: Newport-Class-LST
 hull_numbers: LST-1179 to LST-1198
@@ -57,7 +56,6 @@ firsts:
 # Tags
 tags: [landing-ship, lst, modern, derrick-ramp, amphibious, 1969]
 ---
-```
 
 **Revolutionary Modern LST** - Newport-class were revolutionary non-beaching LSTs with derrick arm bow ramp, destroyer bow, and 20+ knot speed. 20 ships. Final and largest LST design, served 1969-2002.
 

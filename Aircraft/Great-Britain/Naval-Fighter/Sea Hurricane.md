@@ -5,6 +5,7 @@ nation: British
 type: Fighter
 introduced: 1941
 tags: [naval-aircraft, fighter, british]
+completeness: partial
 ---
 
 # Sea Hurricane

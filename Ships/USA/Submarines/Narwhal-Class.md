@@ -1,6 +1,5 @@
 # Narwhal-Class Submarines
 
-```yaml
 ---
 class_name: Narwhal-Class
 hull_numbers: SS-167, SS-168
@@ -40,7 +39,6 @@ successor: "[[Dolphin-Class]]"
 # Tags
 tags: [submarine, ss, narwhal, v-boats, fleet-submarine, diesel, 1930]
 ---
-```
 
 **Large Fleet Submarines** - Narwhal-class (V-5, V-6) were large fleet submarines with heavy 6-inch gun armament. 2 boats.
 

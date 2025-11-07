@@ -1,6 +1,5 @@
 # Arleigh Burke-Class (DDG-51)
 
-```yaml
 ---
 class_name: Arleigh Burke-Class
 hull_numbers: DDG-51 to DDG-155+
@@ -56,7 +55,6 @@ firsts:
 # Tags
 tags: [destroyer, aegis, vls, gas-turbine, guided-missile, modern, active]
 ---
-```
 
 **AEGIS Era Backbone** - Most capable multi-mission destroyers ever built. Phased-array radar and Aegis combat system. Still in production.
 

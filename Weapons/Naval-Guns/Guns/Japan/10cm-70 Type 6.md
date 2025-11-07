@@ -6,6 +6,7 @@ caliber: 10cm
 mark: Type 6
 year: 1945
 tags: [naval-gun, japan, 10cm]
+completeness: stub
 ---
 
 # 10cm/70 Type 6

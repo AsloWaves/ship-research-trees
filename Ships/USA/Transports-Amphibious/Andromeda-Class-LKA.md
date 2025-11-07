@@ -1,6 +1,5 @@
 # Andromeda/Achernar-Class Amphibious Cargo Ships
 
-```yaml
 ---
 class_name: Andromeda-Class-LKA
 hull_numbers: AKA-15 to AKA-20, AKA-53 to AKA-111
@@ -45,7 +44,6 @@ successor: "[[Tulare-Class-LKA]]"
 # Tags
 tags: [cargo, attack-cargo, aka, lka, wwii, c2-conversion, largest-class, 1943]
 ---
-```
 
 **Largest AKA Class** - Andromeda/Achernar-class were largest attack cargo ship class built during WWII. 35 ships. Type C2 merchantman conversions, redesignated LKA in 1969.
 

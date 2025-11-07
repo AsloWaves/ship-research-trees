@@ -1,6 +1,5 @@
 # Shimane-Maru Escort Carrier
 
-```yaml
 ---
 class_name: Shimane-Maru (unique ship)
 hull_numbers: None
@@ -54,7 +53,6 @@ firsts:
 # Tags
 tags: [escort-carrier, shimane-maru, merchant-conversion, commissioned-1945, never-operational, transport-only, survived-war, last-escort-carrier, wwii, imperial-japanese-navy, ijn, 1945, 1-ship]
 ---
-```
 
 **Too Late to Matter** - Shimane-Maru was Japan's last escort carrier conversion. 1 ship commissioned February 1945. Converted from merchant ship 1944-1945. 24 aircraft capacity but never embarked aircraft (none available). Used only as transport - original role impossible by 1945. 19 knots. Survived war, scrapped 1947. Showed Japan's late-war futility - escort carrier commissioned when no aircraft, no pilots, no missions possible. Last desperate conversion that changed nothing.
 

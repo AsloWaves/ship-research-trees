@@ -5,6 +5,7 @@ nation: USA
 type: Transport
 introduced: 1950
 tags: [ground-aircraft, transport, usa]
+completeness: partial
 ---
 
 # C-119 Flying Boxcar

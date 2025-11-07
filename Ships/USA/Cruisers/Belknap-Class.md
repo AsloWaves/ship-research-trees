@@ -1,6 +1,5 @@
 # Belknap-Class Guided Missile Cruisers
 
-```yaml
 ---
 class_name: Belknap-Class
 hull_numbers: CG-26 to CG-34
@@ -43,7 +42,6 @@ successor: "[[Ticonderoga-Class]]"
 # Tags
 tags: [cruiser, guided-missile, cg, terrier, purpose-built, cold-war, 1964]
 ---
-```
 
 **Single-Ended Missile Cruisers** - Belknap-class featured single 5-inch gun forward, Terrier/Tartar missiles aft. Command ship capability with flag facilities.
 

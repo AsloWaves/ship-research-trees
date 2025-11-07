@@ -6,6 +6,7 @@ caliber: 5"
 mark: Mark 28
 year: 1946
 tags: [naval-gun, usa, 5inch]
+completeness: stub
 ---
 
 # 5"/38 Mark 28

@@ -5,6 +5,7 @@ nation: USA
 type: Air Superiority
 introduced: 1976
 tags: [ground-aircraft, air-superiority, usa]
+completeness: partial
 ---
 
 # F-15A Eagle

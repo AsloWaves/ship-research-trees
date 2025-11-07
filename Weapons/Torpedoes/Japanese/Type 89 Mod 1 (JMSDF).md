@@ -5,6 +5,7 @@ nation: Japanese
 type: Wire-Guided
 introduced: 1975
 tags: [torpedo, wire-guided, japanese]
+completeness: partial
 ---
 
 # Type 89 Mod 1 (JMSDF)

@@ -5,6 +5,7 @@ nation: British
 type: Jet Fighter
 introduced: 1959
 tags: [naval-aircraft, jet-fighter, british]
+completeness: partial
 ---
 
 # Sea Vixen

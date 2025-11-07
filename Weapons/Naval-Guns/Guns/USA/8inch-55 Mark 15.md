@@ -6,6 +6,7 @@ caliber: 8"
 mark: Mark 15
 year: 1943
 tags: [naval-gun, usa, 8inch]
+completeness: stub
 ---
 
 # 8"/55 Mark 15

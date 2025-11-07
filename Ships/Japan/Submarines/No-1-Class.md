@@ -1,6 +1,5 @@
 # No. 1-Class Submarines (Holland Type)
 
-```yaml
 ---
 class_name: No. 1-Class Submarines (Holland Type)
 hull_numbers: No. 1 through No. 5
@@ -55,7 +54,6 @@ firsts:
 # Tags
 tags: [submarine, no-1-class, first-japanese-submarines, holland-type, holland-design, 1905, wwi-service, gasoline-powered, 57-tons, coastal-defense, primitive, imperial-japanese-navy, ijn, 5-boats]
 ---
-```
 
 **First Japanese Submarines** - No. 1-Class were Japan's first submarines. 5 boats commissioned 1905. American Holland design built under license in Japan. Tiny (57 tons surface - smallest submarines ever operated). Gasoline engine surface, electric submerged. 7 knots surface, 5 knots submerged. One 18-inch torpedo tube, 3 torpedoes carried. All 5 served WWI (1914-1918) in coastal defense. All scrapped 1920 after 15 years service. Primitive but functional - proved Japan could operate submersibles. Founded submarine tradition that led to I-400 (5,223 tons - 92× larger) 40 years later.
 

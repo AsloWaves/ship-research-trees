@@ -7,6 +7,7 @@ introduced: 1944
 retired: Active
 service_life: 1944-Present
 tags: [depth-charge, depth-bomb, usa]
+completeness: partial
 ---
 
 # AN-Mk 54 Depth Bomb

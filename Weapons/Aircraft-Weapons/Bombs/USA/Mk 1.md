@@ -7,6 +7,7 @@ introduced: 1917
 retired: 1945
 service_life: 1917-1945
 tags: [gravity-bomb, 100lb-bomb, usa]
+completeness: partial
 ---
 
 # Mk 1 100lb Bomb

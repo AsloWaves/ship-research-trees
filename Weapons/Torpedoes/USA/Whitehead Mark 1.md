@@ -5,6 +5,7 @@ nation: USA
 type: Steam
 introduced: 1892
 tags: [torpedo, steam, usa]
+completeness: partial
 ---
 
 # Whitehead Mark 1

@@ -6,6 +6,7 @@ caliber: 3"
 mark: Mark 17
 year: 1922
 tags: [naval-gun, usa, 3inch]
+completeness: stub
 ---
 
 # 3"/50 Mark 17

@@ -5,6 +5,7 @@ nation: Japanese
 type: AP Bomb
 introduced: 1941
 tags: [bomb, naval-bomb, ap-bomb, japanese]
+completeness: partial
 ---
 
 # Type 91 AP

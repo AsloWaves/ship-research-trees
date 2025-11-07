@@ -5,6 +5,7 @@ nation: British
 type: GP Bomb
 introduced: 1940
 tags: [bomb, naval-bomb, gp-bomb, british]
+completeness: partial
 ---
 
 # 250 lb GP

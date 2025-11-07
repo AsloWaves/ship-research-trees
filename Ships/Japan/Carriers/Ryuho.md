@@ -1,6 +1,5 @@
 # Ryuho Light Aircraft Carrier
 
-```yaml
 ---
 class_name: Ryuho (unique ship)
 hull_numbers: None
@@ -53,7 +52,6 @@ firsts:
 # Tags
 tags: [light-carrier, ryuho, converted-tender, training-carrier, only-undamaged-survivor, long-conversion, wwii, imperial-japanese-navy, ijn, 1942, 1-ship]
 ---
-```
 
 **The Lucky Survivor** - Ryuho was a light carrier converted from submarine tender Taigei. 1 ship commissioned November 1942. 31 aircraft, 26.5 knots. Longest conversion time (1940-1942). Used primarily for training, never engaged enemy. **Only IJN carrier to survive entire war undamaged** - luck and training role kept her from combat. Scrapped 1947. Showed value of keeping some ships out of frontline for training.
 

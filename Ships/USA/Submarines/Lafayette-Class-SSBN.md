@@ -1,6 +1,5 @@
 # Lafayette-Class Ballistic Missile Submarines
 
-```yaml
 ---
 class_name: Lafayette-Class-SSBN
 hull_numbers: SSBN-616 to SSBN-636
@@ -40,7 +39,6 @@ successor: "[[James Madison-Class-SSBN]]"
 # Tags
 tags: [submarine, ssbn, lafayette, nuclear, ballistic-missile, polaris, poseidon, cold-war, deterrent, 1963]
 ---
-```
 
 **Lafayette-Class SSBNs** - Lafayette-class were improved Ethan Allen design. 9 boats. Later upgraded with Poseidon missiles. Part of "41 for Freedom."
 

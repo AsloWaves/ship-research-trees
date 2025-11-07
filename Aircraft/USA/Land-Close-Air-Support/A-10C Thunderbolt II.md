@@ -5,6 +5,7 @@ nation: USA
 type: Close Air Support
 introduced: 2007
 tags: [ground-aircraft, close-air-support, usa]
+completeness: partial
 ---
 
 # A-10C Thunderbolt II

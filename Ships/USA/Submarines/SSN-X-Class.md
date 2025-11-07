@@ -1,6 +1,5 @@
 # SSN(X)-Class Attack Submarines (Future)
 
-```yaml
 ---
 class_name: SSN-X-Class
 hull_numbers: SSN-808+ (projected)
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [submarine, ssn-x, future, attack-submarine, next-generation, 2040s, concept, experimental, unbuilt]
 ---
-```
 
 **Next-Generation Attack Submarine** - SSN(X) is future attack submarine program to replace Virginia-class. Projected for 2040s. Enhanced stealth, sensors, weapons, and automation. Designed to counter peer competitors (Chinese Type-095/096 submarines).
 

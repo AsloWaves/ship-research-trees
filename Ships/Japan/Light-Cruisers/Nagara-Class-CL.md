@@ -1,6 +1,5 @@
 # Nagara-Class Light Cruisers (CL)
 
-```yaml
 ---
 class_name: Nagara-Class Light Cruisers
 hull_numbers: None (Japanese naming system)
@@ -64,7 +63,6 @@ firsts:
 # Tags
 tags: [light-cruiser, nagara-class, 5500-ton, interwar, wwii, fast-cruiser, flotilla-leader, 6-ships, all-lost, 100-percent-loss, jn, 1920s, midway, guadalcanal]
 ---
-```
 
 **Improved 5,500-Ton Type** - Nagara-class were improved Kuma-class light cruisers. 6 ships commissioned 1922-1925 (largest 5,500-ton class). Better bridge structure, improved fire control. Same specs: 5,832 tons, 36 knots, 7× 140mm guns, 8× 24-inch Long Lance torpedoes. Destroyer flotilla leaders. All 6 fought entire WWII. **All 6 lost in action** (100% casualty rate - complete annihilation of class!). Famous ships: Nagara (Midway carrier force), Sendai (namesake lost at Empress Augusta Bay). Early losses (Natori August 1944) to late (Isuzu April 1945). Nagara-class: Workhorses of IJN light cruiser force, total sacrifice.
 

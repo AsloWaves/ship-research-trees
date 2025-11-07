@@ -7,6 +7,7 @@ introduced: 1985
 retired: 2007
 service_life: 1985-2007
 tags: [unguided-rocket, 70mm-rocket, uk]
+completeness: partial
 ---
 
 # CRV7 70mm Rocket

@@ -8,6 +8,7 @@ projectile_type: Chaff
 introduced: 1975
 service_life: 1975-Present
 tags: [5inch, chaff, mark-114, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 114 (Chaff)

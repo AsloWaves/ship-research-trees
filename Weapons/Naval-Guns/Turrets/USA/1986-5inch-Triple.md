@@ -6,6 +6,7 @@ nation: USA
 caliber: 5"
 turret_type: Triple
 tags: [5inch, triple, usa, turret]
+completeness: partial
 ---
 
 # 5" Mark Mark 45 Triple Open Open Mount

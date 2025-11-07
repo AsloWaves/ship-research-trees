@@ -1,6 +1,5 @@
 # Los Angeles-Class Submarines
 
-```yaml
 ---
 class_name: Los Angeles-Class
 hull_numbers: SSN-688 to SSN-773
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [submarine, ssn, los-angeles, nuclear, attack-submarine, tomahawk, cold-war, modern, 1976, legendary, active, milestone]
 ---
-```
 
 **Largest SSN Class Ever** - Los Angeles-class were most numerous nuclear attack submarine class. 62 boats built 1976-1996. Cold War backbone, still serving today.
 

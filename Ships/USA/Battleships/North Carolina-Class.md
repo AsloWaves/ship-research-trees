@@ -1,6 +1,5 @@
 # North Carolina-Class Battleships
 
-```yaml
 ---
 class_name: North Carolina-Class
 hull_numbers: BB-55, BB-56
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [battleship, north-carolina, washington, bb-55, bb-56, fast-battleship, treaty-battleship, 1941, wwii, guadalcanal, museum-ship, milestone]
 ---
-```
 
 **First Fast Battleships** - North Carolina-class were first US fast battleships. 2 ships. 28 knots to escort carriers. Modern design with radar and fire control. Both museum ships.
 

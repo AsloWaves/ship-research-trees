@@ -8,6 +8,7 @@ projectile_type: Illum
 introduced: 1943
 service_life: 1943-Present
 tags: [5inch, illum, mark-62, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 62 (Illum)

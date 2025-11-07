@@ -7,6 +7,7 @@ introduced: 1998
 retired: Active
 service_life: 1998-Present
 tags: [anti-ship-missile, slam-er, usa, radar-required, gps-guided]
+completeness: partial
 ---
 
 # AGM-84H/K SLAM-ER

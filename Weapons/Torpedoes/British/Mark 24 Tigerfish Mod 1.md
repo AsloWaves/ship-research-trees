@@ -5,6 +5,7 @@ nation: British
 type: Wire-Guided
 introduced: 1980
 tags: [torpedo, wire-guided, british]
+completeness: partial
 ---
 
 # Mark 24 Tigerfish Mod 1

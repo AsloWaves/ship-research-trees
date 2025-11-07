@@ -1,6 +1,5 @@
 # K-Class Submarines
 
-```yaml
 ---
 class_name: K-Class
 hull_numbers: SS-32 to SS-39
@@ -40,7 +39,6 @@ successor: "[[L-Class]]"
 # Tags
 tags: [submarine, ss, k-class, diesel, 1914]
 ---
-```
 
 **Pre-WWI Design** - K-class were larger coastal submarines with 4,000nm range. 8 boats built.
 

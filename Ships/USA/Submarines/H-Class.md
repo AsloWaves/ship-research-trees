@@ -1,6 +1,5 @@
 # H-Class Submarines
 
-```yaml
 ---
 class_name: H-Class
 hull_numbers: SS-28 to SS-36, SS-147 to SS-152
@@ -40,7 +39,6 @@ successor: "[[K-Class]]"
 # Tags
 tags: [submarine, ss, h-class, diesel, 1913]
 ---
-```
 
 **Successful Design** - H-class were reliable coastal submarines. 9 boats commissioned, served through WWI.
 

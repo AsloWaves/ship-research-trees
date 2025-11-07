@@ -5,6 +5,7 @@ nation: British
 type: Wire-Guided
 introduced: 1978
 tags: [torpedo, wire-guided, british]
+completeness: partial
 ---
 
 # Mark 24 Tiger Mk 1 (Export)

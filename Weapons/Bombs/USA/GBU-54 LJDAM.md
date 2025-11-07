@@ -5,6 +5,7 @@ nation: USA
 type: Laser/GPS
 introduced: 2008
 tags: [bomb, naval-bomb, laser/gps, usa]
+completeness: partial
 ---
 
 # GBU-54 LJDAM

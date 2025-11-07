@@ -6,6 +6,7 @@ caliber: 15mm
 mark: Type 5
 year: 1943
 tags: [naval-gun, japan, 15mm]
+completeness: stub
 ---
 
 # 15mm/70 Type 5

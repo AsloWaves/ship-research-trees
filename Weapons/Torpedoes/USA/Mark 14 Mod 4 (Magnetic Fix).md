@@ -5,6 +5,7 @@ nation: USA
 type: Steam
 introduced: 1943
 tags: [torpedo, steam, usa]
+completeness: partial
 ---
 
 # Mark 14 Mod 4 (Magnetic Fix)

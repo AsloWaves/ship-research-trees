@@ -5,6 +5,7 @@ nation: British
 type: Attack Helo
 introduced: 2020
 tags: [ground-aircraft, attack-helo, british]
+completeness: partial
 ---
 
 # Apache AH-64E (RAF)

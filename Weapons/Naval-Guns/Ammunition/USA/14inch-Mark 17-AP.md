@@ -8,6 +8,7 @@ projectile_type: AP
 introduced: 1940
 service_life: 1940-Present
 tags: [14inch, ap, mark-17, usa, ammunition]
+completeness: partial
 ---
 
 # 14" Mark 17 (AP)

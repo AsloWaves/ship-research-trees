@@ -6,6 +6,7 @@ caliber: 16"
 mark: Mark 6
 year: 1941
 tags: [naval-gun, usa, 16inch]
+completeness: stub
 ---
 
 # 16"/45 Mark 6

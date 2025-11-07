@@ -8,6 +8,7 @@ projectile_type: Star
 introduced: 1944
 service_life: 1944-Present
 tags: [5inch, star, mark-63, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 63 (Star)

@@ -5,6 +5,7 @@ nation: USA
 type: Electric
 introduced: 1943
 tags: [torpedo, electric, usa]
+completeness: partial
 ---
 
 # Mark 18

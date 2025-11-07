@@ -8,6 +8,7 @@ projectile_type: HE
 introduced: 1953
 service_life: 1953-Present
 tags: [5inch, he, mark-41, usa, ammunition]
+completeness: partial
 ---
 
 # 5" Mark 41 (HE)

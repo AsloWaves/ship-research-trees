@@ -5,6 +5,7 @@ nation: British
 type: ASW Helo
 introduced: 1963
 tags: [naval-aircraft, asw-helo, british]
+completeness: partial
 ---
 
 # Wasp HAS.1

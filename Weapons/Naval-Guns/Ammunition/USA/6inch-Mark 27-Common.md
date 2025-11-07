@@ -8,6 +8,7 @@ projectile_type: Common
 introduced: 1940
 service_life: 1940-Present
 tags: [6inch, common, mark-27, usa, ammunition]
+completeness: partial
 ---
 
 # 6" Mark 27 (Common)

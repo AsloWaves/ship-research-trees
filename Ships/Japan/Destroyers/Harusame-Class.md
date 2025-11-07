@@ -1,6 +1,5 @@
 # Harusame-Class Destroyers (Pre-WWI)
 
-```yaml
 ---
 class_name: Harusame-Class Destroyers
 hull_numbers: None
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [destroyer, harusame-class, russo-japanese-war, battle-of-tsushima, coal-fired, 375-tons, all-scrapped-1920s, pre-wwi, imperial-japanese-navy, ijn, 1903, 4-ships]
 ---
-```
 
 **Tsushima Veterans** - Harusame-class were pre-WWI Japanese destroyers. 4 ships commissioned 1903-1905. Small (375 tons), coal-fired, 31 knots. Two 3-inch guns + four 18-inch torpedoes. All four fought Russo-Japanese War (1904-1905) including Battle of Tsushima. All four scrapped 1923-1924 after 20 years service. None survived to WWII. Represented pre-WWI Japanese destroyer standard before modern developments.
 

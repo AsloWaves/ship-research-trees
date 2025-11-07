@@ -5,6 +5,7 @@ nation: USA
 type: Jet Fighter
 introduced: 1949
 tags: [ground-aircraft, jet-fighter, usa]
+completeness: partial
 ---
 
 # F-86 Sabre

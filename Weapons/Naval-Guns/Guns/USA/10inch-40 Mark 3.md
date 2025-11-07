@@ -6,6 +6,7 @@ caliber: 10"
 mark: Mark 3
 year: 1902
 tags: [naval-gun, usa, 10inch]
+completeness: stub
 ---
 
 # 10"/40 Mark 3

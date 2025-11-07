@@ -5,6 +5,7 @@ nation: Japanese
 type: Maritime Patrol
 introduced: 2022
 tags: [naval-aircraft, maritime-patrol, japanese]
+completeness: partial
 ---
 
 # P-1 Mod 2

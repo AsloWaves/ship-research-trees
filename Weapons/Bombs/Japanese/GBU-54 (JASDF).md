@@ -5,6 +5,7 @@ nation: Japanese
 type: Laser/GPS
 introduced: 2016
 tags: [bomb, naval-bomb, laser/gps, japanese]
+completeness: partial
 ---
 
 # GBU-54 (JASDF)

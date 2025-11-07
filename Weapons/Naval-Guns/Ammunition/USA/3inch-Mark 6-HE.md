@@ -8,6 +8,7 @@ projectile_type: HE
 introduced: 1920
 service_life: 1920-Present
 tags: [3inch, he, mark-6, usa, ammunition]
+completeness: partial
 ---
 
 # 3" Mark 6 (HE)

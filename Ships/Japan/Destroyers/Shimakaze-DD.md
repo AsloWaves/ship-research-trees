@@ -1,6 +1,5 @@
 # Shimakaze - Experimental Super-Destroyer
 
-```yaml
 ---
 class_name: Shimakaze (Experimental Super-Destroyer)
 hull_numbers: None (single ship, no class)
@@ -61,7 +60,6 @@ firsts:
 # Tags
 tags: [destroyer, shimakaze, super-destroyer, experimental, fastest, 40-knots, 15-torpedoes, single-ship, wwii, leyte-gulf, jn, 1943, legendary]
 ---
-```
 
 **Fastest & Most Powerful** - Shimakaze was Japan's experimental super-destroyer. 1 ship commissioned May 1943. **40.9 knots** - fastest Japanese destroyer ever built! Most powerful destroyer armament: **15× 24-inch Long Lance torpedoes** (5 triple mounts - more than any destroyer in world!). 6× 5-inch guns (3 twin turrets). Experimental high-pressure boilers (79,240 shp - incredible power). 3 shafts (unusual). Only 1 built (16 planned, cancelled). Served 18 months. Lost: October 26, 1944, Battle of Leyte Gulf (carrier aircraft). Ultimate expression of Japanese destroyer design - speed, torpedoes, aggression. Legendary ship, famous in popular culture.
 

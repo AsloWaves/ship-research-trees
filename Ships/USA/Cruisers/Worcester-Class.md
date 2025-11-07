@@ -1,6 +1,5 @@
 # Worcester-Class Light Cruisers
 
-```yaml
 ---
 class_name: Worcester-Class
 hull_numbers: CL-144, CL-145
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [cruiser, light-cruiser, post-wwii, autoloading, 1948]
 ---
-```
 
 **Automatic 6-inch Gun Cruisers** - Worcester-class featured revolutionary automatic-loading 6-inch guns (150 rpm). Largest, most powerful light cruisers.
 

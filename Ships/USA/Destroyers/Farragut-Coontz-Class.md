@@ -1,6 +1,5 @@
 # Farragut/Coontz-Class (DDG)
 
-```yaml
 ---
 class_name: Farragut-Coontz-Class
 hull_numbers: DDG-37 to DDG-46
@@ -55,7 +54,6 @@ firsts:
 # Tags
 tags: [destroyer, guided-missile, terrier, ddg, cold-war]
 ---
-```
 
 **First Missile Destroyers** - First US destroyers designed from the keel up for guided missiles. Originally classified as frigates (DLG).
 

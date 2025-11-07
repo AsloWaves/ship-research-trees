@@ -1,6 +1,5 @@
 # Satsuma-Class Semi-Dreadnought Battleships
 
-```yaml
 ---
 class_name: Satsuma-Class
 hull_numbers: None (Satsuma, Aki)
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [battleship, satsuma, aki, semi-dreadnought, mixed-caliber, pre-wwi, washington-treaty, scrapped, no-combat, imperial-japanese-navy, ijn, 1910, 2-ships]
 ---
-```
 
 **Semi-Dreadnoughts** - Satsuma-class were Japan's largest pre-dreadnought battleships. 2 ships commissioned 1910-1911. Mixed main battery: Four 12-inch + twelve 10-inch guns. 18.5 knots. Obsolete when completed (HMS Dreadnought launched 1906). Never saw combat. Both scrapped 1922-1923 under Washington Naval Treaty. Represented Japan's pre-dreadnought peak before Kawachi-class true dreadnoughts.
 

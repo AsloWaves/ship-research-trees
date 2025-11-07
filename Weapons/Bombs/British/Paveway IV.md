@@ -5,6 +5,7 @@ nation: British
 type: Dual-Mode
 introduced: 2008
 tags: [bomb, naval-bomb, dual-mode, british]
+completeness: partial
 ---
 
 # Paveway IV

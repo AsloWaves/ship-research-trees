@@ -1,6 +1,5 @@
 # Galveston-Class Guided Missile Light Cruisers
 
-```yaml
 ---
 class_name: Galveston-Class
 hull_numbers: CLG-3, CLG-4, CLG-5
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [cruiser, light-cruiser, guided-missile, clg, talos, conversion, cold-war, 1958]
 ---
-```
 
 **Talos Missile Conversions** - Galveston, Little Rock, Oklahoma City converted from Cleveland-class with long-range Talos SAM systems.
 

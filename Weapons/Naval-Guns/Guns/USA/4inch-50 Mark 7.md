@@ -6,6 +6,7 @@ caliber: 4"
 mark: Mark 7
 year: 1910
 tags: [naval-gun, usa, 4inch]
+completeness: stub
 ---
 
 # 4"/50 Mark 7

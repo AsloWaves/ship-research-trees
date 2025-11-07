@@ -1,6 +1,5 @@
 # South Carolina-Class Battleships
 
-```yaml
 ---
 class_name: South Carolina-Class
 hull_numbers: BB-26, BB-27
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [battleship, south-carolina, bb-26, bb-27, dreadnought, first-dreadnought, 1910, wwi, milestone]
 ---
-```
 
 **First US Dreadnoughts** - South Carolina-class were first US dreadnought battleships. 2 ships. All-big-gun armament with superfiring turrets. Design predated HMS Dreadnought but commissioned later.
 

@@ -1,6 +1,5 @@
 # Strike Cruiser (CSGN) - Cancelled
 
-```yaml
 ---
 class_name: Strike-Cruiser-CSGN
 hull_numbers: CSGN-1 to CSGN-8 (proposed)
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [cruiser, strike-cruiser, csgn, cancelled, nuclear, tomahawk, 1970s, experimental, unbuilt, concept]
 ---
-```
 
 **Cancelled Strike Cruiser** - CSGN was 1970s proposal for nuclear-powered strike cruiser. Emphasis on offensive land-attack with Tomahawk missiles. 8 ships proposed. Cancelled in favor of Aegis-equipped Ticonderoga-class cruisers.
 

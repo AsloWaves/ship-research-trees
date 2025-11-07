@@ -1,6 +1,5 @@
 # Wichita-Class Heavy Cruiser
 
-```yaml
 ---
 class_name: Wichita-Class
 hull_numbers: CA-45
@@ -46,7 +45,6 @@ firsts:
 # Tags
 tags: [cruiser, heavy-cruiser, treaty-cruiser, unique, 1939]
 ---
-```
 
 **Unique Treaty Heavy Cruiser** - Only ship of class, incorporated Brooklyn-class features with 8-inch guns. Proto-Baltimore design.
 

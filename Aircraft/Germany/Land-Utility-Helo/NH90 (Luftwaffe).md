@@ -5,6 +5,7 @@ nation: German
 type: Utility Helo
 introduced: 2019
 tags: [ground-aircraft, utility-helo, german]
+completeness: partial
 ---
 
 # NH90 (Luftwaffe)

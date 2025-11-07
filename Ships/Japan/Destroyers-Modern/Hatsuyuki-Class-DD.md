@@ -1,6 +1,5 @@
 # Hatsuyuki-Class Destroyers (DD)
 
-```yaml
 ---
 class_name: Hatsuyuki-Class Destroyers
 hull_numbers: DD-122 through DD-133
@@ -67,7 +66,6 @@ firsts:
 # Tags
 tags: [destroyer, hatsuyuki-class, modern, cold-war, asw-focused, 12-ships, largest-class, jmsdf, 1982-1987, pre-vls, all-retired, cogog, snow-names]
 ---
-```
 
 **Largest 1980s Destroyer Class** - Hatsuyuki-class were JMSDF's general-purpose destroyers of the 1980s. 12 ships commissioned 1982-1987 (largest class of decade). 3,700 tons, 30 knots, comprehensive ASW capability. COGOG propulsion (Rolls-Royce gas turbines). Balanced armament: 76mm gun, Mk 29 Sea Sparrow (8-cell SAM), 8× Harpoon SSM, ASROC octuple launcher, ASW torpedoes, SH-60J helicopter. OQS-4 sonar + OQR-1 towed array. Pre-VLS design (traditional launchers). Cold War ASW mission (Soviet submarine threat). All 12 served 28-41 years (exceptional longevity!). All retired 2010-2023 (last: Mineyuki March 2023, 36 years service). Replaced by modern destroyers/frigates. Hatsuyuki-class: Largest, most successful JMSDF destroyer class of 1980s.
 

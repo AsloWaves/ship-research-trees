@@ -1,6 +1,5 @@
 # Caldwell-Class Destroyers
 
-```yaml
 ---
 class_name: Caldwell-Class
 hull_numbers: DD-69 to DD-74
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [destroyer, oil-fired, turbine, flush-decker, wwi]
 ---
-```
 
 **First Flush-Decker** - Introduced the iconic flush-deck design that would define WWI destroyers. Mixed propulsion configurations across the class.
 

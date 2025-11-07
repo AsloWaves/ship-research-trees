@@ -5,6 +5,7 @@ nation: British
 type: ASW Helo
 introduced: 2014
 tags: [naval-aircraft, asw-helo, british]
+completeness: partial
 ---
 
 # Merlin HM.2

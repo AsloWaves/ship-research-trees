@@ -5,6 +5,7 @@ nation: USA
 type: Exercise
 introduced: 1980
 tags: [torpedo, exercise, usa]
+completeness: partial
 ---
 
 # MK-48 EXTORP

@@ -5,6 +5,7 @@ nation: German
 type: Transport Helo
 introduced: 1973
 tags: [ground-aircraft, transport-helo, german]
+completeness: partial
 ---
 
 # CH-53G

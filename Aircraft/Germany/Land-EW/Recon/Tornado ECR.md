@@ -5,6 +5,7 @@ nation: German
 type: EW/Recon
 introduced: 1990
 tags: [ground-aircraft, ew/recon, german]
+completeness: partial
 ---
 
 # Tornado ECR

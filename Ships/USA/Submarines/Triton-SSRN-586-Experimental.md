@@ -1,6 +1,5 @@
 # USS Triton (SSRN-586) - Radar Picket Nuclear Submarine
 
-```yaml
 ---
 class_name: Triton-SSRN-586-Experimental
 hull_numbers: SSRN-586 (later SSN-586)
@@ -50,7 +49,6 @@ firsts:
 # Tags
 tags: [submarine, ssrn-586, experimental, radar-picket, triton, nuclear, two-reactors, circumnavigation, operation-sandblast, 1959, unique, largest]
 ---
-```
 
 **Experimental Radar Picket Submarine** - USS Triton was the only nuclear-powered radar picket submarine and only Western submarine with two nuclear reactors. Largest US submarine until Ohio-class (1981). First vessel to complete submerged circumnavigation of Earth (Operation Sandblast, 1960). Mission made obsolete by carrier-based E-2 Hawkeye aircraft. Reclassified as attack submarine 1961.
 

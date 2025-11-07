@@ -1,6 +1,5 @@
 # Ise-Class Battleships / Hybrid Carriers
 
-```yaml
 ---
 class_name: Ise-Class
 hull_numbers: Battleship (Ise, Hyuga)
@@ -64,7 +63,6 @@ firsts:
 # Tags
 tags: [battleship, hybrid-carrier, ise, hyuga, 14-inch, 356mm, battleship-carrier, unique-conversion, wwi, wwii, imperial-japanese-navy, ijn, 1917, leyte-gulf, kure, experimental, 2-ships]
 ---
-```
 
 **Hybrid Battleship-Carriers** - Ise-class were unique battleships converted to hybrid carriers 1943. 2 ships. Aft turrets removed, flight deck and hangar added. 22 aircraft capacity but no catapult - seaplane bombers launched by crane. 8× 14-inch guns forward. Desperate measure to add carriers after Midway losses. Both sunk 1945.
 

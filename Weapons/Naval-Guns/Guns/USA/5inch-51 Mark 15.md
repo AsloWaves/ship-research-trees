@@ -6,6 +6,7 @@ caliber: 5"
 mark: Mark 15
 year: 1925
 tags: [naval-gun, usa, 5inch]
+completeness: stub
 ---
 
 # 5"/51 Mark 15

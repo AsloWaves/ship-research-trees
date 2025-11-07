@@ -1,6 +1,5 @@
 # Fletcher-Class Destroyers
 
-```yaml
 ---
 class_name: Fletcher-Class
 hull_numbers: DD-445 class
@@ -50,7 +49,6 @@ contemporary: null
 # Tags
 tags: [destroyer, oil-fired, turbine, wwii, 5-inch-38, fletcher, legendary]
 ---
-```
 
 **LEGENDARY CLASS** - Most numerous wartime destroyer class (175 ships). The quintessential WWII US destroyer.
 

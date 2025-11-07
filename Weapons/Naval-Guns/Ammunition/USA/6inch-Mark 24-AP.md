@@ -8,6 +8,7 @@ projectile_type: AP
 introduced: 1937
 service_life: 1937-Present
 tags: [6inch, ap, mark-24, usa, ammunition]
+completeness: partial
 ---
 
 # 6" Mark 24 (AP)

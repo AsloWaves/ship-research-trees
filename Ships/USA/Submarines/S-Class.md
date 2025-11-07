@@ -1,6 +1,5 @@
 # S-Class Submarines
 
-```yaml
 ---
 class_name: S-Class
 hull_numbers: SS-105 to SS-162
@@ -40,7 +39,6 @@ successor: "[[Barracuda-Class-V]]"
 # Tags
 tags: [submarine, ss, s-class, diesel, post-wwi, 1920, mass-production]
 ---
-```
 
 **Largest WWI-Era Class** - S-class were most numerous US submarine class of the era. 51 boats built 1920-1925. "S-boats" nickname.
 

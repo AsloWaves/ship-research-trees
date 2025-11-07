@@ -1,6 +1,5 @@
 # De Soto County-Class Landing Ship Tank
 
-```yaml
 ---
 class_name: De Soto County-Class-LST
 hull_numbers: LST-1171 to LST-1178 (LST-1172 cancelled)
@@ -52,7 +51,6 @@ firsts:
 # Tags
 tags: [landing-ship, lst, cold-war, beaching, amphibious, 1957]
 ---
-```
 
 **Advanced Post-War LST** - De Soto County-class were advanced Cold War LSTs with air conditioning, 6 diesel engines, and 17.5-knot speed. 7 ships (8 planned, 1 cancelled). Last conventional beaching LST design.
 

@@ -5,6 +5,7 @@ nation: German
 type: Multi-Role
 introduced: 2004
 tags: [naval-aircraft, multi-role, german]
+completeness: partial
 ---
 
 # Eurofighter Typhoon (Naval)

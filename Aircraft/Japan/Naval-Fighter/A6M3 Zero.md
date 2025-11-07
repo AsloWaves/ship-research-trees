@@ -5,6 +5,7 @@ nation: Japanese
 type: Fighter
 introduced: 1942
 tags: [naval-aircraft, fighter, japanese]
+completeness: partial
 ---
 
 # A6M3 Zero

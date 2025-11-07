@@ -1,6 +1,5 @@
 # Akizuki-Class Destroyers (DD)
 
-```yaml
 ---
 class_name: Akizuki-Class Destroyers
 hull_numbers: DD-115, DD-116, DD-117, DD-118
@@ -67,7 +66,6 @@ firsts:
 # Tags
 tags: [destroyer, akizuki-class, dd, modern, post-1945, general-purpose, air-defense, fcs-3a, aesa-radar, jmsdf, 2010s, 4-ships, active, cost-effective]
 ---
-```
 
 **First FCS-3A AESA Destroyers** - Akizuki-class are advanced general-purpose destroyers. 4 ships commissioned 2012-2014. First JMSDF ships with FCS-3A AESA radar (4 arrays - full 360° coverage). Japanese indigenous active phased array technology. 6,800 tons, 32 Mk 41 VLS cells (ESSM quad-packed = 128 missiles max). One 5-inch gun. 8× Type 90 anti-ship missiles. Advanced ASW (OQQ-22 sonar, OQR-2 towed array). SH-60K helicopter. COGLAG hybrid propulsion (gas turbine + electric motors). Crew 200 (highly automated). Multi-role: Air defense primary, also ASW and anti-surface. Cost-effective air defense without Aegis expense. All 4 active as of 2025. Demonstrate Japanese radar technology leadership - FCS-3A rivals foreign systems.
 

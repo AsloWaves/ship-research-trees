@@ -5,6 +5,7 @@ nation: USA
 type: Multi-Role
 introduced: 2001
 tags: [naval-aircraft, multi-role, usa]
+completeness: partial
 ---
 
 # F/A-18F Super Hornet

@@ -1,6 +1,5 @@
 # E-Class Submarines
 
-```yaml
 ---
 class_name: E-Class
 hull_numbers: SS-24, SS-25
@@ -40,7 +39,6 @@ successor: "[[F-Class]]"
 # Tags
 tags: [submarine, ss, e-class, diesel, 1912]
 ---
-```
 
 **Improved Diesel Subs** - E-class continued diesel development with improved speed. 2 boats built by Fore River.
 

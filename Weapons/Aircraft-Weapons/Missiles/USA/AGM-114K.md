@@ -7,6 +7,7 @@ introduced: 1993
 retired: Active
 service_life: 1993-Present
 tags: [anti-ship-missile, hellfire-ii, usa, laser-guided]
+completeness: partial
 ---
 
 # AGM-114K Hellfire II

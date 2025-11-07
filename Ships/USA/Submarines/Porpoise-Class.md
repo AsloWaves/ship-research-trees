@@ -1,6 +1,5 @@
 # Porpoise-Class Submarines
 
-```yaml
 ---
 class_name: Porpoise-Class
 hull_numbers: SS-172 to SS-181
@@ -40,7 +39,6 @@ successor: "[[Salmon-Class]]"
 # Tags
 tags: [submarine, ss, porpoise, fleet-submarine, diesel, wwii, 1935]
 ---
-```
 
 **Successful Design** - Porpoise-class (including Shark and Perch subclasses) were successful fleet submarines. 10 boats. Several WWII combat losses.
 

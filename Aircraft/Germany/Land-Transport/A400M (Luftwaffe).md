@@ -5,6 +5,7 @@ nation: German
 type: Transport
 introduced: 2014
 tags: [ground-aircraft, transport, german]
+completeness: partial
 ---
 
 # A400M (Luftwaffe)

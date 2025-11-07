@@ -1,6 +1,5 @@
 # United States-Class Supercarrier (Cancelled)
 
-```yaml
 ---
 class_name: United States-Class-CVA-58
 hull_numbers: CVA-58
@@ -48,7 +47,6 @@ firsts:
 # Tags
 tags: [carrier, united-states, cva-58, cancelled, supercarrier, nuclear-strike, revolt-of-admirals, 1949, experimental, unbuilt, milestone]
 ---
-```
 
 **Cancelled Supercarrier** - United States (CVA-58) was first US supercarrier designed from keel up. Cancelled 1949 after 5 days of construction. Sparked "Revolt of the Admirals" controversy. Would have been nuclear strike carrier.
 

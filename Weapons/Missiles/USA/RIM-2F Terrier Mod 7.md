@@ -5,6 +5,7 @@ nation: USA
 type: SAM
 introduced: 1966
 tags: [missile, sam, usa]
+completeness: stub
 ---
 
 # RIM-2F Terrier Mod 7

@@ -5,6 +5,7 @@ nation: German
 type: Dive Bomber
 introduced: 1940
 tags: [ground-aircraft, dive-bomber, german]
+completeness: partial
 ---
 
 # Ju 87 Stuka

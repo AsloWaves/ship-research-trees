@@ -5,6 +5,7 @@ nation: USA
 type: Supersonic Bomber
 introduced: 1960
 tags: [ground-aircraft, supersonic-bomber, usa]
+completeness: partial
 ---
 
 # B-58 Hustler

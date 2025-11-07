@@ -5,6 +5,7 @@ nation: Japanese
 type: SAM
 introduced: 1990
 tags: [missile, sam, japanese]
+completeness: stub
 ---
 
 # SM-1MR Block VI (JMSDF)

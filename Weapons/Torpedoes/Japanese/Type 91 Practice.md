@@ -5,6 +5,7 @@ nation: Japanese
 type: Training
 introduced: 1935
 tags: [torpedo, training, japanese]
+completeness: partial
 ---
 
 # Type 91 Practice

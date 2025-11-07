@@ -1,6 +1,5 @@
 # RO-100-Class Submarines
 
-```yaml
 ---
 class_name: RO-100-Class (Type KS)
 hull_numbers: RO-101 through RO-118
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [submarine, ro-100-class, coastal-submarine, mass-production, small-submarine, high-loss-rate, limited-capability, wwii, imperial-japanese-navy, ijn, 1942, 18-boats]
 ---
-```
 
 **Coastal Defenders** - RO-100-class were small coastal defense submarines. 18 boats built 1942-1944. Very small (601/782 tons), four torpedoes with no reloads. 14 knots surfaced, 8 submerged. Mass-produced for homeland defense but many sent to distant waters. 13 lost in combat (72% loss rate). Showed limitations of coastal subs in Pacific - too small, too slow, too limited. Five survived to surrender.
 

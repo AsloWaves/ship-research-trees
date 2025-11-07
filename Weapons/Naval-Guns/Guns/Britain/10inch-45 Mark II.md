@@ -6,6 +6,7 @@ caliber: 10"
 mark: Mark II
 year: 1907
 tags: [naval-gun, britain, 10inch]
+completeness: stub
 ---
 
 # 10"/45 Mark II

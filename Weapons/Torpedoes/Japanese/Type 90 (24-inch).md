@@ -5,6 +5,7 @@ nation: Japanese
 type: Alcohol
 introduced: 1930
 tags: [torpedo, alcohol, japanese]
+completeness: partial
 ---
 
 # Type 90 (24-inch)

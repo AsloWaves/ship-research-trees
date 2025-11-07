@@ -1,6 +1,5 @@
 # James Madison-Class Ballistic Missile Submarines
 
-```yaml
 ---
 class_name: James Madison-Class-SSBN
 hull_numbers: SSBN-627 to SSBN-636
@@ -40,7 +39,6 @@ successor: "[[Benjamin Franklin-Class-SSBN]]"
 # Tags
 tags: [submarine, ssbn, james-madison, nuclear, ballistic-missile, polaris, poseidon, cold-war, deterrent, 1964]
 ---
-```
 
 **James Madison-Class SSBNs** - James Madison-class were part of Lafayette superclass. 10 boats nearly identical to Lafayette. Part of "41 for Freedom."
 

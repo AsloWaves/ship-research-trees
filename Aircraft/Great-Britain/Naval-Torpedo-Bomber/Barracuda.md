@@ -5,6 +5,7 @@ nation: British
 type: Torpedo Bomber
 introduced: 1943
 tags: [naval-aircraft, torpedo-bomber, british]
+completeness: partial
 ---
 
 # Barracuda

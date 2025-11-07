@@ -1,6 +1,5 @@
 # Ticonderoga-Class Guided Missile Cruisers
 
-```yaml
 ---
 class_name: Ticonderoga-Class
 hull_numbers: CG-47 to CG-73
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [cruiser, guided-missile, aegis, cg, spy-1, vls, tomahawk, modern, active, 1983, legendary]
 ---
-```
 
 **Aegis Cruisers** - Ticonderoga-class are world's most advanced cruisers. 27 ships with Aegis combat system, SPY-1 phased-array radar, VLS. Still in active service.
 

@@ -1,6 +1,5 @@
 # Barracuda-Class Hunter-Killer Submarines (SSK)
 
-```yaml
 ---
 class_name: Barracuda-Class-SSK
 hull_numbers: SSK-1, SSK-2, SSK-3
@@ -45,7 +44,6 @@ firsts:
 # Tags
 tags: [submarine, ssk, barracuda, hunter-killer, diesel, cold-war, 1951, milestone]
 ---
-```
 
 **First Hunter-Killers** - Barracuda-class (K-1 class) were first hunter-killer submarines (SSK) designed to hunt Soviet submarines. 3 small boats.
 

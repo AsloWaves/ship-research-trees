@@ -5,6 +5,7 @@ nation: USA
 type: ASW
 introduced: 2008
 tags: [missile, asw, usa]
+completeness: stub
 ---
 
 # RUM-139B VL-ASROC Block II

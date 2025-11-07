@@ -7,6 +7,7 @@ introduced: 1941
 retired: 1970
 service_life: 1941-1970
 tags: [gravity-bomb, 500lb-gp, usa]
+completeness: partial
 ---
 
 # AN-M64 500lb GP

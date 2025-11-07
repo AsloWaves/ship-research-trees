@@ -5,6 +5,7 @@ nation: USA
 type: Bunker Buster
 introduced: 1991
 tags: [bomb, naval-bomb, bunker-buster, usa]
+completeness: partial
 ---
 
 # GBU-28

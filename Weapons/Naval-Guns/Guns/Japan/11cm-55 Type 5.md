@@ -6,6 +6,7 @@ caliber: 11cm
 mark: Type 5
 year: 1943
 tags: [naval-gun, japan, 11cm]
+completeness: stub
 ---
 
 # 11cm/55 Type 5

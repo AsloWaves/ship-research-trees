@@ -1,6 +1,5 @@
 # Tennessee-Class Armored Cruisers
 
-```yaml
 ---
 class_name: Tennessee-Class
 hull_numbers: ACR-10 to ACR-13 (later CA-10 to CA-13)
@@ -49,7 +48,6 @@ firsts:
 # Tags
 tags: [cruiser, armored-cruiser, pre-dreadnought-era, 10-inch-guns, 1906]
 ---
-```
 
 **Heaviest-Armed Armored Cruisers** - Tennessee-class mounted 10-inch guns, the largest carried by any US armored cruiser. Represented the pinnacle of pre-dreadnought armored cruiser design.
 

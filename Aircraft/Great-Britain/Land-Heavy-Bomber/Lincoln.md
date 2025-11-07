@@ -5,6 +5,7 @@ nation: British
 type: Heavy Bomber
 introduced: 1945
 tags: [ground-aircraft, heavy-bomber, british]
+completeness: partial
 ---
 
 # Lincoln

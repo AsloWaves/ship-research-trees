@@ -1,6 +1,5 @@
 # Lipscomb-Class Submarine
 
-```yaml
 ---
 class_name: Lipscomb-Class
 hull_numbers: SSN-685
@@ -40,7 +39,6 @@ successor: "[[Los Angeles-Class]]"
 # Tags
 tags: [submarine, ssn, lipscomb, nuclear, attack-submarine, turbo-electric, cold-war, 1974]
 ---
-```
 
 **Turbo-Electric Drive** - Glenard P. Lipscomb (SSN-685) tested turbo-electric drive for reduced noise. Single experimental boat. Too expensive for production.
 

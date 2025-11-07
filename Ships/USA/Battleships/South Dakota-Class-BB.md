@@ -1,6 +1,5 @@
 # South Dakota-Class Battleships
 
-```yaml
 ---
 class_name: South Dakota-Class-BB
 hull_numbers: BB-57, BB-58, BB-59, BB-60
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [battleship, south-dakota, bb-57, bb-58, bb-59, bb-60, fast-battleship, 1942, wwii, guadalcanal, philippine-sea, leyte-gulf, 4-ships]
 ---
-```
 
 **Compact Fast Battleships** - South Dakota-class were compact version of North Carolina with better protection. 4 ships. Shorter hull with heavier armor. Same firepower and nearly same speed.
 

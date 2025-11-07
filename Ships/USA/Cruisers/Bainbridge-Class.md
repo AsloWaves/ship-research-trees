@@ -1,6 +1,5 @@
 # Bainbridge-Class Nuclear Guided Missile Cruiser
 
-```yaml
 ---
 class_name: Bainbridge-Class
 hull_numbers: CGN-25
@@ -47,7 +46,6 @@ firsts:
 # Tags
 tags: [cruiser, guided-missile, nuclear, cgn, terrier, cold-war, 1962]
 ---
-```
 
 **Nuclear Leahy** - Bainbridge was nuclear-powered version of Leahy-class. Same double-ended Terrier configuration with D2G reactors.
 
