@@ -6,28 +6,77 @@ type: Jet Fighter
 introduced: 1950
 tags: [naval-aircraft, jet-fighter, usa]
 ---
-
 # F9F-5 Panther
 
 ## Overview
-**Nation**: USA
-**Type**: Jet Fighter
-**Role**: Carrier jet fighter
-**Year**: 1950
+
+**Nation**: USA  
+**Manufacturer**: Grumman  
+**Role**: Fighter, Ground Attack  
+**Service Life**: 1949-1958  
+**Total Produced**: 1,382  
 
 ## Physical Specifications
-- **Wingspan**: 38.0 ft
-- **Length**: 41.8 ft
-- **Empty Weight**: 30000 lbs
-- **Max Takeoff Weight**: 18600 lbs
+
+- **Length**: 38.8 ft  
+- **Wingspan**: 38.0 ft  
+- **Height**: 12.2 ft  
+- **Deck Footprint**: 450.0 sq ft  
+- **Empty Weight**: 5.1 tons  
+- **Max Weight**: 9.8 tons  
 
 ## Performance
-- **Maximum Speed**: 612 mph
-- **Cruise Speed**: 400 mph
-- **Service Ceiling**: 45000 ft
 
-## Powerplant
-- **Engine**: Turbojet
+- **Cruise Speed**: 363.0 knots  
+- **Max Speed**: 503.0 knots  
+- **Stall Speed**: 95.0 knots  
+- **Service Ceiling**: 42,800 ft  
+- **Climb Rate**: 5,090 ft/min  
+- **Range**: 956 nm  
+- **Maneuverability Rating**: 6/10  
 
 ## Carrier Operations
-- **Carrier Capable**: 8000
+
+- **Catapult Compatible**: Yes  
+- **Arresting Hook**: Yes  
+- **Landing Distance**: 600 ft  
+
+## Armament
+
+**Guns**: 4x 20mm AN/M3 cannon (760 rounds)  
+
+**Hardpoints**: 8  
+**Max Ordnance Weight**: 3,465 lbs  
+
+**Compatible Ordnance**:  
+- Bombs: 500lb, 1000lb bombs  
+- Rockets: Compatible  
+
+**Typical Loadout**: 2x 1000lb bombs + 6x 5-inch rockets  
+
+## Crew & Operations
+
+- **Crew Size**: 1  
+- **Crew Positions**: Pilot  
+- **Night Capable**: No  
+- **All-Weather Capable**: No  
+- **Minimum Visibility**: 1.5 miles  
+
+## Fuel System
+
+- **Fuel Capacity**: 919.0 gallons  
+
+## Game Statistics
+
+- **Hit Points**: 105  
+- **Critical Resistance**: 40%  
+- **Armor Rating**: 4  
+- **Defense Rating**: 6  
+- **Visibility Rating**: 6  
+- **Reliability Rating**: 8  
+- **Maintenance**: 12.0 hours per flight hour  
+
+## Notes
+
+First successful US Navy jet fighter! Pratt & Whitney J48-P-6A turbojet, 6250lbf thrust. Korean War workhorse - 78,000 sorties. First US Navy air victory in Korea (July 3, 1950, vs Yak-9). Straight-wing design. Reliable and rugged. Later swept-wing F9F-6 Cougar variant. Transition from WWII props to jets. Good carrier landing characteristics for early jet.
+
