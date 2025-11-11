@@ -1,0 +1,209 @@
+Germany Ships - Chronological List
+==================================================
+
+
+Battleships:
+------------------------------
+Brandenburg-Class.md: 1891
+SMS-Brandenburg-Battleship.md: 1893
+Kaiser-Friedrich-III-Class.md: 1898
+SMS-Kaiser-Friedrich-III-Battleship.md: 1898
+SMS-Wettin-Pre-Dreadnought.md: 1902
+SMS-Wittelsbach-Battleship.md: 1902
+Wittelsbach-Class.md: 1902
+Braunschweig-Class.md: 1904
+SMS-Braunschweig-Battleship.md: 1904
+SMS-Elsass-Pre-Dreadnought.md: 1904
+Deutschland-Class-1904.md: 1906
+SMS-Deutschland-Pre-Dreadnought-Battleship.md: 1906
+SMS-Hannover-Pre-Dreadnought.md: 1907
+SMS-Pommern-Pre-Dreadnought.md: 1907
+SMS-Schlesien-Pre-Dreadnought.md: 1908
+SMS-Schleswig-Holstein-Pre-Dreadnought.md: 1908
+Nassau-Class.md: 1909
+SMS-Nassau-Dreadnought-Battleship.md: 1909
+SMS-Westfalen-Dreadnought.md: 1909
+Von-der-Tann-Class.md: 1910
+Helgoland-Class.md: 1911
+Moltke-Class.md: 1911
+SMS-Helgoland-Dreadnought-Battleship.md: 1911
+SMS-Ostfriesland-Dreadnought-Battleship.md: 1911
+SMS-Thuringen-Dreadnought.md: 1911
+Kaiser-Class.md: 1912
+SMS-Friedrich-der-Grosse-Super-Dreadnought.md: 1912
+SMS-Kaiser-Super-Dreadnought-Battleship.md: 1912
+Seydlitz-Class.md: 1913
+Derfflinger-Class.md: 1914
+König-Class.md: 1914
+SMS-Derfflinger-Battlecruiser.md: 1914
+SMS-Grosser-Kurfurst-Super-Dreadnought.md: 1914
+SMS-Konig-Super-Dreadnought-Battleship.md: 1914
+Bayern-Class.md: 1916
+SMS-Bayern-Super-Dreadnought-Battleship.md: 1916
+SMS-Hindenburg-Battlecruiser.md: 1917
+Deutschland-Class-1931.md: 1933
+Deutschland-Panzerschiff.md: 1933
+Admiral-Scheer-Panzerschiff.md: 1934
+Admiral-Graf-Spee-Panzerschiff.md: 1936
+Gneisenau-Fast-Battleship.md: 1938
+Scharnhorst-Class.md: 1938
+H-39-Battleship.md: 1939
+Scharnhorst-Fast-Battleship.md: 1939
+Bismarck-Class.md: 1940
+O-Class-Battlecruiser.md: 1940
+P-Class-Battlecruiser.md: 1940
+H-41-Battleship.md: 1941
+Tirpitz-Battleship.md: 1941
+H-42-Battleship.md: 1942
+H-43-Battleship.md: 1943
+H-44-Battleship.md: 1944
+H-45-Monster-Battleship.md: 1945
+
+Carriers:
+------------------------------
+Graf-Zeppelin-Carrier.md: 1938
+Plan-Z-Concept-Carrier.md: 1938
+Peter-Strasser-Carrier.md: 1939
+Conversion-Study-Carrier.md: 1940
+Plan-Z-Super-Carrier.md: 1940
+Improved-Graf-Zeppelin-Carrier.md: 1941
+Europa-Conversion-Carrier.md: 1942
+Flugzeugtraeger-C-Carrier.md: 1942
+Flugzeugtraeger-D-Carrier.md: 1943
+Japanese-Study-Carrier.md: 1944
+Armored-Deck-Carrier.md: 1950
+Post-War-Carrier.md: 1960
+Jet-Age-Carrier.md: 1965
+Modern-Carrier.md: 1970
+Future-CV-Concept-Carrier.md: 1975
+
+Cruisers:
+------------------------------
+Bussard-Class.md: 1890
+Kaiserin-Augusta-Class.md: 1892
+Victoria-Louise-Class.md: 1899
+Fürst-Bismarck-Class.md: 1900
+Gazelle-Class.md: 1901
+Prinz-Heinrich-Class.md: 1902
+Bremen-Class.md: 1904
+Prinz-Adalbert-Class.md: 1904
+Roon-Class.md: 1906
+Königsberg-Class-1907.md: 1907
+Scharnhorst-Class.md: 1907
+Dresden-Class.md: 1908
+Blücher-Class.md: 1909
+Kolberg-Class.md: 1910
+Magdeburg-Class.md: 1912
+Graudenz-Class.md: 1914
+Karlsruhe-Class.md: 1914
+Pillau-Class.md: 1914
+Wiesbaden-Class.md: 1915
+Königsberg-II-Class.md: 1916
+Emden-Class-1925.md: 1925
+Königsberg-Class-1929.md: 1929
+Leipzig-Class.md: 1931
+Nürnberg-Class.md: 1935
+Admiral-Hipper-Class.md: 1939
+Blücher-1939-Class.md: 1939
+Seydlitz-Heavy-Cruiser-Class.md: 1939
+Lützow-Heavy-Cruiser-Class.md: 1940
+P-Class-Cruiser.md: 1940
+Prinz-Eugen-Class.md: 1940
+Spähkreuzer-Class.md: 1940
+M-Class-Cruiser.md: 1941
+AA-Cruiser-Concept.md: 1942
+Improved-Hipper-Class.md: 1942
+Super-Hipper-Class.md: 1943
+Torpedo-Cruiser-Concept.md: 1943
+Future-CL-Concept.md: 1955
+
+Destroyers:
+------------------------------
+SMS-S90-Class.md: 1898
+SMS-G108-Class.md: 1900
+SMS-S114-Class.md: 1902
+SMS-S138-Class.md: 1906
+SMS-V150-Class.md: 1907
+SMS-G7-Class.md: 1911
+SMS-S13-Class.md: 1911
+SMS-V1-Class.md: 1911
+SMS-S31-Class.md: 1912
+SMS-V25-Class.md: 1913
+SMS-B97-Class.md: 1914
+SMS-G37-Class.md: 1914
+SMS-V43-Class.md: 1914
+SMS-G101-Class.md: 1915
+SMS-V105-Class.md: 1915
+Möwe-Class.md: 1926
+Greif-Class.md: 1927
+Wolf-Class.md: 1928
+Jaguar-Class.md: 1929
+Z1-Leberecht-Maass-Class.md: 1937
+Z17-Diether-von-Roeder-Class.md: 1938
+Z3-Max-Schultz-Class.md: 1938
+Z5-Paul-Jacobi-Class.md: 1938
+Z20-Karl-Galster-Class.md: 1939
+Z23-Narvik-Class.md: 1940
+Z25-Class.md: 1940
+Z28-Class.md: 1941
+Z35-Class.md: 1943
+Type-1944-Destroyer.md: 1944
+Z40-Class.md: 1944
+Z46-Class.md: 1944
+Type-1945-Destroyer.md: 1945
+Z50-Class.md: 1945
+Z51-Diesel-Class.md: 1945
+Post-War-Destroyer.md: 1950
+Future-DD-Concept.md: 1955
+
+Submarines:
+------------------------------
+SM-U-1.md: 1906
+SM-U-9.md: 1910
+SM-U-31-Class.md: 1914
+SM-UB-I-Class.md: 1915
+SM-UB-II-Class.md: 1915
+SM-UC-I-Class.md: 1915
+SM-U-81-Class.md: 1916
+SM-U-87-Class.md: 1916
+SM-UC-II-Class.md: 1916
+SM-U-93-Class.md: 1917
+SM-UB-III-Class.md: 1917
+SM-UC-III-Class.md: 1918
+U-93-Modernization-Submarine.md: 1918
+Type-IIA-Submarine.md: 1935
+Type-IA-Submarine.md: 1936
+Type-IIB-Submarine.md: 1936
+Type-VIIA-Submarine.md: 1936
+Type-IIC-Submarine.md: 1938
+Type-IXA-Submarine.md: 1938
+Type-IXB-Submarine.md: 1939
+Type-VIIB-Submarine.md: 1939
+Type-IID-Submarine.md: 1940
+Type-IXC-Submarine.md: 1940
+Type-XVII-Submarine.md: 1940
+Type-IXC-40-Submarine.md: 1941
+Type-VIIC-Submarine.md: 1941
+Type-XIV-Submarine.md: 1941
+Type-IXD-Submarine.md: 1942
+Type-VIID-Submarine.md: 1942
+Type-VIIC-Refit-Submarine.md: 1943
+Type-VIIF-Submarine.md: 1943
+Biber-Submarine.md: 1944
+Molch-Submarine.md: 1944
+Seehund-Submarine.md: 1944
+Type-XXI-Submarine.md: 1944
+Type-XXIII-Submarine.md: 1944
+Type-XXI-Refit-Submarine.md: 1945
+Type-XXIX-Submarine.md: 1945
+Type-XXVI-Submarine.md: 1945
+Type-XXX-Submarine.md: 1945
+Type-201-Submarine.md: 1960
+Type-205-Submarine.md: 1962
+Nuclear-Concept-Submarine.md: 1965
+Future-SS-Concept-Submarine.md: 1970
+Type-206-Submarine.md: 1973
+
+
+Total Ships: 187
+Date Range: 1890 - 1975

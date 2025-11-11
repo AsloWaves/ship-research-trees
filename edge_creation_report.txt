@@ -1,0 +1,111 @@
+Naval-Weapons Tree Canvas - Edge Creation Report
+================================================
+
+Date: 2025-11-11
+File: C:\Research\Weapons\Naval-Weapons\Naval-Weapons Tree.canvas
+
+SUMMARY
+-------
+Total Nodes: 2,693
+Total Edges Created: 462
+
+Edge Breakdown:
+- Horizontal Mark Progressions: 240 edges
+- Vertical Mount Type Upgrades: 211 edges
+- Strategic Cross-Caliber Paths: 11 edges
+
+TURRET DATABASE
+---------------
+Successfully parsed: 1,684 turrets from 1,700 USA turret files (99.1% success rate)
+
+Caliber/Length Variants Found: 16
+- 3" - 8 marks, 32 total turrets
+- 4" - 5 marks, 20 total turrets
+- 5" - 19 marks, 76 total turrets
+- 5/38" - 4 marks, 4 total turrets (with gun length specified)
+- 6" - 13 marks, 50 total turrets
+- 6/53" - 2 marks, 2 total turrets (with gun length specified)
+- 8" - 8 marks, 28 total turrets
+- 8/55" - 4 marks, 4 total turrets (with gun length specified)
+- 10" - 1 mark, 4 total turrets
+- 12" - 5 marks, 20 total turrets
+- 13" - 2 marks, 8 total turrets
+- 14" - 11 marks, 42 total turrets
+- 14/50" - 2 marks, 2 total turrets (with gun length specified)
+- 16/45" - 3 marks, 10 total turrets (with gun length specified)
+- 16/50" - 2 marks, 6 total turrets (with gun length specified)
+- 18" - 1 mark, 4 total turrets
+
+HORIZONTAL MARK PROGRESSION EDGES (240 total)
+----------------------------------------------
+These edges connect sequential marks within the same caliber and mount type.
+
+Example chains created:
+- 3": Mk 10 → 17 → 18 → 22 → 26 → 27 → 33 → 34 (7 edges × 4 mount types = 28 edges)
+- 4": Mk 7 → 8 → 9 → 10 → 12 (4 edges × 4 mount types = 16 edges)
+- 5": Mk 7 → 8 → 9 → 10 → 11 → 12 → 13 → 14 → 15 → 16 → 21 → 22 → 24... (complex, multiple variants)
+- 6": Mk 2 → 3 → 4 → 5 → 6 → 11 → 12 → 13 → 14 → 15 → 16 → 17 → 18
+- 8": Mk 9 → 11 → 12 → 13 → 14 → 15 → 16 → 71
+- 12": Mk 3 → 4 → 5 → 7 → 8
+- 13": Mk 1 → 2
+- 14": Mk 1 → 2 → 3 → 4 → 5 → 6 → 7 → 8 → 9 → 10 → 11
+- 16": Mk 1 → 2 → 2/3 → 3 → 5 → 5/8 → 6 → 7 → 8
+- 18": Mk 1 (no progression, only one mark)
+
+VERTICAL MOUNT TYPE UPGRADE EDGES (211 total)
+----------------------------------------------
+These edges connect different mount types within the same caliber and mark.
+Pattern: Single → Twin → Triple → Quad
+
+Examples:
+- 3" Mk 10: Single → Twin → Triple → Quad (3 edges)
+- 5" Mk 11: Single → Twin → Triple → Quad (3 edges)
+- 16" Mk 2/3: Single → Twin → Triple → Quad (3 edges)
+
+Not all marks have all four mount types, so vertical edges only created where applicable.
+
+STRATEGIC CROSS-CALIBER EDGES (11 total)
+-----------------------------------------
+These edges show historically significant upgrade paths between different calibers.
+
+Successfully Created:
+1. 4" Mk 12 Twin → 5" Mk 7 Twin (Early DD upgrade)
+2. 5" Mk 15 Twin → 5" Mk 12 Twin (Transition to DP)
+3. 5" Mk 39 Twin → 5" Mk 16 Twin (WWII to Cold War)
+4. 5" Mk 42 Single → 5" Mk 45 Single (Modern automation)
+5. 5" Mk 15 Twin → 6" Mk 6 Twin (Light cruiser branch)
+6. 6" Mk 6 Triple → 6" Mk 11 Triple (Treaty cruiser upgrade)
+7. 12" Mk 8 Triple → 14" Mk 1 Triple (Dreadnought evolution)
+8. 3" Mk 34 Twin → 4" Mk 7 Twin (Light AA upgrade)
+9. 4" Mk 12 Twin → 5" Mk 7 Twin (Secondary battery upgrade)
+10. 12" Mk 5 Twin → 13" Mk 1 Twin (Experimental heavy gun)
+11. 13" Mk 2 Twin → 14" Mk 1 Twin (Standard battleship gun)
+
+Missing (turret variants not found in database):
+- 6" Mk 16 Triple → 8" Mk 9 Triple (Heavy cruiser branch)
+- 14" Mk 7 Triple → 16" Mk 1 Triple (Super-battleship upgrade)
+- 16" Mk 3 Triple → 16" Mk 5 Triple (Fast battleship pinnacle)
+- 16" Mk 7 Triple → 18" Mk 1 Triple (Ultimate concept)
+- 8" Mk 16 Triple → 12" Mk 3 Triple (Pre-dreadnought to dreadnought)
+
+TECHNICAL NOTES
+---------------
+1. File Formats: The script handles multiple designation formats:
+   - Pattern 1: With gun length - "5"/38 Mark 24 Single Mount"
+   - Pattern 2: Duplicate "Mark Mark" - "5" Mark Mark 11 Single DP Turret"
+   - Pattern 3: Simple format - "16" Mark 1 Triple Turret"
+
+2. Edge IDs: Sequential numbering from edge_0001 to edge_0462
+
+3. Implementation: All edges are directional, showing progression from older/simpler to newer/more advanced
+
+4. Canvas Format: Standard Obsidian canvas JSON format with nodes and edges arrays
+
+VERIFICATION
+------------
+To verify edges in Obsidian:
+1. Open: C:\Research\Weapons\Naval-Weapons\Naval-Weapons Tree.canvas
+2. Check that turret nodes now have connecting lines showing progression paths
+3. Horizontal edges show mark evolution (left-to-right typically)
+4. Vertical edges show mount type upgrades (same position, different mount counts)
+5. Cross-caliber edges show strategic upgrade paths between different gun sizes

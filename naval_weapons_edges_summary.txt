@@ -1,0 +1,134 @@
+================================================================================
+NAVAL-WEAPONS TREE CANVAS - EDGE RECREATION SUMMARY
+================================================================================
+
+File Updated: C:\Research\Weapons\Naval-Weapons\Naval-Weapons Tree.canvas
+Date: 2025-11-11
+
+================================================================================
+EDGE CREATION RESULTS
+================================================================================
+
+Total Edges Created: 289
+  - Vertical Mount Upgrade Edges: 223
+  - Horizontal Mark Progression Edges: 66
+
+Total Turret Nodes Processed: 1,700
+
+================================================================================
+HORIZONTAL MARK PROGRESSIONS (Single Mounts Only)
+================================================================================
+
+These edges connect sequential mark numbers within the same caliber, but ONLY
+for Single mount turrets. Twin, Triple, and Quad mounts do NOT have horizontal
+connections.
+
+3-inch Single:  Mk 10 → Mk 17 → Mk 18 → Mk 22 → Mk 26 → Mk 27 → Mk 33 → Mk 34
+                (7 edges)
+
+4-inch Single:  Mk 7 → Mk 8 → Mk 9 → Mk 10 → Mk 12
+                (4 edges)
+
+5-inch Single:  Mk 7 → Mk 8 → Mk 9 → Mk 10 → Mk 11 → Mk 12 → Mk 13 → Mk 14 →
+                Mk 15 → Mk 16 → Mk 21 → Mk 22 → Mk 24 → Mk 28 → Mk 30 →
+                Mk 32 → Mk 39 → Mk 42 → Mk 45
+                (18 edges)
+
+6-inch Single:  Mk 2 → Mk 3 → Mk 4 → Mk 5 → Mk 6 → Mk 11 → Mk 12 → Mk 13 →
+                Mk 14 → Mk 15 → Mk 16 → Mk 17 → Mk 18
+                (12 edges)
+
+8-inch Single:  Mk 9 → Mk 11 → Mk 12 → Mk 13 → Mk 14 → Mk 15 → Mk 16 → Mk 71
+                (7 edges)
+
+10-inch Single: Only 1 mark exists (no progression edges)
+
+12-inch Single: Mk 3 → Mk 4 → Mk 5 → Mk 7 → Mk 8
+                (4 edges)
+
+13-inch Single: Mk 1 → Mk 2
+                (1 edge)
+
+14-inch Single: Mk 1 → Mk 2 → Mk 3 → Mk 4 → Mk 5 → Mk 6 → Mk 7 → Mk 8 →
+                Mk 9 → Mk 10 → Mk 11
+                (10 edges)
+
+16-inch Single: Mk 1 → Mk 2/3 → Mk 5/8 → Mk 6
+                (3 edges)
+
+18-inch Single: Only 1 mark exists (no progression edges)
+
+================================================================================
+VERTICAL MOUNT TYPE PROGRESSIONS (All Calibers & Marks)
+================================================================================
+
+These edges connect mount type upgrades for EVERY mark in EVERY caliber:
+Single → Twin → Triple → Quad
+
+Total vertical edges: 223
+
+These edges are created for every unique (caliber, mark) combination where
+consecutive mount types exist. For example:
+  - 16" Mk 1: Single → Triple → Quad (2 edges, no Twin for Mk 1)
+  - 5" Mk 12: Single → Twin → Triple → Quad (3 edges, all types exist)
+
+Not all marks have all four mount types, so some progressions are partial.
+
+Distribution by caliber:
+  3-inch:   24 vertical edges
+  4-inch:   15 vertical edges
+  5-inch:   57 vertical edges
+  6-inch:   37 vertical edges
+  8-inch:   22 vertical edges
+  10-inch:   3 vertical edges
+  12-inch:  15 vertical edges
+  13-inch:   6 vertical edges
+  14-inch:  33 vertical edges
+  16-inch:   8 vertical edges
+  18-inch:   3 vertical edges
+
+================================================================================
+EDGE PROPERTIES
+================================================================================
+
+All edges have the following properties:
+  - Unique sequential ID (string)
+  - fromNode: Source node ID
+  - toNode: Destination node ID
+  - color: "3" (color code)
+
+Vertical edges:
+  - fromSide: "bottom"
+  - toSide: "top"
+  - Represent mount type upgrades (more guns in turret)
+
+Horizontal edges:
+  - fromSide: "right"
+  - toSide: "left"
+  - Represent mark progressions (technological advancement)
+  - ONLY exist for Single mount turrets
+
+================================================================================
+IMPLEMENTATION NOTES
+================================================================================
+
+1. All turret files follow the naming pattern:
+   NNN-CALIBERinch-MOUNTTYPE.md
+
+2. Mark information is extracted from the "designation" field in each
+   turret file's frontmatter, which follows the pattern:
+   CALIBER" Mark Mark X MOUNTTYPE ...
+
+3. Some turrets have fractional marks (e.g., "2/3", "5/8") which are sorted
+   as FIRST_NUMBER + 0.5
+
+4. Multiple variant turrets can exist for the same (caliber, mark, mount_type)
+   combination (e.g., "Single Turret", "Single DP Turret", "Single SP Turret").
+   For horizontal progressions, only one representative turret per mark is used.
+
+5. The script ensures that horizontal edges only connect DIFFERENT mark numbers,
+   not variants of the same mark.
+
+================================================================================
+END OF REPORT
+================================================================================

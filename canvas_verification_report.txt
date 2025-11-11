@@ -1,0 +1,98 @@
+COMPREHENSIVE CANVAS FILE VERIFICATION
+================================================================================
+Checking which .md files are missing from canvas files
+================================================================================
+
+================================================================================
+VERIFICATION REPORT: USA
+================================================================================
+
+Total .md files in folders: 242
+Total unique filenames in canvas: 242
+Missing from canvas: 0
+
+All files are present in the canvas!
+
+================================================================================
+VERIFICATION REPORT: Great-Britain
+================================================================================
+
+Total .md files in folders: 186
+Total unique filenames in canvas: 177
+Missing from canvas: 9
+
+--------------------------------------------------------------------------------
+MISSING FILES:
+--------------------------------------------------------------------------------
+
+Battleships:
+  - G3-Battlecruiser.md
+    Location: C:\Research\Ships\Great-Britain\Battleships\G3-Battlecruiser.md
+  - HMS-Incomparable-Proposal.md
+    Location: C:\Research\Ships\Great-Britain\Battleships\HMS-Incomparable-Proposal.md
+  - Lion-Class-1939.md
+    Location: C:\Research\Ships\Great-Britain\Battleships\Lion-Class-1939.md
+  - N3-Battleship.md
+    Location: C:\Research\Ships\Great-Britain\Battleships\N3-Battleship.md
+
+Carriers:
+  - Courageous-Class-Carriers.md
+    Location: C:\Research\Ships\Great-Britain\Carriers\Courageous-Class-Carriers.md
+  - Malta-Class-Cancelled.md
+    Location: C:\Research\Ships\Great-Britain\Carriers\Malta-Class-Cancelled.md
+  - Project-Habakkuk.md
+    Location: C:\Research\Ships\Great-Britain\Carriers\Project-Habakkuk.md
+
+Destroyers:
+  - Type-83-Destroyer.md
+    Location: C:\Research\Ships\Great-Britain\Destroyers\Type-83-Destroyer.md
+
+Submarines:
+  - SSN-AUKUS.md
+    Location: C:\Research\Ships\Great-Britain\Submarines\SSN-AUKUS.md
+
+================================================================================
+VERIFICATION REPORT: Japan
+================================================================================
+
+Total .md files in folders: 137
+Total unique filenames in canvas: 137
+Missing from canvas: 0
+
+All files are present in the canvas!
+
+================================================================================
+VERIFICATION REPORT: Germany
+================================================================================
+
+Total .md files in folders: 194
+Total unique filenames in canvas: 186
+Missing from canvas: 8
+
+--------------------------------------------------------------------------------
+MISSING FILES:
+--------------------------------------------------------------------------------
+
+Battleships:
+  - Ersatz-Yorck-Class.md
+    Location: C:\Research\Ships\Germany\Battleships\Ersatz-Yorck-Class.md
+  - H-Class.md
+    Location: C:\Research\Ships\Germany\Battleships\H-Class.md
+  - L-20-e-α-Class.md
+    Location: C:\Research\Ships\Germany\Battleships\L-20-e-α-Class.md
+  - Mackensen-Class.md
+    Location: C:\Research\Ships\Germany\Battleships\Mackensen-Class.md
+  - O-Class.md
+    Location: C:\Research\Ships\Germany\Battleships\O-Class.md
+
+Destroyers:
+  - Type-1934-Refit.md
+    Location: C:\Research\Ships\Germany\Destroyers\Type-1934-Refit.md
+  - Type-1936A-Refit.md
+    Location: C:\Research\Ships\Germany\Destroyers\Type-1936A-Refit.md
+  - V25-Modernization.md
+    Location: C:\Research\Ships\Germany\Destroyers\V25-Modernization.md
+
+================================================================================
+VERIFICATION COMPLETE
+================================================================================
