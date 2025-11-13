@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Weapons/Naval-Weapons/Naval-Weapons Tree.canvas",
+                "file": "WOS2.3V2 Research/WOS2.3_DETAILED_Player_Interaction_Canvas.canvas",
                 "viewState": {
-                  "x": 84630,
-                  "y": 15470,
+                  "x": -116.10418294677584,
+                  "y": -3174.04042850748,
                   "zoom": -4
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Naval-Weapons Tree"
+              "title": "WOS2.3_DETAILED_Player_Interaction_Canvas"
             }
           }
         ]
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 326.5
   },
   "right": {
     "id": "fb5b74a3fc407eeb",
@@ -174,27 +174,44 @@
   },
   "active": "15672ac5c7e6ea25",
   "lastOpenFiles": [
-    "Weapons/Naval-Weapons/Naval-Guns/Turrets/USA-Naval-Turrets-Tree.canvas",
+    "WOS2.3V2 Research/GDD/GDD_Updated-1.md.tmp.5536.1763053026305",
+    "WOS2.3V2 Research/GDD/GDD_Updated-1.md.tmp.5536.1763053003871",
+    "WOS2.3V2 Research/GDD/GDD_Updated-1.md.tmp.5536.1763052980199",
+    "WOS2.3V2 Research/GDD/GDD_Updated-1.md",
+    "WOS2.3V2 Research/WOS2.3_DETAILED_Player_Interaction_Canvas.canvas.tmp.5536.1763050680156",
+    "WOS2.3V2 Research/WOS2.3_DETAILED_Player_Interaction_Canvas_BACKUP.canvas",
+    "WOS2.3V2 Research/WOS2.3_DETAILED_Player_Interaction_Canvas.canvas",
+    "WOS2.3V2 Research/GDD/PLAYER_ACCOUNT_ARCHITECTURE.md",
+    "WOS2.3V2 Research/WOS2.3_DETAILED_Player_Interaction_Canvas.canvas.tmp.5536.1763048506356",
+    "WOS2.3V2 Research/WOS2.3_DETAILED_Player_Interaction_Canvas.canvas.tmp.5536.1763048289382",
+    "WOS2.3V2 Research/WOS2.3_COMPLETE_Feature_Canvas.canvas",
+    "WOS2.3V2 Research/WOS2.3_Player_Decision_Canvas.canvas",
+    "WOS2.3V2 Research/WOS2.3_ACCURATE_Scripts_vs_GDD_Canvas.canvas",
+    "WOS2.3V2 Research/WOS2.3_Comprehensive_Feature_Canvas.canvas",
+    "WOS2.3V2 Research/Scripts/Camera/SimpleCameraController.cs",
+    "WOS2.3V2 Research/Scripts/Camera/CameraController.cs",
+    "WOS2.3V2 Research/Scripts/Camera/CameraController.cs.tmp.5536.1763044549984",
+    "WOS2.3V2 Research/Scripts/Player/NetworkedNavalController.cs",
+    "WOS2.3V2 Research/Scripts/Player/SimpleNavalController.cs",
+    "WOS2.3V2_Scripts_vs_GDD_Analysis.md",
+    "WOS2.3V2 Research/GDD/WOS2.3_V2_IMPLEMENTATION_GUIDE.md",
+    "WOS2.3V2 Research/GDD/Ship_Customization_Complete.md",
+    "WOS2.3V2 Research/GDD/DATABASE_SCHEMA.md",
+    "WOS2.3V2 Research/GDD/CLAUDE.md",
+    "TODO_4_NATIONS_COMPLETE.md",
+    "WOS2.3V2 Research/Scripts/ScriptableObjects/_SCRIPTABLEOBJECT_CONFIGS_LIST.md",
+    "WOS2.3V2 Research/Scripts/Utilities/_UTILITIES_SCRIPTS_LIST.md",
+    "WOS2.3V2 Research/Scripts/Testing/_TESTING_SCRIPTS_LIST.md",
+    "WOS2.3V2 Research/Scripts/Environment/_ENVIRONMENT_SCRIPTS_LIST.md",
+    "README.md",
+    "JAPAN_ADDITIONAL_SHIP_CLASSES.md",
+    "GB_Ships_Database.md",
+    "COMPREHENSIVE_EXPANSION_PLAN.md",
     "Weapons/Naval-Weapons/Naval-Weapons Tree.canvas",
+    "Weapons/Naval-Weapons/Naval-Guns/Turrets/USA-Naval-Turrets-Tree.canvas",
     "Weapons/README.md",
-    "canvas_split_summary.txt",
-    "canvas_split_verification.py",
-    "canvas_split_verification.py.tmp.6260.1762891351136",
-    "split_usa_turrets_canvas.py.tmp.6260.1762891278161",
-    "split_usa_turrets_canvas.py",
-    "split_usa_turrets_canvas.py.tmp.6260.1762891259487",
-    "verify_final_edges.py",
-    "verify_final_edges.py.tmp.6260.1762891039122",
-    "naval_weapons_edges_summary.txt",
-    "naval_weapons_edges_summary.txt.tmp.6260.1762890996781",
     "Aircraft/USA/USA Aircraft Tree.canvas",
     "Weapons/Aircraft-Weapons/Aircraft-Weapons Tree.canvas",
-    "Aircraft/Great-Britain/Great-Britain Aircraft Tree.canvas",
-    "Ships/Great-Britain/Great-Britain Ship Tree.canvas",
-    "Aircraft/Japan/Japan Aircraft Tree.canvas",
-    "Aircraft/Germany/Germany Aircraft Tree.canvas",
-    "Ships/Japan/Japan Ship Tree.canvas",
-    "Ships/USA/USA Ship Tree.canvas",
     "Ships/Germany/Transports-Amphibious/WWI-Auxiliary-Vessels.md",
     "Ships/Germany/Transports-Amphibious/Westerwald-Class.md",
     "Ships/Germany/Transports-Amphibious/Rhein-Class.md",
@@ -202,22 +219,6 @@
     "Ships/Germany/Transports-Amphibious/Frosch-II-Class.md",
     "Ships/Germany/Transports-Amphibious/Carl-Peters-Class.md",
     "Ships/Germany/Transports-Amphibious/Berlin-Class.md",
-    "Ships/Germany/Transports-Amphibious/Barbe-Class.md",
-    "Ships/USA/Carriers/Bogue-Class.md",
-    "Ships/Germany/Transports-Amphibious/Type-707-EGV.md",
-    "Ships/Germany/Transports-Amphibious/Nordstrand-Class.md",
-    "Ships/Germany/Transports-Amphibious/Helgoland-Fehmarn-Class.md",
-    "Ships/Germany/Transports-Amphibious/Oste-Class.md",
-    "Ships/Germany/Transports-Amphibious/Elbe-Class.md",
-    "Ships/Germany/Transports-Amphibious/Rhoen-Class.md",
-    "Ships/Germany/Transports-Amphibious/Walchensee-Class.md",
-    "Ships/Germany/Transports-Amphibious/Lueneburg-Class.md",
-    "Ships/Germany/Transports-Amphibious/Operation-Hannibal.md",
-    "Ships/Germany/Transports-Amphibious/Pre-WWI-Colonial-Support.md",
-    "Ships/Germany/Transports-Amphibious/Gorch-Fock.md",
-    "Ships/Germany/Transports-Amphibious/Frosch-Class.md",
-    "Ships/Germany/Transports-Amphibious/Saar.md",
-    "Ships/Germany/Transports-Amphibious/Marinefaehrprahm-Class.md",
-    "Ships/USA/Battleships/Delaware-Class.md"
+    "Ships/Germany/Transports-Amphibious/Barbe-Class.md"
   ]
 }
