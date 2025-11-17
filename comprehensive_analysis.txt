@@ -1,0 +1,132 @@
+====================================================================================================
+4. SPATIAL LAYOUT PROBLEM IDENTIFICATION
+====================================================================================================
+
+====================================================================================================
+IN-GAME-HUD EDGE ANALYSIS
+====================================================================================================
+
+*** CLOSE EDGES (< 2500 units) - PROPERLY POSITIONED ***
+Count: 11
+  camera-controls                     DIST:     1000 @ (  -6200,      30)
+  ship-status-panel                   DIST:     1200 @ (  -4000,       0)
+  ship-controls                       DIST:     1200 @ (  -5200,   -1200)
+  waypoint-system                     DIST:     1200 @ (  -5200,    1200)
+  inventory-at-sea                    DIST:     1801 @ (  -3640,     900)
+  crew-assignment-at-sea              DIST:     1801 @ (  -6100,    1560)
+  multidomain-radar-ui                DIST:     2400 @ (  -5200,    2400)
+  armor-penetration-ui                DIST:     2404 @ (  -3500,    1700)
+  submarine-warfare-ui                DIST:     2404 @ (  -6900,    1700)
+  damage-zones-ui                     DIST:     2474 @ (  -2800,     600)
+  carrier-operations-ui               DIST:     2474 @ (  -7600,     600)
+
+*** MEDIUM EDGES (2500-5000 units) - ACCEPTABLE DISTANCE ***
+Count: 6
+  fire-flood-management               DIST:     2778 @ (  -2800,    1400)
+  carrier-resource-ui                 DIST:     2778 @ (  -7600,    1400)
+  gunnery-control                     DIST:     3273 @ (  -5495,   -3260)
+  extraction-status-at-sea            DIST:     4379 @ (  -2780,   -3650)
+  port-docking                        DIST:     4808 @ (   -440,     680)
+  permadeath-display                  DIST:     4812 @ (  -1360,    2900)
+
+*** FAR EDGES (> 5000 units) - POOR POSITIONING ***
+Count: 5
+  mission-tracker-at-sea              DIST:     5192 @ (  -1440,   -3580)
+    ^ This node is connected to in-game-hud but positioned 5.2km away!
+  shell-type-selector                 DIST:     5346 @ (  -8980,   -3780)
+    ^ This node is connected to in-game-hud but positioned 5.3km away!
+  carrier-waypoint-ui                 DIST:     5756 @ ( -10365,   -2540)
+    ^ This node is connected to in-game-hud but positioned 5.8km away!
+  sonar-detection-ui                  DIST:     6300 @ ( -10240,   -3780)
+    ^ This node is connected to in-game-hud but positioned 6.3km away!
+  settings-hub                        DIST:     8677 @ (   2500,   -4000)
+    ^ This node is connected to in-game-hud but positioned 8.7km away!
+
+====================================================================================================
+PORT-SERVICES-INTERFACE EDGE ANALYSIS
+====================================================================================================
+
+*** CLOSE EDGES (< 3500 units) - PROPERLY POSITIONED ***
+Count: 1
+  port-tab-diplomacy                  DIST:     3381 @ (   3030,   -2960)
+
+*** FAR EDGES (> 3500 units) - POOR POSITIONING ***
+Count: 5
+  port-tab-missions                   DIST:     3609 @ (   2430,   -2960)
+  port-tab-crew                       DIST:     3917 @ (   1830,   -2960)
+  port-tab-maintenance                DIST:     4287 @ (   1230,   -2960)
+  port-tab-economy                    DIST:     4705 @ (    630,   -2960)
+  in-game-hud                         DIST:     9264 @ (  -5200,       0)
+
+====================================================================================================
+CLASS-SPECIFIC NODES (Submarine/Carrier) RELATIVE TO IN-GAME-HUD
+====================================================================================================
+
+Submarine Controls
+  ID: submarine-warfare-ui
+  Position: (-6900, 1700)
+  Distance from in-game-hud: 2404 units
+  Connected via: Q/E Depth (SS) [direct edge]
+
+Carrier Operations
+  ID: carrier-operations-ui
+  Position: (-7600, 600)
+  Distance from in-game-hud: 2474 units
+  Connected via: Wings (CV) [direct edge]
+
+Carrier Waypoints
+  ID: carrier-waypoint-ui
+  Position: (-10365, -2540)
+  Distance from in-game-hud: 5756 units
+  Connected via: Flight Paths (CV) [direct edge]
+
+Carrier Fuel/Ammo
+  ID: carrier-resource-ui
+  Position: (-7600, 1400)
+  Distance from in-game-hud: 2778 units
+  Connected via: Fuel/Ammo (CV) [direct edge]
+
+Sonar Detection
+  ID: sonar-detection-ui
+  Position: (-10240, -3780)
+  Distance from in-game-hud: 6300 units
+  Connected via: Sonar (SS) [direct edge]
+
+====================================================================================================
+PORT ECONOMY/CREW/MISSION NODES RELATIVE TO PORT-SERVICES-INTERFACE
+====================================================================================================
+
+Economy Tab
+  Position: (630, -2960)
+  Distance from port-services: 4705 units
+  Status: DIRECT TAB (connected)
+
+Crew Tab
+  Position: (1830, -2960)
+  Distance from port-services: 3917 units
+  Status: DIRECT TAB (connected)
+
+Missions Tab
+  Position: (2430, -2960)
+  Distance from port-services: 3609 units
+  Status: DIRECT TAB (connected)
+
+In-Port Inventory
+  Position: (1200, -1800)
+  Distance from port-services: 3525 units
+  Status: NOT DIRECTLY CONNECTED (sub-interface)
+
+Crew Library
+  Position: (5700, 1700)
+  Distance from port-services: 2182 units
+  Status: NOT DIRECTLY CONNECTED (sub-interface)
+
+Crew Training
+  Position: (6300, 600)
+  Distance from port-services: 2266 units
+  Status: NOT DIRECTLY CONNECTED (sub-interface)
+
+Marketplace
+  Position: (180, 2180)
+  Distance from port-services: 4329 units
+  Status: NOT DIRECTLY CONNECTED (sub-interface)

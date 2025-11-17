@@ -1,0 +1,68 @@
+====================================================================================================
+3. MAJOR HUB ANALYSIS - in-game-hud, port-services-interface, port-docking
+====================================================================================================
+
+----------------------------------------------------------------------------------------------------
+HUB: IN-GAME-HUD
+  Position: (-5200, 0)
+  Type: text
+----------------------------------------------------------------------------------------------------
+
+  INCOMING EDGES (2 total):
+    FROM loading-screen                      AT (  -8080,   -5480) DIST:    6191 [Spawns At Sea]
+    FROM port-services-interface             AT (   4060,     260) DIST:    9264 [Undock → At Sea]
+
+  OUTGOING EDGES (22 total):
+    TO   carrier-waypoint-ui                 AT ( -10365,   -2540) DIST:    5756 [Flight Paths (CV)]
+    TO   sonar-detection-ui                  AT ( -10240,   -3780) DIST:    6300 [Sonar (SS)]
+    TO   shell-type-selector                 AT (  -8980,   -3780) DIST:    5346 [Right Click Ammo]
+    TO   carrier-operations-ui               AT (  -7600,     600) DIST:    2474 [Wings (CV)]
+    TO   carrier-resource-ui                 AT (  -7600,    1400) DIST:    2778 [Fuel/Ammo (CV)]
+    TO   submarine-warfare-ui                AT (  -6900,    1700) DIST:    2404 [Q/E Depth (SS)]
+    TO   camera-controls                     AT (  -6200,      30) DIST:    1000 [Mouse/Scroll]
+    TO   crew-assignment-at-sea              AT (  -6100,    1560) DIST:    1801 [Tab (Emergency)]
+    TO   gunnery-control                     AT (  -5495,   -3260) DIST:    3273 [1-8 Keys]
+    TO   ship-controls                       AT (  -5200,   -1200) DIST:    1200 [WASD]
+    TO   waypoint-system                     AT (  -5200,    1200) DIST:    1200 [Right Click]
+    TO   multidomain-radar-ui                AT (  -5200,    2400) DIST:    2400 [Threat Radar]
+    TO   ship-status-panel                   AT (  -4000,       0) DIST:    1200 [Always Visible]
+    TO   inventory-at-sea                    AT (  -3640,     900) DIST:    1801 [I Key (View Only)]
+    TO   armor-penetration-ui                AT (  -3500,    1700) DIST:    2404 [When Firing]
+    TO   damage-zones-ui                     AT (  -2800,     600) DIST:    2474 [When Hit]
+    TO   fire-flood-management               AT (  -2800,    1400) DIST:    2778 [F Key]
+    TO   extraction-status-at-sea            AT (  -2780,   -3650) DIST:    4379 [Cargo Value Display]
+    TO   mission-tracker-at-sea              AT (  -1440,   -3580) DIST:    5192 [M Key]
+    TO   permadeath-display                  AT (  -1360,    2900) DIST:    4812 [Ship Lost]
+    TO   port-docking                        AT (   -440,     680) DIST:    4808 [Approach Port]
+    TO   settings-hub                        AT (   2500,   -4000) DIST:    8677 [ESC]
+
+----------------------------------------------------------------------------------------------------
+HUB: PORT-SERVICES-INTERFACE
+  Position: (4060, 260)
+  Type: text
+----------------------------------------------------------------------------------------------------
+
+  INCOMING EDGES (2 total):
+    FROM port-docking                        AT (   -440,     680) DIST:    4520 [Docked → Port Menu]
+    FROM extraction-review-in-port           AT (   4700,   -1800) DIST:    2157 [Continue]
+
+  OUTGOING EDGES (6 total):
+    TO   in-game-hud                         AT (  -5200,       0) DIST:    9264 [Undock → At Sea]
+    TO   port-tab-economy                    AT (    630,   -2960) DIST:    4705 [Tab 1: Trading]
+    TO   port-tab-maintenance                AT (   1230,   -2960) DIST:    4287 [Tab 2: Maintenance]
+    TO   port-tab-crew                       AT (   1830,   -2960) DIST:    3917 [Tab 3: Crew]
+    TO   port-tab-missions                   AT (   2430,   -2960) DIST:    3609 [Tab 4: Missions]
+    TO   port-tab-diplomacy                  AT (   3030,   -2960) DIST:    3381 [Tab 5: Diplomacy]
+
+----------------------------------------------------------------------------------------------------
+HUB: PORT-DOCKING
+  Position: (-440, 680)
+  Type: text
+----------------------------------------------------------------------------------------------------
+
+  INCOMING EDGES (2 total):
+    FROM in-game-hud                         AT (  -5200,       0) DIST:    4808 [Approach Port]
+    FROM extraction-status-at-sea            AT (  -2780,   -3650) DIST:    4922 [Return to Port]
+
+  OUTGOING EDGES (1 total):
+    TO   port-services-interface             AT (   4060,     260) DIST:    4520 [Docked → Port Menu]

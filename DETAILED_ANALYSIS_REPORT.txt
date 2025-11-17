@@ -1,0 +1,49 @@
+COMPREHENSIVE CANVAS LAYOUT ANALYSIS - FINAL REPORT
+====================================================================================================
+
+IN-GAME-HUD CONNECTION QUALITY:
+  Total Edges: 22
+  Properly positioned (< 2500 units): 11
+  Acceptable (2500-5000 units): 6
+  POORLY POSITIONED (> 5000 units): 5
+
+POORLY POSITIONED EDGES FROM IN-GAME-HUB:
+  settings-hub: 8677 units (8.7km) [ESC]
+  sonar-detection-ui: 6300 units (6.3km) [Sonar (SS)]
+  carrier-waypoint-ui: 5756 units (5.8km) [Flight Paths (CV)]
+  shell-type-selector: 5346 units (5.3km) [Right Click Ammo]
+  mission-tracker-at-sea: 5192 units (5.2km) [M Key]
+
+
+PORT-SERVICES-INTERFACE CONNECTION QUALITY:
+  Total Edges: 5
+  Properly positioned (< 3500 units): 1
+  POORLY POSITIONED (> 3500 units): 4
+
+POORLY POSITIONED EDGES FROM PORT-SERVICES:
+  port-tab-economy: 4705 units (4.7km) [Tab 1: Trading]
+  port-tab-maintenance: 4287 units (4.3km) [Tab 2: Maintenance]
+  port-tab-crew: 3917 units (3.9km) [Tab 3: Crew]
+  port-tab-missions: 3609 units (3.6km) [Tab 4: Missions]
+
+
+PORT-DOCKING POSITION:
+  Position: (-440, 680)
+  Distance to in-game-hud: 4808 units (4.8km) [Acceptable]
+  Distance to port-services: 4520 units (4.5km) [Acceptable]
+
+
+CLASS-SPECIFIC SYSTEMS POSITIONING:
+  Submarine Depth Control: 2404 units - OK
+  Sonar Detection: 6300 units - POOR
+  Carrier Operations: 2474 units - OK
+  Carrier Waypoint Planning: 5756 units - POOR
+  Carrier Fuel/Ammo: 2778 units - OK
+
+
+KEY PROBLEMS TO FIX:
+1. settings-hub: 8.7km from in-game-hud (should be < 1km)
+2. sonar-detection-ui: 6.3km from in-game-hud (should be < 3km from submarine-warfare)
+3. carrier-waypoint-ui: 5.8km from in-game-hud (should be < 3km from carrier ops)
+4. shell-type-selector: 5.3km from in-game-hud (should be < 1km)
+5. mission-tracker-at-sea: 5.2km from in-game-hud (should be < 2km)
