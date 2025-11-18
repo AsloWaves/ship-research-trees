@@ -264,72 +264,142 @@ Phase 3 is massive and will be broken into sub-phases:
 
 ---
 
-## 🌍 System Breakdown: Zone System
+## 🌍 System Breakdown: Open World & Ship Tier Risk System
 
-### Tier 1-10 Zones
+### Ship Tier-Based Permadeath (T1-T10)
 **Status**: 📋 PLANNED (Phase 3B)
 
-### Zone Characteristics
+### Core Design Philosophy
 
-**Note**: Ship tier determines base permadeath risk. Zone tier adds environmental hazards and additional penalties.
+**Open World Exploration**:
+- Entire map explorable from day one by all players
+- No zone-based restrictions or tier gates
+- Ship tier determines permadeath risk, NOT location
+- Players discover dangerous areas organically through exploration
 
-#### Tier 1-2: Safe Waters (Tutorial/Starting Zones)
-- **Risk**: None (0% ship/crew card permadeath regardless of ship tier)
-- **Sailor Casualties**: Minimal (damage-based, replaceable)
-- **Rewards**: Low (basic loot, low credits)
-- **NPCs**: Easy (patrol boats, light merchants)
-- **PvP**: Restricted (safe zone mechanics)
-- **Environment**: Calm, good visibility
+**Ship Tier Determines Everything**:
+- **T1-T5 ships**: 0% permadeath (completely safe everywhere on map)
+- **T6 ships**: 10% ship/crew card permadeath on destruction
+- **T7 ships**: 20% ship/crew card permadeath on destruction
+- **T8 ships**: 40% ship/crew card permadeath on destruction
+- **T9 ships**: 60% ship/crew card permadeath on destruction
+- **T10 ships**: 100% permadeath (GUARANTEED TOTAL LOSS)
 
-#### Tier 3-4: Contested Waters
-- **Risk**: Low (0% ship/crew card permadeath for T1-T5 ships)
-- **Sailor Casualties**: Low-Moderate (replaceable at ports)
-- **Rewards**: Moderate (better loot, decent credits)
-- **NPCs**: Moderate (destroyers, light cruisers)
-- **PvP**: Allowed (no penalties for fighting)
-- **Environment**: Occasional weather
+**Key Principle**: Location does NOT modify permadeath rates. Risk is purely ship-tier-based.
 
-#### Tier 5: The Threshold
-- **Risk**: Moderate (0% ship/crew card permadeath - last fully safe tier)
-- **Sailor Casualties**: Moderate (replaceable, but more expensive to replace)
-- **Rewards**: Good (quality loot, good credits)
-- **NPCs**: Challenging (heavy cruisers, small fleets)
-- **PvP**: Encouraged (loot incentives)
-- **Environment**: Frequent weather
-- **Note**: T1-T5 ships completely safe, but T6+ ships face base permadeath risk
+---
 
-#### Tier 6-7: Dangerous Waters
-- **Risk**: First Permadeath Zone (T6 ships: 10%, T7 ships: 20% base permadeath)
-- **Crew Card Permadeath**: Independent rolls per card (same % as ships)
-- **Sailor Casualties**: High (frequent replacements needed)
-- **Rewards**: Excellent (rare loot, high credits)
-- **NPCs**: Difficult (battleships, carrier groups)
-- **PvP**: Intense (high-value targets)
-- **Environment**: Harsh weather, low visibility
+### Ship Tier Risk Profiles
 
-#### Tier 8-9: Death Waters
-- **Risk**: Extreme (T8 ships: 40%, T9 ships: 60% base permadeath)
-- **Crew Card Permadeath**: Very high loss rates (40-60% per card)
-- **Sailor Casualties**: Extreme (heavy replacement costs)
-- **Rewards**: Exceptional (legendary loot, massive credits)
-- **NPCs**: Elite (super-battleships, task forces)
-- **PvP**: Ruthless (no mercy, high stakes)
-- **Environment**: Storms, night combat
+#### T1-T5 Ships: Safe Exploration Era
+- **Permadeath Risk**: 0% everywhere on map (completely safe)
+- **Sailor Casualties**: Damage-based (replaceable at ports)
+- **Player Experience**: Learn mechanics, explore freely, farm credits safely
+- **Optimal Use**: Scouting, training, credit farming, safe operations
+- **Economic Impact**: No ship/crew card loss risk
+- **PvP Dynamics**: Low-value targets, often ignored by veterans
 
-#### Tier 10: The Abyss
-- **Risk**: ABSOLUTE (100% ship & crew card permadeath - GUARANTEED TOTAL LOSS)
-- **Sailor Casualties**: 100% (irrelevant since all crew cards destroyed)
-- **Rewards**: Unmatched (unique items, enormous credits)
-- **NPCs**: Nightmare (super-units, fleet battles)
-- **PvP**: Total War (everyone vs everyone)
-- **Environment**: Apocalyptic (hurricanes, darkness)
-- **Warning**: Only enter with expendable ships/crews - elite assets will be lost
+#### T6-T7 Ships: First Permadeath Risk
+- **Permadeath Risk**: 10-20% on destruction
+- **Sailor Casualties**: Frequent (higher replacement costs)
+- **Player Experience**: First meaningful stakes, insurance becomes important
+- **Optimal Use**: Quality missions, contested area operations, mid-tier PvP
+- **Economic Impact**: Manageable losses, backup ships recommended
+- **PvP Dynamics**: Valuable targets, attracts PvP attention
 
-### Zone Transitions
-- **Visible Boundaries**: Clear zone markings
-- **Warning System**: UI alerts when entering higher tier
-- **Gradual Escalation**: Zones arranged geographically
-- **Strategic Positioning**: High-tier zones in center of map
+#### T8-T9 Ships: High-Stakes Operations
+- **Permadeath Risk**: 40-60% on destruction
+- **Sailor Casualties**: Heavy (expensive to maintain)
+- **Player Experience**: Extreme tension, insurance mandatory, backup ships essential
+- **Optimal Use**: Elite missions, dangerous area operations, high-tier PvP
+- **Economic Impact**: Devastating losses possible, veteran players only
+- **PvP Dynamics**: High-value targets, aggressively hunted
+
+#### T10 Ships: Ultimate Risk
+- **Permadeath Risk**: 100% GUARANTEED LOSS if destroyed
+- **Sailor Casualties**: Irrelevant (all crew cards destroyed)
+- **Player Experience**: Server-defining presence, accept total loss
+- **Optimal Use**: Strategic operations, server events, end-game content
+- **Economic Impact**: Complete asset loss, bring expendable builds only
+- **PvP Dynamics**: Entire server hunts T10 ships, server-wide alerts
+
+---
+
+### Map Design (Hidden Structure - Design Internal)
+
+**Area Characteristics** (not advertised to players):
+
+**Safe Waters** (near major ports):
+- Easy NPCs, basic resources, calm weather
+- Tutorial missions, new player content
+- Port gun protection within 10km
+
+**Protected Waters** (national territory):
+- Moderate NPCs, common resources, occasional weather
+- Standard missions, early progression content
+- Friendly NPC patrols may assist
+
+**Contested Waters** (border regions):
+- Challenging NPCs, valuable resources, frequent storms
+- Dangerous missions, mid-tier content
+- No NPC protection, active PvP zones
+
+**Dangerous Waters** (deep ocean):
+- Elite NPCs, rare resources, harsh weather
+- Elite missions, high-tier content
+- Ruthless PvP, experienced player territory
+
+**Enemy Core Waters** (opposing faction capitals):
+- Nightmare NPCs, unique resources, apocalyptic conditions
+- Strategic missions, end-game content
+- Total war PvP, T10 operations
+
+**Purpose**: Creates natural difficulty progression without formal zones.
+
+---
+
+### Distance-Based Systems
+
+**Respawn Mechanics**:
+- Near friendly ports (0-50km): Fast return
+- Mid-range (50-150km): Moderate return
+- Far from ports (150-300km): Long return
+- Deep waters (300km+): Very long return
+- **No impact on permadeath rates**
+
+**Emergency Beacons**:
+- Effectiveness scales with distance from friendly ports
+- Near ports: 95% rescue chance, 2-5 min response
+- Deep waters: 10% rescue chance, 30+ min response
+- **Creates tension without modifying permadeath**
+
+**Insurance System**:
+- T6-T10 ships can purchase insurance at ports
+- Distance multiplier increases cost for long-range expeditions
+- Reduces permadeath risk (e.g., T8: 40% → 25%)
+- **Base ship tier rates unchanged**
+
+---
+
+### Player Warning Systems
+
+**Undocking Warnings** (T6+ ships):
+- Warning triggers when attempting to undock with high-tier ship
+- Displays permadeath risk, estimated value at risk
+- Offers insurance purchase option
+- Mandatory confirmation for T8+ ships
+
+**HUD Risk Indicators** (always visible at sea):
+- Current permadeath risk percentage
+- Distance from nearest friendly port
+- Beacon effectiveness estimate
+- Respawn return time estimate
+
+**Audio Cues**:
+- Tense music when undocking T9-T10 ships
+- Alert sounds for high-value ship departures
+
+**Purpose**: Constant risk awareness without zone boundaries.
 
 ---
 

@@ -435,8 +435,8 @@ Individual sailors die from combat damage **separate from crew card permadeath**
 - **Secured Loot**: Safe in port inventory
 
 ### Player Experience
-- Clear warnings before entering T6+ permadeath zones
-- Confirmation dialogs for T6+ entry
+- Clear warnings when undocking with T6+ ships
+- Confirmation dialogs when undocking T6+ ships
 - Death screens show breakdown of all three loss types
 - Memorial system for permanently lost ships and crew cards
 - Insurance system to reduce permadeath risk

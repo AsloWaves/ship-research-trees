@@ -1,5 +1,7 @@
 # Game Design Document (GDD)
-## WOS2.3 Project - World of Ships: Tactical Naval MMO
+## Fathoms Deep - Tactical Naval MMO
+
+> **⚠️ LEGACY DOCUMENT**: This is an older version of the GDD. For current design documentation, see [[GDD-Overview]] and individual system documents in the GDD folder structure.
 
 > **Living Document**: This GDD evolves with the project. Update sections as features are implemented, tested, and refined.
 
@@ -40,13 +42,15 @@
 **Example Expedition**:
 *Captain Schmidt (Germany, Tier 2 Cruiser Königsberg) spots a damaged American destroyer limping toward Pearl Harbor with visible cargo containers. Despite Germany-USA peace treaty, Schmidt decides to attack for the valuable loot. Combat succeeds - destroyer crew evacuates, Schmidt salvages rare fire control modules and 20 tons of chromium ore. However, his reputation with USA drops significantly, restricting access to American ports and creating future diplomatic complications. The loot is only secured when Königsberg safely reaches German-controlled port.*
 
-**High-Stakes Progression**: 
-- **Tier 1-4**: Ship recovery guaranteed (100%), escalating module damage risk
-- **Tier 5**: Last safe tier, 30% crew casualty chance, critical threshold
-- **Tier 6-9**: Permadeath begins - 30% ship loss chance, 40-60% crew casualties
-- **Tier 10**: ULTIMATE RISK - 100% ship and crew permadeath
-- **All Tiers**: Valuable cargo and progression always at risk
-- **Risk Scaling**: Higher tier ships face greater danger even in same zone tiers
+**High-Stakes Progression (Ship Tier-Based)**:
+- **Tier 1-5**: Ship/crew card recovery guaranteed (0% permadeath everywhere)
+- **Tier 6**: First permadeath risk - 10% ship/crew card loss
+- **Tier 7**: Escalating risk - 20% ship/crew card loss
+- **Tier 8**: High risk - 40% ship/crew card loss
+- **Tier 9**: Extreme risk - 60% ship/crew card loss
+- **Tier 10**: ULTIMATE RISK - 100% ship and crew card permadeath (GUARANTEED LOSS)
+- **All Tiers**: Sailor casualties (replaceable) and cargo/loot always at risk
+- **Risk Principle**: Ship tier determines permadeath risk, NOT location
 
 ### Player Fantasy - "The Captain's Journey"
 

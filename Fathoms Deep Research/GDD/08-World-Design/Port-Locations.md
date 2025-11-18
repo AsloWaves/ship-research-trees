@@ -452,7 +452,7 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 #### Pearl Harbor (USA)
 **Location**: Hawaii, Central Pacific
 **Faction**: USA
-**Zone Tier**: T0 (Core National Waters)
+**Area Type**: Core National Waters
 
 **Facilities**:
 - ✓ Advanced carrier repair facilities
@@ -485,7 +485,7 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 #### Scapa Flow (UK)
 **Location**: Orkney Islands, Scotland
 **Faction**: UK
-**Zone Tier**: T0 (Core National Waters)
+**Area Type**: Core National Waters
 
 **Facilities**:
 - ✓ Home Fleet anchorage
@@ -516,7 +516,7 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 #### Tokyo Bay (Japan)
 **Location**: Japan Home Islands
 **Faction**: Japan
-**Zone Tier**: T0 (Core National Waters)
+**Area Type**: Core National Waters
 
 **Facilities**:
 - ✓ Japanese naval headquarters
@@ -547,7 +547,7 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 #### Kiel Canal (Germany)
 **Location**: Northern Germany
 **Faction**: Germany
-**Zone Tier**: T0 (Core National Waters)
+**Area Type**: Core National Waters
 
 **Facilities**:
 - ✓ U-boat construction pens
@@ -580,7 +580,7 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 #### Midway Island (USA)
 **Location**: North Pacific
 **Faction**: USA
-**Zone Tier**: T1 (Protected Territorial Waters)
+**Area Type**: Protected Territorial Waters
 
 **Facilities**:
 - ✓ Forward refueling station
@@ -609,7 +609,7 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 #### Gibraltar (UK)
 **Location**: Mediterranean entrance
 **Faction**: UK
-**Zone Tier**: T1 (Protected Territorial Waters)
+**Area Type**: Protected Territorial Waters
 
 **Facilities**:
 - ✓ Strategic fortress
@@ -639,7 +639,7 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 #### Truk Lagoon (Japan)
 **Location**: Caroline Islands
 **Faction**: Japan
-**Zone Tier**: T1 (Protected Territorial Waters)
+**Area Type**: Protected Territorial Waters
 
 **Facilities**:
 - ✓ Massive fleet anchorage
@@ -671,7 +671,7 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 #### Wake Island (USA)
 **Location**: Central Pacific
 **Faction**: Contested (USA/Japan)
-**Zone Tier**: T2 (Contested Border Waters)
+**Area Type**: Contested Border Waters
 
 **Facilities**:
 - ✓ Forward operating base
@@ -705,7 +705,7 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 #### Malta (UK)
 **Location**: Central Mediterranean
 **Faction**: UK (heavily contested)
-**Zone Tier**: T2 (Contested Border Waters)
+**Area Type**: Contested Border Waters
 
 **Facilities**:
 - ✓ Fortress island
@@ -742,7 +742,7 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 #### Bear Island Weather Station
 **Location**: Barents Sea, Arctic
 **Faction**: Neutral (contested)
-**Zone Tier**: T3 (Disputed Ocean Areas)
+**Area Type**: Disputed Ocean Areas
 
 **Facilities**:
 - ✓ Weather station

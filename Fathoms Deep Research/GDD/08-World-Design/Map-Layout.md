@@ -63,7 +63,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Pearl Harbor (Hawaii)**
 - **Location**: Central Pacific (21.3°N, 157.9°W)
-- **Zone Tier**: T0 (Core National Waters)
+- **Area Type**: Core National Waters
 - **Facilities**:
   - Advanced carrier repair facilities
   - Submarine base
@@ -76,7 +76,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Midway Island**
 - **Location**: North Pacific (28.2°N, 177.4°W)
-- **Zone Tier**: T1 (Protected Territorial Waters)
+- **Area Type**: Protected Territorial Waters
 - **Facilities**:
   - Forward refueling station
   - Basic repair facilities
@@ -112,7 +112,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Tokyo Bay (Japan Home Islands)**
 - **Location**: Western Pacific (35.7°N, 139.8°E)
-- **Zone Tier**: T0 (Core National Waters)
+- **Area Type**: Core National Waters
 - **Facilities**:
   - Japanese naval headquarters
   - Advanced shipbuilding yards
@@ -125,7 +125,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Truk Lagoon (Chuuk)**
 - **Location**: Caroline Islands (7.4°N, 151.9°E)
-- **Zone Tier**: T1 (Protected Territorial Waters)
+- **Area Type**: Protected Territorial Waters
 - **Facilities**:
   - Massive fleet anchorage
   - Forward repair facilities
@@ -137,7 +137,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Rabaul (New Britain)**
 - **Location**: Bismarck Archipelago (4.2°S, 152.2°E)
-- **Zone Tier**: T1 (Protected Territorial Waters)
+- **Area Type**: Protected Territorial Waters
 - **Facilities**:
   - Major air base
   - Submarine base
@@ -148,7 +148,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Okinawa**
 - **Location**: Ryukyu Islands (26.5°N, 128.0°E)
-- **Zone Tier**: T1 (Protected Territorial Waters)
+- **Area Type**: Protected Territorial Waters
 - **Facilities**:
   - Forward operating base
   - Supply depot
@@ -253,7 +253,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **New York Harbor (USA)**
 - **Location**: East Coast USA (40.7°N, 74.0°W)
-- **Zone Tier**: T0 (Core National Waters)
+- **Area Type**: Core National Waters
 - **Facilities**:
   - Industrial shipbuilding center
   - Convoy assembly point
@@ -265,7 +265,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Hampton Roads (Norfolk, Virginia)**
 - **Location**: East Coast USA (36.9°N, 76.3°W)
-- **Zone Tier**: T0 (Core National Waters)
+- **Area Type**: Core National Waters
 - **Facilities**:
   - US Navy Atlantic Fleet base
   - Carrier operations
@@ -279,7 +279,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Scapa Flow (Orkney Islands, Scotland)**
 - **Location**: North Atlantic (59.0°N, 3.0°W)
-- **Zone Tier**: T0 (Core National Waters)
+- **Area Type**: Core National Waters
 - **Facilities**:
   - Home Fleet anchorage
   - Secure deep-water anchorage
@@ -291,7 +291,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Liverpool (England)**
 - **Location**: West Coast England (53.4°N, 3.0°W)
-- **Zone Tier**: T0 (Core National Waters)
+- **Area Type**: Core National Waters
 - **Facilities**:
   - Major port and industrial center
   - Convoy assembly point
@@ -302,7 +302,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Gibraltar (British Overseas Territory)**
 - **Location**: Southern Spain (36.1°N, 5.4°W)
-- **Zone Tier**: T1 (Protected Territorial Waters)
+- **Area Type**: Protected Territorial Waters
 - **Facilities**:
   - Strategic fortress
   - Mediterranean gateway
@@ -316,7 +316,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Kiel Canal (Germany)**
 - **Location**: Northern Germany (54.3°N, 10.1°E)
-- **Zone Tier**: T0 (Core National Waters)
+- **Area Type**: Core National Waters
 - **Facilities**:
   - U-boat construction pens
   - Baltic Sea access
@@ -328,7 +328,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Brest (Occupied France)**
 - **Location**: Western France (48.4°N, 4.5°W)
-- **Zone Tier**: T1 (Protected Territorial Waters)
+- **Area Type**: Protected Territorial Waters
 - **Facilities**:
   - Atlantic raiding base
   - Surface fleet operations
@@ -340,7 +340,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Wilhelmshaven (Germany)**
 - **Location**: North Sea (53.5°N, 8.1°E)
-- **Zone Tier**: T0 (Core National Waters)
+- **Area Type**: Core National Waters
 - **Facilities**:
   - Major naval base
   - Battleship construction
@@ -456,7 +456,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Malta (British Crown Colony)**
 - **Location**: Central Mediterranean (35.9°N, 14.5°E)
-- **Zone Tier**: T1 (Protected Territorial Waters) - Heavily besieged
+- **Area Type**: Protected Territorial Waters - Heavily besieged
 - **Facilities**:
   - Fortress island
   - Submarine base
@@ -468,7 +468,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Alexandria (Egypt)**
 - **Location**: Eastern Mediterranean (31.2°N, 29.9°E)
-- **Zone Tier**: T1 (Protected Territorial Waters)
+- **Area Type**: Protected Territorial Waters
 - **Facilities**:
   - Eastern Mediterranean fleet base
   - Desert campaign supply hub
@@ -480,7 +480,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Gibraltar (British Fortress)**
 - **Location**: Mediterranean entrance (36.1°N, 5.4°W)
-- **Zone Tier**: T1 (Protected Territorial Waters)
+- **Area Type**: Protected Territorial Waters
 - **Facilities**:
   - Strategic fortress
   - Mediterranean gateway
@@ -494,7 +494,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Taranto (Italy)**
 - **Location**: Southern Italy (40.5°N, 17.2°E)
-- **Zone Tier**: T1 (Protected Territorial Waters)
+- **Area Type**: Protected Territorial Waters
 - **Facilities**:
   - Italian naval headquarters
   - Major fleet anchorage
@@ -505,7 +505,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Toulon (Occupied France)**
 - **Location**: Southern France (43.1°N, 5.9°E)
-- **Zone Tier**: T1 (Protected Territorial Waters)
+- **Area Type**: Protected Territorial Waters
 - **Facilities**:
   - French naval base under Axis control
   - Mediterranean fleet base
@@ -607,7 +607,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Murmansk (Soviet Union)**
 - **Location**: Arctic Russia (68.9°N, 33.1°E)
-- **Zone Tier**: T1 (Protected Territorial Waters) - Neutral but critical
+- **Area Type**: Protected Territorial Waters - Neutral but critical
 - **Facilities**:
   - Ice-free Arctic port
   - Convoy destination
@@ -618,7 +618,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Scapa Flow (UK)**
 - **Location**: Orkney Islands (59.0°N, 3.0°W)
-- **Zone Tier**: T0 (Core National Waters)
+- **Area Type**: Core National Waters
 - **Facilities**:
   - Convoy departure point
   - Home Fleet base

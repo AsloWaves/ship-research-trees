@@ -304,15 +304,15 @@ These features are planned expansions to the biome system, adding visual and tac
 #### Zone System Integration
 **Mechanism**: Each zone tier has recommended biome configurations
 
-**Zone-Biome Mapping**:
-- **T0 Zones**: Home nation biomes (e.g., USA ports use Pacific Tropical)
-- **T1 Zones**: Regional biomes (e.g., Midway uses North Pacific)
-- **T2 Zones**: Contested biomes (transitional, mixed)
-- **T3-T4 Zones**: Open ocean biomes (deep ocean, featureless)
-- **T5 Zones**: Enemy nation biomes (e.g., Tokyo Bay uses Japan biome)
+**Area-Biome Mapping** (internal design):
+- **Core National Waters**: Home nation biomes (e.g., USA ports use Pacific Tropical)
+- **Protected Waters**: Regional biomes (e.g., Midway uses North Pacific)
+- **Contested Areas**: Transitional biomes (mixed characteristics)
+- **Deep Ocean Areas**: Open ocean biomes (deep, featureless)
+- **Enemy Core Waters**: Enemy nation biomes (e.g., Tokyo Bay uses Japan biome)
 
 **Dynamic Biome Switching**:
-- When camera enters new zone, load that zone's biome configuration
+- When camera enters new area, load that area's biome configuration
 - Smooth transition over 10-20 seconds
 - Blend between biome color palettes
 
