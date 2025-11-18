@@ -289,9 +289,10 @@ Unlike traditional MMOs, crew cards have **zero maintenance**:
 - Can only fit on T7+ ships (weight restriction)
 - Provides 125% efficiency on Level 120 turrets (over-leveling bonus)
 - **Investment**: 400+ hours of combat + 5M credits training
-- Fights in T8 zones (30% permadeath risk per card)
-- **Ship destroyed in battle** → 30% chance crew card dies forever
+- Fights in T8 zones (40% crew card permadeath risk per card)
+- **Ship destroyed in battle** → 40% chance crew card dies forever
 - **Card survives** → transfers to replacement T8 battleship
+- **Sailor casualties separate** → even surviving cards lose sailors (replaceable)
 - Represents months of investment at risk
 
 **Outcome**: High-risk, high-reward gameplay for veteran players.

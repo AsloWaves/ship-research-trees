@@ -33,7 +33,7 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 - **Example Ships**: USS Gearing (T4), USS Sumner (T5), Advanced concepts (T6)
 - **Characteristics**: Enhanced firepower, better survivability
 - **Crew**: 75-100 crew members
-- **Death Penalty**: T6 = 30% permadeath risk begins
+- **Death Penalty**: T6 = 10% ship/crew card permadeath risk begins
 - **Optimal Zones**: T2-T3 (contested waters)
 
 #### **T7-T10 Destroyers - Elite Operations**
@@ -59,7 +59,7 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 - **Example Ships**: USS Des Moines (T4), Advanced concepts (T5-T6)
 - **Characteristics**: Superior firepower, good armor
 - **Crew**: 150-200 crew members
-- **Death Penalty**: T6 = 30% permadeath
+- **Death Penalty**: T6 = 10% ship/crew card permadeath
 - **Role**: Fleet support, surface combat dominance
 
 #### **T7-T10 Cruisers - Ultimate Cruisers**
@@ -85,7 +85,7 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 - **Characteristics**: Speed + firepower, balanced design
 - **Crew**: 200-250 crew members
 - **Main Armament**: 9-12 guns (14"-16" caliber)
-- **Death Penalty**: T6 = 30% permadeath
+- **Death Penalty**: T6 = 10% ship/crew card permadeath
 - **Role**: Fleet flagship, capital ship duels
 
 #### **T7-T10 Battleships - Super Battleships**

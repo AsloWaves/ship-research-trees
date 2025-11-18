@@ -89,43 +89,46 @@ Module replacement costs create minor economic pressure. Players learn to value 
 ### Tier 5: The Critical Threshold
 
 #### Risk Profile
-- **Ship Recovery**: 100% guaranteed (LAST fully safe tier)
-- **Crew Casualties**: 30% chance of permanent crew deaths
+- **Ship Permadeath**: 0% (LAST fully safe tier - ships always recovered)
+- **Crew Card Permadeath**: 0% (crew cards completely safe)
+- **Sailor Casualties**: Variable based on damage taken (replaceable at ports)
 - **Module Damage**: 40% destruction chance per module
 - **Cargo/Loot**: Always at risk
-- **Psychological**: First real stakes, decision point for risk-averse players
+- **Psychological**: Last safe tier before true permadeath begins at T6
 
 #### Purpose
-**Introduction to real consequences and transition point to permadeath gameplay.**
+**Final safe zone for preparing high-level crews/ships before risking true permadeath.**
 
 **Player Experience:**
-- First exposure to crew permadeath
-- Emotional investment in named crew members at risk
-- Strategic decision: Continue to higher tiers or stay in comfort zone?
-- Last tier where ship itself is safe
-- Significant but not catastrophic losses possible
+- Last tier to safely train Level 200 veteran crew cards
+- Strategic decision: Continue to T6+ permadeath or stay in safety?
+- Sailor casualties introduce recovery costs without permanent loss
+- Learn damage management before entering permadeath tiers
+- Last tier where ship and crew cards are guaranteed safe
 
-**Crew Casualty Mechanics:**
-When ship destroyed in Tier 5:
-- Roll for each crew member individually: 30% death chance
-- Average 3-5 crew lost from typical 10-person crew
-- Veteran crew (with skills) disproportionately painful to lose
-- Specialized crew (rare skills) create harder decisions about risk
+**Sailor Casualty Mechanics (NOT Permadeath):**
+When ship takes damage in Tier 5:
+- Individual sailors die based on damage severity
+- Reduces crew card effectiveness (e.g., 30/50 sailors = 60% performance)
+- **Can be replaced at ports for credits** - NOT permanent
+- Veteran crew cards (Level 100+) worth protecting despite repair costs
+- Creates economic pressure without devastating permanent loss
 
-**Why 30% Casualty Rate:**
-- High enough to create real anxiety
-- Low enough that total crew wipeout is unlikely
-- Forces players to value and develop crew
-- Introduces risk management thinking
+**Why T5 Has No Permadeath:**
+- Allows players to safely reach max crew levels (1-200)
+- Builds confidence before T6+ true permadeath
+- Economic pressure from sailor casualties teaches damage avoidance
+- Clear threshold: T1-T5 safe, T6+ permadeath begins
 
 **Design Rationale:**
-Tier 5 is the "sorting tier" where players discover their risk tolerance. Some will stay here indefinitely (valid strategy). Others will embrace higher-tier challenges. Both playstyles are legitimate.
+Tier 5 is the "final preparation tier" where players can safely maximize their assets before gambling them in T6+. It's the last forgiving environment while still teaching resource management through sailor casualties and module damage.
 
 **Strategic Considerations:**
-- Build veteran crews in safe tiers before risking them
-- Rotate crew assignments (don't risk best crew every expedition)
-- Balance crew development against potential loss
-- Understand that Tier 6+ eliminates ship safety net
+- Max out crew cards to Level 200 in T5 safety
+- Build wealth and insurance funds for T6+ operations
+- Learn damage mitigation before permadeath consequences
+- Test expensive ship builds without permanent loss risk
+- Understand that T6+ introduces 10% permadeath chance
 
 ---
 
@@ -133,104 +136,127 @@ Tier 5 is the "sorting tier" where players discover their risk tolerance. Some w
 
 #### Risk Profile (Graduated by Tier)
 
-**Tier 6: Introduction to Ship Permadeath**
-- **Ship Loss**: 30% permanent destruction chance
-- **Crew Casualties**: 40% death chance per crew member
-- **Module Destruction**: 50% loss chance
-- **Purpose**: First tier where ship itself at risk
+**Tier 6: Introduction to True Permadeath**
+- **Ship Permadeath**: 10% permanent destruction chance
+- **Crew Card Permadeath**: 10% entire card destroyed (all progress lost)
+- **Sailor Casualties**: Variable based on damage (replaceable at ports)
+- **Module Destruction**: 50% loss chance (modified by damage type/caliber)
+- **Purpose**: First tier where ships and crew cards face permanent loss
 
-**Tier 7: Moderate Permadeath Stakes**
-- **Ship Loss**: 40% permanent destruction chance
-- **Crew Casualties**: 50% death chance per crew member
-- **Module Destruction**: 60% loss chance
-- **Purpose**: Significant but manageable risk
+**Tier 7: Escalating Permadeath Risk**
+- **Ship Permadeath**: 20% permanent destruction chance
+- **Crew Card Permadeath**: 20% entire card destroyed
+- **Sailor Casualties**: Variable based on damage (replaceable)
+- **Module Destruction**: 60% loss chance (modified by damage type/caliber)
+- **Purpose**: Noticeable risk increase, serious consequences
 
 **Tier 8: High-Stakes Operations**
-- **Ship Loss**: 60% permanent destruction chance
-- **Crew Casualties**: 60% death chance per crew member
-- **Module Destruction**: 70% loss chance
-- **Purpose**: Serious commitment required
+- **Ship Permadeath**: 40% permanent destruction chance
+- **Crew Card Permadeath**: 40% entire card destroyed
+- **Sailor Casualties**: Variable based on damage (replaceable)
+- **Module Destruction**: 70% loss chance (modified by damage type/caliber)
+- **Purpose**: Major risk, devastating losses likely
 
-**Tier 9: Extreme Risk**
-- **Ship Loss**: 80% permanent destruction chance
-- **Crew Casualties**: 70% death chance per crew member
-- **Module Destruction**: 80% loss chance
-- **Purpose**: Only for experienced players accepting major risk
+**Tier 9: Extreme Risk Zone**
+- **Ship Permadeath**: 60% permanent destruction chance
+- **Crew Card Permadeath**: 60% entire card destroyed
+- **Sailor Casualties**: Variable based on damage (replaceable)
+- **Module Destruction**: 80% loss chance (modified by damage type/caliber)
+- **Purpose**: Near-certain loss on death, only for bold players
 
 #### Player Experience
-**Tiers 6-7**: "This ship could die, but I have reasonable survival chance"
-- Manageable anxiety
-- Insurance viable
-- Losses sting but recoverable
-- Learn permadeath management in graduated way
+**Tiers 6-7**: "My ship and crew cards could be lost, but I have good survival odds"
+- Manageable anxiety (10-20% risk)
+- First real stakes - losing Level 200 crew cards hurts
+- Insurance affordable and effective
+- Losses sting but recoverable with effort
+- Learn permadeath management incrementally
 
-**Tiers 8-9**: "I'm probably losing this ship if destroyed"
-- High anxiety during expeditions
-- Insurance expensive but valuable
-- Losses devastating but expected
-- Only take out when prepared for consequences
+**Tiers 8-9**: "I'm probably losing everything if I die"
+- High anxiety during expeditions (40-60% loss chance)
+- Insurance expensive but critical
+- Losses devastating and expected
+- Only bring expendable assets or accept total loss
+- Veterans only - requires mastery to justify risk
 
 #### Design Philosophy: The Risk Ladder
-Each tier increases stakes incrementally. Players naturally progress through tiers, building experience with permadeath mechanics before facing maximum consequences.
+Each tier doubles the permadeath chance from previous: 0% → 10% → 20% → 40% → 60% → 100%. This creates clear psychological thresholds where players decide their comfort level.
+
+**Three Separate Loss Systems:**
+1. **Ship Permadeath** (permanent) - Lose ship forever, must buy/build new one
+2. **Crew Card Permadeath** (permanent) - Lose card + all levels/progress, recruit new Level 1
+3. **Sailor Casualties** (replaceable) - Individual sailors die, pay credits to replace at port
 
 **Economic Pressure:**
-High permadeath rates create constant demand for replacement ships. Player economy revolves around:
-- Building/buying replacement ships
-- Developing new crews
-- Acquiring modules again
-- Insurance markets
+Permadeath creates constant demand:
+- Replacement ships needed (total loss)
+- New crew cards leveled from 1-200 (months of grinding)
+- Modules re-acquired (looted or purchased)
+- Sailor replacements (quick fix but adds up)
+- Insurance premiums (ongoing cost)
 
 **Strategic Depth:**
-- **Ship Selection**: Use expendable ships for risky missions
-- **Crew Management**: Rotate crews to avoid losing all veterans
-- **Insurance Decisions**: When to pay for coverage
-- **Mission Selection**: Only accept risks commensurate with potential reward
-- **Extraction Priorities**: Ship/crew survival vs. cargo value
+- **Ship Selection**: Use expendable ships for T8-9, save flagships for T6-7
+- **Crew Management**: Rotate crews, never risk all Level 200s at once
+- **Insurance Decisions**: Essential at T8-9, optional at T6-7
+- **Mission Selection**: Risk must justify reward
+- **Extraction Timing**: Extract early with surviving assets vs. push for more loot
 
 ---
 
-### Tier 10: Ultimate Risk
+### Tier 10: Ultimate Risk - Absolute Permadeath
 
 #### Risk Profile
-- **Ship Loss**: 100% GUARANTEED permanent destruction if destroyed
-- **Crew Casualties**: 100% GUARANTEED all crew killed if ship destroyed
-- **Module Destruction**: 100% all modules lost permanently
-- **Cargo/Loot**: Always at risk
-- **No Recovery**: ABSOLUTE PERMADEATH
+- **Ship Permadeath**: 100% GUARANTEED - ship permanently destroyed
+- **Crew Card Permadeath**: 100% GUARANTEED - ALL crew cards destroyed
+- **Sailor Casualties**: 100% - all sailors killed (irrelevant since cards destroyed)
+- **Module Destruction**: 100% - all modules permanently lost
+- **Cargo/Loot**: 100% - everything unextracted lost
+- **No Recovery**: ABSOLUTE TOTAL LOSS - no rolls, no mercy
 
 #### Purpose
-**Maximum stakes for legendary accomplishments and bragging rights.**
+**Maximum stakes zone - legendary accomplishments or catastrophic losses.**
 
 **Player Experience:**
-- Extreme anxiety and excitement
-- Every decision critical
-- Victories legendary
-- Losses devastating but expected
-- Status symbol (owning/operating Tier 10s demonstrates skill)
+- Extreme anxiety and adrenaline
+- Every second counts, every decision critical
+- Victories generate legendary player stories
+- Losses are devastating but fully expected
+- Status symbol: Owning/operating T10s demonstrates mastery
 
 **Design Philosophy: The Pinnacle**
-Tier 10 is not meant for regular play. It's the apex challenge for:
-- Special occasions and major operations
-- Experienced players seeking maximum thrill
-- Demonstrating elite skill and confidence
-- Creating legendary player stories
+Tier 10 is NOT for regular play. It exists for:
+- Once-in-a-lifetime special operations
+- Experienced veterans seeking ultimate thrill
+- Server-wide events and campaigns
+- Proving elite skill and nerves of steel
+- Creating memorable "I was there" moments
+
+**What You Lose at T10 (GUARANTEED if destroyed):**
+1. **Ship**: Your Yamato/Iowa/Bismarck - permanently gone
+2. **ALL Crew Cards**: Every Level 200 veteran card - months of progression erased
+3. **All Modules**: Every piece of equipment - full re-acquisition needed
+4. **Unextracted Cargo**: Whatever you were carrying - total loss
+5. **Time Investment**: Hundreds of hours of progression - reset to zero
 
 **Risk vs. Reward:**
-Tier 10 expeditions must offer commensurate rewards:
-- **Loot Quality**: Best modules, rarest resources, highest economic value
-- **Reputation Gains**: Massive reputation boosts for successes
-- **Achievement Recognition**: Special titles, cosmetics, server-wide announcements
-- **Historical Significance**: Famous ships (Yamato, Bismarck, Iowa) at Tier 10
+T10 zones must offer unmatched rewards to justify absolute risk:
+- **Loot Quality**: Legendary modules, ultra-rare resources, astronomical credits
+- **Reputation Gains**: Massive faction standing boosts for mere survival
+- **Achievement Recognition**: Server-wide announcements, special titles, unique cosmetics
+- **Historical Significance**: Command the most famous warships in history
+- **Bragging Rights**: "I survived T10 in a Yamato" = legendary status
 
-**When to Use Tier 10:**
-- Major server events or campaigns
-- High-value convoy escorts
-- Territorial conquest operations
-- Revenge missions against hated enemies
-- Final expedition before quitting game (YOLO mindset)
+**When Players Use Tier 10:**
+- Major server-wide campaigns (territory control, faction wars)
+- Revenge operations against hated rivals (emotional stakes)
+- High-stakes convoy protection (alliance obligations)
+- Special limited-time events (exclusive rewards)
+- "Going out with a bang" YOLO expeditions (retiring players)
+- Streaming/content creation (audience entertainment)
 
-**Insurance Considerations:**
-Even expensive insurance only reduces risk to 70-80%. No complete safety net exists. Players must accept potential for total loss.
+**Insurance at T10:**
+Even maximum insurance only reduces loss chance from 100% to ~70%. There is NO complete safety net. Players entering T10 must psychologically accept total loss as the baseline expectation, with survival as the miracle.
 
 ---
 
@@ -252,23 +278,34 @@ Insurance is an economic risk mitigation tool that reduces (but never eliminates
 
 **Tier 5 Insurance:**
 - **Cost**: 5,000 credits
-- **Effect**: Reduces crew casualty chance from 30% to 20%
-- **Use Case**: Low-cost protection for first permadeath tier
+- **Effect**: Reduces sailor casualty frequency (faster recovery)
+- **Use Case**: Low-cost for recovering crew card effectiveness quickly
+- **Note**: No permadeath at T5, so insurance only affects sailor replacement costs
 
-**Tier 6-7 Insurance:**
-- **Cost**: 30,000-50,000 credits
-- **Effect**: Reduces ship loss from 30-40% to 10-20%
-- **Use Case**: Moderate protection for early permadeath tiers
+**Tier 6 Insurance:**
+- **Cost**: 30,000 credits
+- **Effect**: Reduces ship/crew card permadeath from 10% to 5%
+- **Use Case**: Affordable protection for first permadeath tier, halves already-low risk
 
-**Tier 8-9 Insurance:**
-- **Cost**: 150,000-300,000 credits
-- **Effect**: Reduces ship loss from 60-80% to 40-50%
-- **Use Case**: Major protection for high-value ships, still significant risk
+**Tier 7 Insurance:**
+- **Cost**: 50,000 credits
+- **Effect**: Reduces ship/crew card permadeath from 20% to 10%
+- **Use Case**: Moderate protection, brings risk down to T6 levels
+
+**Tier 8 Insurance:**
+- **Cost**: 150,000 credits
+- **Effect**: Reduces ship/crew card permadeath from 40% to 25%
+- **Use Case**: Expensive but worthwhile for valuable Level 200 crews and flagships
+
+**Tier 9 Insurance:**
+- **Cost**: 300,000 credits
+- **Effect**: Reduces ship/crew card permadeath from 60% to 40%
+- **Use Case**: Very expensive, only for critical operations with high-value assets
 
 **Tier 10 Insurance:**
 - **Cost**: 1,000,000+ credits
-- **Effect**: Reduces ship loss from 100% to 70%
-- **Use Case**: Extremely expensive, only for critical missions
+- **Effect**: Reduces ship/crew card permadeath from 100% to 70%
+- **Use Case**: Astronomical cost, still very likely to lose everything, only for server events
 
 #### Strategic Insurance Decisions
 
@@ -310,105 +347,142 @@ Players must calculate:
 
 ### When Ship Is Destroyed
 
-#### Step 1: Crew Evacuation Check
-- Crew attempts to evacuate sinking ship
-- Success rate based on:
-  - Ship tier (higher tier = more dangerous, lower evacuation success)
-  - Damage type (catastrophic explosion vs. gradual sinking)
-  - Crew skills (some specializations improve evacuation)
-- Failed evacuation = crew remains on ship for permadeath roll
+#### Step 1: Three Separate Loss Rolls
 
-#### Step 2: Permadeath Rolls
+When your ship is destroyed in combat, three **independent** permadeath systems activate:
 
-**Ship Permadeath Roll:**
-1. Check insurance status (reduces risk percentage)
-2. Roll 1d100 against tier-specific threshold
-3. **Success**: Ship recovered and towed to friendly port (damaged but repairable)
-4. **Failure**: Ship permanently destroyed, removed from inventory
+**1. Ship Permadeath Roll (Tier-Based)**
+- Roll 1d100 against tier-specific threshold (0/0/0/0/0/10/20/40/60/100%)
+- Insurance reduces threshold if active
+- **Success**: Ship recovered and towed to friendly port (damaged but repairable)
+- **Failure**: Ship permanently destroyed, removed from inventory forever
 
-**Crew Casualty Rolls (for each crew member):**
-1. Check insurance and evacuation success
-2. Roll 1d100 per crew member against tier-specific threshold
-3. **Success**: Crew survives, rescued by friendly forces
-4. **Failure**: Crew killed in action, permanently removed
+**2. Crew Card Permadeath Roll (Tier-Based)**
+- Roll 1d100 PER CREW CARD against same tier threshold (0/0/0/0/0/10/20/40/60/100%)
+- Insurance reduces threshold if active
+- **Success**: Crew card survives, officer + card saved (but may lose sailors - see #3)
+- **Failure**: ENTIRE crew card destroyed (officer, levels, all progress) - must recruit new Level 1 card
+
+**3. Sailor Casualty Rolls (ALWAYS HAPPEN)**
+- Roll for sailor deaths on ALL crew cards (even surviving cards from Roll #2)
+- Based on damage severity, not just tier
+- Sailors die regardless of whether ship/cards survive permadeath rolls
+- Lost sailors reduce card effectiveness (30/50 sailors = 60% performance)
+- **Replaceable at ports for credits** - NOT permanent loss
 
 **Module Destruction Rolls (for each module):**
-1. Roll 1d100 per module against tier-specific threshold
-2. **Success**: Module salvageable, recovered with ship (if ship survives)
-3. **Failure**: Module destroyed, must be replaced
+- Roll 1d100 per module against tier-specific threshold
+- Modified by damage type, weapon tier, and caliber
+- **Success**: Module salvageable, recovered with ship (if ship survives)
+- **Failure**: Module destroyed, must be replaced
 
-#### Step 3: Asset Recovery
+#### Step 2: Asset Recovery Outcomes
 
-**If Ship Survives Permadeath:**
+**Scenario 1: Ship Survives Permadeath (Best Case)**
 - Ship towed to nearest friendly port automatically
 - Major repair costs (50-80% of ship value)
 - Surviving modules intact but need repair
-- Surviving crew traumatized (temporary skill penalties)
+- Surviving crew cards return with ship
+- Lost sailors must be replaced at port (credits)
+- Destroyed crew cards gone forever (must recruit new Level 1 cards)
 
-**If Ship Lost to Permadeath:**
+**Scenario 2: Ship Lost to Permadeath (Worst Case)**
 - Ship removed from player inventory permanently
 - All modules destroyed (even if they rolled survival)
-- Dead crew removed from roster
+- Destroyed crew cards removed from roster forever
+- Surviving crew cards rescued by friendly forces (but lost sailors)
 - Insurance payout if covered (partial ship value)
+- Must buy/build replacement ship
 
-#### Step 4: Cargo and Loot
+**Scenario 3: Crew Card Outcomes (Independent of Ship)**
+- **Surviving cards**: Return with player, need sailor replacement at port
+- **Destroyed cards**: Gone forever (officer, levels, all progress lost)
+- **Sailor casualties**: Occur on ALL cards regardless of ship/card survival
+- Each crew card rolls separately for permadeath
+
+#### Step 3: Cargo and Loot
 **Always Lost When Ship Destroyed:**
 - All cargo containers destroyed
 - Loot acquired during expedition lost
 - No recovery possible (creates loot sinks)
+- Even if ship survives permadeath, cargo often destroyed by damage
 
 ---
 
-## Crew Permadeath Mechanics
+## Crew Card Permadeath Mechanics
 
-### Why Crew Permadeath Matters
+### Two Separate Crew Loss Systems
+
+**1. Sailor Casualties (Replaceable Damage)**
+- Individual sailors die from combat damage
+- Reduces crew card effectiveness temporarily
+- Can be replaced at ports for credits
+- Economic cost but NOT permanent loss
+- Happens frequently, even on surviving cards
+
+**2. Crew Card Permadeath (Permanent Loss)**
+- Entire crew card destroyed (officer, levels, all progress)
+- Card removed from roster forever
+- Must recruit new Level 1 card to replace
+- Tier-based risk: 0/0/0/0/0/10/20/40/60/100%
+- This is the TRUE permadeath that matters
+
+### Why Crew Card Permadeath Matters
 
 **Emotional Investment:**
-Named crew members with developed skills create attachment. Losing veteran crew hurts emotionally, not just economically.
+Named officer portraits with developed skills create attachment. Losing a veteran crew **CARD** hurts emotionally, not just economically.
 
 **Strategic Depth:**
-- Rotate crews to avoid losing all veterans simultaneously
-- Develop backup crews as insurance
-- Balance crew risk against mission requirements
+- Rotate crew cards to avoid losing all veterans simultaneously
+- Develop backup crew cards as insurance
+- Balance crew card risk against mission requirements
+- Consider insurance for high-value veteran cards
 
 **Progression Impact:**
-Crew skill development takes time. Losing veteran crew sets back progression significantly.
+Crew card leveling (1-200) takes months of play. Losing veteran crew **CARDS** sets back progression significantly.
 
-### Crew Development Timeline
+### Crew Card Development Timeline
 
-**Rookie Crew (0-10 missions):**
-- Basic skills, minimal specialization
+**Rookie Crew Cards (Level 1-50):**
+- Basic stats, minimal experience
 - Low economic value
-- Losing them hurts little (easily replaced)
+- Losing them hurts little (easily replaced and retrained)
 
-**Trained Crew (10-50 missions):**
-- Moderate skills, starting specialization
+**Trained Crew Cards (Level 50-100):**
+- Moderate stats, developing experience
 - Moderate economic value
-- Losing them hurts (time investment lost)
+- Losing them hurts (weeks of leveling lost)
 
-**Veteran Crew (50-200 missions):**
-- Advanced skills, deep specialization
+**Veteran Crew Cards (Level 100-175):**
+- Advanced stats, deep experience
 - High economic value
 - Losing them is devastating (months of development)
 
-**Legendary Crew (200+ missions):**
-- Maximum skills, unique capabilities
+**Legendary Crew Cards (Level 175-200):**
+- Maximum stats, elite performance
 - Irreplaceable value
-- Losing them is catastrophic (should rarely risk)
+- Losing them is catastrophic (should rarely risk at T9-T10)
 
-### Crew Casualty Impact
+### Crew Card Permadeath Impact
 
-**Immediate Effects:**
-- Reduced combat effectiveness
-- Lost specialized skills
-- Morale penalties for surviving crew
-- Must recruit/train replacements
+**Immediate Effects (When Card Dies):**
+- Entire crew card removed from roster permanently
+- Lost all levels, stats, and experience on that card
+- Ship combat effectiveness reduced (missing critical station)
+- Morale penalties for surviving crew cards
+- Must recruit new Level 1 card and retrain from scratch
 
 **Long-Term Consequences:**
-- Months of progression lost
-- Ship effectiveness reduced until crew rebuilt
-- Economic costs for recruitment and training
-- Psychological impact on player
+- Months of progression lost (if veteran card)
+- Ship effectiveness reduced until new card leveled up
+- Economic costs for recruitment and retraining
+- Psychological impact on player (emotional attachment to named officers)
+
+**Sailor Casualty Impact (Separate System):**
+- Temporary effectiveness reduction until sailors replaced
+- Economic cost to hire replacement sailors at port
+- No permanent progression loss (card keeps levels/stats)
+- Annoyance factor but not devastating
 
 ---
 

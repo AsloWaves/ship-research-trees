@@ -340,52 +340,58 @@ Combat in Fathoms Deepbalances **accessibility** (assisted targeting, clear feed
 
 ## Tier-Based Combat Scaling
 
-### T1-T3: Learning Phase (0% Permadeath)
+### T1-T5: Learning Phase (0% Ship/Crew Card Permadeath)
 **Combat Characteristics**:
 - Forgiving mechanics allow experimentation
 - Basic weapon systems with simple interfaces
 - Slower pace allows tactical learning
-- Full ship recovery on death encourages aggressive learning
+- Full ship/crew card recovery on death encourages aggressive learning
+- Sailor casualties occur but are replaceable
 
 **Focus Areas**:
 - Basic gunnery and torpedo mechanics
 - Damage control fundamentals
 - Formation tactics and positioning
 - Resource management basics
+- Crew card leveling without permadeath risk
 
 ---
 
-### T4-T6: Competitive Operations (0-30% Permadeath)
+### T6-T7: First Permadeath Tiers (10-20% Ship/Crew Card Permadeath)
 **Combat Characteristics**:
 - Standard WWII-era technology
 - Balanced capabilities across all ship classes
-- Meaningful permadeath risk begins at T6
+- Meaningful ship/crew card permadeath risk begins at T6
 - Economic viability requires successful engagements
+- Insurance becomes important consideration
 
 **Focus Areas**:
 - Advanced gunnery with manual fire control
 - Multi-domain coordination
-- Crew specialization optimization
+- Crew card specialization optimization
 - Risk management and extraction planning
+- Backup crew card development
 
 ---
 
-### T7-T9: Elite Operations (40-70% Permadeath)
+### T8-T9: Elite Operations (40-60% Ship/Crew Card Permadeath)
 **Combat Characteristics**:
 - Advanced late-war and post-war technology
 - Superior sensors and fire control systems
-- High permadeath risk creates extreme tension
+- Very high ship/crew card permadeath risk creates extreme tension
 - Every engagement is calculated risk/reward
+- Elite assets genuinely at risk
 
 **Focus Areas**:
 - Perfect execution required for survival
-- Elite crew coordination and specialization
+- Elite crew card coordination and specialization
 - Advanced tactical maneuvers
 - Strategic resource conservation
+- Asset preservation strategies
 
 ---
 
-### T10: Apex Combat (100% Permadeath)
+### T10: Apex Combat (100% Ship/Crew Card Permadeath - GUARANTEED LOSS)
 **Combat Characteristics**:
 - Ultimate capabilities across all systems
 - Server-wide alerts when T10 ships engage

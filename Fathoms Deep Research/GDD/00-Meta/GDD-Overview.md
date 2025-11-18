@@ -260,8 +260,71 @@ Visual, spatial ship customization
 - Spent: Ships, modules, crew, repairs, ammo
 
 **Secondary Resources** (Phase 3):
-- Steel, Oil, Chromium, Rubber, Electronics, Rare Earths
-- Used for crafting and upgrades
+
+**Raw Materials (Basic Crafting)**:
+- **Steel**: Ship hulls, armor plating, structural repairs
+- **Iron Ore**: Raw material for steel production
+- **Aluminum**: Aircraft components, lightweight structures
+- **Copper**: Wiring, electronics, communication systems
+- **Coal**: Fuel alternative, industrial processes
+
+**Strategic Materials (Advanced Construction)**:
+- **Oil**: Fuel for ships, base for many products
+- **Chromium**: High-grade armor, special alloys
+- **Nickel**: Armor hardening, corrosion resistance
+- **Tungsten**: Armor-piercing rounds, hardened components
+- **Titanium**: Advanced armor, high-performance modules
+- **Rare Earths**: Electronics, advanced sensors, radar components
+
+**Industrial Products (Refined Materials)**:
+- **Rubber**: Seals, hoses, shock absorption systems
+- **Electronics**: Fire control systems, radar, communication gear
+- **Chemicals**: Ammunition propellant, damage control compounds
+- **Textiles**: Crew uniforms, tarpaulins, damage control materials
+- **Plastics**: Insulation, modern components, storage containers
+- **Glass**: Optics, instruments, bridge windows
+
+**Fuel & Energy (Consumables)**:
+- **Diesel Fuel**: Modern ship propulsion
+- **Aviation Fuel**: Carrier aircraft operations
+- **Gunpowder**: Ammunition production, older weapons
+
+**Combat Supplies (High Turnover)**:
+- **Ammunition**: Shells for main guns (various calibers)
+- **Torpedoes**: Anti-ship weapons (various types)
+- **Depth Charges**: Anti-submarine warfare
+- **Aircraft Ordnance**: Bombs, rockets for carrier planes
+- **Flares**: Illumination, signaling, countermeasures
+
+**Provisions & Crew Supplies (Maintenance)**:
+- **Food Rations**: Crew morale and operations
+- **Fresh Water**: Essential for long voyages
+- **Medical Supplies**: Treat wounded crew, prevent casualties
+- **Repair Tools**: Emergency repairs at sea
+- **Spare Parts**: Generic components for field repairs
+
+**Luxury & Trade Goods (High Value/Low Weight)**:
+- **Tobacco**: Crew morale, trade commodity
+- **Alcohol**: Crew morale, high-value trade
+- **Coffee**: Crew performance, trade commodity
+- **Spices**: Valuable trade goods
+- **Sugar**: Provisions, trade commodity
+- **Silk**: Luxury trade item
+
+**Intelligence & Strategic Items (Special)**:
+- **Naval Charts**: Navigation data, strategic info
+- **Intelligence Documents**: Enemy positions, fleet movements
+- **Encryption Equipment**: Secure communications
+- **Prototype Components**: Experimental technology
+- **Salvage Rights**: Legal claim to wrecks/loot
+
+**Resource Uses**:
+- Crafting ship modules and weapons
+- Repairing battle damage
+- Upgrading ship capabilities
+- Trading for profit between ports
+- Mission/contract requirements
+- Guild/faction contributions
 
 ### Trading System
 **Port Shops**:
@@ -338,32 +401,47 @@ Visual, spatial ship customization
 ## ⚠️ Permadeath System
 
 ### Philosophy: "Stakes Matter"
-True high-stakes gameplay with progressive risk
+True high-stakes gameplay with progressive risk across **three separate loss mechanics**
 
 ### Ship Permadeath (Tier-Based)
-- **T1-4**: 0% ship loss (ships always recover)
-- **T5**: 0% ship loss (last safe tier)
-- **T6-7**: 30-40% ship loss chance
-- **T8-9**: 50-60% ship loss chance
+- **T1-T5**: 0% ship loss (ships always recover - completely safe)
+- **T6**: 10% ship loss chance (first permadeath tier)
+- **T7**: 20% ship loss chance
+- **T8**: 40% ship loss chance
+- **T9**: 60% ship loss chance
 - **T10**: 100% ship loss (GUARANTEED PERMADEATH)
 
-### Crew Permadeath (Always Active)
-- **T1-4**: 0-20% casualties per battle
-- **T5**: 30% casualties
-- **T6-9**: 40-60% casualties
-- **T10**: 100% crew death (all crew lost)
+### Crew Card Permadeath (Tier-Based, Independent from Ship)
+Each crew card (officer + sailors group) rolls separately for permadeath:
+- **T1-T5**: 0% crew card loss (completely safe for training)
+- **T6**: 10% crew card loss per card (first permadeath tier)
+- **T7**: 20% crew card loss per card
+- **T8**: 40% crew card loss per card
+- **T9**: 60% crew card loss per card
+- **T10**: 100% crew card loss (ALL crew cards destroyed)
+
+**Lost crew cards are permanent** - must recruit new Level 1 cards and retrain from scratch
+
+### Sailor Casualties (Damage-Based, Always Active)
+Individual sailors die from combat damage **separate from crew card permadeath**:
+- Based on damage severity, not tier
+- Occurs on **all crew cards** (even surviving cards)
+- Reduces crew card effectiveness (e.g., 30/50 sailors = 60% performance)
+- **Replaceable at ports for credits** - NOT permanent loss
+- Economic pressure without devastating permanent consequences
 
 ### Cargo Loss (Always)
 - **Unextracted Loot**: ALWAYS lost on death
 - **Secured Loot**: Safe in port inventory
 
 ### Player Experience
-- Clear warnings before entering high-tier zones
+- Clear warnings before entering T6+ permadeath zones
 - Confirmation dialogs for T6+ entry
-- Death screens show breakdown of losses
-- Memorial system for lost ships and crew
+- Death screens show breakdown of all three loss types
+- Memorial system for permanently lost ships and crew cards
+- Insurance system to reduce permadeath risk
 
-**Design Goal**: Risk creates meaningful tension and memorable moments
+**Design Goal**: Three-tiered loss system creates meaningful tension while allowing recovery options
 
 ---
 

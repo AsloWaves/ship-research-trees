@@ -93,7 +93,7 @@ Command a floating airbase projecting power across hundreds of kilometers while 
 - **Operational Role**: Theater-level air power projection, multi-carrier coordination
 - **Advanced Features**: Enhanced radar, improved deck operations, superior damage control
 - **Crew Requirements**: 250-300 crew members
-- **Risk**: Permadeath begins at T6 (30%), escalates to 70% at T9
+- **Risk**: Ship/crew card permadeath begins at T6 (10%), escalates to 60% at T9
 
 ---
 
@@ -122,8 +122,8 @@ Command a floating airbase projecting power across hundreds of kilometers while 
 | Tier | Type | Aircraft | Wings | Crew | Cost | Death Risk | Best For |
 |------|------|----------|-------|------|------|------------|----------|
 | T1-T3 | CVE/CVL | 20-40 | 3-4 | 100-150 | Low | 0% | Learning, convoy escort |
-| T4-T6 | CV | 50-80 | 4-6 | 200-250 | Med | 10-30% | Fleet operations |
-| T7-T9 | CVA | 80-100 | 6-8 | 250-300 | High | 40-70% | Strategic strikes |
+| T4-T6 | CV | 50-80 | 4-6 | 200-250 | Med | 0-10% | Fleet operations |
+| T7-T9 | CVA | 80-100 | 6-8 | 250-300 | High | 20-60% | Strategic strikes |
 | T10 | Super CV | 100-120 | 8-10 | 300+ | Extreme | 100% | Elite dominance |
 
 ---
@@ -565,9 +565,9 @@ USS Enterprise with Long-Range Communications can coordinate with USS Hornet 150
 
 **Carrier Value = Massive Target**:
 - **T1-T4 Carriers**: Moderate threat level, full ship recovery on death
-- **T5 Carriers**: High-value target, 30% crew casualties, last safe tier
-- **T6-T9 Carriers**: 30-70% permadeath risk, hunted aggressively by players
-- **T10 Carriers**: 100% PERMADEATH, server-wide alerts when detected
+- **T5 Carriers**: High-value target, sailor casualties but 0% permadeath, last completely safe tier
+- **T6-T9 Carriers**: 10-60% ship/crew card permadeath risk, hunted aggressively by players
+- **T10 Carriers**: 100% PERMADEATH (ship + all crew cards), server-wide alerts when detected
 
 **Zone Danger Multiplier**:
 - T10 carrier in T3 zone = attracts every player within 200km

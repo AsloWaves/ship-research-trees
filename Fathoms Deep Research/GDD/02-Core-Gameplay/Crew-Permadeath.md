@@ -30,35 +30,39 @@ Crew permadeath serves multiple design goals:
 5. **Anti-Zerging**: T10 battles require serious commitment (100% crew loss)
 
 **Key Design Pillars:**
-- **Tier-Based Scaling**: Death risk increases with battle tier (0% → 30% → 100%)
-- **Independent Rolls**: Each crew card dies independently (30% chance per card)
-- **Level-Agnostic**: Level 1 and Level 200 crews have identical death chances
-- **Retrieval Window**: Dead crews can be recovered within time limits
-- **Player-to-Player Retrieval**: Other players can rescue your crews for rewards
+- **Tier-Based Scaling**: Crew card permadeath risk increases with battle tier (0/0/0/0/0/10/20/40/60/100%)
+- **Independent Rolls**: Each crew card rolls separately for permadeath
+- **Separate from Sailor Casualties**: Sailor deaths (replaceable) are distinct from crew card permadeath (permanent)
+- **Level-Agnostic**: Level 1 and Level 200 crew cards have identical permadeath chances
+- **Retrieval Window**: "Dead" crew cards can be recovered within time limits
+- **Player-to-Player Retrieval**: Other players can rescue crew cards for rewards
 - **No Retrieval in T10**: Highest tier has permanent, unrecoverable losses
 
 ### Key Features
-- **Death Chance by Tier**: 0% (T1-T4), 30% (T5-T9), 100% (T10)
+- **Crew Card Permadeath by Tier**: 0% (T1-T5), 10% (T6), 20% (T7), 40% (T8), 60% (T9), 100% (T10)
 - **Retrieval Timer System**: 15-60 minute windows based on zone danger
 - **Death Location Markers**: Map markers show retrieval locations
-- **Player Retrieval Profession**: New playstyle focused on crew recovery
-- **Ransom Negotiations**: Player-to-player negotiations for crew return
-- **Backup Crew Strategy**: Multiple crew sets for risk management
-- **Strategic Investment Decisions**: Elite crews only on large, valuable ships
+- **Player Retrieval Profession**: New playstyle focused on crew card recovery
+- **Ransom Negotiations**: Player-to-player negotiations for crew card return
+- **Backup Crew Strategy**: Multiple crew card sets for risk management
+- **Strategic Investment Decisions**: Elite crew cards only on large, valuable ships
+- **Sailor Casualties Separate**: Individual sailor deaths (replaceable) happen regardless of card survival
 
 ### User Experience
-Players accept permadeath risk when entering T5+ battles. Upon ship destruction, crew cards roll independently for survival. Surviving crews transfer to the player's barracks; "dead" crews are marked at the death location with a retrieval timer. Players can return to recover their own crews or watch as other players retrieve them for ransom. T10 battles offer no retrieval - all crews are permanently lost on ship destruction.
+Players accept crew card permadeath risk when entering T6+ battles. Upon ship destruction, crew cards roll independently for permadeath. Surviving cards transfer to the player's barracks; "dead" cards are marked at the death location with a retrieval timer. Players can return to recover their own crew cards or watch as other players retrieve them for ransom. T10 battles offer no retrieval - all crew cards are permanently lost on ship destruction.
 
-**Death Experience Flow:**
-1. Ship destroyed in T5+ battle
-2. Each crew card rolls for survival (30% death chance, independent)
-3. Surviving crews automatically return to player barracks
-4. "Dead" crews marked at death location on map
+**Note**: Sailor casualties (individual sailors dying on crew cards) are a separate system and occur based on damage severity, not tier-based permadeath rolls. Lost sailors reduce crew card effectiveness but can be replaced at ports.
+
+**Crew Card Permadeath Flow:**
+1. Ship destroyed in T6+ battle
+2. Each crew card rolls for permadeath (10/20/40/60/100% based on tier)
+3. Surviving crew cards automatically return to player barracks
+4. "Dead" crew cards marked at death location on map
 5. Retrieval timer begins (15-60 minutes based on zone)
-6. Original player can return to location to recover crews
-7. Other players can retrieve crews for rewards/ransom
-8. Timer expiration = permanent crew loss
-9. T10 exception: No retrieval possible, all crews instantly lost
+6. Original player can return to location to recover crew cards
+7. Other players can retrieve crew cards for rewards/ransom
+8. Timer expiration = permanent crew card loss
+9. T10 exception: No retrieval possible, all crew cards instantly lost
 
 ---
 
@@ -71,64 +75,84 @@ Players accept permadeath risk when entering T5+ battles. Upon ship destruction,
 
 #### Death Conditions & Risk Scaling
 
-**Tier-Based Death Chance:**
+**Tier-Based Crew Card Permadeath Chance:**
 ```
-T1-T4 (Safe Zones):
-- Crew death chance: 0%
-- All crews always survive ship destruction
-- Perfect for crew training and low-risk operations
+T1-T5 (Safe Zones):
+- Crew card permadeath chance: 0%
+- All crew cards always survive ship destruction
+- Perfect for crew card training and low-risk operations
+- Sailor casualties still occur (replaceable damage)
 
-T5 (First Permadeath Tier):
-- Crew death chance: 30% per card (independent rolls)
-- First tier where crews face permanent loss risk
+T6 (First Permadeath Tier):
+- Crew card permadeath chance: 10% per card (independent rolls)
+- First tier where crew cards face permanent loss risk
 - Significant psychological barrier for players
+- Retrieval possible (15-60 minute windows)
 
-T6-T9 (Standard Permadeath Tiers):
-- Crew death chance: 30% per card (independent rolls)
-- Standard high-tier risk
-- Retrieval possible within time windows
+T7 (Escalating Risk):
+- Crew card permadeath chance: 20% per card
+- Risk doubles from T6
+- Retrieval still possible
+
+T8 (High Stakes):
+- Crew card permadeath chance: 40% per card
+- Substantial risk to veteran crew cards
+- High-value targets for retrieval profession
+
+T9 (Extreme Risk):
+- Crew card permadeath chance: 60% per card
+- More likely to lose crew cards than keep them
+- Only for serious expeditions
 
 T10 (Ultimate Permadeath Tier):
-- Crew death chance: 100% (all crews die)
+- Crew card permadeath chance: 100% (all crew cards destroyed)
 - NO RETRIEVAL POSSIBLE
 - Permanent, unrecoverable loss
 - Highest stakes combat in the game
 ```
 
-**Death Roll Mechanics:**
+**Crew Card Permadeath Roll Mechanics:**
 ```
-When ship destroyed at T5-T9:
+When ship destroyed at T6-T9:
 1. For each crew card on ship:
-   - Roll random 0.0-1.0
-   - If roll < 0.30 → crew "dies" (marked for retrieval)
-   - If roll >= 0.30 → crew survives (returns to barracks)
+   - Roll random 0.0-1.0 against tier threshold
+   - T6: If roll < 0.10 → crew card "dies" (marked for retrieval)
+   - T7: If roll < 0.20 → crew card "dies"
+   - T8: If roll < 0.40 → crew card "dies"
+   - T9: If roll < 0.60 → crew card "dies"
+   - Otherwise → crew card survives (returns to barracks)
 
 2. Independent rolls mean statistical variance:
-   - Ship with 6 crew cards destroyed
-   - Expected losses: 6 × 0.30 = 1.8 cards
+   - Ship with 6 crew cards destroyed in T8
+   - Expected losses: 6 × 0.40 = 2.4 cards
    - Actual losses: 0-6 cards (statistical distribution)
-   - Possible to lose 0 crews (lucky, 11.8% chance)
-   - Possible to lose all 6 crews (unlucky, 0.07% chance)
+   - Possible to lose 0 cards (lucky, ~4.7% chance)
+   - Possible to lose all 6 cards (unlucky, ~0.4% chance)
 
 3. Level does NOT affect survival chance:
-   - Level 1 neutral crew: 30% death chance
-   - Level 200 elite crew: 30% death chance
-   - Investment time/cost irrelevant to survival probability
+   - Level 1 crew card: Same % permadeath chance as tier
+   - Level 200 elite crew card: Same % permadeath chance as tier
+   - Investment time/cost irrelevant to permadeath probability
+
+4. Sailor casualties are SEPARATE:
+   - Even surviving crew cards lose sailors based on damage
+   - Lost sailors reduce card effectiveness
+   - Replaceable at ports for credits
 ```
 
 **T10 Exception:**
 ```
 When ship destroyed at T10:
-1. All crew cards instantly die (no rolls)
+1. All crew cards instantly destroyed (no rolls, 100% permadeath)
 2. No retrieval markers created
 3. Permanent loss immediately
 4. No recovery possible under any circumstances
 
 Strategic Impact:
 - T10 battles reserved for most serious players
-- Requires dedicated T10 crew sets (separate from main crews)
-- Creates "T10 crew economy" of cheaper, expendable crews
-- Or use backup Level 100-150 crews instead of Level 200 elites
+- Requires dedicated T10 crew card sets (separate from main crews)
+- Creates "T10 crew economy" of cheaper, expendable crew cards
+- Or use backup Level 100-150 crew cards instead of Level 200 elites
 ```
 
 #### Strategic Impact on Gameplay
@@ -304,25 +328,36 @@ Scenario 3: Retrieval Profession
 
 **Tunable Parameters:**
 ```
-// Death Chances by Tier
-T1_T4_DEATH_CHANCE = 0.0 (0% - safe zones)
-T5_T9_DEATH_CHANCE = 0.30 (30% per crew card, independent)
-T10_DEATH_CHANCE = 1.0 (100% - all crews die)
+// Crew Card Permadeath Chances by Tier
+T1_PERMADEATH_CHANCE = 0.0 (0% - completely safe)
+T2_PERMADEATH_CHANCE = 0.0 (0% - completely safe)
+T3_PERMADEATH_CHANCE = 0.0 (0% - completely safe)
+T4_PERMADEATH_CHANCE = 0.0 (0% - completely safe)
+T5_PERMADEATH_CHANCE = 0.0 (0% - last safe tier)
+T6_PERMADEATH_CHANCE = 0.10 (10% - first permadeath tier)
+T7_PERMADEATH_CHANCE = 0.20 (20% per crew card, independent)
+T8_PERMADEATH_CHANCE = 0.40 (40% per crew card, independent)
+T9_PERMADEATH_CHANCE = 0.60 (60% per crew card, independent)
+T10_PERMADEATH_CHANCE = 1.0 (100% - all crew cards destroyed)
 
 // Retrieval Timers
-SAFE_ZONE_RETRIEVAL_TIME = 3600 seconds (60 minutes)
-CONTESTED_ZONE_RETRIEVAL_TIME = 1800 seconds (30 minutes)
-HOSTILE_ZONE_RETRIEVAL_TIME = 900 seconds (15 minutes)
-T10_RETRIEVAL_TIME = 0 seconds (no retrieval)
+SAFE_ZONE_RETRIEVAL_TIME = 3600 seconds (60 minutes - T1-T5)
+CONTESTED_ZONE_RETRIEVAL_TIME = 1800 seconds (30 minutes - T6-T7)
+HOSTILE_ZONE_RETRIEVAL_TIME = 900 seconds (15 minutes - T8-T9)
+T10_RETRIEVAL_TIME = 0 seconds (no retrieval possible)
 
 // Retrieval Rewards
-BASE_RETRIEVAL_REWARD_MIN = 0.10 (10% of crew value)
-BASE_RETRIEVAL_REWARD_MAX = 0.25 (25% of crew value)
-RETRIEVAL_REPUTATION_GAIN = 100 points per crew
+BASE_RETRIEVAL_REWARD_MIN = 0.10 (10% of crew card value)
+BASE_RETRIEVAL_REWARD_MAX = 0.25 (25% of crew card value)
+RETRIEVAL_REPUTATION_GAIN = 100 points per crew card
 
 // Ransom System
 RANSOM_NEGOTIATION_TIME = 300 seconds (5 minutes)
 MAX_RANSOM_HISTORY = 50 negotiations (for reputation tracking)
+
+// Sailor Casualties (Separate System)
+SAILOR_CASUALTY_BASE_RATE = varies by damage severity
+SAILOR_CASUALTY_REPLACEABLE = true (pay credits at port)
 ```
 
 ---
@@ -348,48 +383,50 @@ MAX_RANSOM_HISTORY = 50 negotiations (for reputation tracking)
 ## Example Scenarios
 
 ### Scenario 1: First Permadeath Experience
-**Captain Murphy enters T5 for first time**
+**Captain Murphy enters T6 for first time**
 
 **Setup:**
-- New to T5 combat tier
+- New to T6 combat tier (first permadeath tier)
 - Ship has 6 crew cards: 2 Level 75 Gunners, 1 Level 70 Engineer, 1 Level 60 AA, 2 Level 50 support
 - Total investment: ~150 hours combat + 200M credits
-- First battle in permadeath zone
+- First battle in crew card permadeath zone
 
 **Battle Outcome:**
-- Ship destroyed in T5 battle
-- Death rolls execute:
-  - Gunner A: Roll 0.42 → Survives (≥0.30)
-  - Gunner B: Roll 0.18 → Dies (<0.30) ⚠️
-  - Engineer: Roll 0.65 → Survives (≥0.30)
-  - AA Specialist: Roll 0.89 → Survives (≥0.30)
-  - Support A: Roll 0.22 → Dies (<0.30) ⚠️
-  - Support B: Roll 0.51 → Survives (≥0.30)
+- Ship destroyed in T6 battle
+- Crew card permadeath rolls execute (10% chance per card):
+  - Gunner A: Roll 0.42 → Survives (≥0.10) ✓
+  - Gunner B: Roll 0.08 → Dies (<0.10) ⚠️ CREW CARD LOST
+  - Engineer: Roll 0.65 → Survives (≥0.10) ✓
+  - AA Specialist: Roll 0.89 → Survives (≥0.10) ✓
+  - Support A: Roll 0.05 → Dies (<0.10) ⚠️ CREW CARD LOST
+  - Support B: Roll 0.51 → Survives (≥0.10) ✓
+- Sailor casualties also occur on surviving cards (separate rolls, replaceable)
 
 **Result:**
-- 4 crews survive, return to barracks immediately
-- 2 crews die, marked at death location
+- 4 crew cards survive, return to barracks immediately
+- 2 crew cards destroyed, marked at death location for retrieval
 - 30-minute retrieval timer starts (contested zone)
 - Death location: 6km from nearest friendly port
 
 **Player Decision:**
 - Option A: Corpse run (risky, 30 min window)
-  - Equip fast ship with backup crews
-  - Rush to location, retrieve 2 dead crews
-  - Risk: Losing retrieval ship + backup crews
+  - Equip fast ship with backup crew cards
+  - Rush to location, retrieve 2 "dead" crew cards
+  - Risk: Losing retrieval ship + backup crew cards
   - Reward: Save 80 hours + 100M credits investment
 
 - Option B: Accept losses (safe)
   - Let timer expire
-  - Permanently lose 2 crew cards
-  - Re-level new crews from scratch
+  - Permanently lose 2 crew cards (must recruit new Level 1 cards)
+  - Re-level new crew cards from scratch
   - Avoid additional risk
 
 **Choice:** Murphy attempts corpse run
 - Reaches location with 8 minutes remaining
-- Successfully retrieves both crews
+- Successfully retrieves both crew cards
 - Returns to port safely
-- **Emotional impact: First permadeath experience, high stakes realized**
+- Replaces lost sailors on surviving cards (50M credits)
+- **Emotional impact: First crew card permadeath experience, high stakes realized**
 
 ### Scenario 2: Elite Crew Loss
 **Captain Yamamoto loses T8 battleship**
@@ -402,21 +439,22 @@ MAX_RANSOM_HISTORY = 50 negotiations (for reputation tracking)
 
 **Battle Outcome:**
 - Ship destroyed in intense T8 battle
-- Death rolls for 8 crew cards:
-  - Level 180 Master Gunner: Roll 0.27 → Dies (<0.30) ⚠️💀
-  - Level 170 Fire Control: Roll 0.54 → Survives
-  - Level 165 Heavy Gunner: Roll 0.71 → Survives
-  - Level 160 Engineer: Roll 0.12 → Dies (<0.30) ⚠️
-  - Level 155 Damage Control: Roll 0.88 → Survives
-  - Level 150 AA Master: Roll 0.45 → Survives
-  - Level 150 Electronics: Roll 0.19 → Dies (<0.30) ⚠️
-  - Level 145 Command: Roll 0.63 → Survives
+- Crew card permadeath rolls execute (40% chance per card):
+  - Level 180 Master Gunner: Roll 0.27 → Dies (<0.40) ⚠️💀 CARD DESTROYED
+  - Level 170 Fire Control: Roll 0.54 → Survives (≥0.40) ✓
+  - Level 165 Heavy Gunner: Roll 0.71 → Survives (≥0.40) ✓
+  - Level 160 Engineer: Roll 0.12 → Dies (<0.40) ⚠️ CARD DESTROYED
+  - Level 155 Damage Control: Roll 0.88 → Survives (≥0.40) ✓
+  - Level 150 AA Master: Roll 0.45 → Survives (≥0.40) ✓
+  - Level 150 Electronics: Roll 0.19 → Dies (<0.40) ⚠️ CARD DESTROYED
+  - Level 145 Command: Roll 0.63 → Survives (≥0.40) ✓
+- Sailor casualties also occur on surviving cards (separate damage-based rolls)
 
 **Result:**
-- 5 crews survive (still valuable, 150-170 range)
-- 3 crews die, marked at death location:
-  - Level 180 Master Gunner (flagship crew, months of work)
-  - Level 160 Engineer (critical crew)
+- 5 crew cards survive (still valuable, 145-170 range)
+- 3 crew cards destroyed, marked at death location for retrieval:
+  - Level 180 Master Gunner (flagship crew card, months of work)
+  - Level 160 Engineer (critical crew card)
   - Level 150 Electronics
 - 15-minute retrieval timer (hostile zone)
 - Death location: 12km from friendly port, enemy-controlled waters

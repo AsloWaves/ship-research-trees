@@ -685,13 +685,13 @@ Investment: ~5,000 hours + 30B credits for full elite air wing
 
 **T8 Cruiser (Farming Operations):**
 - Main Battery: Crew C (Rapid Fire Gunner, Level 120)
-- **Risk**: 30% death chance (manageable)
+- **Risk**: 40% crew card permadeath chance (moderate risk)
 - **Efficiency**: Good reload speed for rapid-fire cruiser guns
 
 **T5 Destroyer (Training New Crews):**
 - Uses Level 1-50 trainee crews
-- **Risk**: Zero (T5 is safe zone, wait... actually T5 has 30% death!)
-- **Correction**: Uses T4 for safe training
+- **Risk**: Zero crew card permadeath (T5 is completely safe tier)
+- **Note**: T1-T5 all have 0% crew card permadeath - perfect for training
 
 **Outcome:**
 - **Versatile crew library**: Can field optimal crews for any ship
@@ -854,9 +854,10 @@ Investment: ~5,000 hours + 30B credits for full elite air wing
 
 **Yamamoto's Strategy:**
 - **Never uses this composition at T10** (too risky)
-- Reserves this crew set for T9 operations (30% death risk, retrieval possible)
+- Reserves this crew set for T9 operations (60% crew card permadeath risk, retrieval possible)
 - For T10, uses separate "expendable" Level 100-130 crew set
 - Elite composition is for T9 dominance, not T10 suicide
+- Even 60% risk at T9 is acceptable for this much power
 
 **Design Validation:**
 - Ultimate min-max build requires ~5,000 hours investment

@@ -240,10 +240,10 @@ The submarine line progresses through three distinct class categories, each with
 | T3 | Coastal SS | USS Barracuda | 30-35 | 12-14 | 150-250km | 80m | 7kt | 0% | Transition to fleet ops |
 | T4 | Fleet SS | USS Gato | 35-45 | 16-20 | 400-600km | 100m | 8kt | 0% | Commerce warfare basics |
 | T5 | Fleet SS | USS Balao | 45-55 | 20-24 | 600-800km | 120m | 9kt | 0% | Standard fleet operations |
-| T6 | Fleet SS | USS Tench | 55-65 | 24-28 | 800-1,200km | 150m | 10kt | 30% | Long-range interdiction |
-| T7 | Attack SSA | USS Tang | 65-75 | 28-32 | 1,200-1,600km | 200m | 12kt | 40% | Capital ship hunting |
-| T8 | Attack SSA | USS Nautilus | 75-85 | 32-36 | 1,600-2,000km | 250m | 14kt | 60% | Strategic interdiction |
-| T9 | Attack SSA | Advanced | 85-95 | 36-40 | 2,000-2,500km | 300m | 16kt | 70% | Fleet elimination |
+| T6 | Fleet SS | USS Tench | 55-65 | 24-28 | 800-1,200km | 150m | 10kt | 10% | Long-range interdiction |
+| T7 | Attack SSA | USS Tang | 65-75 | 28-32 | 1,200-1,600km | 200m | 12kt | 20% | Capital ship hunting |
+| T8 | Attack SSA | USS Nautilus | 75-85 | 32-36 | 1,600-2,000km | 250m | 14kt | 40% | Strategic interdiction |
+| T9 | Attack SSA | Advanced | 85-95 | 36-40 | 2,000-2,500km | 300m | 16kt | 60% | Fleet elimination |
 | T10 | Attack SSA | Strategic | 95-110 | 40-50 | 2,500+ km | 350m | 18kt | 100% | Strategic dominance |
 
 ---

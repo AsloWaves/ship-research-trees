@@ -271,47 +271,59 @@ Phase 3 is massive and will be broken into sub-phases:
 
 ### Zone Characteristics
 
+**Note**: Ship tier determines base permadeath risk. Zone tier adds environmental hazards and additional penalties.
+
 #### Tier 1-2: Safe Waters (Tutorial/Starting Zones)
-- **Risk**: Minimal (0% ship loss, 0% crew death)
+- **Risk**: None (0% ship/crew card permadeath regardless of ship tier)
+- **Sailor Casualties**: Minimal (damage-based, replaceable)
 - **Rewards**: Low (basic loot, low credits)
 - **NPCs**: Easy (patrol boats, light merchants)
 - **PvP**: Restricted (safe zone mechanics)
 - **Environment**: Calm, good visibility
 
 #### Tier 3-4: Contested Waters
-- **Risk**: Low (0% ship loss, 10-20% crew casualties)
+- **Risk**: Low (0% ship/crew card permadeath for T1-T5 ships)
+- **Sailor Casualties**: Low-Moderate (replaceable at ports)
 - **Rewards**: Moderate (better loot, decent credits)
 - **NPCs**: Moderate (destroyers, light cruisers)
 - **PvP**: Allowed (no penalties for fighting)
 - **Environment**: Occasional weather
 
 #### Tier 5: The Threshold
-- **Risk**: Moderate (0% ship loss, 30% crew casualties)
+- **Risk**: Moderate (0% ship/crew card permadeath - last fully safe tier)
+- **Sailor Casualties**: Moderate (replaceable, but more expensive to replace)
 - **Rewards**: Good (quality loot, good credits)
 - **NPCs**: Challenging (heavy cruisers, small fleets)
 - **PvP**: Encouraged (loot incentives)
 - **Environment**: Frequent weather
+- **Note**: T1-T5 ships completely safe, but T6+ ships face base permadeath risk
 
 #### Tier 6-7: Dangerous Waters
-- **Risk**: High (30-40% ship loss, 40-50% crew casualties)
+- **Risk**: First Permadeath Zone (T6 ships: 10%, T7 ships: 20% base permadeath)
+- **Crew Card Permadeath**: Independent rolls per card (same % as ships)
+- **Sailor Casualties**: High (frequent replacements needed)
 - **Rewards**: Excellent (rare loot, high credits)
 - **NPCs**: Difficult (battleships, carrier groups)
 - **PvP**: Intense (high-value targets)
 - **Environment**: Harsh weather, low visibility
 
 #### Tier 8-9: Death Waters
-- **Risk**: Extreme (50-60% ship loss, 50-60% crew casualties)
+- **Risk**: Extreme (T8 ships: 40%, T9 ships: 60% base permadeath)
+- **Crew Card Permadeath**: Very high loss rates (40-60% per card)
+- **Sailor Casualties**: Extreme (heavy replacement costs)
 - **Rewards**: Exceptional (legendary loot, massive credits)
 - **NPCs**: Elite (super-battleships, task forces)
 - **PvP**: Ruthless (no mercy, high stakes)
 - **Environment**: Storms, night combat
 
 #### Tier 10: The Abyss
-- **Risk**: ABSOLUTE (100% ship & crew permadeath)
+- **Risk**: ABSOLUTE (100% ship & crew card permadeath - GUARANTEED TOTAL LOSS)
+- **Sailor Casualties**: 100% (irrelevant since all crew cards destroyed)
 - **Rewards**: Unmatched (unique items, enormous credits)
 - **NPCs**: Nightmare (super-units, fleet battles)
 - **PvP**: Total War (everyone vs everyone)
 - **Environment**: Apocalyptic (hurricanes, darkness)
+- **Warning**: Only enter with expendable ships/crews - elite assets will be lost
 
 ### Zone Transitions
 - **Visible Boundaries**: Clear zone markings
@@ -323,10 +335,11 @@ Phase 3 is massive and will be broken into sub-phases:
 
 ## 🏴 System Breakdown: Faction System
 
-### 8 Nations Playable
+### 4 Playable Nations (Launch)
 **Status**: 📋 PLANNED (Phase 3C)
 
-### Nation Roster
+### Launch Nation Roster
+
 1. **United States** 🇺🇸
    - **Strengths**: Powerful carriers, advanced radar
    - **Weaknesses**: Fewer battleships early-game
@@ -346,6 +359,8 @@ Phase 3 is massive and will be broken into sub-phases:
    - **Strengths**: Torpedo warfare, fast cruisers
    - **Weaknesses**: Weak armor
    - **Unique Tech**: Long-lance torpedoes, night combat
+
+### Potential Future Nations (Post-Launch)
 
 5. **Soviet Union** 🇷🇺
    - **Strengths**: Tanky cruisers, artillery focus

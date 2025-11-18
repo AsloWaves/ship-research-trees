@@ -567,37 +567,51 @@ Weather patterns vary by zone and geographic location.
 
 ### Zone-Based Death Penalty Modifiers
 
+**Important**: Zone penalties are **additional modifiers** that stack on top of ship tier-based permadeath rates. Operating deeper in enemy territory increases risk beyond base ship tier penalties.
+
+**Base System Recap**:
+- Ship/Crew Card Permadeath: Tier-based (0/0/0/0/0/10/20/40/60/100% for T1-T10 ships)
+- Sailor Casualties: Damage-based (replaceable at ports)
+- Module Destruction: Tier/damage-based
+
+**Zone Modifiers Add Additional Risk**:
+
 **T0 Zones**: No additional penalties
-- Death mechanics follow standard ship tier penalties
+- Death mechanics follow standard ship tier penalties only
 - Respawn at nearest friendly port
 
 **T1 Zones**: Minor penalties
-- +5% chance of module damage
+- +5% additional module destruction chance
 - Respawn at nearest friendly port
 
 **T2 Zones**: Moderate penalties
-- +10% chance of module damage
-- +5% chance of crew casualties
+- +10% additional module destruction chance
+- +5% additional sailor casualty rate (more sailors die from damage)
 - Respawn at nearest T1 port
 
 **T3 Zones**: High penalties
-- +20% chance of module damage
-- +10% chance of crew casualties
+- +20% additional module destruction chance
+- +10% additional sailor casualty rate
 - Respawn at nearest T2 port (long return trip)
 
 **T4 Zones**: Severe penalties
-- +30% chance of module damage
-- +20% chance of crew casualties
-- +10% chance of ship loss (T6-T9 ships)
+- +30% additional module destruction chance
+- +20% additional sailor casualty rate
+- +10% additional ship/crew card permadeath chance (stacks with ship tier)
 - Respawn at home faction T0 port (very long return)
 
 **T5 Zones**: Maximum penalties
-- +50% chance of module damage
-- +40% chance of crew casualties
-- +25% chance of ship loss (T6-T9 ships)
-- T10 ships = guaranteed permadeath
+- +50% additional module destruction chance
+- +40% additional sailor casualty rate
+- +25% additional ship/crew card permadeath chance (stacks with ship tier)
+- T10 ships in T5 zones = guaranteed permadeath (100% base + zone penalty)
 - Respawn at home faction T0 port
 - Faction reputation penalty for death in enemy waters
+
+**Example Stacking**:
+- T8 ship (40% base permadeath) destroyed in T4 zone (+10% zone penalty) = **50% total permadeath chance**
+- T9 ship (60% base permadeath) destroyed in T5 zone (+25% zone penalty) = **85% total permadeath chance**
+- T6 ship (10% base permadeath) destroyed in T0 zone (no penalty) = **10% total permadeath chance**
 
 ### Emergency Beacon Range by Zone
 
