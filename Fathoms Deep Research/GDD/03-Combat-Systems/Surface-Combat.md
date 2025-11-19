@@ -295,7 +295,7 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 
 ### Weather Impact on Gunnery Accuracy
 
-**Weather Condition Effects**:
+**Weather Condition Effects** (base accuracy modified by Gunner Accuracy stat: -30% hit rate at stat 7, baseline 50% at stat 15, +97% hit rate at stat 50):
 - **Calm Seas**: +15% accuracy bonus, stable firing platform
 - **Moderate Seas**: Standard accuracy, slight rolling affects timing
 - **Rough Seas**: -25% accuracy penalty, severe gun platform movement
@@ -538,10 +538,10 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 **Module Degradation Levels**:
 
 **Turret Damage Progression**:
-1. **Fully Operational** (100%): Maximum rate of fire, full accuracy
-2. **Light Damage** (75%): Reduced rate of fire, slight accuracy penalty
-3. **Moderate Damage** (50%): Significant rate reduction, notable accuracy loss
-4. **Heavy Damage** (25%): Single gun operation only, poor accuracy
+1. **Fully Operational** (100%): Maximum rate of fire (modified by Gunner Reload stat: -25% at stat 7, baseline at stat 15, +105% at stat 50), full accuracy
+2. **Light Damage** (75%): Reduced rate of fire (-15%), slight accuracy penalty (-5%)
+3. **Moderate Damage** (50%): Significant rate reduction (-30%), notable accuracy loss (-15%)
+4. **Heavy Damage** (25%): Single gun operation only (-60% rate), poor accuracy (-30%)
 5. **Destroyed** (0%): Turret completely non-functional, requires major repair
 
 ---
@@ -559,9 +559,9 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 #### **Emergency Damage Control: HMS Prince of Wales Under Air Attack**
 **Situation**: Multiple torpedo hits, severe flooding, list developing
 
-**Damage Control Response**:
+**Damage Control Response** (repair times modified by Engineer Repair Speed stat: -25% slower at stat 7, baseline at stat 15, +105% faster at stat 50):
 1. **Immediate Assessment**: Damage Control UI shows 3 compartments flooded
-2. **Priority Repair**: Counter-flooding ordered to correct 12° list
+2. **Priority Repair**: Counter-flooding ordered to correct 12° list (baseline 90 seconds, ~36 seconds with Repair Speed 50)
 3. **System Evaluation**: Port engine destroyed, starboard engine operational at 60%
 4. **Speed Reduction**: Maximum speed reduced from 29 to 18 knots
 5. **Combat Effectiveness**: Can still fight but must avoid close-range engagement

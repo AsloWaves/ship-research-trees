@@ -277,7 +277,7 @@ Shell Penetration Value vs. Armor Thickness = Outcome
 - **Citadel hits**: +15% critical chance
 - **Manual targeting**: +25% critical chance
 - **Module direct hits**: +10% critical chance
-- **Crew specialization**: +5-15% based on crew level
+- **Gunner Accuracy stat**: +0% at stat 15 (baseline), up to +35% at stat 50 (legendary)
 
 **Critical Hit Effects**:
 - **1.5x damage multiplier**
@@ -315,7 +315,7 @@ Shell Penetration Value vs. Armor Thickness = Outcome
 5. **Destroyed** (0% HP): Turret completely non-functional
 
 **Combat Repair**:
-- **Repair time**: 45 seconds
+- **Repair time**: 45 seconds (baseline Repair Speed stat 15), reduced to ~18 seconds with Repair Speed 50
 - **Restored capacity**: 50% functionality
 - **Requires**: Damage control party available
 
@@ -333,7 +333,7 @@ Shell Penetration Value vs. Armor Thickness = Outcome
 - **0% HP**: Dead in water (0 knots)
 
 **Combat Repair**:
-- **Repair time**: 60 seconds
+- **Repair time**: 60 seconds (baseline Repair Speed stat 15), reduced to ~24 seconds with Repair Speed 50
 - **Restored capacity**: 50% speed restoration
 - **Tactical impact**: Vulnerable during repair
 
@@ -349,7 +349,7 @@ Shell Penetration Value vs. Armor Thickness = Outcome
 - **0% HP**: Stuck in turn (cannot change course)
 
 **Combat Repair**:
-- **Repair time**: 30 seconds
+- **Repair time**: 30 seconds (baseline Repair Speed stat 15), reduced to ~12 seconds with Repair Speed 50
 - **Restored capacity**: 70% restoration
 
 ---
@@ -362,7 +362,7 @@ Shell Penetration Value vs. Armor Thickness = Outcome
 - **0% HP**: Manual aiming only, no fire control computer
 
 **Combat Repair**:
-- **Repair time**: 15 seconds
+- **Repair time**: 15 seconds (baseline Repair Speed stat 15), reduced to ~6 seconds with Repair Speed 50
 - **Restored capacity**: Full restoration
 
 ---
@@ -375,7 +375,7 @@ Shell Penetration Value vs. Armor Thickness = Outcome
 - **0% HP**: Visual detection only (no radar/sonar)
 
 **Combat Repair**:
-- **Repair time**: 10 seconds
+- **Repair time**: 10 seconds (baseline Repair Speed stat 15), reduced to ~4 seconds with Repair Speed 50
 - **Restored capacity**: Full restoration
 
 **Tactical Impact**:
@@ -407,7 +407,8 @@ Shell Penetration Value vs. Armor Thickness = Outcome
 4. **Aft superstructure fire**
 
 **Fire Management**:
-- **Damage Control Party**: Instant extinguish, 90-second cooldown
+- **Damage Control Party**: Instant extinguish, 90-second cooldown (baseline Fire Fighting stat 15), reduced to ~36 seconds with Fire Fighting 50
+- **Fire Fighting stat effectiveness**: Stat 7 (-25% slower extinguishing), stat 15 (baseline), stat 50 (+105% faster extinguishing)
 - **Passive burn**: Fires extinguish naturally after 60 seconds
 - **Multiple fires**: Strategic decision - which fire to extinguish first?
 
@@ -444,7 +445,8 @@ Shell Penetration Value vs. Armor Thickness = Outcome
 - **List/Heel**: Visual ship listing to damaged side
 
 **Flood Management**:
-- **Damage Control Party**: Reduces flood damage by 50%, 90-second cooldown
+- **Damage Control Party**: Reduces flood damage by 50% (baseline Flooding Control stat 15), up to 78% with Flooding Control 50, 90-second cooldown (baseline stat 15), reduced to ~36 seconds with stat 50
+- **Flooding Control stat effectiveness**: Stat 7 (-25% slower mitigation), stat 15 (baseline 50% reduction), stat 50 (+105% faster mitigation, 78% damage reduction)
 - **Emergency repairs**: Temporary fix, requires port for full repair
 - **Counter-flooding**: Equalize ship balance, accepts additional water
 

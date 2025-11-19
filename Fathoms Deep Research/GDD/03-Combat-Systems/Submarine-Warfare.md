@@ -90,7 +90,7 @@ The submarine line progresses through three distinct class categories, each with
 - **Tactical Role**: Harbor defense, short-range patrols, training platforms
 - **Strengths**: Low cost, fast construction, minimal crew requirements, forgiving gameplay
 - **Weaknesses**: Limited range, shallow dive depth, small torpedo capacity, vulnerable in open ocean
-- **Best Use**: T0-T2 zones, coastal defense, new submarine commanders learning mechanics
+- **Best Use**: Coastal defense, harbor protection, new submarine commanders learning mechanics
 - **Economic Profile**: Cheap to build/operate, minimal resource risk, ideal for experimentation
 
 ---
@@ -142,7 +142,7 @@ The submarine line progresses through three distinct class categories, each with
 - **Tactical Role**: Commerce warfare, convoy interdiction, fleet screening, reconnaissance
 - **Strengths**: Extended endurance, significant torpedo capacity, moderate speed, operational flexibility
 - **Weaknesses**: Larger detection signature than coastal subs, higher operating costs, slower dive times
-- **Best Use**: T2-T4 zones, convoy routes, strategic chokepoints, wolfpack operations
+- **Best Use**: Convoy routes, strategic chokepoints, wolfpack operations
 - **Economic Profile**: Moderate construction costs, significant operating expenses, profitable commerce raiding
 
 ---
@@ -194,7 +194,7 @@ The submarine line progresses through three distinct class categories, each with
 - **Tactical Role**: Capital ship hunting, strategic chokepoint control, extraction denial, fleet elimination
 - **Strengths**: Superior speed, deep diving capability, massive torpedo capacity, advanced sensors
 - **Weaknesses**: Enormous construction costs, high crew requirements, major economic loss on death
-- **Best Use**: T4-T5 zones, capital ship ambush, extraction routes, high-stakes operations
+- **Best Use**: Capital ship ambush, extraction routes, high-stakes operations
 - **Economic Profile**: Extremely expensive, high-risk/high-reward gameplay, server-defining presence
 
 ---
@@ -289,32 +289,32 @@ The submarine line progresses through three distinct class categories, each with
 - **Range**: 3-5km maximum
 - **Speed**: 30-35 knots
 - **Damage**: Effective against T1-T4 ships, limited against capital ships
-- **Reload Time**: 180-240 seconds per tube
-- **Accuracy**: Requires precise manual aiming, no fire control assistance
+- **Reload Time**: 180-240 seconds per tube (baseline Tube Reload stat 15), reduced to ~73-98 seconds with Tube Reload 50
+- **Accuracy**: Requires precise manual aiming, no fire control assistance (modified by Torpedo Accuracy stat 7-50)
 
 #### **T4-T6: Standard Torpedoes**
 - **Type**: Contact and magnetic influence detonation
 - **Range**: 5-8km maximum
 - **Speed**: 35-40 knots
 - **Damage**: Effective against T3-T7 ships, moderate against capital ships
-- **Reload Time**: 120-180 seconds per tube
-- **Accuracy**: Basic fire control computer assistance
+- **Reload Time**: 120-180 seconds per tube (baseline Tube Reload stat 15), reduced to ~49-73 seconds with Tube Reload 50
+- **Accuracy**: Basic fire control computer assistance (modified by Torpedo Accuracy stat 7-50)
 
 #### **T7-T9: Advanced Torpedoes**
 - **Type**: Pattern-running torpedoes, acoustic homing (late models)
 - **Range**: 8-12km maximum
 - **Speed**: 40-45 knots
 - **Damage**: Effective against T5-T9 ships, significant capital ship threat
-- **Reload Time**: 90-120 seconds per tube
-- **Accuracy**: Advanced fire control, target motion analysis
+- **Reload Time**: 90-120 seconds per tube (baseline Tube Reload stat 15), reduced to ~37-49 seconds with Tube Reload 50
+- **Accuracy**: Advanced fire control, target motion analysis (modified by Torpedo Accuracy stat 7-50)
 
 #### **T10: Ultimate Torpedoes**
 - **Type**: Acoustic homing, wire-guided, pattern-running
 - **Range**: 12-15km maximum
 - **Speed**: 45-50 knots
 - **Damage**: Capable of sinking any ship class including T10 capital ships
-- **Reload Time**: 60-90 seconds per tube
-- **Accuracy**: Automated fire control, multi-target tracking, guided munitions
+- **Reload Time**: 60-90 seconds per tube (baseline Tube Reload stat 15), reduced to ~24-37 seconds with Tube Reload 50
+- **Accuracy**: Automated fire control, multi-target tracking, guided munitions (modified by Torpedo Accuracy stat 7-50)
 
 ---
 
@@ -613,10 +613,10 @@ The submarine line progresses through three distinct class categories, each with
 
 ### Torpedo Spread Configurations
 
-**Spread Pattern Options**:
+**Spread Pattern Options** (spread effectiveness modified by Spread Control stat: -25% coverage at stat 7, baseline at stat 15, +105% tighter control at stat 50):
 - **Single Shot**: Maximum stealth, conserve ammunition, high-confidence targets only
 - **Double Shot**: Backup torpedo for high-value targets, moderate ammunition usage
-- **Fan Spread**: 3-4 torpedoes with different courses to cover target maneuvering
+- **Fan Spread**: 3-4 torpedoes with different courses to cover target maneuvering (spread angle control improved by Spread Control stat)
 - **Salvo Attack**: All tubes fired simultaneously for maximum damage potential
 
 #### **Fan Spread Tactical Example: USS Wahoo Attacking Japanese Destroyer**
@@ -702,14 +702,14 @@ The submarine line progresses through three distinct class categories, each with
 
 ### Sonar Technology Integration & Tactical Applications
 
-#### **Passive Sonar Contact Classification**
+#### **Passive Sonar Contact Classification** (all detection modified by Electronics/Radar Detection Range stat: -25% range at stat 7, baseline at stat 15, +105% range at stat 50)
 
 **Sound Signature Recognition**:
-- **Engine Type Identification**: Diesel, steam, electric motor recognition
-- **Ship Size Estimation**: Propeller cavitation patterns indicate displacement
-- **Speed Calculation**: Propeller revolution rate analysis
-- **Course Estimation**: Doppler shift analysis for bearing change
-- **Range Estimation**: Sound intensity levels (experienced sonar operators only)
+- **Engine Type Identification**: Diesel, steam, electric motor recognition (accuracy improved by Detection stat)
+- **Ship Size Estimation**: Propeller cavitation patterns indicate displacement (accuracy improved by Detection stat)
+- **Speed Calculation**: Propeller revolution rate analysis (precision improved by Detection stat)
+- **Course Estimation**: Doppler shift analysis for bearing change (accuracy improved by Detection stat)
+- **Range Estimation**: Sound intensity levels (experienced sonar operators only, heavily modified by Detection stat)
 
 ---
 

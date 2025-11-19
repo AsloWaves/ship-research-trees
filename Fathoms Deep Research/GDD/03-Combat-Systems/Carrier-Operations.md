@@ -251,16 +251,17 @@ HMS Ark Royal sets Auto-movement waypoint 200km northeast to intercept Italian c
 - **T7-T9 Carriers**: 250-300 total crew (super carriers)
 - **T10 Carriers**: 300+ total crew (apex carriers)
 
-**Required Crew Positions per Wing** (Navy Field System):
-- **Squadron Leader**: Experienced pilot (Level 3+) - affects wing accuracy and coordination
-- **Flight Leader**: Veteran pilot (Level 2+) - reduces preparation time
-- **Wingmen**: Standard pilots (Level 1+) - 6-10 additional crew per wing
-- **Ground Crew**: Mechanics and armorers - affects preparation speed and reliability
+**Required Crew Positions per Wing** (7-50 Stat System):
+- **Squadron Leader** (Fighter/Bomber Pilot): Affects wing accuracy and coordination (Dogfighting/Accuracy stat 7-50)
+- **Flight Leader** (Fighter/Bomber Pilot): Reduces preparation time (stat-based efficiency)
+- **Wingmen**: Standard pilots - 6-10 additional crew per wing
+- **Ground Crew** (Engineer classification): Affects preparation speed and reliability (Repair Speed stat 7-50)
 
-**Crew Skill Impact Examples** (applies to all tiers):
-- **Elite Squadron Leader (Level 5)**: +25% accuracy, +15% coordination, -20% prep time
-- **Veteran Ground Crew (Level 4)**: -30% preparation time, +10% aircraft reliability
-- **Rookie Pilots (Level 1)**: -15% accuracy, +50% fuel consumption, higher loss rates
+**Crew Stat Impact Examples** (applies to all tiers):
+- **Fighter Pilot Dogfighting stat 50** (legendary): +97% air-to-air effectiveness, +70% coordination, -60% prep time
+- **Bomber Pilot Accuracy stat 50** (legendary): +97% bombing accuracy, -60% prep time
+- **Engineer Repair Speed stat 50** (legendary): -60% preparation time, +105% aircraft reliability
+- **Rookie stats 7-10**: -25% to -15% accuracy, +35% to +15% fuel consumption, higher loss rates
 
 **Tier-Based Crew Complexity**:
 - **T1-T3**: Simpler crew management, fewer specializations needed
@@ -531,18 +532,18 @@ HMS Ark Royal (500 fuel units) plans 8-hour patrol mission with 4 wings:
 
 ## Crew & Equipment Dependencies - Human Factors
 
-### Crew Experience Impact on Operations
+### Crew Stats Impact on Operations (7-50 Stat System)
 
-**Preparation Speed by Crew Level**:
-- **Elite Crew (Level 5)**: 60% of base preparation time, +25% aircraft performance
-- **Veteran Crew (Level 3-4)**: 80% of base preparation time, +10% aircraft performance
-- **Standard Crew (Level 2)**: 100% of base preparation time, standard performance
-- **Rookie Crew (Level 1)**: 150% of base preparation time, -15% aircraft performance
+**Preparation Speed by Crew Stats** (Engineer Repair Speed stat 7-50):
+- **Legendary Crew (Repair Speed stat 50)**: 40% of base preparation time, +105% aircraft performance
+- **Expert Crew (Repair Speed stat 35)**: 60% of base preparation time, +60% aircraft performance
+- **Baseline Crew (Repair Speed stat 15)**: 100% of base preparation time, standard performance
+- **Rookie Crew (Repair Speed stat 7)**: 125% of base preparation time, -25% aircraft performance
 
 **Crew Specialization Benefits**:
-- **Fighter Specialists**: +20% air-to-air combat effectiveness, -10% ground attack accuracy
-- **Bomber Specialists**: +25% bombing accuracy, -15% air-to-air combat effectiveness
-- **All-Around Crew**: Balanced performance across all mission types
+- **Fighter Specialists** (Fighter Pilot Dogfighting stat 7-50): +0% air-to-air at stat 15 (baseline), up to +97% at stat 50 (legendary)
+- **Bomber Specialists** (Bomber Pilot Accuracy stat 7-50): +0% bombing accuracy at stat 15 (baseline), up to +97% at stat 50 (legendary)
+- **All-Around Crew**: Balanced performance across all mission types (moderate stats in all classifications)
 
 ---
 
