@@ -50,27 +50,13 @@ This system faithfully recreates NavyField 1's RNG sailor system:
 
 ### Recruitment Mechanics
 
-When recruiting a crew card at port, stats are **randomly generated** within a range determined by port tier and recruitment type.
+When recruiting a crew card at port, **all stats are randomly generated** within the **7-15 range** (uniform distribution). Port tier affects recruitment cost, not stat ranges.
 
-**Common Recruitment** (Low-Tier Ports, 1,000 credits):
-- **Stat Range**: 7-12 (average: 9.5)
-- **Quality**: Baseline recruits, common
-- **Use Case**: Budget option, training fodder
-
-**Standard Recruitment** (Mid-Tier Ports, 5,000 credits):
-- **Stat Range**: 9-15 (average: 12)
-- **Quality**: Decent recruits, most common endgame recruitment
-- **Use Case**: Standard crew acquisition
-
-**Elite Recruitment** (High-Tier Ports, 25,000 credits):
-- **Stat Range**: 12-18 (average: 15)
-- **Quality**: Premium recruits with head start
-- **Use Case**: Rich players accelerate progression
-
-**Legendary Recruitment** (Capital Cities, 100,000 credits):
-- **Stat Range**: 15-20 (average: 17.5)
-- **Quality**: Best possible starting stats
-- **Use Case**: Whale option, extremely rare
+**All Ports Recruitment** (Any Port, 5,000 credits):
+- **Stat Range**: 7-15 (average: 11)
+- **Distribution**: Uniform (equal chance for any value 7-15)
+- **Quality**: All recruitment has same stat range
+- **Use Case**: Hunt for good RNG by rerolling
 
 ### Reroll Mechanics
 
@@ -92,19 +78,19 @@ Total Cost: 20,000 credits (4 rolls × 5,000)
 ```
 
 **Strategic Considerations**:
-- **Early Game**: Accept mediocre stats (save credits for ships/equipment)
-- **Mid Game**: Reroll 3-5 times for decent stats (10,000-25,000 credits investment)
-- **Late Game**: Reroll 10+ times for elite stats (50,000-100,000 credits investment)
-- **Whale Strategy**: Use Legendary Recruitment (15-20 base stats) to skip rerolling
+- **Early Game**: Accept mediocre stats (7-10 range, save credits for ships/equipment)
+- **Mid Game**: Reroll 3-5 times for decent stats (12-13 average, 15,000-25,000 credits investment)
+- **Late Game**: Reroll 10-20 times for elite stats (14-15 in primary stats, 50,000-100,000 credits investment)
+- **Perfect Hunting**: Some players reroll 50+ times for perfect 15/15 primary stats (250,000+ credits)
 
 **UI Display**:
 When recruiting, show:
 ```
 ╔════════════════════════════════╗
-║ Standard Recruitment           ║
+║ Crew Recruitment               ║
 ║ Cost: 5,000 credits            ║
 ║                                ║
-║ Stat Range: 9-15               ║
+║ Stat Range: 7-15               ║
 ║ (All stats randomly generated) ║
 ║                                ║
 ║ [RECRUIT] [Cancel]             ║
@@ -117,7 +103,7 @@ After recruitment:
 ║ Accuracy:  13 ████████         ║
 ║ Reload:    14 █████████        ║
 ║ Range:     12 ███████          ║
-║ (All stats):  9-14 average     ║
+║ (All stats):  7-15 per stat    ║
 ║                                ║
 ║ [KEEP] [DISMISS & REROLL]      ║
 ╚════════════════════════════════╝
@@ -132,7 +118,7 @@ After recruitment:
 **All Stats Use Same Range**:
 - **Minimum**: 7 (absolute untrained floor)
 - **Maximum**: 35 (legendary cap, Level 200 + perfect RNG)
-- **Recruitment Range**: 7-20 (depends on port tier)
+- **Recruitment Range**: 7-15 (uniform distribution, all ports)
 - **Classification Bonus**: +5 at Level 25
 - **Level Growth**: +0.12/level (primary), +0.06/level (secondary)
 
@@ -148,7 +134,7 @@ After recruitment:
 **Total Stat Value** = Base Stat (RNG) + Classification Bonus + Level Growth
 
 **Breakdown**:
-1. **Base Stat (Level 1 Recruitment)**: 7-20 (RNG, depends on port tier)
+1. **Base Stat (Level 1 Recruitment)**: 7-15 (RNG, uniform distribution)
 2. **Level 1-25 Neutral Growth**: +0.05 per level to ALL stats = +1.25 per stat
 3. **Level 25 Classification Bonus**: +5 to primary stats (one-time)
 4. **Level 26-200 Classified Growth**: +0.12/level (primary), +0.06/level (secondary)
@@ -176,21 +162,21 @@ Level 200: Accuracy 22.25 + (100 × 0.12) = 34.25
 Final: Accuracy 34.25 (near cap, RNG disadvantage ~1 point)
 ```
 
-**Example Progression** (Perfect RNG: Accuracy 20 from Legendary Recruitment):
+**Example Progression** (Perfect RNG: Accuracy 15 best possible roll):
 
 ```
-Level 1:   Accuracy 20 (best possible roll, 100k credits)
-Level 25:  Accuracy 20 + 1.25 = 21.25 + 5 = 26.25
-Level 100: Accuracy 26.25 + (75 × 0.12) = 35.25 → CAPPED at 35
-Level 200: Accuracy 35 (legendary, reached cap early at ~Level 97)
+Level 1:   Accuracy 15 (best possible roll)
+Level 25:  Accuracy 15 + 1.25 = 16.25 + 5 = 21.25
+Level 100: Accuracy 21.25 + (75 × 0.12) = 30.25
+Level 200: Accuracy 30.25 + (100 × 0.12) = 42.25 → CAPPED at 35
 
-Final: Accuracy 35 (legendary, RNG advantage = reaches cap 103 levels early)
+Final: Accuracy 35 (legendary, reached cap at ~Level 139)
 ```
 
 **Key Insight**:
-- Good RNG crews reach stat cap ~100 levels earlier
-- Bad RNG crews reach stat cap at Level 200 but ~1 point lower
-- **RNG matters but isn't game-breaking** (recoverable through leveling)
+- Perfect RNG (15 start) reaches stat cap ~61 levels earlier than worst RNG (7 start)
+- Bad RNG (7 start) reaches 34.25 at Level 200 (~1 point below cap)
+- **RNG matters for progression speed** but endgame equalizes (only ~1 point difference at L200)
 
 ---
 
@@ -998,13 +984,12 @@ Range:    +0.06 per level (secondary growth)
 - Stats above 35 are **capped** (no further benefit)
 
 **RNG Impact Zones**:
-- **Bad RNG (7-10 start)**: Reach 30-33 at Level 200 (slightly below cap)
-- **Average RNG (11-13 start)**: Reach 33-35 at Level 200 (near/at cap)
-- **Good RNG (14-15 start)**: Reach 35 at ~Level 150-180 (cap early)
-- **Elite RNG (16-18 start)**: Reach 35 at ~Level 100-130 (cap very early)
-- **Legendary RNG (19-20 start)**: Reach 35 at ~Level 70-100 (cap extremely early)
+- **Bad RNG (7-9 start)**: Reach 31-33 at Level 200 (2-4 points below cap)
+- **Average RNG (10-12 start)**: Reach 33-35 at Level 200 (near/at cap)
+- **Good RNG (13-14 start)**: Reach 35 at ~Level 160-180 (cap ~20-40 levels early)
+- **Perfect RNG (15 start)**: Reach 35 at ~Level 139 (cap 61 levels early)
 
-**Key Insight**: Good RNG doesn't make you MORE powerful at max level, it makes you reach max power FASTER (100-130 levels earlier). This creates early/mid-game advantage but endgame equalizes.
+**Key Insight**: Perfect RNG (15 start) reaches cap ~61 levels earlier than worst RNG (7 start), but at Level 200 the difference is only ~1 stat point. RNG creates early/mid-game advantage but endgame nearly equalizes.
 
 ---
 
@@ -1150,15 +1135,15 @@ When crew card dies in T6-T10 ship:
 - **High-Level Crew in T6+**: Player knowingly accepts 10-100% permadeath risk
 - **Weight System Gates Abuse**: Cannot use Level 200 crew (211.5 tons) in T1 destroyer (250 ton limit with only 5 crew slots)
 - **Risk/Reward Balance**: High-level crews powerful (30-35 stats) but losing them is catastrophic
-- **RNG Creates Emotional Investment**: Losing a Level 180 crew with perfect 20-20-18 starting stats (rolled 50+ times) = devastating
+- **RNG Creates Emotional Investment**: Losing a Level 180 crew with perfect 15-15-14 starting stats (rolled 50+ times) = devastating
 
 **Example Scenario**:
-- Player hunted for days to recruit perfect Gunner (20 Accuracy, 19 Reload, 18 Range starting stats = 100,000 credits Legendary Recruitment + 10+ rerolls)
-- Invested 1,800 hours leveling to Level 180 (stats: 35 Accuracy, 35 Reload, 28 Range)
+- Player hunted for days to recruit perfect Gunner (15 Accuracy, 15 Reload, 14 Range starting stats = rolled 50+ times, 250,000+ credits in rerolls)
+- Invested 1,800 hours leveling to Level 180 (stats: 35 Accuracy, 35 Reload, 27 Range)
 - Assigned to T10 Battleship (100% crew card death on destruction)
 - Battleship destroyed in battle
 - Level 180 Gunner permanently destroyed (GONE FOREVER)
-- Must recruit fresh Level 1 neutral crew with new random stats (probably worse: 12 Accuracy, 11 Reload, 10 Range)
+- Must recruit fresh Level 1 neutral crew with new random stats (probably worse: 11 Accuracy, 10 Reload, 9 Range)
 - **Result**: Stakes are REAL, T10 battles are terrifying, perfect RNG crews are priceless
 
 ---
@@ -1179,9 +1164,9 @@ When crew card dies in T6-T10 ship:
 ║ Reload:    35 ████████████████ MAX ║
 ║                                    ║
 ║ SECONDARY STATS                    ║
-║ Range:     28 ████████████         ║
+║ Range:     27 ████████████         ║
 ║                                    ║
-║ Starting Stats: 20/19/18 (Perfect!)║
+║ Starting Stats: 15/15/14 (Perfect!)║
 ║ Specialization: Precision Gunner   ║
 ╚════════════════════════════════════╝
 ```
@@ -1200,13 +1185,13 @@ When crew card dies in T6-T10 ship:
 **Pre-Recruitment Display**:
 ```
 ╔════════════════════════════════════╗
-║ STANDARD RECRUITMENT               ║
+║ CREW RECRUITMENT                   ║
 ║ Cost: 5,000 credits                ║
 ║                                    ║
-║ Stat Range: 9-15 (Average: 12)    ║
+║ Stat Range: 7-15 (Average: 11)    ║
 ║ All stats randomly generated       ║
 ║                                    ║
-║ Expected Quality: Decent           ║
+║ Expected Quality: Varies           ║
 ║                                    ║
 ║ [RECRUIT] [Cancel]                 ║
 ╚════════════════════════════════════╝
@@ -1239,16 +1224,16 @@ Effects:
 - Hit Rate: 95% at optimal range
 - Bonus: +200% vs baseline (15 Accuracy = 50%)
 - With Command Bonus (35 Command = +60%): Effective 56
-- Starting Stat: 20 (Perfect Legendary Recruitment)
+- Starting Stat: 15 (Perfect RNG)
 
 Progression:
-- Level 1: 20 (recruited)
-- Level 25: 26.25 (neutral growth + classification)
-- Level 100: 35 (reached cap)
+- Level 1: 15 (recruited)
+- Level 25: 21.25 (neutral growth + classification)
+- Level 139: 35 (reached cap)
 - Current: 35/35 (MAX, no further growth)
 
-Time Investment: 1,400 hours combat
-Recruitment Cost: 100,000 credits (Legendary) + 10 rerolls (1,000,000 total)
+Time Investment: 1,800 hours combat
+Recruitment Cost: 5,000 credits per roll, ~50 rerolls = 250,000 credits for perfect 15-15 primary stats
 ```
 
 ---
