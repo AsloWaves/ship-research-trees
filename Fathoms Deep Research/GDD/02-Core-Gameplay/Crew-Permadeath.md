@@ -112,6 +112,27 @@ Even if crew card SURVIVES permadeath roll, it may have LOST SAILORS from battle
 8. Timer expiration = permanent crew card loss
 9. T10 exception: No retrieval possible, all crew cards instantly lost
 
+### Quick Reference: Ship Tier Safety Table
+
+| Ship Tier | Crew Card Death % | Retrieval Possible | Safe Training? | Strategic Use |
+|-----------|-------------------|--------------------|--------------------|---------------|
+| **T1** | 0% | N/A (always safe) | ✅ **YES - Anywhere** | Safe crew training everywhere on map |
+| **T2** | 0% | N/A (always safe) | ✅ **YES - Anywhere** | Safe crew training everywhere on map |
+| **T3** | 0% | N/A (always safe) | ✅ **YES - Anywhere** | Safe crew training everywhere on map |
+| **T4** | 0% | N/A (always safe) | ✅ **YES - Anywhere** | Safe crew training everywhere on map |
+| **T5** | 0% | N/A (always safe) | ✅ **YES - Anywhere** | Last completely safe tier for training |
+| **T6** | 10% per card | ✅ Yes (15-60 min) | ⚠️ **RISK BEGINS** | First permadeath tier - use backup crews |
+| **T7** | 20% per card | ✅ Yes (15-60 min) | ❌ **NOT SAFE** | Moderate risk - experienced players only |
+| **T8** | 40% per card | ✅ Yes (15-60 min) | ❌ **NOT SAFE** | High risk - elite crews or expendable crews |
+| **T9** | 60% per card | ✅ Yes (15-60 min) | ❌ **NOT SAFE** | Extreme risk - expect heavy crew losses |
+| **T10** | 100% | ❌ **NO RETRIEVAL** | ❌ **NEVER SAFE** | Ultimate stakes - all crews guaranteed lost |
+
+**Key Takeaways**:
+- **T1-T5**: Use for ALL crew training - zero crew card death risk anywhere on map
+- **T6+**: Only use when crews are expendable or rewards justify permadeath risk
+- **Location Doesn't Matter**: Ship tier determines risk, not where you fight
+- **Train to Level 200 in T1-T5**: Maximize crew investment before risking in T6+ battles
+
 ---
 
 ## Technical Implementation

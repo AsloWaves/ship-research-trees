@@ -135,6 +135,113 @@ Example Calculations:
 
 **Note**: Classification does NOT affect weight - only level and sailor count matter.
 
+### Weight Budget Examples by Ship Class
+
+These examples show how weight constraints create natural progression gates:
+
+**T1 Destroyer (250 ton crew limit, 5 positions)**:
+
+Viable Composition:
+- 3× Level 25 Gunners (130 sailors each) = 130 × 0.1 × 1.25 × 3 = 48.75 tons
+- 1× Level 25 Engineer (130 sailors) = 16.25 tons
+- 1× Level 20 AA Specialist (105 sailors) = 105 × 0.1 × 1.20 = 12.6 tons
+- **Total Crew Weight**: 77.6 tons (31% of limit) ✅ **VIABLE**
+
+Over-Leveling Attempt:
+- 5× Level 100 crews (455 sailors each) = 455 × 0.1 × 2.0 × 5 = 455 tons
+- **Total Crew Weight**: 455 tons (182% of limit) ❌ **CANNOT FIT**
+- **Result**: T1 destroyer cannot support Level 100+ crews (weight restriction forces tier progression)
+
+---
+
+**T3 Cruiser (600 ton crew limit, 8 positions)**:
+
+Mid-Level Composition:
+- 4× Level 50 Gunners (255 sailors) = 255 × 0.1 × 1.5 × 4 = 153 tons
+- 2× Level 50 Engineers (255 sailors) = 76.5 tons
+- 2× Level 50 AA Specialists (255 sailors) = 76.5 tons
+- **Total Crew Weight**: 306 tons (51% of limit) ✅ **VIABLE**
+
+High-Level Attempt:
+- 8× Level 120 crews (505 sailors) = 505 × 0.1 × 2.2 × 8 = 889 tons
+- **Total Crew Weight**: 889 tons (148% of limit) ❌ **CANNOT FIT**
+- **Result**: T3 cruiser maxes out around Level 75-90 crews before weight limits force tier progression
+
+---
+
+**T5 Heavy Cruiser (1,200 ton crew limit, 12 positions)**:
+
+Optimal Composition:
+- 6× Level 100 Gunners (455 sailors) = 455 × 0.1 × 2.0 × 6 = 546 tons
+- 3× Level 90 Engineers (405 sailors) = 405 × 0.1 × 1.9 × 3 = 231 tons
+- 3× Level 85 Support crews (380 sailors) = 380 × 0.1 × 1.85 × 3 = 211 tons
+- **Total Crew Weight**: 988 tons (82% of limit) ✅ **VIABLE**
+
+Elite Attempt:
+- 12× Level 150 crews (605 sailors) = 605 × 0.1 × 2.5 × 12 = 1,815 tons
+- **Total Crew Weight**: 1,815 tons (151% of limit) ❌ **CANNOT FIT**
+- **Result**: T5 ships can support Level 100 crews comfortably but struggle with Level 150+
+
+---
+
+**T7 Battleship (1,800 ton crew limit, 15 positions)**:
+
+Elite Crew Composition:
+- 6× Level 150 Gunners (605 sailors) = 605 × 0.1 × 2.5 × 6 = 907.5 tons
+- 3× Level 140 Engineers (575 sailors) = 575 × 0.1 × 2.4 × 3 = 414 tons
+- 4× Level 130 AA Specialists (545 sailors) = 545 × 0.1 × 2.3 × 4 = 501.4 tons
+- 2× Level 120 Support (505 sailors) = 505 × 0.1 × 2.2 × 2 = 222.2 tons
+- **Total Crew Weight**: 2,045 tons (114% of limit) ❌ **SLIGHTLY OVER**
+
+Adjusted Composition (Mixed Levels):
+- 6× Level 150 Gunners = 907.5 tons
+- 3× Level 120 Engineers = 333.3 tons
+- 4× Level 110 AA Specialists = 485 × 0.1 × 2.1 × 4 = 407.4 tons
+- 2× Level 100 Support = 182 tons
+- **Total Crew Weight**: 1,830 tons (102% of limit) ❌ **STILL SLIGHTLY OVER**
+
+Final Adjusted:
+- Mix of Level 120-140 crews instead of all L150
+- **Total Crew Weight**: ~1,650 tons (92% of limit) ✅ **VIABLE**
+- **Result**: Even large battleships can't field all Level 150+ crews - must prioritize critical positions
+
+---
+
+**T10 Carrier (2,500 ton crew limit, 20 positions)**:
+
+Maximum Elite Roster:
+- 8× Level 180 Aviation crews (665 sailors) = 665 × 0.1 × 2.8 × 8 = 1,489 tons
+- 6× Level 160 Support crews (625 sailors) = 625 × 0.1 × 2.6 × 6 = 975 tons
+- 6× Level 140 Defense crews (575 sailors) = 575 × 0.1 × 2.4 × 6 = 828 tons
+- **Total Crew Weight**: 3,292 tons (132% of limit) ❌ **CANNOT FIT**
+
+Realistic Elite Roster:
+- 8× Level 160 Aviation (625 sailors) = 625 × 0.1 × 2.6 × 8 = 1,300 tons
+- 6× Level 140 Support (575 sailors) = 575 × 0.1 × 2.4 × 6 = 828 tons
+- 6× Level 120 Defense (505 sailors) = 505 × 0.1 × 2.2 × 6 = 666.6 tons
+- **Total Crew Weight**: 2,795 tons (112% of limit) ❌ **STILL OVER**
+
+Final Balanced Roster:
+- 8× Level 150 Aviation = 605 × 0.1 × 2.5 × 8 = 1,210 tons
+- 12× Level 130 Mixed Support/Defense = 545 × 0.1 × 2.3 × 12 = 1,504 tons
+- **Total Crew Weight**: 2,714 tons (109% of limit) ❌ **BARELY OVER**
+
+Actual Working Roster:
+- Prioritize critical positions (Aviation) at Level 150-160
+- Support positions at Level 120-130
+- Defensive positions at Level 100-110
+- **Total Crew Weight**: ~2,400 tons (96% of limit) ✅ **VIABLE**
+- **Result**: Even T10 ships with maximum crew capacity must make trade-offs
+
+---
+
+**Design Philosophy**:
+- Weight limits naturally force players to upgrade ships as crews level up
+- Cannot "park" at low tiers with Level 200 crews - must progress to higher-tier ships
+- Creates meaningful choice: Field fewer high-level crews OR more moderate-level crews
+- Elite rosters (Level 150-200 all positions) only possible on largest T9-T10 ships
+- Promotes ship tier progression as part of crew progression
+
 #### Ship Crew Position Slot System
 
 | Ship Class | Crew Positions | Weight Limit | Strategic Impact |

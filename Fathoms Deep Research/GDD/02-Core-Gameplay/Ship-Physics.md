@@ -80,6 +80,85 @@ Telegraph-style speed control modeled after real naval vessels:
 - **Visual Feedback**: UI shows current speed, throttle setting, turn rate, and momentum
 - **Tutorial**: In-game training explains steerageway and turning circles
 
+### Player Experience by Skill Level
+
+**First 10 Minutes (Beginner)**:
+
+Player attempts first turn at full speed:
+- **Expectation**: Arcade-style instant turn (like World of Tanks, War Thunder)
+- **Reality**: Ship takes 15+ seconds to complete turn arc, overshoots destination by 200+ meters
+- **Frustration Point**: "Why won't it turn?!"
+- **Learning Moment**: Realizes speed affects turn radius, must plan ahead
+- **UI Help**: Turn radius indicator shows predicted path, throttle arrows indicate momentum
+
+**First Hour (Learning)**:
+
+Player discovers steerageway concept:
+- **Mistake**: Tries turning while stopped - nothing happens
+- **UI Tooltip**: "Rudders need water flow - maintain speed to turn"
+- **Experimentation**: Tests different speeds to find minimum effective turning speed
+- **Breakthrough**: Learns to anticipate maneuvers 20-30 seconds ahead
+- **Early Mastery**: Can dock at port without crashing (50% success rate)
+
+**10+ Hours (Intermediate)**:
+
+Player masters telegraph system:
+- **Speed Control**: Uses throttle settings strategically (Half Ahead for tight turns, Full Ahead for escape)
+- **Momentum Conservation**: Understands coasting mechanics, uses Emergency Stop sparingly
+- **Multi-Stage Maneuvers**: Plans approach → brake → turn → accelerate sequences
+- **Combat Competence**: Can kite enemies, maintain optimal gunnery angles
+- **Docking Success**: 90%+ success rate at ports without collision
+
+**50+ Hours (Advanced)**:
+
+Player executes complex tactics:
+- **Yo-Yo Maneuvers**: High-speed approach → emergency brake → tight turn → acceleration escape
+- **Kiting**: Maintains range against slower enemies using speed advantage and turn prediction
+- **Angling**: Positions hull at optimal angle while maintaining gunnery firing solution
+- **Emergency Techniques**: Executes emergency stops to dodge torpedoes (risky but effective)
+- **Muscle Memory**: Intuitively adjusts throttle without thinking, focuses on tactics not controls
+
+**100+ Hours (Expert)**:
+
+Player treats physics as second nature:
+- **Prediction**: Calculates enemy turn radius and speed changes instinctively
+- **Advanced Tactics**: Baits enemies into overshoot traps, uses island terrain for cover
+- **Ship-Specific Mastery**: Knows exact turn circles and acceleration times for each ship class
+- **Teaching Others**: Provides guidance to new players on physics mechanics
+- **Competitive Edge**: Physics mastery translates to combat dominance
+
+### Common Player Mistakes & Solutions
+
+**Mistake 1: Turning While Stopped**
+- **Problem**: Player stops ship completely, then attempts turn
+- **Result**: Ship barely rotates (no steerageway), vulnerable to attack
+- **Solution**: Maintain 25%+ speed before attempting turns
+- **Tutorial Tip**: "A ship is like a bicycle - you need forward momentum to turn"
+
+**Mistake 2: Full Speed Port Approaches**
+- **Problem**: Player approaches port/objective at Full Ahead
+- **Result**: Overshoots by 500+ meters, crashes into docks/obstacles
+- **Solution**: Reduce to Half Ahead 30-60 seconds before destination
+- **Tutorial Tip**: "Start slowing down early - big ships take time to stop"
+
+**Mistake 3: Emergency Reverse Panic**
+- **Problem**: Enemy spotted ahead, player slams Emergency Astern
+- **Result**: Ship takes 60+ seconds to reverse direction, gets destroyed
+- **Solution**: Turn parallel to threat and use forward speed to escape laterally
+- **Tutorial Tip**: "Never reverse in combat - turn and run at full speed instead"
+
+**Mistake 4: Constant Telegraph Changes**
+- **Problem**: Player rapidly cycles between Full Ahead and Full Stop
+- **Result**: Ship never reaches efficient speed, wastes acceleration time
+- **Solution**: Commit to throttle setting for 10+ seconds, plan ahead
+- **Tutorial Tip**: "Set your speed and stick with it - constant changes waste momentum"
+
+**Mistake 5: Ignoring Turn Radius**
+- **Problem**: Player assumes can thread narrow gaps or make sharp turns
+- **Result**: Collision with islands, grounding in shallow water, or being boxed in
+- **Solution**: Use turn radius indicator, give wide berth to obstacles
+- **Tutorial Tip**: "Battleships turn like cruise ships, not speedboats - plan your route"
+
 ---
 
 ## Technical Implementation

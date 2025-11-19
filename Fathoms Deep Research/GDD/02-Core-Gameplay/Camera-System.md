@@ -252,6 +252,86 @@ On Start:
 
 ---
 
+## Gameplay Impact & Tactical Use
+
+### Combat Applications
+
+**Close Range Combat (Zoom 5-15)**:
+- **Detail Level**: Individual turrets, torpedo tubes, damage effects visible
+- **Tactical Use**: Precise ship maneuvering, torpedo evasion, close-quarters positioning
+- **Player Behavior**: Micro-management of heading, speed control for dodging
+- **Best For**: Destroyer duels, submarine attacks, knife-fighting ranges
+
+**Medium Range Combat (Zoom 15-30)**:
+- **Detail Level**: Multiple ships visible, shell trajectories clear, formation patterns
+- **Tactical Use**: Main battery gunnery, formation positioning, coordinated attacks
+- **Player Behavior**: Kiting enemies, maintaining optimal firing angles
+- **Best For**: Cruiser engagements, battleship broadsides, fleet coordination
+
+**Long Range Awareness (Zoom 30-50)**:
+- **Detail Level**: Strategic overview, fleet movements, incoming threats
+- **Tactical Use**: Situational awareness, flanking detection, retreat planning
+- **Player Behavior**: Scanning for threats, coordinating with teammates
+- **Best For**: Carrier operations, strategic retreats, large fleet battles
+
+### Look-Ahead Mode Tactics
+
+**Predictive Gunnery**:
+- Shows where ship will be in 2-3 seconds at current speed/heading
+- Critical for leading targets with slow turret traverse
+- Enables firing at enemies before they appear on screen edge
+
+**Evasion Planning**:
+- Preview turn radius before committing to maneuver
+- Essential for dodging long-range fire with slow battleships
+- Helps avoid torpedoes by showing future position
+
+**Torpedo Attacks**:
+- Submarine players use look-ahead to calculate intercept points
+- Lead moving targets by 10-20 seconds for torpedo travel time
+- Preview escape route after torpedo launch
+
+### Manual Pan Scouting
+
+**Battlefield Awareness**:
+- Survey combat area without exposing ship
+- Check flanks for approaching destroyers/submarines
+- Identify high-value targets before engaging
+
+**Coordination**:
+- Scout enemy positions for teammates
+- Share intel on fleet movements via voice/text
+- Plan coordinated attacks using shared battlefield view
+
+**Extraction Planning**:
+- Preview route to friendly port before committing
+- Check for ambushes along extraction path
+- Identify alternative escape routes if primary blocked
+
+### Zoom Level Strategy
+
+**Destroyer Players** (Fast, Fragile):
+- Prefer Zoom 10-20 for agile maneuvering
+- Frequently pan to check surroundings
+- Use look-ahead for evasion prediction
+
+**Battleship Players** (Slow, Durable):
+- Prefer Zoom 20-35 for gunnery overview
+- Less frequent zooming due to slow acceleration
+- Use look-ahead for turn planning (60+ second commitment)
+
+**Carrier Players** (Strategic):
+- Prefer Zoom 35-50 for fleet-wide awareness
+- Minimal manual panning (stay at range)
+- Focus on aircraft squadron management, not ship position
+
+**Submarine Players** (Stealth):
+- Prefer Zoom 15-25 for torpedo calculations
+- Heavy use of manual pan to scout surface targets
+- Look-ahead essential for firing solutions
+
+---
+
 ## Testing
 
 ### Test Coverage
