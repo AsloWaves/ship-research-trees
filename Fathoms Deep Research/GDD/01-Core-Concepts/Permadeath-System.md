@@ -240,12 +240,13 @@ Tier 10 is NOT for regular play. It exists for:
 5. **Time Investment**: Hundreds of hours of progression - reset to zero
 
 **Risk vs. Reward:**
-T10 zones must offer unmatched rewards to justify absolute risk:
+Operating T10 ships must offer unmatched rewards to justify absolute permadeath risk:
 - **Loot Quality**: Legendary modules, ultra-rare resources, astronomical credits
 - **Reputation Gains**: Massive faction standing boosts for mere survival
 - **Achievement Recognition**: Server-wide announcements, special titles, unique cosmetics
 - **Historical Significance**: Command the most famous warships in history
 - **Bragging Rights**: "I survived T10 in a Yamato" = legendary status
+- **Combat Dominance**: Most powerful ships in the game, can challenge any enemy
 
 **When Players Use Tier 10:**
 - Major server-wide campaigns (territory control, faction wars)

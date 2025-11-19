@@ -129,7 +129,7 @@ Players should feel like they're living the experience of a WWII naval commander
 - **Community**: Shared losses bond players and squadrons
 - **Respect**: Players who achieve greatness despite permadeath earn genuine admiration
 
-**Balancing Philosophy**: Loss should never feel arbitrary or unfair. Players should always understand what went wrong and how to improve. The permadeath system is graduated (Tiers 1-4 safe, 5-9 escalating risk, 10 guaranteed loss) so players opt into appropriate risk levels.
+**Balancing Philosophy**: Loss should never feel arbitrary or unfair. Players should always understand what went wrong and how to improve. The permadeath system is graduated (Tiers 1-5 safe, 6-9 escalating permadeath risk, 10 guaranteed loss) so players opt into appropriate risk levels.
 
 ### 4. Earned Respect
 **Design Goal**: Reputation should reflect skill, not just time investment.

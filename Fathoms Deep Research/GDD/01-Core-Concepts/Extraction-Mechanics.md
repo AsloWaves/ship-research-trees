@@ -26,12 +26,12 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 **Objective**: Prepare ship for expedition with limited resources
 
 **Player Activities:**
-- Load ammunition into magazine spaces (physical inventory limit)
-- Fuel ship for journey (affects range and extraction options)
-- Select crew assignments and specialists
-- Install or swap modules based on mission objectives
-- Purchase supplies (repair materials, medical supplies, etc.)
-- Review intelligence on target areas (zone tiers, known hostiles)
+- Load ammunition into ship inventory (grid)
+- Fuel ship for journey into ship inventory (grid)
+- Select crew assignments and specialists (All modules need crew cards to work, some are critical for leaving port, others are not critical)
+- Install or swap modules based on mission objectives()
+- Purchase Consumables (repair materials, medical supplies, etc.)
+- Review intelligence on target areas (Recent reports on resources and enemy activity)
 
 **Key Decisions:**
 - **Ammunition variety vs. quantity**: Bring AP for armored targets or HE for general combat?
@@ -98,7 +98,7 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 **Loot Acquisition:**
 - **Ship modules**: Turrets, engines, fire control systems (high value)
 - **Resources**: Chromium, steel, rare materials (trade goods)
-- **Ammunition**: Salvage unfired rounds from enemy magazines
+- **Ammunition**: Salvage unfired rounds from enemy Inventory
 - **Crew**: Rescue enemy crew as prisoners (ransom/recruitment)
 - **Intelligence**: Maps, codes, tactical data (reputation rewards)
 
@@ -222,33 +222,89 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 
 #### Tier-Based Escalating Risks
 
-**Tiers 1-4: Protected Learning Zone**
-- **Ship Recovery**: 100% guaranteed (towed to friendly port if destroyed)
-- **Crew Safety**: No permanent casualties
-- **Module Damage**: Escalating risk (10-30% chance of destroyed modules)
+**Tiers 1-5: Protected Learning Zone**
+- **Ship Permadeath**: 0% (ships ALWAYS recovered, guaranteed safety)
+- **Crew Card Permadeath**: 0% (crew cards ALWAYS safe, no permanent loss)
+- **Sailor Casualties**: Variable based on damage (replaceable at ports for credits)
+- **Module Damage**: Escalating risk (10-40% chance of destroyed modules)
 - **Cargo Loss**: Always at risk if ship destroyed
-- **Purpose**: Educational environment for learning mechanics
+- **Purpose**: Safe environment for learning mechanics and training crew cards
+- **Key Insight**: T1-T5 ships can explore ANYWHERE on the map with zero permadeath risk
 
-**Tier 5: The Critical Threshold**
-- **Ship Recovery**: 100% guaranteed (last fully safe tier)
-- **Crew Casualties**: 30% chance of permanent crew deaths
-- **Module Damage**: 40% destruction chance
+**Tier 6: First Permadeath Risk**
+- **Ship Permadeath**: 10% permanent destruction (no recovery if failed)
+- **Crew Card Permadeath**: 10% per card (independent rolls, permanent loss of officer + all levels)
+- **Sailor Casualties**: Variable based on damage (replaceable at ports)
+- **Module Destruction**: 50% loss chance (modified by damage type/caliber)
 - **Cargo Loss**: Always at risk
-- **Purpose**: Introduction to real stakes, decision point for risk-averse players
+- **Insurance Available**: 30,000 credits (reduces 10% → 5%)
+- **Purpose**: First real stakes, psychological barrier for players
 
-**Tiers 6-9: Permadeath Escalation**
-- **Ship Loss**: 30% permanent destruction chance (increases with tier)
-- **Crew Casualties**: 40-60% death chance (graduated by tier)
-- **Module Destruction**: 50-70% loss chance
+**Tier 7: Escalating Risk**
+- **Ship Permadeath**: 20% permanent destruction
+- **Crew Card Permadeath**: 20% per card (independent rolls)
+- **Sailor Casualties**: Variable based on damage (replaceable)
+- **Module Destruction**: 55% loss chance
 - **Cargo Loss**: Always at risk
-- **Purpose**: High-stakes gameplay for experienced players
+- **Insurance Available**: 50,000 credits (reduces 20% → 10%)
+- **Purpose**: Moderate risk/reward balance for mid-tier operations
 
-**Tier 10: Ultimate Risk**
-- **Ship Loss**: 100% guaranteed permadeath if destroyed
-- **Crew Casualties**: 100% crew killed if ship destroyed
-- **No Recovery**: Everything lost permanently
+**Tier 8: High Stakes**
+- **Ship Permadeath**: 40% permanent destruction
+- **Crew Card Permadeath**: 40% per card (independent rolls)
+- **Sailor Casualties**: Variable based on damage (replaceable)
+- **Module Destruction**: 60% loss chance
 - **Cargo Loss**: Always at risk
-- **Purpose**: Maximum stakes for legendary accomplishments
+- **Insurance Available**: 150,000 credits (reduces 40% → 25%)
+- **Purpose**: Substantial risk for veteran players, backup ships essential
+
+**Tier 9: Extreme Risk**
+- **Ship Permadeath**: 60% permanent destruction
+- **Crew Card Permadeath**: 60% per card (independent rolls)
+- **Sailor Casualties**: Variable based on damage (replaceable)
+- **Module Destruction**: 70% loss chance
+- **Cargo Loss**: Always at risk
+- **Insurance Available**: 300,000 credits (reduces 60% → 40%)
+- **Purpose**: Very high stakes, only for experienced players with strong risk management
+
+**Tier 10: Absolute Permadeath**
+- **Ship Permadeath**: 100% GUARANTEED permanent destruction
+- **Crew Card Permadeath**: 100% ALL crew cards destroyed (no exceptions)
+- **Sailor Casualties**: 100% (irrelevant since all cards destroyed)
+- **Module Destruction**: 100% all modules permanently lost
+- **Cargo Loss**: Always at risk
+- **Insurance Available**: 1,000,000+ credits (reduces 100% → 70%)
+- **No Recovery**: ABSOLUTE TOTAL LOSS - bring only expendable ships/crews
+- **Purpose**: Ultimate stakes for server-defining accomplishments
+
+### Three Separate Loss Mechanics Explained
+
+**Critical Understanding**: There are THREE independent loss systems that all activate when your ship is destroyed:
+
+**1. Ship Permadeath (Tier-Based, Permanent)**
+- Determined solely by ship tier (T1-T5: 0%, T6: 10%, T7: 20%, T8: 40%, T9: 60%, T10: 100%)
+- Location on map does NOT affect this percentage
+- If ship fails permadeath roll: Permanently destroyed, must buy/build new ship
+- If ship survives: Towed to port, requires expensive repairs (50-80% of ship value)
+
+**2. Crew Card Permadeath (Tier-Based, Permanent)**
+- Each crew card rolls independently at same percentages as ship tier
+- If card fails permadeath roll: Officer + all levels/stats/progress PERMANENTLY LOST
+- Must recruit new Level 1 card and retrain from scratch (months of progression lost)
+- If card survives: Returns to barracks but likely has sailor casualties (see #3)
+
+**3. Sailor Casualties (Damage-Based, Replaceable)**
+- Individual sailors die based on combat damage severity (NOT tier-based)
+- Occurs on ALL crew cards, even those that survive permadeath rolls
+- Reduces crew card effectiveness: 30/50 sailors = 60% performance
+- Can be replaced at ports for credits (economic cost, not permanent loss)
+- Completely separate from crew card permadeath
+
+**Example**: T8 Battleship destroyed in combat
+- Ship rolls: 40% chance → If fails, ship permanently destroyed
+- Each crew card rolls separately: 40% chance → Some cards may be lost forever
+- Sailor casualties: Damage-based → All surviving cards lose sailors (replaceable)
+- All three systems activate independently
 
 ### Risk Mitigation Options
 
@@ -330,8 +386,8 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 - Full combat load with premium ammunition (200,000 credit investment)
 - Extended fuel reserves for deep penetration
 - Minimal cargo space (confidence in combat dominance)
-- Veteran crew with specialists
-- Insurance purchased (50,000 credits, reduces permadeath from 50% to 30%)
+- 8 veteran crew cards (Level 120-180, months of training invested)
+- Insurance purchased (150,000 credits, reduces ship/crew card permadeath from 40% to 25%)
 
 **Hunting Phase:**
 - Deep penetration into American-controlled Pacific waters
@@ -355,11 +411,29 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 - Desperate fighting retreat, expenditure of remaining ammunition
 - Final American torpedo strike destroys Nagato 20km from safety
 
-**Permadeath Rolls:**
-- **Ship**: 30% chance (with insurance) - **LOST** (rolled 18, needed 30+)
-- **Crew**: 60% casualty chance - 12 of 20 crew killed
-- **Modules**: All surviving modules destroyed
-- **Cargo**: All 850,000 credits worth of loot destroyed
+**Permadeath Rolls (Three Separate Systems):**
+
+**Ship Permadeath**: 25% chance (with insurance reducing from 40% base)
+- Rolled 18 → **SHIP PERMANENTLY DESTROYED** (needed 26+ to survive)
+- Nagato lost forever, must buy/build new T8 battleship
+
+**Crew Card Permadeath** (8 cards, each rolls 25% independently):
+- Master Gunner (Level 180): Rolled 12 → **DESTROYED** (400+ hours lost)
+- Fire Control (Level 150): Rolled 67 → Survived
+- Heavy Gunner (Level 145): Rolled 88 → Survived
+- Engineer (Level 140): Rolled 19 → **DESTROYED** (months of training lost)
+- Damage Control (Level 135): Rolled 44 → Survived
+- AA Master (Level 130): Rolled 73 → Survived
+- Electronics (Level 125): Rolled 22 → **DESTROYED**
+- Command (Level 120): Rolled 51 → Survived
+- **Result**: 3 crew cards permanently destroyed, 5 survived
+
+**Sailor Casualties** (on surviving cards):
+- All 5 surviving crew cards took heavy sailor casualties from combat damage
+- Average 45% sailor loss per card (replaceable at port for ~200,000 credits)
+
+**Modules**: All modules destroyed (since ship was lost)
+**Cargo**: All 850,000 credits worth of loot destroyed
 
 **Progression Phase (Defeat):**
 - Total loss: ~1.2 million credits (ship value + loot + modules)
@@ -432,10 +506,10 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 **Principle**: Higher-value opportunities exist in more dangerous locations.
 
 **Implementation:**
-- Tier-based zones (higher tiers = better loot, more danger)
-- Deeper penetration into hostile territory = rarer resources
+- Deeper penetration into hostile territory = rarer resources and higher-tier enemies
 - High-traffic areas have better targets but more competition
 - Time spent hunting increases both reward opportunity and exposure risk
+- Higher-tier ships provide access to more valuable targets but increase permadeath stakes
 
 **Why This Matters**: Players must constantly evaluate risk/reward trade-offs. Greed is balanced against survival instinct.
 
@@ -455,9 +529,9 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 **Principle**: Players choose their risk exposure level.
 
 **Implementation:**
-- Tier system (1-4 safe, 5-9 graduated risk, 10 maximum)
+- Ship tier system (T1-5 safe, T6-9 graduated risk, T10 maximum permadeath)
 - Insurance options reduce but don't eliminate permadeath
-- Zone selection (stay near friendly ports vs. deep penetration)
+- Location selection (stay near friendly ports vs. deep penetration into hostile waters)
 - Expedition length (quick raids vs. extended hunting)
 - Target selection (fight equals or punch above weight class)
 
@@ -513,11 +587,10 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 ## Success Metrics
 
 ### Extraction Success Rates (Target Goals)
-- **Tiers 1-4**: 80-90% success rate (learning environment)
-- **Tier 5**: 70% success rate (first real challenge)
-- **Tiers 6-7**: 50-60% success rate (moderate risk)
+- **Tiers 1-5**: 80-90% success rate (protected learning zone, 0% permadeath)
+- **Tiers 6-7**: 50-60% success rate (first permadeath risk, moderate stakes)
 - **Tiers 8-9**: 35-45% success rate (high stakes)
-- **Tier 10**: 15-25% success rate (legendary difficulty)
+- **Tier 10**: 15-25% success rate (legendary difficulty, 100% permadeath)
 
 ### Player Engagement Metrics
 - **Average expedition length**: 60-90 minutes
