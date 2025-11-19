@@ -38,6 +38,23 @@ Crew permadeath serves multiple design goals:
 - **Player-to-Player Retrieval**: Other players can rescue crew cards for rewards
 - **No Retrieval in T10**: Highest tier has permanent, unrecoverable losses
 
+### CRITICAL: Ship Tier Determines Risk, NOT Location
+
+**Core Mechanic**: Crew card permadeath is based SOLELY on ship tier destroyed, NOT where battle occurs.
+
+**Examples**:
+- ✅ **T1 destroyer destroyed in deepest hostile waters** → 0% crew card death (safe everywhere)
+- ✅ **T5 cruiser destroyed in Kraken's Maw (deadliest area)** → 0% crew card death (safe everywhere)
+- ✅ **T3 ship destroyed fighting T10 NPCs** → 0% crew card death (ship tier, not enemy, matters)
+- ⚠️ **T6 destroyer destroyed in friendly port** → 10% crew card death (tier-based risk applies everywhere)
+- ⚠️ **T10 battleship destroyed in safe waters** → 100% crew card death (no safe locations for T10 ships)
+
+**Strategic Implication**:
+- **Use T1-T5 ships for ALL crew training** - Zero crew card death risk anywhere on map
+- High-danger areas can be explored safely IF using low-tier ships
+- Ship tier = Your commitment level to risk, not forced by location
+- Can train crew cards to Level 200 safely in T1-T5 ships anywhere on map
+
 ### Key Features
 - **Crew Card Permadeath by Tier**: 0% (T1-T5), 10% (T6), 20% (T7), 40% (T8), 60% (T9), 100% (T10)
 - **Retrieval Timer System**: 15-60 minute windows based on distance from friendly ports
@@ -51,7 +68,38 @@ Crew permadeath serves multiple design goals:
 ### User Experience
 Players accept crew card permadeath risk when entering T6+ battles. Upon ship destruction, crew cards roll independently for permadeath. Surviving cards transfer to the player's barracks; "dead" cards are marked at the death location with a retrieval timer. Players can return to recover their own crew cards or watch as other players retrieve them for ransom. T10 battles offer no retrieval - all crew cards are permanently lost on ship destruction.
 
-**Note**: Sailor casualties (individual sailors dying on crew cards) are a separate system and occur based on damage severity, not tier-based permadeath rolls. Lost sailors reduce crew card effectiveness but can be replaced at ports.
+### Understanding Two Separate Loss Systems
+
+**System 1: Sailor Casualties (Damage-Based, Always Active)**
+- Individual sailors die during combat from damage
+- Happens on EVERY ship tier (T1-T10)
+- Based on damage severity, not tier
+- Example: Heavy damage → 60% sailor casualties
+- **Result**: Crew card survives but weakened (455 → 182 sailors)
+- **Recoverable**: Pay credits at port to replace sailors
+- **See**: [[Crew-Progression]] for replenishment costs
+
+**System 2: Crew Card Permadeath (Tier-Based, Death Only)**
+- Entire crew card destroyed on ship destruction
+- ONLY happens on T6-T10 ship losses
+- Based solely on ship tier, not damage taken
+- Example: T8 ship destroyed → each card rolls 40% death chance
+- **Result**: Crew card permanently lost (unless retrieved)
+- **Recoverable**: Only via retrieval system (time-limited)
+- **See below** for retrieval mechanics
+
+**Critical Distinction**:
+Even if crew card SURVIVES permadeath roll, it may have LOST SAILORS from battle damage:
+- T8 ship destroyed → Gunner survives 40% permadeath roll ✓
+- BUT: Gunner lost 200 sailors during battle (from damage)
+- Returns to barracks at 255/455 sailors (56% efficiency)
+- Must pay to replenish sailors separately from permadeath system
+
+**Both Systems Operate Independently**:
+- Sailor casualties occur DURING battle (as ship takes damage)
+- Crew card permadeath occurs AFTER ship destruction (tier-based rolls)
+- A crew card can survive permadeath but still have heavy sailor casualties
+- A crew card that fails permadeath had sailor casualties too (but irrelevant since card is lost)
 
 **Crew Card Permadeath Flow:**
 1. Ship destroyed in T6+ battle
@@ -77,11 +125,14 @@ Players accept crew card permadeath risk when entering T6+ battles. Upon ship de
 
 **Tier-Based Crew Card Permadeath Chance:**
 ```
-T1-T5 Ships (Safe Tiers):
-- Crew card permadeath chance: 0%
-- All crew cards always survive ship destruction
-- Perfect for crew card training and low-risk operations anywhere on map
-- Sailor casualties still occur (replaceable damage)
+T1-T5 Ships (SAFE EVERYWHERE):
+- Crew card permadeath chance: 0% (ZERO RISK)
+- Safe in ALL map locations: Safe Waters, Hostile Waters, Dangerous Areas
+- Can train crew anywhere without crew card death risk
+- ONLY ship tier matters, not where you fight
+- Perfect for crew training expeditions to high-tier loot zones
+- Can safely operate against high-tier enemies without crew card permadeath risk
+- Sailor casualties still occur (damage-based, separate system, replaceable)
 
 T6 (First Permadeath Tier):
 - Crew card permadeath chance: 10% per card (independent rolls)

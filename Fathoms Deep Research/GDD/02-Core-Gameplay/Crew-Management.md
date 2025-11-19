@@ -51,6 +51,35 @@ Players acquire neutral Level 1 crew cards at port, assign them to ship position
 5. Manage weight constraints as crew levels increase
 6. Transfer veteran crew to larger ships as you tier up
 
+### Sailor Casualties vs Crew Card Survival
+
+**Two Independent Systems**:
+
+**System 1: Sailor Casualties (Damage-Based)**
+- Occurs during battle as ship takes damage
+- Reduces crew card's sailor count
+- Example: 105 sailors → 42 sailors (60% casualties)
+- Happens on ALL ship tiers (T1-T10)
+- **Does NOT destroy crew card**, only weakens it
+- Replaceable at port for credits
+- See [[Crew-Progression#Battle-Casualties]] for details
+
+**System 2: Crew Card Permadeath (Tier-Based)**
+- Occurs only on ship destruction in T6-T10 battles
+- Binary outcome: crew card survives OR dies completely
+- T1-T5: 0% crew card death (safe everywhere)
+- T6-T10: 10-100% crew card death (tier-dependent)
+- **Destroys entire crew card permanently**
+- May be retrievable (time-limited)
+- See [[Crew-Permadeath]] for details
+
+**Both Can Happen**:
+When T8 ship destroyed:
+1. Sailor casualties occur during battle (damage-based)
+2. Then crew card permadeath rolls execute (40% per card)
+3. If card survives: Returns to barracks WITH reduced sailors
+4. If card dies: Marked for retrieval, sailor count irrelevant
+
 ---
 
 ## Technical Implementation
@@ -116,15 +145,55 @@ Example Calculations:
 | T7 Battleship | 15 positions | 1,800 tons | Elite crew viable |
 | T10 Carrier | 20 positions | 2,500 tons | Full elite roster possible |
 
-**Position Types Examples:**
-- Main Battery Turret #1 (requires Gunner classification)
-- Main Battery Turret #2 (requires Gunner classification)
-- Secondary Battery (requires Gunner classification)
-- AA Battery (requires AA Specialist classification)
-- Engine Room (requires Engineer classification)
-- Damage Control (requires Engineer classification)
-- Radar Station (requires Electronics classification)
-- Aircraft Squadron #1 (requires Aviation classification, carriers only)
+**Complete Position Type System:**
+
+**Combat Positions** (Classification Required):
+
+1. **Main Battery Positions** (Requires: Gunner classification)
+   - Number per ship: 1-4 (T1 destroyer) to 3-12 (T10 battleship)
+   - Each turret = separate position
+   - Cannot assign non-Gunner to these positions (classification mismatch)
+
+2. **Secondary Battery Positions** (Requires: Gunner classification)
+   - Number per ship: 0-6
+   - Lighter guns, same classification requirement as main battery
+
+3. **AA Battery Positions** (Requires: AA Specialist classification)
+   - Number per ship: 1-8
+   - Cannot assign Gunners to AA positions (wrong classification)
+
+4. **Engine Room Positions** (Requires: Engineer classification)
+   - Number per ship: 1-3
+   - Controls ship speed/maneuverability
+
+5. **Damage Control Positions** (Requires: Damage Control classification)
+   - Number per ship: 1-4
+   - Reduces fire/flood damage over time
+
+6. **Radar/Electronics Positions** (Requires: Electronics classification)
+   - Number per ship: 1-2 (T5+)
+   - Improves detection range and accuracy
+
+7. **Aircraft Squadron Positions** (Requires: Aviation classification)
+   - Number per ship: 0 (non-carriers) to 6 (carriers)
+   - Carriers only
+
+**Support Positions** (Any Classification):
+8. **Cargo Hold** (No classification requirement)
+9. **Medical Bay** (No classification requirement)
+
+**Position Restrictions**:
+- Cannot assign Gunner to Engine Room (wrong classification)
+- Cannot assign Engineer to Main Battery (wrong classification)
+- Neutral crews can fill any position at reduced efficiency (-20% penalty)
+
+**Example Ship Positions** (T5 Heavy Cruiser):
+- 3× Main Battery Turrets (Gunner required)
+- 2× AA Batteries (AA Specialist required)
+- 1× Engine Room (Engineer required)
+- 1× Damage Control (Damage Control required)
+- 1× Radar Station (Electronics required)
+- Total: 8 positions, 1,200 ton crew weight limit
 
 #### Crew Acquisition Methods
 1. **Port Recruitment**: Create new Level 1 neutral crew cards at friendly ports

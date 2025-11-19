@@ -57,6 +57,34 @@ Players level crew cards through combat or paid training at ports. During battle
 6. Manage efficiency through level matching with modules
 7. Replenish casualties after battles to maintain full efficiency
 
+### Crew Card Safety by Ship Tier
+
+**CRITICAL DISTINCTION**: Crew cards face permadeath risk ONLY based on ship tier destroyed, NOT map location.
+
+**T1-T5 Ships (Safe Tiers)**:
+- 0% crew card permadeath risk
+- Crew training is COMPLETELY SAFE on these ships
+- Can operate ANYWHERE on the map without crew card loss risk
+- Sailor casualties still occur (separate system, replaceable)
+- **Recommended for**: All crew leveling activities, regardless of map location
+
+**T6-T10 Ships (Permadeath Tiers)**:
+- 10%-100% crew card permadeath risk (see [[Crew-Permadeath]])
+- High-level crew cards at risk of permanent loss
+- **Only use for**: End-game operations with elite crews where rewards justify risk
+
+**Strategic Training Approach**:
+- Train ALL crew cards to Level 200 in T1-T5 ships (zero permadeath risk)
+- Can safely train in high-danger map areas using low-tier ships
+- Location doesn't matter - only ship tier determines crew card permadeath risk
+- Once crews are Level 200, transfer to T6+ ships only for critical missions
+
+**Example**: Training a crew card from Level 1 → 200
+- Use T1-T5 ships for entire journey (0% crew card permadeath)
+- Can explore hostile territories, fight high-tier NPCs, loot valuable areas
+- Ship tier determines XP gained, but all XP is safe (no crew card permadeath)
+- Upon reaching Level 200, crew is ready for T6+ permadeath-tier operations
+
 ---
 
 ## Technical Implementation
@@ -73,7 +101,11 @@ Players level crew cards through combat or paid training at ports. During battle
    - Gain XP per battle based on performance
    - More XP for kills, damage dealt, objectives completed
    - Crew must be equipped on active ship during battle
-   - XP awards scale with battle tier (T1 < T5 < T10)
+   - XP awards scale with SHIP TIER used, NOT map location:
+     - T1 ship earns T1 XP anywhere on map (Safe Waters or Hostile Waters)
+     - T5 ship earns T5 XP anywhere on map
+     - XP scaling: T1 (100 XP) < T3 (300 XP) < T5 (500 XP) < T10 (1500 XP)
+     - Ship tier determines both XP gained AND permadeath risk
 
 2. **Paid Training**:
    - Direct XP purchase at port training facilities
