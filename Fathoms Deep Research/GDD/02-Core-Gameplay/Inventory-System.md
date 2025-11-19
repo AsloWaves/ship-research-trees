@@ -140,15 +140,15 @@ This section describes the different **types of items** that occupy the unified 
 
 #### **Torpedoes**
 **Grid Size & Weight**:
-- **Standard torpedoes** (destroyers, submarines): 1x3 grid slots, 2 tons each
-- **Long Lance torpedoes** (IJN special): 1x4 grid slots, 3 tons each
-- **Aerial torpedoes** (carrier aircraft): 1x3 grid slots, 1.5 tons each
-- **No stacking**: Each torpedo occupies full grid space individually
+- **Standard torpedoes** (destroyers, submarines): 1x3 grid slots, 2 tons each, **stack to 5**
+- **Long Lance torpedoes** (IJN special): 1x4 grid slots, 3 tons each, **stack to 5**
+- **Aerial torpedoes** (carrier aircraft): 1x3 grid slots, 1.5 tons each, **stack to 5**
+- **Limited stacking**: Small stacks due to physical size
 
 **Example (USS Fletcher - T3 Destroyer, 120 grid slots, 200 tons)**:
   - 10 torpedo tubes (equipped, don't use cargo)
-  - 6 reload torpedoes in cargo (18 grid slots, 12 tons)
-  - Total ammunition: 16 torpedoes available per sortie
+  - 10 reload torpedoes in cargo (2 stacks of 5 = 6 grid slots, 20 tons)
+  - Total ammunition: 20 torpedoes available per sortie
 
 #### **Anti-Aircraft Ammunition**
 **Organization**: Automatic consumption from magazine
@@ -245,18 +245,28 @@ When stored in cargo (not installed):
 ### 4. Resources & Trade Goods
 
 #### **Fuel**
-**Critical resource for extended operations**:
-- **Fuel capacity**: Dedicated fuel tank (not cargo space)
-- **Destroyer fuel tanks**: 500-1,000 units (10-20 hours operation)
-- **Battleship fuel tanks**: 2,000-5,000 units (40-100 hours operation)
-- **Carrier fuel tanks**: 3,000-8,000 units (60-160 hours operation + aircraft operations)
-- **Submarine fuel tanks**: 400-1,200 units (8-24 hours operation)
+**Grid Size & Weight** (stored in unified inventory, NOT dedicated tanks):
+- **Ship Fuel**: 1x1 grid slots, 0.1 tons each, **stack to 100 units**
+- **Plane Fuel** (carriers only): 1x1 grid slots, 0.08 tons each, **stack to 100 units**
+- **Critical resource**: Must carry enough for mission duration + safety margin
+- **Consumes cargo space**: Every fuel stack reduces loot capacity
 
-**Fuel consumption**:
-- **Transit speed**: 5-10 fuel units/hour at cruising speed
-- **Combat speed**: 15-30 fuel units/hour at flank speed
-- **Aircraft operations (carriers)**: +10 fuel units per wing launch
-- **Consumable use**: 5-10 fuel units per consumable activation
+**Fuel Consumption Rates**:
+- **Transit speed**: 5-10 ship fuel units/hour at cruising speed
+- **Combat speed**: 15-30 ship fuel units/hour at flank speed
+- **Aircraft operations (carriers)**: 10 plane fuel units per wing launch
+- **Consumable use**: 5-10 ship fuel units per consumable activation
+
+**Example Loadouts by Ship Type**:
+- **Destroyer** (10-hour mission): 200 ship fuel (2 stacks = 2 grid slots, 20 tons)
+- **Battleship** (10-hour mission): 400 ship fuel (4 stacks = 4 grid slots, 40 tons)
+- **Carrier** (10-hour mission): 400 ship fuel + 500 plane fuel (9 stacks = 9 grid slots, 80 tons)
+- **Submarine** (20-hour patrol): 400 ship fuel (4 stacks = 4 grid slots, 40 tons)
+
+**Strategic Considerations**:
+- **Fuel vs. cargo trade-off**: More fuel = less loot capacity
+- **Run out of fuel**: Ship becomes dead in water, requires rescue/towing
+- **Carriers need TWO fuel types**: Ship fuel (for movement) + Plane fuel (for aircraft)
 
 #### **Repair Materials**
 **Portable repair supplies**:
@@ -283,30 +293,43 @@ When stored in cargo (not installed):
 
 ---
 
-### 5. Crew Cards
+### 5. Crew Cards & Currency
 
-#### **Crew Card Storage**
-**Physical items representing sailors**:
-- **Active crew**: Assigned to ship, don't occupy cargo (crew quarters)
-- **Reserve crew**: Occupy cargo space (1 slot per crew card)
-- **Recruitment cards**: New sailors recruited at ports (stored in cargo until assigned)
+#### **Wallet Item - Specialized Storage**
+**Grid Size & Weight**:
+- **Wallet**: 2x2 grid slots (4 total slots), 1 ton
+- **Opens into**: 50x50 separate inventory (2,500 slots for crew/currency only)
+- **Restrictions**: ONLY accepts crew cards and currency (no other items)
 
-**Crew capacity limits**:
+**Purpose**:
+- **Port-to-port transfers**: Move crew cards and currency between different ports
+- **Not for backup crew**: Cannot swap crew mid-mission, so backup crew isn't useful in combat
+- **Trading/recruitment**: Carry currency to purchase crew/items at other ports
+- **Crew relocation**: Transfer crew cards when moving operations to new port
+
+**Crew Card System**:
+- **Active crew**: Assigned to ship positions, don't occupy ANY inventory (crew quarters)
+- **Unassigned crew cards**: Stored in Wallet (can be assigned at port)
+- **Recruitment**: New sailors purchased at port go into Wallet
+- **1 card = 1 sailor**: Each crew member is represented by individual card
+
+**Crew Capacity Limits** (active positions on ship):
 - **Destroyer**: 50-125 active crew positions
 - **Cruiser**: 100-250 active crew positions
 - **Battleship**: 150-300 active crew positions
 - **Carrier**: 200-400 active crew positions (includes aviation personnel)
 
-**Reserve crew carrying**:
-- Players can carry **backup crew cards** for high-stakes operations
-- Reserve crew occupy 1 cargo slot per card
-- If active crew member dies (permadeath at T6+), can **promote reserve crew** at port
-- Strategic choice: Carry insurance crew vs. cargo capacity
+**Currency System**:
+- **Credits**: Stackable currency items stored in Wallet
+- **Physical representation**: Credits occupy wallet slots (not abstracted)
+- **Port trading**: Carry credits to buy/sell at different ports
+- **Weight**: Currency has minimal weight (1,000 credits = 0.1 tons)
 
-**Example (T8 Battleship with 250 active crew)**:
-- 250 active crew (no cargo space)
-- 20 reserve crew cards (20 cargo slots)
-- Protects against permadeath crew losses during high-risk operations
+**Example Usage**:
+- Player has 250 active crew on battleship (no inventory space used)
+- Wallet contains 50 unassigned crew cards + 100,000 credits (uses 4 main inventory slots)
+- Player travels to new port to recruit specialists
+- At port: Purchases 10 new crew cards, adds to wallet, assigns to ship positions
 
 ---
 
@@ -367,12 +390,12 @@ When stored in cargo (not installed):
 - **Total: 160 slots - OVER CAPACITY**
 
 **Optimized Combat Loadout**:
-- 5-inch AP shells: 100 rounds (100 slots)
-- 5-inch HE shells: 80 rounds (80 slots)
-- Torpedoes (reloads): 4 (24 slots)
-- Depth charges: 20 (2 slots)
-- Fuel: Full tank (500 units - dedicated fuel tank, not cargo)
-- **Total: 106/120 slots - 14 slots free for loot**
+- 5-inch AP shells: 100 rounds (1 stack = 1 slot, 5 tons)
+- 5-inch HE shells: 100 rounds (1 stack = 1 slot, 5 tons)
+- Torpedoes (reloads): 10 (2 stacks of 5 = 6 slots, 20 tons)
+- Depth charges: 20 (1 stack = 2 slots, 4 tons)
+- Ship fuel: 200 units (2 stacks = 2 slots, 20 tons)
+- **Total: 12/120 slots, 54/200 tons - 108 slots free for loot**
 
 **Extraction-Focused Loadout** (After successful loot run):
 - 5-inch HE shells: 50 rounds (50 slots) - Minimal defensive ammo
@@ -385,30 +408,30 @@ When stored in cargo (not installed):
 ---
 
 ### Battleship Loadout (USS Iowa - T5)
-**Total Cargo Capacity**: 350 grid slots
+**Total Capacity**: 300 grid slots, 500 tons weight capacity
 
-**Full Combat Loadout**:
-- 16-inch AP shells: 80 rounds (480 slots) ❌ OVERFLOW
-- 16-inch HE shells: 40 rounds (240 slots) ❌ OVERFLOW
-- 5-inch secondary: 300 rounds (300 slots) ❌ OVERFLOW
+**Optimized Combat Loadout**:
+- 16-inch AP shells: 100 rounds (2 stacks = 4 slots, 100 tons)
+- 16-inch HE shells: 50 rounds (1 stack = 2 slots, 50 tons)
+- 5-inch secondary HE: 200 rounds (2 stacks = 2 slots, 10 tons)
+- AA ammunition: 1,000 rounds (2 stacks = 2 slots, 2 tons)
+- Repair materials: 10 steel plates (10 slots, 10 tons)
+- Ship fuel: 400 units (4 stacks = 4 slots, 40 tons)
+- **Total: 24/300 slots, 212/500 tons** ✅ 276 slots free for loot
 
-**Realistic Combat Loadout**:
-- 16-inch AP shells: 60 rounds (360 slots) ❌ OVERFLOW
-
-**Optimized Loadout**:
-- 16-inch AP shells: 40 rounds (240 slots)
-- 16-inch HE shells: 20 rounds (120 slots)
-- 5-inch secondary HE: 150 rounds (150 slots)
-- AA ammunition: 1,000 rounds (2 slots - highly compressed)
-- Repair materials: 10 steel plates (40 slots)
-- Fuel: Full tank (4,000 units)
-- **Total: 342/350 slots - 8 slots free**
+**Weight-Constrained Alternative** (more ammunition):
+- 16-inch AP shells: 200 rounds (4 stacks = 8 slots, 200 tons)
+- 16-inch HE shells: 100 rounds (2 stacks = 4 slots, 100 tons)
+- 5-inch secondary HE: 200 rounds (2 stacks = 2 slots, 10 tons)
+- Ship fuel: 400 units (4 stacks = 4 slots, 40 tons)
+- **Total: 18/300 slots, 350/500 tons** ⚠️ Heavy load (70% weight capacity)
 
 **Strategic considerations**:
-- Battleships are **ammunition-limited** due to massive shell size
-- 60 total main battery rounds = 20 salvos (9 guns × 3 rounds per salvo)
-- Must conserve ammunition, avoid wasteful fire
-- Heavily penalizes poor gunnery (stat-based accuracy matters!)
+- Battleships are **weight-constrained** due to massive shell weight (1 ton each for 16-inch)
+- 150 total main battery rounds = 50 salvos (9 guns × 3 rounds per salvo)
+- Grid space abundant, but weight limits ammunition drastically
+- Heavy ammunition loads reduce speed by 5-10%
+- Must conserve ammunition or accept reduced mobility
 
 ---
 
@@ -427,29 +450,21 @@ When stored in cargo (not installed):
 - 12 torpedo bombers: 144 slots (3x4 each), 84 tons
 - 200x 500-lb bombs: 10 slots (10 stacks), 50 tons
 - 50x 1,000-lb bombs: 10 slots (5 stacks), 25 tons
-- 30 aerial torpedoes: 90 slots, 45 tons
-- Fuel: 1,000 units (10 slots), 10 tons
-- **Total: 478/500 slots, 386/700 tons** ✅ 22 slots free
+- 30 aerial torpedoes: 6 stacks (18 slots), 45 tons
+- Ship fuel: 400 units (4 stacks = 4 slots), 40 tons
+- Plane fuel: 500 units (5 stacks = 5 slots), 40 tons
+- **Total: 485/500 slots, 456/700 tons** ✅ 15 slots free
 
 **Strike-Heavy Loadout** (Offensive operation):
-- 12 fighters: 108 slots, 60 tons (reduced CAP)
-- 18 dive bombers: 216 slots, 108 tons
-- 18 torpedo bombers: 216 slots, 126 tons
-- 400x 500-lb bombs: 20 slots, 100 tons
-- 100x 1,000-lb bombs: 20 slots, 50 tons
-- 60 aerial torpedoes: 180 slots, 90 tons
-- Fuel: 800 units (8 slots), 8 tons
-- **Total: 568/500 slots** ❌ OVER CAPACITY - Must reduce aircraft
-
-**Strike-Heavy (Adjusted)**:
 - 10 fighters: 90 slots, 50 tons
-- 15 dive bombers: 180 slots, 90 tons
-- 15 torpedo bombers: 180 slots, 105 tons
-- 300x 500-lb bombs: 15 slots, 75 tons
-- 80x 1,000-lb bombs: 16 slots, 40 tons
-- 50 aerial torpedoes: 150 slots, 75 tons
-- Fuel: 800 units (8 slots), 8 tons
-- **Total: 489/500 slots, 443/700 tons** ✅ 11 slots free
+- 16 dive bombers: 192 slots, 96 tons
+- 16 torpedo bombers: 192 slots, 112 tons
+- 300x 500-lb bombs: 15 slots (15 stacks), 75 tons
+- 80x 1,000-lb bombs: 16 slots (8 stacks), 40 tons
+- 50 aerial torpedoes: 15 slots (10 stacks of 5), 75 tons
+- Ship fuel: 400 units (4 slots), 40 tons
+- Plane fuel: 600 units (6 slots), 48 tons
+- **Total: 490/500 slots, 536/700 tons** ✅ 10 slots free, heavier load
 
 ---
 
