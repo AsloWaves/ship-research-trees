@@ -328,7 +328,7 @@ USS Enterprise (60-slot aircraft inventory) optimally carries:
 - **Torpedo Bomber Wing**: 15 minutes - Delicate torpedo installation
 
 **Modifying Factors**:
-- **Crew Experience**: Elite crews reduce time by 40%, rookie crews increase by 60%
+- **Crew Stats** (Engineer Repair Speed stat 7-50): Stat 50 reduces time by ~60%, stat 7 increases by 25%
 - **Aircraft Condition**: Well-maintained aircraft -20% time, damaged aircraft +100% time
 - **Weather Conditions**: Rough seas +50% time, calm conditions -10% time
 - **Combat Stress**: Under fire +30% preparation time
