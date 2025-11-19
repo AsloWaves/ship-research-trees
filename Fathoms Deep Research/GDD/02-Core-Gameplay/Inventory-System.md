@@ -9,7 +9,7 @@ last-updated: 2025-01-19
 # Inventory System
 
 ## Overview
-Tetris-style spatial inventory system with **unified cargo management** where all items (ammunition, modules, fuel, loot) share a single ship inventory. Players manage both **grid capacity** (spatial slots) and **weight capacity** (tonnage budget) determined by ship design and armor loadout. The system creates meaningful pre-mission loadout decisions, mid-combat resource awareness, and extraction-phase tension through dual capacity constraints affecting ship performance.
+Tetris-style spatial inventory system with **unified cargo management** where all items (ammunition, modules, fuel, loot) share a single ship inventory. Players manage both **grid capacity** (spatial grid cells) and **weight capacity** (tonnage budget) determined by ship design and armor loadout. The system creates meaningful pre-mission loadout decisions, mid-combat resource awareness, and extraction-phase tension through dual capacity constraints affecting ship performance.
 
 ## Implementation Status
 **Status**: 📋 **PLANNED** (Phase 2 Priority)
@@ -22,40 +22,41 @@ Tetris-style spatial inventory system with **unified cargo management** where al
 ## Design Specification
 
 ### Core Concept
-Fathoms Deep uses a **unified spatial inventory system** where all items share a single cargo hold—no separate magazines, fuel tanks, or module bays. Items occupy grid spaces based on physical size, and players must balance both **spatial capacity** (grid slots) and **weight capacity** (tonnage) determined by ship construction. A heavily armored battleship has the same grid space as a lightly armored one, but significantly less weight budget. This creates strategic depth in loadout planning, forces meaningful decisions about ammunition vs. cargo vs. fuel, and generates extraction tension when players must choose what loot to keep under fire.
+Fathoms Deep uses a **unified spatial inventory system** where all items share a single cargo hold—no separate magazines, fuel tanks, or module bays. Items occupy grid spaces based on physical size, and players must balance both **spatial capacity** (grid cells) and **weight capacity** (tonnage) determined by ship construction. A heavily armored battleship has the same grid space as a lightly armored one, but significantly less weight budget. This creates strategic depth in loadout planning, forces meaningful decisions about ammunition vs. cargo vs. fuel, and generates extraction tension when players must choose what loot to keep under fire.
 
 ### Key Design Pillars
 
 #### 1. Spatial Tetris Inventory (Not List-Based)
 Items occupy physical grid space based on real-world dimensions:
-- **Small shells (5-inch)**: 1x1 slots, stack to 100 rounds
-- **Large shells (16-inch)**: 1x2 slots, stack to 50 rounds
-- **Torpedoes**: 1x3 to 1x4 slots depending on type, no stacking
-- **Fighters**: 3x3 slots (compact folding wings)
-- **Bombers**: 3x4 slots (larger airframe)
+- **Small shells (5-inch)**: 1x1 grid cells, stack to 100 rounds
+- **Large shells (16-inch)**: 1x2 grid cells, stack to 50 rounds
+- **Torpedoes**: 1x3 to 1x4 grid cells depending on type, no stacking
+- **Fighters**: 3x3 grid cells (compact folding wings)
+- **Bombers**: 3x4 grid cells (larger airframe)
 - **Modules**: Varied sizes (1x1 starter radar, 2x3 engine, 3x3 advanced radar, etc.)
 - **Cargo crates**: 2x2 to 4x4 depending on contents
-- **Fuel barrels**: 1x1 slots, stack to 100 units
+- **Fuel barrels**: 1x1 grid cells, stack to 100 units
 
 #### 2. Dual Capacity System - Grid Space & Weight Budget
 Ships have **two separate limits** that both constrain loadout:
 
-**Grid Capacity (Spatial Slots)**:
-- Fixed number of inventory grid slots per ship
+**Grid Capacity (Spatial Grid Cells)**:
+- Fixed number of inventory grid cells per ship
 - Determined by ship hull design (cargo hold size)
-- Example: Destroyer might have 120 grid slots, Battleship 300 slots
+- Example: Destroyer might have 120 grid cells, Battleship 300 grid cells
 - Items must fit spatially in the grid (Tetris puzzle)
 
 **Weight Capacity (Tonnage Budget)**:
 - Total weight limit in tons that ship can carry
 - **Varies by armor/equipment**: Heavily armored ships have less weight budget
-- **Hard cap**: Cannot exceed maximum weight (like turret mount limits)
+- **Soft cap**: Can exceed maximum weight with severe performance penalties (see Weight & Performance Impact section)
 - Example: Heavy armor battleship might have 400 tons capacity, light armor version 600 tons
 - Each item has weight: shells (0.1 tons each), torpedoes (2 tons each), modules (5-20 tons), fuel (0.01 tons per unit)
 
 **Auto-Balancing**:
 - Players do NOT manually balance cargo left/right
-- System automatically distributes weight for optimal ship balance
+- **Automatic Weight Distribution**: System redistributes cargo weight port/starboard every 5 seconds to maintain optimal trim
+- Players cannot manually control cargo placement for balance
 - No listing penalties from poor cargo placement
 
 **Performance Impact**:
@@ -73,22 +74,22 @@ Each ship has **individual grid and weight capacity** determined by its specific
 - **Diversity**: Prevents "one best ship" meta, creates meaningful ship choice
 
 **Example Comparison (T5 Destroyers)**:
-- **USS Fletcher** (balanced): 120 grid slots, 200 tons weight capacity
-- **USS Sumner** (firepower-focused): 100 grid slots, 180 tons (heavier guns reduce cargo)
-- **USS Gearing** (endurance-focused): 150 grid slots, 250 tons (larger hull, more cargo)
+- **USS Fletcher** (balanced): 120 grid cells, 200 tons weight capacity
+- **USS Sumner** (firepower-focused): 100 grid cells, 180 tons (heavier guns reduce cargo)
+- **USS Gearing** (endurance-focused): 150 grid cells, 250 tons (larger hull, more cargo)
 
 **General Capacity Ranges by Class**:
-- **Destroyers**: 80-160 grid slots, 150-300 tons
-- **Cruisers**: 150-350 grid slots, 300-600 tons
-- **Battleships**: 200-500 grid slots, 400-800 tons (less weight due to heavy armor)
-- **Carriers**: 300-700 grid slots, 500-1000 tons (aircraft + ordnance dominant)
-- **Submarines**: 40-120 grid slots, 80-200 tons (extremely cramped)
+- **Destroyers**: 80-160 grid cells, 150-300 tons
+- **Cruisers**: 150-350 grid cells, 300-600 tons
+- **Battleships**: 200-500 grid cells, 400-800 tons (less weight due to heavy armor)
+- **Carriers**: 300-700 grid cells, 500-1000 tons (aircraft + ordnance dominant)
+- **Submarines**: 40-120 grid cells, 80-200 tons (extremely cramped)
 
 #### 4. Port Storage (Limited, Per-Port)
 Players have **limited storage at each port** to prevent hoarding:
 
 **Per-Port Warehouse**:
-- **Limited capacity**: Each port has 500-1000 grid slots (prevents infinite hoarding)
+- **Limited capacity**: Port storage varies by tier - T1-T3 ports (500 grid cells), T4-T7 ports (750 grid cells), T8-T10 ports (1000 grid cells)
 - **Separate inventories**: Storage at Port A is different from Port B
 - **Trading gameplay**: Must physically transport goods between ports for profit
 - **Strategic decisions**: Which ports to use as storage hubs?
@@ -120,63 +121,68 @@ This section describes the different **types of items** that occupy the unified 
 
 #### **Main Battery Shells**
 **Grid Size & Weight**:
-- **Small caliber (4-6 inch)**: 1x1 grid slot, 0.05 tons each, stack to 100
-- **Medium caliber (8-10 inch)**: 1x1 grid slot, 0.15 tons each, stack to 50
-- **Large caliber (12-14 inch)**: 1x2 grid slots, 0.5 tons each, stack to 50
-- **Super-heavy caliber (16-18 inch)**: 1x2 grid slots, 1.0 ton each, stack to 50
+- **Small caliber (4-6 inch)**: 1x1 grid cells, 0.05 tons each, stack to 100
+- **Medium caliber (8-10 inch)**: 1x1 grid cells, 0.15 tons each, stack to 50
+- **Large caliber (12-14 inch)**: 1x2 grid cells, 0.5 tons each, stack to 50
+- **Super-heavy caliber (16-18 inch)**: 1x2 grid cells, 1.0 ton each, stack to 50
 - **Caliber compatibility**: All guns of same caliber share ammunition pool
 - **Shell types**: AP, HE, SAP variants stack separately
 
-**Example Loadout (USS Fletcher - T3 Destroyer, 120 grid slots, 200 tons)**:
-- 5-inch AP: 200 shells (2 stacks = 2 grid slots, 10 tons)
-- 5-inch HE: 200 shells (2 stacks = 2 grid slots, 10 tons)
-- **Total shells: 4 grid slots, 20 tons**
+**Example Loadout (USS Fletcher - T3 Destroyer, 120 grid cells, 200 tons)**:
+- 5-inch AP: 200 shells (2 stacks = 2 grid cells, 10 tons)
+- 5-inch HE: 200 shells (2 stacks = 2 grid cells, 10 tons)
+- **Total shells: 4 grid cells, 20 tons**
 
-**High-Tier Example (USS Iowa - T5 Battleship, 300 grid slots, 500 tons)**:
-- 16-inch AP shells: 100 rounds (2 stacks = 4 grid slots, 100 tons)
-- 16-inch HE shells: 50 rounds (1 stack = 2 grid slots, 50 tons)
-- 5-inch secondary HE: 200 rounds (2 stacks = 2 grid slots, 10 tons)
-- **Total shells: 8 grid slots, 160 tons** (weight-constrained, not grid-constrained)
+**High-Tier Example (USS Iowa - T5 Battleship, 300 grid cells, 500 tons)**:
+- 16-inch AP shells: 100 rounds (2 stacks = 4 grid cells, 100 tons)
+- 16-inch HE shells: 50 rounds (1 stack = 2 grid cells, 50 tons)
+- 5-inch secondary HE: 200 rounds (2 stacks = 2 grid cells, 10 tons)
+- **Total shells: 8 grid cells, 160 tons** (weight-constrained, not grid-constrained)
 
 #### **Torpedoes**
 **Grid Size & Weight**:
-- **Standard torpedoes** (destroyers, submarines): 1x3 grid slots, 2 tons each, **stack to 5**
-- **Long Lance torpedoes** (IJN special): 1x4 grid slots, 3 tons each, **stack to 5**
-- **Aerial torpedoes** (carrier aircraft): 1x3 grid slots, 1.5 tons each, **stack to 5**
+- **Standard torpedoes** (destroyers, submarines): 1x3 grid cells, 2 tons each, **stack to 5** (each stack occupies 1x3 = 3 grid cells)
+- **Long Lance torpedoes** (IJN special): 1x4 grid cells, 3 tons each, **stack to 5** (each stack occupies 1x4 = 4 grid cells)
+- **Aerial torpedoes** (carrier aircraft): 1x3 grid cells, 1.5 tons each, **stack to 5** (each stack occupies 1x3 = 3 grid cells)
 - **Limited stacking**: Small stacks due to physical size
 
-**Example (USS Fletcher - T3 Destroyer, 120 grid slots, 200 tons)**:
+**Example (USS Fletcher - T3 Destroyer, 120 grid cells, 200 tons)**:
   - 10 torpedo tubes (equipped, don't use cargo)
-  - 10 reload torpedoes in cargo (2 stacks of 5 = 6 grid slots, 20 tons)
+  - 10 reload torpedoes in cargo (2 stacks of 5, each stack 1x3 = 3 cells, total = 6 grid cells, 20 tons)
   - Total ammunition: 20 torpedoes available per sortie
 
 #### **Anti-Aircraft Ammunition**
 **Organization**: Automatic consumption from cargo inventory
-- **AA shells**: 1x1 slots, stack to 500 rounds per stack
+- **AA shells**: 1x1 grid cells, stack to 500 rounds per stack
 - **High consumption rate**: 100-300 rounds per air engagement
 - **Auto-supply**: AA guns pull from cargo automatically during combat
 - **Example (Light Cruiser AA loadout)**:
-  - 2,000 rounds 40mm Bofors (4 stacks = 4 slots)
-  - 5,000 rounds 20mm Oerlikon (10 stacks = 10 slots)
+  - 2,000 rounds 40mm Bofors (4 stacks = 4 grid cells)
+  - 5,000 rounds 20mm Oerlikon (10 stacks = 10 grid cells)
+- **Depletion**: When AA ammunition depleted, AA guns cease firing (HUD warning displayed)
 
 #### **Depth Charges (Anti-Submarine Warfare)**
 **Organization**: Individual weapons, stackable to 20
-- **Depth charge size**: 1x2 grid slots per stack
-- **ASW destroyers**: Typically carry 40-60 depth charges (4-6 slots)
+- **Depth charge size**: 1x2 grid cells per stack (each stack contains up to 20 depth charges, occupies 1x2 = 2 grid cells)
+- **ASW destroyers**: Typically carry 40-60 depth charges (2-3 stacks = 4-6 grid cells total)
 - **Pattern drops**: Expend 4-8 charges per attack run
 
 #### **Aircraft Ordnance (Carriers Only)**
 **Grid Size & Weight**:
-- **500-lb bombs**: 1x1 slots, 0.25 tons each, stack to 20
-- **1,000-lb bombs**: 1x2 slots, 0.5 tons each, stack to 10
-- **Aerial torpedoes**: 1x3 slots, 1.5 tons each, no stacking
-- **Rockets**: 1x1 slots, 0.1 tons each, stack to 50
-- **Carrier ordnance management**: Pre-loaded onto aircraft before launch, stored in unified cargo
+- **500-lb bombs**: 1x1 grid cells, 0.25 tons each, stack to 20
+- **1,000-lb bombs**: 1x2 grid cells, 0.5 tons each, stack to 10
+- **Aerial torpedoes**: 1x3 grid cells, 1.5 tons each, stack to 5 (each stack occupies 1x3 = 3 grid cells)
+- **Rockets**: 1x1 grid cells, 0.1 tons each, stack to 50
 
-**Example (USS Essex - T5 Fleet Carrier, 500 grid slots, 700 tons)**:
-  - 200x 500-lb bombs (10 stacks = 10 grid slots, 50 tons)
-  - 100x 1,000-lb bombs (10 stacks = 20 grid slots, 50 tons)
-  - 60 aerial torpedoes (180 grid slots, 90 tons)
+**Carrier Ordnance Workflow**:
+- Players assign ordnance to aircraft during pre-flight deck preparation (at port or mid-mission)
+- Once launched, aircraft carry assigned ordnance (bombs/torpedoes removed from cargo until aircraft recovery)
+- Can reassign loadouts between sorties while at sea
+
+**Example (USS Essex - T5 Fleet Carrier, 500 grid cells, 700 tons)**:
+  - 200x 500-lb bombs (10 stacks = 10 grid cells, 50 tons)
+  - 100x 1,000-lb bombs (10 stacks = 20 grid cells, 50 tons)
+  - 60 aerial torpedoes (12 stacks of 5, each stack 1x3 = 3 cells, total = 36 grid cells, 90 tons)
 
 ---
 
@@ -228,12 +234,12 @@ Each ship has predefined **module slots** with specific size requirements:
 
 #### **Module Grid Sizes & Weights**
 When stored in cargo (not installed):
-- **Starter Radar** (1x1): 1x1 grid slots, 2 tons
-- **Advanced Radar** (3x3): 3x3 grid slots, 12 tons
-- **Fire Control** (2x2): 2x2 grid slots, 8 tons
-- **Standard Engine** (2x3): 2x3 grid slots, 15 tons
-- **Upgraded Engine** (3x4): 3x4 grid slots, 25 tons
-- **Turret Module** (varies): 2x2 to 4x4, 10-30 tons
+- **Starter Radar** (1x1): 1x1 grid cells, 2 tons
+- **Advanced Radar** (3x3): 3x3 grid cells, 12 tons
+- **Fire Control** (2x2): 2x2 grid cells, 8 tons
+- **Standard Engine** (2x3): 2x3 grid cells, 15 tons
+- **Upgraded Engine** (3x4): 3x4 grid cells, 25 tons
+- **Turret Module** (varies): 2x2 to 4x4 grid cells, 10-30 tons
 
 **Carrying uninstalled modules**:
 - Modules in cargo use grid space AND weight capacity
@@ -246,45 +252,52 @@ When stored in cargo (not installed):
 
 #### **Fuel**
 **Grid Size & Weight** (stored in unified inventory, NOT dedicated tanks):
-- **Ship Fuel**: 1x1 grid slots, 0.1 tons each, **stack to 100 units**
-- **Plane Fuel** (carriers only): 1x1 grid slots, 0.08 tons each, **stack to 100 units**
+- **Ship Fuel**: 1x1 grid cells, 0.1 tons each, **stack to 100 units**
+- **Plane Fuel** (carriers only): 1x1 grid cells, 0.08 tons each, **stack to 100 units**
 - **Critical resource**: Must carry enough for mission duration + safety margin
 - **Consumes cargo space**: Every fuel stack reduces loot capacity
 
 **Fuel Consumption Rates**:
 - **Transit speed**: 5-10 ship fuel units/hour at cruising speed
 - **Combat speed**: 15-30 ship fuel units/hour at flank speed
+- **Submarine (surfaced)**: 3-5 ship fuel units/hour
+- **Submarine (submerged)**: 8-12 ship fuel units/hour (battery drain + diesel recharge)
 - **Aircraft operations (carriers)**: 10 plane fuel units per wing launch
 - **Consumable use**: 5-10 ship fuel units per consumable activation
 
 **Example Loadouts by Ship Type**:
-- **Destroyer** (10-hour mission): 200 ship fuel (2 stacks = 2 grid slots, 20 tons)
-- **Battleship** (10-hour mission): 400 ship fuel (4 stacks = 4 grid slots, 40 tons)
-- **Carrier** (10-hour mission): 400 ship fuel + 500 plane fuel (9 stacks = 9 grid slots, 80 tons)
-- **Submarine** (20-hour patrol): 400 ship fuel (4 stacks = 4 grid slots, 40 tons)
+- **Destroyer** (10-hour mission): 200 ship fuel (2 stacks = 2 grid cells, 20 tons)
+- **Battleship** (10-hour mission): 400 ship fuel (4 stacks = 4 grid cells, 40 tons)
+- **Carrier** (10-hour mission): 400 ship fuel + 500 plane fuel (9 stacks = 9 grid cells, 80 tons)
+- **Submarine** (20-hour patrol): 400 ship fuel (4 stacks = 4 grid cells, 40 tons)
 
 **Strategic Considerations**:
 - **Fuel vs. cargo trade-off**: More fuel = less loot capacity
 - **Run out of fuel**: Ship becomes dead in water, requires rescue/towing
+  - **Out of Fuel Recovery**: Ship drifts at 1 knot (wind), can call for player rescue or port tow service (cost = distance × tier multiplier)
 - **Carriers need TWO fuel types**: Ship fuel (for movement) + Plane fuel (for aircraft)
 
 #### **Repair Materials**
 **Portable repair supplies**:
-- **Steel Plates**: 2x2 slots, used for hull repairs (10 plates = 1,000 HP repair)
-- **Electrical Components**: 1x1 slots, used for module repairs
-- **Damage Control Supplies**: 2x1 slots, improves fire/flood repair effectiveness
+- **Steel Plates**: 2x2 grid cells (each item), used for hull repairs (10 plates = 1,000 HP repair)
+- **Electrical Components**: 1x1 grid cells, used for module repairs
+- **Damage Control Supplies**: 2x1 grid cells, improves fire/flood repair effectiveness
+
+**Field Repair Restrictions**:
+- Can only use repair materials when out of combat (5 minutes since last damage taken)
+- Materials consumed instantly, HP restored over 30 seconds
+- Full module repairs available at port (free or paid depending on insurance)
 
 **Strategic use**:
-- Can perform **field repairs** at any friendly port
 - Carrying repair materials reduces cargo capacity but enables extended operations
 - High-tier players carry minimal repair supplies, rely on extraction discipline
 
 #### **Trade Goods & Loot**
 **Extraction-based economy items**:
-- **Resource Crates**: 2x2 to 4x4 slots depending on value
-- **Intelligence Documents**: 1x1 slots (high value, low weight)
-- **Salvaged Modules**: Variable sizes (2x2 to 6x6)
-- **Rare Materials**: 1x1 to 2x2 slots (precious metals, advanced alloys)
+- **Resource Crates**: 2x2 to 4x4 grid cells depending on value
+- **Intelligence Documents**: 1x1 grid cells (high value, low weight)
+- **Salvaged Modules**: Variable sizes (2x2 to 6x6 grid cells)
+- **Rare Materials**: 1x1 to 2x2 grid cells (precious metals, advanced alloys)
 
 **Loot priority system**:
 - Players must decide what to keep when cargo full
@@ -297,40 +310,42 @@ When stored in cargo (not installed):
 
 #### **Wallet Item - OPTIONAL Space-Saving Container**
 **Grid Size & Weight**:
-- **Wallet**: 2x2 grid slots, 1 ton
-- **Opens into**: 50x50 internal inventory (2,500 slots dedicated to crew cards and currency)
+- **Wallet**: 2x2 grid cells, 1 ton
+- **Opens into**: 10x25 internal inventory (250 grid cells dedicated to crew cards and currency)
 - **Restrictions**: ONLY accepts crew cards (2x2 each) and currency
 - **Purchased item**: Players buy wallets when they can afford them (not starter equipment)
 
 **Why Use Wallets?**
-- **Massive space savings**: 50 crew cards loose = 200 slots vs. 1 wallet = 4 slots
+- **Significant space savings**: Wallet holds up to 62 crew cards (250÷4) in 4 grid cells vs. 248 grid cells if stored loose
 - **Port-to-port transfers**: Transport large crew card collections efficiently
 - **Inventory optimization**: Free up ship/port inventory space for other items
 
 **Without Wallet** (Starting players):
 - Crew cards stored loose as 2x2 items in ship cargo or port storage
 - Must balance crew cards with ammunition, modules, fuel, loot in limited inventory
-- Example: Destroyer with 120 slots, 9 crew cards = 36 slots, leaves 84 for ammo/fuel/loot
+- Example: Destroyer with 120 grid cells, 9 crew cards = 36 grid cells, leaves 84 for ammo/fuel/loot
 
 **With Wallet** (Purchased):
-- Same 9 crew cards in wallet = 4 slots (2x2 wallet), leaves 116 slots free
-- Can transport 40+ crew cards in single wallet (4 slots vs. 160 slots loose)
+- Same 9 crew cards in wallet = 4 grid cells (2x2 wallet), leaves 116 grid cells free
+- Can transport up to 62 crew cards in single wallet (4 grid cells vs. 248 grid cells loose)
 - Essential for players with large crew card collections or frequent port transfers
 
 **Wallet Mechanics**:
 - **Storage locations**: Can be in ship cargo, port storage, or drydocked ship inventory
-- **Open/close interface**: Click wallet to view 50x50 internal grid
+- **Open/close interface**: Click wallet to view 10x25 internal grid
 - **Drag-and-drop**: Move crew cards in/out of wallet freely
+- **Nested container restriction**: Wallets cannot be placed inside other wallets (prevents infinite compression)
 - **Not for backup crew**: Cannot swap crew mid-mission, so carrying extra crew only useful for port relocations
 
 #### **Crew Card System**
 **Crew Card Properties**:
-- **Grid Size**: 2x2 slots per crew card
-- **Weight**: 0.1 tons per card (negligible)
+- **Grid Size**: 2x2 grid cells per crew card
+- **Weight**: 0.1 tons per card
+  - **Note**: While individual cards are light, large collections add significant weight (62 cards in wallet = ~6 tons)
 - **Storage Locations**:
   - Loose in ship cargo inventory
   - Loose in port storage inventory
-  - Inside wallet (optional, saves space: 2x2 wallet holds 50x50 worth of cards)
+  - Inside wallet (optional, saves space: 2x2 wallet holds 10x25 = 250 grid cells worth of cards)
 - **Active Crew**: Assigned crew don't occupy ANY inventory space (in crew quarters)
 
 **Port Configuration Views** (Accessible only while docked):
@@ -368,15 +383,15 @@ When stored in cargo (not installed):
 #### **Currency System**
 **Credits**:
 - **Storage**: Physical currency stored inside wallet inventory
-- **Stack size**: 10,000 credits per stack (1 slot), negligible weight
+- **Stack size**: 10,000 credits per stack (1 grid cell), negligible weight
 - **Port trading**: Spend credits at any port for modules, ammunition, crew recruitment, repairs
 - **Transfer between ports**: Carry wallet in ship cargo to transport currency
 
 **Example Usage - Player A (No Wallet, Early Game)**:
 - Destroyer with 9 crew slots, player has 14 total crew cards (9 active + 5 extras)
-- **Port Storage**: 5 unassigned crew cards stored loose (5 × 2x2 = 20 slots used)
+- **Port Storage**: 5 unassigned crew cards stored loose (5 × 2x2 = 20 grid cells used)
 - Wants to relocate to new port 500km away
-- **Loading**: Drags 5 crew cards from port storage → ship cargo (20 slots + ammo + fuel = full inventory)
+- **Loading**: Drags 5 crew cards from port storage → ship cargo (20 grid cells + ammo + fuel = full inventory)
 - Sails to new port
 - **Unloading**: Drags 5 crew cards from ship cargo → new port storage
 
@@ -386,9 +401,9 @@ When stored in cargo (not installed):
 - **Purchases wallet** (2x2 item) for 50,000 credits
 - **Loading Phase**:
   - Opens wallet in port storage
-  - Drags all 40 crew cards from port storage → wallet internal inventory (40 × 2x2 = 160 slots compressed to 4 slots)
-  - Transfers wallet (4 slots) from port storage → battleship cargo
-- Sails to new port with wallet in cargo (4 slots vs. 160 slots loose)
+  - Drags all 40 crew cards from port storage → wallet internal inventory (40 × 2x2 = 160 grid cells compressed to 4 grid cells)
+  - Transfers wallet (4 grid cells) from port storage → battleship cargo
+- Sails to new port with wallet in cargo (4 grid cells vs. 160 grid cells loose)
 - **Unloading**: Transfers wallet from battleship cargo → new port storage
 - **Ship Switching**:
   - Opens port drydock, transfers battleship to drydock (inactive)
@@ -406,13 +421,14 @@ When stored in cargo (not installed):
 
 ### 1. Port Storage (Per-Port Inventory)
 
-#### **Limited Grid Space (500-1000 Slots Per Port)**
-- **Per-port storage**: Each port has 500-1000 grid slots (prevents infinite hoarding)
+#### **Limited Grid Space (Port Storage by Tier)**
+- **Per-port storage**: T1-T3 ports (500 grid cells), T4-T7 ports (750 grid cells), T8-T10 ports (1000 grid cells)
 - **Separate inventories**: Storage at Port A is completely separate from Port B
 - **Organization**: Same grid system as ship inventory (drag-and-drop interface)
 - **Access**: Only accessible when docked at that specific port
 - **Purpose**: Long-term storage for ammunition, modules, crew cards (loose or in wallets), loot, fuel
 - **Strategic pressure**: Full warehouse forces decisions to use/sell items or relocate to new port
+- **Full Port Storage**: Cannot unload to port if storage full. Workarounds: Sell items, transfer to drydocked ship, or relocate to different port
 
 **What Gets Stored**:
 - Ammunition stockpiles for pre-mission loadouts
@@ -433,7 +449,7 @@ When stored in cargo (not installed):
 1. Load items from Port A storage → ship cargo
 2. Sail ship to Port B
 3. Unload items from ship cargo → Port B storage
-4. Wallets enable efficient bulk transport (40 crew cards = 4 slots vs. 160 slots)
+4. Wallets enable efficient bulk transport (40 crew cards = 4 grid cells vs. 160 grid cells)
 
 ### 2. Drydock System (Multi-Ship Management)
 
@@ -443,10 +459,11 @@ When stored in cargo (not installed):
 - **Ship switching**: Change which ship is active at port
 
 **Drydock Transfer Mechanics**:
-- **Ship-to-ship transfers**: Move items between active ship ↔ drydocked ships
+- **Ship-to-ship transfers**: Move items between active ship ↔ drydocked ships, or between drydocked ships directly
 - **Example**: Transfer elite modules from inactive battleship to new cruiser
 - **Port storage hub**: Both active and drydocked ships can access port storage
 - **No restrictions**: Freely transfer ammunition, modules, crew cards between ships at same port
+- **Module installation from cargo**: Modules in ship cargo can be directly installed at port (auto-transferred to equipment slot)
 
 **Example Workflow**:
 1. Dock battleship at Port A
@@ -459,6 +476,7 @@ When stored in cargo (not installed):
 ### 3. Module Workshop
 
 #### **Module Modification Station**
+**Status**: Phase 3 feature - See Economy-Overview.md for details
 - **Upgrade modules**: Improve stats using resources + credits
 - **Repair damaged modules**: Restore modules damaged during combat
 - **Module crafting**: Combine components to create advanced modules
@@ -469,45 +487,47 @@ When stored in cargo (not installed):
 ## Tactical Loadout Examples
 
 ### Destroyer Loadout (USS Fletcher - T3)
-**Total Cargo Capacity**: 120 grid slots, 200 tons weight capacity
+**Note**: Ship tier assignments in examples are illustrative, not final balance values
+
+**Total Cargo Capacity**: 120 grid cells, 200 tons weight capacity
 
 **Combat-Focused Loadout** (Ammunition-heavy, impractical example):
-- 5-inch AP shells: 300 rounds (3 stacks = 3 slots, 15 tons)
-- 5-inch HE shells: 200 rounds (2 stacks = 2 slots, 10 tons)
-- Torpedoes (reloads): 20 (4 stacks of 5 = 4 slots of 1x3 = 12 grid cells, 40 tons)
-- Ship fuel: 200 units (2 stacks = 2 slots, 20 tons)
-- **Total: 9/120 slots (19 grid cells), 85/200 tons** ✅ Space efficient but limited utility
+- 5-inch AP shells: 300 rounds (3 stacks of 100, each stack 1x1 = 1 cell, total = 3 grid cells, 15 tons)
+- 5-inch HE shells: 200 rounds (2 stacks of 100, each stack 1x1 = 1 cell, total = 2 grid cells, 10 tons)
+- Torpedoes (reloads): 20 (4 stacks of 5, each stack 1x3 = 3 cells, total = 12 grid cells, 40 tons)
+- Ship fuel: 200 units (2 stacks of 100, each stack 1x1 = 1 cell, total = 2 grid cells, 20 tons)
+- **Total: 19 grid cells, 85/200 tons** ✅ Space efficient but limited utility
 
 **Balanced Loadout**:
-- 5-inch AP shells: 150 rounds (2 stacks: 100+50 = 2 slots, 7.5 tons)
-- 5-inch HE shells: 150 rounds (2 stacks: 100+50 = 2 slots, 7.5 tons)
-- Torpedoes (reloads): 10 (2 stacks of 5 = 2 slots of 1x3 = 6 grid cells, 20 tons)
-- Depth charges: 40 (2 stacks of 20 = 2 slots of 1x2 = 4 grid cells, 8 tons)
-- Repair materials: 5 steel plates (5 slots of 2x2 = 20 grid cells, 10 tons)
-- Ship fuel: 200 units (2 stacks = 2 slots, 20 tons)
-- **Total: 12 stacks (52 grid cells), 73/200 tons** ✅ 68 slots free for loot
+- 5-inch AP shells: 150 rounds (2 stacks: 100+50, total = 2 grid cells, 7.5 tons)
+- 5-inch HE shells: 150 rounds (2 stacks: 100+50, total = 2 grid cells, 7.5 tons)
+- Torpedoes (reloads): 10 (2 stacks of 5, each stack 1x3 = 3 cells, total = 6 grid cells, 20 tons)
+- Depth charges: 40 (2 stacks of 20, each stack 1x2 = 2 cells, total = 4 grid cells, 8 tons)
+- Repair materials: 5 steel plates (5 items, each 2x2 = 4 cells, total = 20 grid cells, 10 tons)
+- Ship fuel: 200 units (2 stacks of 100, each stack 1x1 = 1 cell, total = 2 grid cells, 20 tons)
+- **Total: 36 grid cells, 73/200 tons** ✅ 84 grid cells free for loot
 
 **Optimized Combat Loadout** (Recommended):
-- 5-inch AP shells: 100 rounds (1 stack = 1 slot, 5 tons)
-- 5-inch HE shells: 100 rounds (1 stack = 1 slot, 5 tons)
-- Torpedoes (reloads): 10 (2 stacks of 5 = 2 slots of 1x3 = 6 grid cells, 20 tons)
-- Depth charges: 20 (1 stack = 1 slot of 1x2 = 2 grid cells, 4 tons)
-- Ship fuel: 200 units (2 stacks = 2 slots, 20 tons)
-- **Total: 7 stacks (12 grid cells), 54/200 tons** ✅ 108 slots free for loot
+- 5-inch AP shells: 100 rounds (1 stack = 1 grid cell, 5 tons)
+- 5-inch HE shells: 100 rounds (1 stack = 1 grid cell, 5 tons)
+- Torpedoes (reloads): 10 (2 stacks of 5, each stack 1x3 = 3 cells, total = 6 grid cells, 20 tons)
+- Depth charges: 20 (1 stack, 1x2 = 2 grid cells, 4 tons)
+- Ship fuel: 200 units (2 stacks, total = 2 grid cells, 20 tons)
+- **Total: 12 grid cells, 54/200 tons** ✅ 108 grid cells free for loot
 
 **Extraction-Focused Loadout** (After successful loot run):
-- 5-inch HE shells: 50 rounds (1 partial stack = 1 slot, 2.5 tons) - Minimal defensive ammo
-- Torpedoes (reloads): 0 (0 slots) - All fired
-- Ship fuel: 100 units (1 stack = 1 slot, 10 tons) - Enough to reach port
-- Salvaged modules: 2x high-value radars (2 slots of 3x3 = 18 grid cells, 24 tons)
-- Resource crates: 8 crates (8 slots of 2x2 = 32 grid cells, 16 tons)
-- Intelligence documents: 10 (10 slots of 1x1 = 10 grid cells, 1 ton)
-- **Total: 22 stacks/items (73 grid cells), 53.5/200 tons** ✅ Racing to extract with valuable loot
+- 5-inch HE shells: 50 rounds (1 partial stack = 1 grid cell, 2.5 tons) - Minimal defensive ammo
+- Torpedoes (reloads): 0 (0 grid cells) - All fired
+- Ship fuel: 100 units (1 stack = 1 grid cell, 10 tons) - Enough to reach port
+- Salvaged modules: 2x high-value radars (2 items, each 3x3 = 9 cells, total = 18 grid cells, 24 tons)
+- Resource crates: 8 crates (8 items, each 2x2 = 4 cells, total = 32 grid cells, 16 tons)
+- Intelligence documents: 10 (10 items, each 1x1 = 1 cell, total = 10 grid cells, 1 ton)
+- **Total: 62 grid cells, 53.5/200 tons** ✅ Racing to extract with valuable loot
 
 ---
 
 ### Battleship Loadout (USS Iowa - T5)
-**Total Capacity**: 300 grid slots, 500 tons weight capacity
+**Total Capacity**: 300 grid cells, 500 tons weight capacity
 
 **Optimized Combat Loadout**:
 - 16-inch AP shells: 100 rounds (2 stacks of 1x2 = 4 grid cells, 100 tons)
@@ -516,7 +536,7 @@ When stored in cargo (not installed):
 - AA ammunition: 1,000 rounds (2 stacks of 1x1 = 2 grid cells, 2 tons)
 - Repair materials: 10 steel plates (10 items of 2x2 = 40 grid cells, 10 tons)
 - Ship fuel: 400 units (4 stacks of 1x1 = 4 grid cells, 40 tons)
-- **Total: 54 grid cells, 212/500 tons** ✅ 246 grid slots free for loot
+- **Total: 54 grid cells, 212/500 tons** ✅ 246 grid cells free for loot
 
 **Weight-Constrained Alternative** (more ammunition):
 - 16-inch AP shells: 200 rounds (4 stacks of 1x2 = 8 grid cells, 200 tons)
@@ -535,7 +555,7 @@ When stored in cargo (not installed):
 ---
 
 ### Carrier Loadout (USS Essex - T5)
-**Total Capacity**: 500 grid slots, 700 tons weight capacity
+**Total Capacity**: 500 grid cells, 700 tons weight capacity
 
 **Balanced Air Wing Loadout** (Too many aircraft - demonstration of overflow):
 - 30 fighters (F6F Hellcat): 30 items of 3x3 = 270 grid cells, 150 tons
@@ -619,10 +639,10 @@ When stored in cargo (not installed):
 - **No repair**: Continue fighting with reduced capability
 
 **Example scenario**:
-- USS Fletcher (120 slots) takes heavy fire during combat
+- USS Fletcher (120 grid cells) takes heavy fire during combat
 - Main turret destroyed → loses 40% firepower
 - Engine damaged → speed reduced to 80%
-- Cargo capacity: Still 120 slots (unchanged)
+- Cargo capacity: Still 120 grid cells (unchanged)
 - Decision: Use Repair Party charge to restore engine, or flee with reduced speed?
 
 ### 2. Mid-Combat Cargo Decisions
@@ -633,11 +653,17 @@ When stored in cargo (not installed):
 - **Priority decisions**: Drop ammunition? Loot? Modules?
 - **Tactical use**: Dump empty shell casings (abstract representation) for minor speed boost
 
+**Jettison Interface**:
+- **Individual items**: Right-click item → Jettison (instant removal, no recovery)
+- **Jettisoned cargo permanently lost**: No wreckage/pickup by other players
+- **Emergency "Jettison All Cargo" button**: Drops all cargo except fuel and ammunition (for critical escapes)
+- **No confirmation prompt**: For speed during combat
+
 **Example scenario (Extraction under fire)**:
-- Heavy cruiser loaded with 280/300 slots (loot + ammunition)
+- Heavy cruiser loaded with 280/300 grid cells (loot + ammunition)
 - Engaged by two destroyers during extraction
 - Speed: 85% (heavy load penalty)
-- Decision: Drop 50 slots of loot to reach 230/300 (optimal load)
+- Decision: Drop 50 grid cells of loot to reach 230/300 (optimal load)
 - Result: Speed increases to 100%, successfully extracts with reduced loot
 
 ### 3. Permadeath & Cargo Loss
@@ -680,6 +706,21 @@ Ship permadeath check determines recovery:
 
 ---
 
+**Permadeath Summary Table**:
+
+| Tier | Ship Loss % | Cargo Loss % | Equipped Module/Crew Loss % |
+|------|-------------|--------------|----------------------------|
+| T1-5 | 0%          | 100%         | 0% (always recovered)      |
+| T6   | 10%         | 100%         | 10% (only if ship lost)    |
+| T7   | 20%         | 100%         | 20% (only if ship lost)    |
+| T8   | 40%         | 100%         | 40% (only if ship lost)    |
+| T9   | 60%         | 100%         | 60% (only if ship lost)    |
+| T10  | 100%        | 100%         | 100% (guaranteed loss)     |
+
+*Note: Module/crew loss percentages only apply if the ship permadeath check succeeds. If check fails, ship/modules/crew all recovered.*
+
+---
+
 **Creates meaningful risk/reward**:
 - **Every death means cargo loss**: Even T1-T5 "safe" tiers lose all loot/ammunition on death
 - **High-tier permadeath risk**: T6+ ships risk losing the ship itself plus equipped modules/crew
@@ -712,7 +753,7 @@ Ship permadeath check determines recovery:
 ### Inventory Grid Interface
 
 **Visual clarity**:
-- **Grid overlay**: Clear demarcation of slots
+- **Grid overlay**: Clear demarcation of grid cells
 - **Item icons**: Recognizable silhouettes for quick identification
 - **Color coding**: Ammunition (red), modules (blue), loot (yellow)
 - **Stack numbers**: Display stack count on stackable items
@@ -792,8 +833,8 @@ Ship permadeath check determines recovery:
 ### Progression System Integration
 - **Module unlocks** require inventory space to carry
 - **Crew recruitment** adds crew cards to port storage (can be stored loose or in wallet, assigned to equipment via Crew View at port)
-- **Ship upgrades** may increase base cargo capacity and equipment slots
-- **Tier progression** unlocks larger cargo holds and more equipment positions
+- **Ship upgrades** may increase base cargo capacity (grid cells) and equipment slots
+- **Tier progression** unlocks larger cargo holds (more grid cells) and more equipment positions
 
 ---
 
@@ -826,7 +867,7 @@ Ship permadeath check determines recovery:
 2. Ship cargo hold capacity by class/tier
 3. Ammunition storage and consumption tracking
 4. Weight/volume effects on ship performance
-5. Port warehouse limited storage (500-1000 slots per port, no account bank)
+5. Port warehouse limited storage (T1-T3: 500 cells, T4-T7: 750 cells, T8-T10: 1000 cells per port, no account bank)
 
 **Priority 2 - Cargo Management**:
 6. Module storage and swapping at port
