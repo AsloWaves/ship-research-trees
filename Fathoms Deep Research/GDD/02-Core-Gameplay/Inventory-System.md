@@ -9,7 +9,7 @@ last-updated: 2025-01-19
 # Inventory System
 
 ## Overview
-Tetris-style spatial inventory system providing strategic resource management across ship cargo holds, port storage, and crew organization. The system creates meaningful pre-mission loadout decisions, mid-combat resource awareness, and extraction-phase tension through weight/capacity limits affecting ship performance.
+Tetris-style spatial inventory system with **unified cargo management** where all items (ammunition, modules, fuel, loot) share a single ship inventory. Players manage both **grid capacity** (spatial slots) and **weight capacity** (tonnage budget) determined by ship design and armor loadout. The system creates meaningful pre-mission loadout decisions, mid-combat resource awareness, and extraction-phase tension through dual capacity constraints affecting ship performance.
 
 ## Implementation Status
 **Status**: 📋 **PLANNED** (Phase 2 Priority)
@@ -22,71 +22,133 @@ Tetris-style spatial inventory system providing strategic resource management ac
 ## Design Specification
 
 ### Core Concept
-Fathoms Deep uses a **spatial inventory system** where items occupy grid spaces based on physical size, not arbitrary stack counts. This creates strategic depth in loadout planning, forces meaningful decisions about ammunition vs. cargo capacity, and generates extraction tension when players must choose what loot to keep under fire.
+Fathoms Deep uses a **unified spatial inventory system** where all items share a single cargo hold—no separate magazines, fuel tanks, or module bays. Items occupy grid spaces based on physical size, and players must balance both **spatial capacity** (grid slots) and **weight capacity** (tonnage) determined by ship construction. A heavily armored battleship has the same grid space as a lightly armored one, but significantly less weight budget. This creates strategic depth in loadout planning, forces meaningful decisions about ammunition vs. cargo vs. fuel, and generates extraction tension when players must choose what loot to keep under fire.
 
 ### Key Design Pillars
 
 #### 1. Spatial Tetris Inventory (Not List-Based)
 Items occupy physical grid space based on real-world dimensions:
-- **5-inch shells**: 1x1 slots, stack to 100 rounds
-- **16-inch shells**: 2x3 slots, stack to 20 rounds (massive projectiles)
-- **Torpedoes**: 1x6 slots, no stacking (full-size weapons)
-- **Aircraft**: 4x8 slots (fighters), 5x10 slots (bombers) - carrier deck space
-- **Modules**: Variable sizes (e.g., radar 3x3, turret 4x4)
+- **Small shells (5-inch)**: 1x1 slots, stack to 100 rounds
+- **Large shells (16-inch)**: 1x2 slots, stack to 50 rounds
+- **Torpedoes**: 1x3 to 1x4 slots depending on type, no stacking
+- **Fighters**: 3x3 slots (compact folding wings)
+- **Bombers**: 3x4 slots (larger airframe)
+- **Modules**: Varied sizes (1x1 starter radar, 2x3 engine, 3x3 advanced radar, etc.)
 - **Cargo crates**: 2x2 to 4x4 depending on contents
+- **Fuel barrels**: 1x1 slots, stack to 100 units
 
-#### 2. Weight & Volume Affect Performance
-Inventory load impacts ship capabilities:
-- **Over-capacity**: Ship speed reduced by 5-25% when exceeding optimal load
-- **Heavy ammunition loads**: Affects acceleration, not top speed
-- **Unbalanced cargo**: Can cause listing (visual effect + slight turn rate penalty)
-- **Full extraction**: Heavily loaded ships are slower targets during withdrawal
-- **Strategic trade-off**: Combat readiness vs. cargo capacity
+#### 2. Dual Capacity System - Grid Space & Weight Budget
+Ships have **two separate limits** that both constrain loadout:
 
-#### 3. Ship Class Determines Capacity
-Cargo hold size scales with ship class and tier:
-- **Destroyers (T1-T10)**: 50-150 grid slots (small, specialized for torpedoes/depth charges)
-- **Cruisers (T1-T10)**: 150-300 grid slots (balanced ammunition + moderate cargo)
-- **Battleships (T1-T10)**: 200-400 grid slots (massive shell magazines, limited general cargo)
-- **Carriers (T1-T10)**: 300-600 grid slots (aircraft + aviation fuel + ordnance)
-- **Submarines (T1-T10)**: 40-100 grid slots (extremely limited, torpedo-focused)
+**Grid Capacity (Spatial Slots)**:
+- Fixed number of inventory grid slots per ship
+- Determined by ship hull design (cargo hold size)
+- Example: Destroyer might have 120 grid slots, Battleship 300 slots
+- Items must fit spatially in the grid (Tetris puzzle)
 
-#### 4. Port Storage (Unlimited)
-Players have unlimited storage at home ports:
-- **Warehouse**: Unlimited grid space, ship-specific storage
-- **Account Bank**: Shared across all player ships (universal storage)
-- **Transfer mechanics**: Drag-and-drop between ship and port
-- **Organization tools**: Sort by type, search, auto-stack
+**Weight Capacity (Tonnage Budget)**:
+- Total weight limit in tons that ship can carry
+- **Varies by armor/equipment**: Heavily armored ships have less weight budget
+- **Hard cap**: Cannot exceed maximum weight (like turret mount limits)
+- Example: Heavy armor battleship might have 400 tons capacity, light armor version 600 tons
+- Each item has weight: shells (0.1 tons each), torpedoes (2 tons each), modules (5-20 tons), fuel (0.01 tons per unit)
+
+**Auto-Balancing**:
+- Players do NOT manually balance cargo left/right
+- System automatically distributes weight for optimal ship balance
+- No listing penalties from poor cargo placement
+
+**Performance Impact**:
+- **Weight affects**: Max speed, acceleration, turn radius
+- **Grid capacity affects**: What you can physically carry
+- **Strategic depth**: Must optimize BOTH constraints simultaneously
+
+#### 3. Per-Ship Capacity (Not Standardized)
+Each ship has **individual grid and weight capacity** determined by its specific design:
+
+**Ship-to-Ship Variation**:
+- **Same tier, different capacity**: Two T5 destroyers may have different grid/weight limits
+- **Design trade-offs**: Fast destroyer has less cargo, cargo-focused destroyer has less speed
+- **Armor variants**: Heavy armor reduces weight capacity, light armor increases it
+- **Diversity**: Prevents "one best ship" meta, creates meaningful ship choice
+
+**Example Comparison (T5 Destroyers)**:
+- **USS Fletcher** (balanced): 120 grid slots, 200 tons weight capacity
+- **USS Sumner** (firepower-focused): 100 grid slots, 180 tons (heavier guns reduce cargo)
+- **USS Gearing** (endurance-focused): 150 grid slots, 250 tons (larger hull, more cargo)
+
+**General Capacity Ranges by Class**:
+- **Destroyers**: 80-160 grid slots, 150-300 tons
+- **Cruisers**: 150-350 grid slots, 300-600 tons
+- **Battleships**: 200-500 grid slots, 400-800 tons (less weight due to heavy armor)
+- **Carriers**: 300-700 grid slots, 500-1000 tons (aircraft + ordnance dominant)
+- **Submarines**: 40-120 grid slots, 80-200 tons (extremely cramped)
+
+#### 4. Port Storage (Limited, Per-Port)
+Players have **limited storage at each port** to prevent hoarding:
+
+**Per-Port Warehouse**:
+- **Limited capacity**: Each port has 500-1000 grid slots (prevents infinite hoarding)
+- **Separate inventories**: Storage at Port A is different from Port B
+- **Trading gameplay**: Must physically transport goods between ports for profit
+- **Strategic decisions**: Which ports to use as storage hubs?
+
+**No Account Bank**:
+- **No universal storage** shared across all ships/ports
+- Forces meaningful choices about what to keep/sell
+- Creates "full warehouse" pressure to use or sell items
+- Encourages trading and economy participation
+
+**Transfer Mechanics**:
+- **Drag-and-drop**: Move items between ship and current port
+- **Organization tools**: Sort by type, weight, value, size
+- **Auto-stack**: Combine partial stacks automatically
 
 ---
 
-## Ship Inventory Categories
+## Unified Ship Inventory - Item Types
 
-### 1. Ammunition Storage
+**IMPORTANT**: Ships have **ONE single inventory** shared by all items. There are NO separate magazines, fuel tanks, or module bays. Players must manage ammunition, fuel, modules, loot, and cargo all in the same grid space and weight budget.
+
+### Item Type Reference
+
+This section describes the different **types of items** that occupy the unified inventory, not separate storage areas.
+
+---
+
+### 1. Ammunition
 
 #### **Main Battery Shells**
-**Organization**: Stored by caliber in dedicated magazines
-- **Caliber compatibility**: All guns of same caliber share magazine (e.g., all 5-inch guns pull from same stockpile)
-- **Shell types per caliber**: AP, HE, SAP variants stored separately
-- **Example loadout (USS Fletcher - T3 Destroyer)**:
-  - 5-inch/38 caliber AP: 300 shells (300 slots total)
-  - 5-inch/38 caliber HE: 200 shells (200 slots total)
-  - Total: 500 grid slots for main battery
+**Grid Size & Weight**:
+- **Small caliber (4-6 inch)**: 1x1 grid slot, 0.05 tons each, stack to 100
+- **Medium caliber (8-10 inch)**: 1x1 grid slot, 0.15 tons each, stack to 50
+- **Large caliber (12-14 inch)**: 1x2 grid slots, 0.5 tons each, stack to 50
+- **Super-heavy caliber (16-18 inch)**: 1x2 grid slots, 1.0 ton each, stack to 50
+- **Caliber compatibility**: All guns of same caliber share ammunition pool
+- **Shell types**: AP, HE, SAP variants stack separately
 
-**High-Tier Example (USS Iowa - T5 Battleship)**:
-- 16-inch AP shells: 100 rounds (600 slots - 2x3 each)
-- 16-inch HE shells: 50 rounds (300 slots - 2x3 each)
-- 5-inch/38 secondary: 400 rounds (400 slots)
-- Total: 1,300 grid slots for guns alone
+**Example Loadout (USS Fletcher - T3 Destroyer, 120 grid slots, 200 tons)**:
+- 5-inch AP: 200 shells (2 stacks = 2 grid slots, 10 tons)
+- 5-inch HE: 200 shells (2 stacks = 2 grid slots, 10 tons)
+- **Total shells: 4 grid slots, 20 tons**
+
+**High-Tier Example (USS Iowa - T5 Battleship, 300 grid slots, 500 tons)**:
+- 16-inch AP shells: 100 rounds (2 stacks = 4 grid slots, 100 tons)
+- 16-inch HE shells: 50 rounds (1 stack = 2 grid slots, 50 tons)
+- 5-inch secondary HE: 200 rounds (2 stacks = 2 grid slots, 10 tons)
+- **Total shells: 8 grid slots, 160 tons** (weight-constrained, not grid-constrained)
 
 #### **Torpedoes**
-**Organization**: Individual weapons, no stacking
-- **Full-size torpedoes**: 1x6 grid slots each
-- **Reloads**: Stored in ship's torpedo magazine (limited by ship design)
-- **Example (USS Fletcher - T3 Destroyer)**:
-  - 10 torpedo tubes (equipped weapons)
-  - 6 reload torpedoes (36 grid slots)
-  - Total: 16 torpedoes available per sortie
+**Grid Size & Weight**:
+- **Standard torpedoes** (destroyers, submarines): 1x3 grid slots, 2 tons each
+- **Long Lance torpedoes** (IJN special): 1x4 grid slots, 3 tons each
+- **Aerial torpedoes** (carrier aircraft): 1x3 grid slots, 1.5 tons each
+- **No stacking**: Each torpedo occupies full grid space individually
+
+**Example (USS Fletcher - T3 Destroyer, 120 grid slots, 200 tons)**:
+  - 10 torpedo tubes (equipped, don't use cargo)
+  - 6 reload torpedoes in cargo (18 grid slots, 12 tons)
+  - Total ammunition: 16 torpedoes available per sortie
 
 #### **Anti-Aircraft Ammunition**
 **Organization**: Automatic consumption from magazine
@@ -104,15 +166,17 @@ Players have unlimited storage at home ports:
 - **Pattern drops**: Expend 4-8 charges per attack run
 
 #### **Aircraft Ordnance (Carriers Only)**
-**Organization**: Bombs, torpedoes, rockets stored separately
-- **500-lb bombs**: 1x2 slots, stack to 10
-- **1,000-lb bombs**: 2x2 slots, stack to 5
-- **Aerial torpedoes**: 1x4 slots, stack to 5
-- **Carrier ammunition management**: Must pre-load aircraft before launch
-- **Example (USS Essex - T5 Fleet Carrier)**:
-  - 200x 500-lb bombs (40 slots)
-  - 100x 1,000-lb bombs (80 slots)
-  - 80 aerial torpedoes (64 slots)
+**Grid Size & Weight**:
+- **500-lb bombs**: 1x1 slots, 0.25 tons each, stack to 20
+- **1,000-lb bombs**: 1x2 slots, 0.5 tons each, stack to 10
+- **Aerial torpedoes**: 1x3 slots, 1.5 tons each, no stacking
+- **Rockets**: 1x1 slots, 0.1 tons each, stack to 50
+- **Carrier ordnance management**: Pre-loaded onto aircraft before launch, stored in unified cargo
+
+**Example (USS Essex - T5 Fleet Carrier, 500 grid slots, 700 tons)**:
+  - 200x 500-lb bombs (10 stacks = 10 grid slots, 50 tons)
+  - 100x 1,000-lb bombs (10 stacks = 20 grid slots, 50 tons)
+  - 60 aerial torpedoes (180 grid slots, 90 tons)
 
 ---
 
@@ -137,33 +201,44 @@ Players have unlimited storage at home ports:
 
 ---
 
-### 3. Modules & Customization
+### 3. Modules & Equipment
 
-#### **Module Storage Philosophy**
-**Active vs. Reserve Modules**:
-- **Equipped modules**: Don't occupy cargo space (installed on ship)
-- **Reserve modules**: Occupy cargo space (can be swapped at port)
-- **Module swapping**: Can only change modules at port, not mid-sortie
-- **Strategic choice**: Carry spare modules for post-battle swaps vs. cargo capacity
+#### **Module System - Installed or Not**
+Modules have **only two possible states**:
+- **Installed**: Module is equipped on the ship, fully functional, occupies a module slot (NOT cargo space)
+- **Not Installed**: Module is stored in ship's cargo hold or port warehouse
 
-#### **Module Size Examples**
-- **Fire Control System**: 3x3 slots (10-ton equipment)
-- **Radar Module**: 3x3 slots (antenna + electronics)
-- **Engine Module**: 6x6 slots (massive machinery replacement)
-- **Main Battery Turret**: 4x4 slots per turret (entire gun mount)
-- **Secondary Gun Mount**: 2x2 slots
-- **Torpedo Tube Bank**: 3x4 slots
+**Critical Rules**:
+- **Cannot swap mid-mission**: Module changes can ONLY be done at port
+- **Loot modules**: Finding a module as loot requires bringing it back to port to install
+- **No hot-swapping**: Once you leave port, your modules are locked until you return
 
-#### **Module Carrying Limitations**
-**Weight penalties apply**:
-- Carrying 1-2 spare modules: -5% ship speed
-- Carrying 3-5 spare modules: -15% ship speed
-- Carrying 6+ spare modules: -25% ship speed, extremely vulnerable extraction target
+#### **Ship Module Slots - Size-Specific**
+Each ship has predefined **module slots** with specific size requirements:
+- **Radar Slot**: 1x1 (starter radar) OR 3x3 (advanced radar)
+- **Engine Slot**: 2x3 (standard engine) OR 3x4 (upgraded engine)
+- **Fire Control Slot**: 2x2 (basic) OR 3x3 (advanced)
+- **Secondary Systems**: Various sizes (1x1 to 2x2)
 
-**Tactical considerations**:
-- **High-tier operations**: Players may carry backup radar if expecting electronic warfare
-- **Treasure hunting**: Module cargo space vs. loot capacity trade-off
-- **Port runs**: Dedicated "module transport" loadouts with minimal ammunition
+**Slot matching requirement**:
+- A 1x1 radar slot can ONLY fit 1x1 radars
+- A 2x3 engine slot can ONLY fit 2x3 engines
+- Cannot install oversized modules in smaller slots
+- Cannot install undersized modules in larger slots (no adapters)
+
+#### **Module Grid Sizes & Weights**
+When stored in cargo (not installed):
+- **Starter Radar** (1x1): 1x1 grid slots, 2 tons
+- **Advanced Radar** (3x3): 3x3 grid slots, 12 tons
+- **Fire Control** (2x2): 2x2 grid slots, 8 tons
+- **Standard Engine** (2x3): 2x3 grid slots, 15 tons
+- **Upgraded Engine** (3x4): 3x4 grid slots, 25 tons
+- **Turret Module** (varies): 2x2 to 4x4, 10-30 tons
+
+**Carrying uninstalled modules**:
+- Modules in cargo use grid space AND weight capacity
+- Heavy modules can significantly reduce weight budget
+- Players might loot valuable modules but lack cargo space to carry them
 
 ---
 
@@ -338,34 +413,43 @@ Players have unlimited storage at home ports:
 ---
 
 ### Carrier Loadout (USS Essex - T5)
-**Total Cargo Capacity**: 480 grid slots
+**Total Capacity**: 500 grid slots, 700 tons weight capacity
 
 **Balanced Air Wing Loadout**:
-- 24 fighters (F6F Hellcat): 96 slots (4x8 each)
-- 18 dive bombers (SBD Dauntless): 90 slots (5x10 each)
-- 18 torpedo bombers (TBF Avenger): 90 slots (5x10 each)
-- 500-lb bombs: 100 (20 slots)
-- 1,000-lb bombs: 50 (40 slots)
-- Aerial torpedoes: 40 (32 slots)
-- Aviation fuel: 2,000 units (dedicated tank)
-- **Total: 368/480 slots - 112 slots free**
+- 30 fighters (F6F Hellcat): 270 slots (3x3 each), 150 tons
+- 20 dive bombers (SBD Dauntless): 240 slots (3x4 each), 120 tons
+- 20 torpedo bombers (TBF Avenger): 240 slots (3x4 each), 140 tons
+- **Aircraft subtotal: 750 slots, 410 tons** ❌ OVER GRID CAPACITY
+
+**Optimized Balanced Loadout**:
+- 20 fighters: 180 slots (3x3 each), 100 tons
+- 12 dive bombers: 144 slots (3x4 each), 72 tons
+- 12 torpedo bombers: 144 slots (3x4 each), 84 tons
+- 200x 500-lb bombs: 10 slots (10 stacks), 50 tons
+- 50x 1,000-lb bombs: 10 slots (5 stacks), 25 tons
+- 30 aerial torpedoes: 90 slots, 45 tons
+- Fuel: 1,000 units (10 slots), 10 tons
+- **Total: 478/500 slots, 386/700 tons** ✅ 22 slots free
 
 **Strike-Heavy Loadout** (Offensive operation):
-- 12 fighters: 48 slots (reduced CAP)
-- 24 dive bombers: 120 slots
-- 24 torpedo bombers: 120 slots
-- 500-lb bombs: 200 (40 slots)
-- 1,000-lb bombs: 100 (80 slots)
-- Aerial torpedoes: 80 (64 slots)
-- **Total: 472/480 slots - 8 slots free**
+- 12 fighters: 108 slots, 60 tons (reduced CAP)
+- 18 dive bombers: 216 slots, 108 tons
+- 18 torpedo bombers: 216 slots, 126 tons
+- 400x 500-lb bombs: 20 slots, 100 tons
+- 100x 1,000-lb bombs: 20 slots, 50 tons
+- 60 aerial torpedoes: 180 slots, 90 tons
+- Fuel: 800 units (8 slots), 8 tons
+- **Total: 568/500 slots** ❌ OVER CAPACITY - Must reduce aircraft
 
-**Defensive Loadout** (Fleet escort):
-- 48 fighters: 192 slots (maximum air superiority)
-- 6 dive bombers: 30 slots (minimal strike capability)
-- 6 torpedo bombers: 30 slots
-- 500-lb bombs: 50 (10 slots)
-- Aerial torpedoes: 20 (16 slots)
-- **Total: 278/480 slots - 202 slots free for loot/supplies**
+**Strike-Heavy (Adjusted)**:
+- 10 fighters: 90 slots, 50 tons
+- 15 dive bombers: 180 slots, 90 tons
+- 15 torpedo bombers: 180 slots, 105 tons
+- 300x 500-lb bombs: 15 slots, 75 tons
+- 80x 1,000-lb bombs: 16 slots, 40 tons
+- 50 aerial torpedoes: 150 slots, 75 tons
+- Fuel: 800 units (8 slots), 8 tons
+- **Total: 489/500 slots, 443/700 tons** ✅ 11 slots free
 
 ---
 
