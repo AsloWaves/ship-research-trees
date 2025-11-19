@@ -134,7 +134,7 @@ The submarine line progresses through three distinct class categories, each with
 - **Dive Depth**: Maximum 150 meters
 - **Armament**: 10 torpedo tubes, 24-28 torpedoes total, deck gun option
 - **Endurance**: 10-14 days submerged
-- **Death Penalty**: 30% permadeath - 3 in 10 chance of permanent loss
+- **Death Penalty**: 10% ship/crew card permadeath - first permadeath tier
 - **Unlock Cost**: 500,000 credits
 - **Operational Focus**: Long-range interdiction, strategic chokepoint denial, high-value target hunting
 
@@ -160,7 +160,7 @@ The submarine line progresses through three distinct class categories, each with
 - **Dive Depth**: Maximum 200 meters
 - **Armament**: 8-10 torpedo tubes, 28-32 torpedoes, advanced fire control
 - **Endurance**: 14-21 days submerged
-- **Death Penalty**: 40% permadeath
+- **Death Penalty**: 20% ship/crew card permadeath
 - **Unlock Cost**: 1,000,000 credits
 - **Operational Focus**: Capital ship assassination, carrier hunting, extraction denial
 
@@ -173,7 +173,7 @@ The submarine line progresses through three distinct class categories, each with
 - **Dive Depth**: Maximum 250 meters
 - **Armament**: 10 torpedo tubes, 32-36 torpedoes, guided torpedo capability
 - **Endurance**: 21-30 days submerged
-- **Death Penalty**: 60% permadeath
+- **Death Penalty**: 40% ship/crew card permadeath
 - **Unlock Cost**: 2,500,000 credits
 - **Operational Focus**: Strategic interdiction, extraction route domination, fleet-killer operations
 
@@ -186,7 +186,7 @@ The submarine line progresses through three distinct class categories, each with
 - **Dive Depth**: Maximum 300 meters
 - **Armament**: 12 torpedo tubes, 36-40 torpedoes, advanced acoustic homing
 - **Endurance**: 30-45 days submerged
-- **Death Penalty**: 70% permadeath
+- **Death Penalty**: 60% ship/crew card permadeath
 - **Unlock Cost**: 5,000,000 credits
 - **Operational Focus**: Strategic denial, capital ship elimination, server-level threat
 

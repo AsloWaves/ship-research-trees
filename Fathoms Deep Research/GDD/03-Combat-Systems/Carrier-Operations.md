@@ -569,10 +569,11 @@ USS Enterprise with Long-Range Communications can coordinate with USS Hornet 150
 - **T6-T9 Carriers**: 10-60% ship/crew card permadeath risk, hunted aggressively by players
 - **T10 Carriers**: 100% PERMADEATH (ship + all crew cards), server-wide alerts when detected
 
-**Zone Danger Multiplier**:
-- T10 carrier in T3 zone = attracts every player within 200km
-- Operating carriers in zones below their tier = massive target, little benefit
-- **Optimal**: Match carrier tier to zone danger for balanced risk/reward
+**Visibility and Detection**:
+- High-tier carriers attract attention across vast distances (100-200km+ detection range)
+- T9-T10 carriers create server-wide awareness due to their strategic importance
+- Operating high-tier carriers in any waters creates massive risk due to their visibility
+- **Risk Management**: High-tier carriers always face extreme attention regardless of location
 
 ---
 

@@ -25,23 +25,23 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 - **Characteristics**: Fast (30-35 knots), fragile, torpedo-focused
 - **Crew**: 50-75 crew members
 - **Learning Focus**: Speed management, torpedo tactics, evasion, positioning
-- **Death Penalty**: 0% permadeath, full ship recovery
-- **Optimal Zones**: T0-T1 (safe learning environments)
+- **Death Penalty**: 0% permadeath, full ship recovery (safe anywhere on map)
+- **Typical Operations**: Safe learning waters, patrol missions, escort duty
 
 #### **T4-T6 Destroyers - Skill Development**
 - **Unlock Gates**: T4 = Cruisers/Subs unlock, T5 = Carriers/BBs unlock
 - **Example Ships**: USS Gearing (T4), USS Sumner (T5), Advanced concepts (T6)
 - **Characteristics**: Enhanced firepower, better survivability
 - **Crew**: 75-100 crew members
-- **Death Penalty**: T6 = 10% ship/crew card permadeath risk begins
-- **Optimal Zones**: T2-T3 (contested waters)
+- **Death Penalty**: T4-T5 = 0% permadeath (safe), T6 = 10% ship/crew card permadeath risk begins
+- **Typical Operations**: Contested waters, fleet screening, convoy attacks
 
 #### **T7-T10 Destroyers - Elite Operations**
 - **Example Ships**: Post-war destroyer concepts
 - **Characteristics**: Maximum speed, advanced sensors, elite firepower
 - **Crew**: 100-125 crew members
-- **Death Penalty**: 40-100% permadeath (T10 = full permadeath)
-- **Optimal Zones**: T4-T5 (maximum danger)
+- **Death Penalty**: T7=20%, T8=40%, T9=60%, T10=100% ship/crew card permadeath
+- **Typical Operations**: Deep hostile territory, high-stakes fleet battles, elite reconnaissance
 
 ---
 

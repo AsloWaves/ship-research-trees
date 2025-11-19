@@ -667,35 +667,48 @@ Ship suffering from 3 fires (54% HP damage potential) and 1 heavy flood (120% HP
 
 ### Tier-Based Death Penalties
 
-**T1-T4** (Learning Tiers):
-- **Ship Recovery**: 100% ship recovery
-- **Module Damage**: 0-25% module damage on respawn
-- **Crew Loss**: Minimal casualties
-- **Cargo Loss**: Partial inventory loss
+**T1-T5** (Safe Learning Tiers):
+- **Ship Permadeath**: 0% (ships ALWAYS recovered)
+- **Crew Card Permadeath**: 0% (crew cards ALWAYS safe)
+- **Sailor Casualties**: Variable based on damage (replaceable at ports)
+- **Module Damage**: 0-40% module damage on recovery
+- **Cargo Loss**: Partial to significant inventory loss
+- **Purpose**: Safe environment for learning mechanics anywhere on map
 
-**T5** (Transition Tier):
-- **Ship Recovery**: 100% ship recovery
-- **Module Damage**: 25-40% module damage requiring repairs
-- **Crew Loss**: Moderate casualties
-- **Cargo Loss**: Significant inventory loss
-
-**T6** (Permadeath Begins):
-- **Ship Recovery**: 70% recovery (30% permadeath chance)
-- **Module Damage**: 40-70% module damage, expensive repairs
-- **Crew Loss**: Heavy casualties
+**T6** (First Permadeath Tier):
+- **Ship Permadeath**: 10% permanent destruction
+- **Crew Card Permadeath**: 10% per card (independent rolls)
+- **Sailor Casualties**: Variable based on damage (replaceable)
+- **Module Damage**: 40-50% module damage, expensive repairs
 - **Cargo Loss**: Full inventory loss
 
-**T7-T9** (High Risk):
-- **Ship Recovery**: 60-30% recovery (40-70% permadeath chance)
-- **Module Damage**: 70-90% module damage
-- **Crew Loss**: Severe casualties
-- **Cargo Loss**: Full inventory loss + module loss risk
+**T7** (Escalating Risk):
+- **Ship Permadeath**: 20% permanent destruction
+- **Crew Card Permadeath**: 20% per card (independent rolls)
+- **Sailor Casualties**: Variable based on damage (replaceable)
+- **Module Damage**: 50-60% module damage
+- **Cargo Loss**: Full inventory loss
 
-**T10** (Full Permadeath):
-- **Ship Recovery**: 0% (100% PERMADEATH)
-- **Module Damage**: N/A - permanent loss
-- **Crew Loss**: Total crew loss
-- **Cargo Loss**: Everything permanently lost
+**T8** (High Stakes):
+- **Ship Permadeath**: 40% permanent destruction
+- **Crew Card Permadeath**: 40% per card (independent rolls)
+- **Sailor Casualties**: Variable based on damage (replaceable)
+- **Module Damage**: 60-70% module damage
+- **Cargo Loss**: Full inventory loss + high module loss risk
+
+**T9** (Extreme Risk):
+- **Ship Permadeath**: 60% permanent destruction
+- **Crew Card Permadeath**: 60% per card (independent rolls)
+- **Sailor Casualties**: Variable based on damage (replaceable)
+- **Module Damage**: 70-90% module damage
+- **Cargo Loss**: Full inventory loss + very high module loss risk
+
+**T10** (Absolute Permadeath):
+- **Ship Permadeath**: 100% GUARANTEED permanent destruction
+- **Crew Card Permadeath**: 100% ALL crew cards permanently destroyed
+- **Sailor Casualties**: 100% (irrelevant since all cards destroyed)
+- **Module Damage**: 100% - all modules permanently lost
+- **Cargo Loss**: Everything permanently lost (no recovery)
 
 ---
 
