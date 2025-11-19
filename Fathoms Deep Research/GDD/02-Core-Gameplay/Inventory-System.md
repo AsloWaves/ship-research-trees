@@ -602,18 +602,28 @@ When stored in cargo (not installed):
 
 ## Extraction Mechanics & Inventory Tension
 
-### 1. Combat Damage Reduces Capacity
+### 1. Module Damage & Combat Effectiveness
 
-**Module destruction reduces usable cargo space**:
-- **Ammunition fire**: 10-30% cargo capacity lost (ammunition destroyed in cargo hold)
-- **Hull flooding**: 5-15% cargo capacity lost (compartments sealed)
-- **Structural damage**: Cannot access damaged cargo holds until repaired
+**Module damage affects equipment functionality, NOT cargo space**:
+- **Destroyed modules become unusable**: Turret destroyed → cannot fire that turret
+- **Engine damage**: Reduces max speed and maneuverability
+- **Radar/sonar damage**: Loss of detection capability
+- **Fire control damage**: Reduced accuracy for remaining weapons
+- **Cargo space UNCHANGED**: Cargo hold capacity remains full even with heavy module damage
+
+**Repair Options**:
+- **At port**: Full module repairs available (free or paid depending on insurance/port)
+- **Field repairs**: Use repair consumables from ship inventory to restore partial/full functionality
+  - Repair Party consumable (limited charges per sortie)
+  - Repair materials stored in cargo (steel plates, electrical components)
+- **No repair**: Continue fighting with reduced capability
 
 **Example scenario**:
-- USS Fletcher starts with 120 slots
-- Takes cargo hold hit → ammunition fire destroys 20 slots worth of items
-- Effective capacity: 100 slots
-- Must jettison 20 slots of cargo to continue operating
+- USS Fletcher (120 slots) takes heavy fire during combat
+- Main turret destroyed → loses 40% firepower
+- Engine damaged → speed reduced to 80%
+- Cargo capacity: Still 120 slots (unchanged)
+- Decision: Use Repair Party charge to restore engine, or flee with reduced speed?
 
 ### 2. Mid-Combat Cargo Decisions
 
