@@ -527,7 +527,7 @@ Ship suffering from 3 fires (54% HP damage potential) and 1 heavy flood (120% HP
 - **Lead indicator**: Game displays predicted impact point
 - **Target tracking**: Automatic shell travel time calculation
 - **Accuracy**: 70% base hit rate
-- **Modifiers**: Affected by crew skill, modules, range, weather
+- **Modifiers**: Affected by Gunner Accuracy stat (7-50), modules, range, weather
 - **Best for**: New players, multi-tasking
 
 ---

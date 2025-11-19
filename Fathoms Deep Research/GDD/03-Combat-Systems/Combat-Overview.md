@@ -480,8 +480,8 @@ Combat in Fathoms Deepbalances **accessibility** (assisted targeting, clear feed
 **Tactical Depth**:
 - Manual control provides accuracy bonuses
 - Module optimization creates specializations
-- Crew training enhances capabilities
-- Positioning and tactics matter more than stats
+- Crew stats (7-50 system) enhance capabilities: Accuracy, Reload, Repair Speed, Fire Fighting, etc.
+- Positioning and tactics matter more than raw stat numbers
 
 ---
 
