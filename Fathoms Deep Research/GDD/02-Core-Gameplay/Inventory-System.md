@@ -151,10 +151,10 @@ This section describes the different **types of items** that occupy the unified 
   - Total ammunition: 20 torpedoes available per sortie
 
 #### **Anti-Aircraft Ammunition**
-**Organization**: Automatic consumption from magazine
+**Organization**: Automatic consumption from cargo inventory
 - **AA shells**: 1x1 slots, stack to 500 rounds per stack
 - **High consumption rate**: 100-300 rounds per air engagement
-- **Auto-supply**: AA guns pull from magazine automatically during combat
+- **Auto-supply**: AA guns pull from cargo automatically during combat
 - **Example (Light Cruiser AA loadout)**:
   - 2,000 rounds 40mm Bofors (4 stacks = 4 slots)
   - 5,000 rounds 20mm Oerlikon (10 stacks = 10 slots)
@@ -489,23 +489,15 @@ When stored in cargo (not installed):
 - **Acceleration**: 70% (-30% slower acceleration)
 - **Turn rate**: 85% (-15% turn rate)
 - **Fuel efficiency**: 125% (+25% fuel consumption)
-- **Warning**: Ship lists visually, HUD shows over-capacity warning
+- **Warning**: HUD shows over-capacity warning (red weight indicator)
 
 **Extreme Over-Capacity (120%+)**:
 - **Speed**: 75% (-25% max speed)
 - **Acceleration**: 50% (-50% slower acceleration)
 - **Turn rate**: 75% (-25% turn rate)
 - **Fuel efficiency**: 150% (+50% fuel consumption)
-- **Critical**: Ship severely listing, combat effectiveness impaired
+- **Critical**: Combat effectiveness severely impaired, difficult to maneuver
 - **Extraction risk**: Extremely vulnerable, can't outrun pursuers
-
-### Unbalanced Cargo Effects
-
-**Port/Starboard Imbalance**:
-- Ships visually list to heavier side (3-8° tilt)
-- Turn rate penalty: -5% when turning into heavy side, +5% when turning away
-- UI indicator shows cargo balance status
-- **Solution**: Redistribute cargo or use ballast tanks (consumes 50 fuel units to auto-balance)
 
 ---
 
@@ -514,13 +506,13 @@ When stored in cargo (not installed):
 ### 1. Combat Damage Reduces Capacity
 
 **Module destruction reduces usable cargo space**:
-- **Magazine fire**: 10-30% cargo capacity lost (ammunition destroyed)
+- **Ammunition fire**: 10-30% cargo capacity lost (ammunition destroyed in cargo hold)
 - **Hull flooding**: 5-15% cargo capacity lost (compartments sealed)
 - **Structural damage**: Cannot access damaged cargo holds until repaired
 
 **Example scenario**:
 - USS Fletcher starts with 120 slots
-- Takes magazine hit → loses 20 slots
+- Takes cargo hold hit → ammunition fire destroys 20 slots worth of items
 - Effective capacity: 100 slots
 - Must jettison 20 slots of cargo to continue operating
 
@@ -571,7 +563,6 @@ When stored in cargo (not installed):
 - **Loot Identification**: Higher stat = identify valuable loot faster
 - **Salvage Efficiency**: Reduces time to salvage wrecks
 - **Cargo Optimization**: Tetris-style auto-arrange cargo for better space usage
-- **Weight Distribution**: Auto-balance cargo to prevent listing
 
 ---
 
@@ -582,7 +573,7 @@ When stored in cargo (not installed):
 **Visual clarity**:
 - **Grid overlay**: Clear demarcation of slots
 - **Item icons**: Recognizable silhouettes for quick identification
-- **Color coding**: Ammunition (red), modules (blue), loot (yellow), crew (green)
+- **Color coding**: Ammunition (red), modules (blue), loot (yellow)
 - **Stack numbers**: Display stack count on stackable items
 - **Weight bar**: Shows current load percentage with color coding (green/yellow/red)
 
@@ -596,8 +587,8 @@ When stored in cargo (not installed):
 ### In-Combat Inventory Awareness
 
 **Minimal HUD elements**:
-- **Ammunition counter**: Current magazine count for active weapon
-- **Torpedo counter**: Remaining torpedoes (equipped + reloads)
+- **Ammunition counter**: Current ammunition count for active weapon
+- **Torpedo counter**: Remaining torpedoes (equipped + reloads in cargo)
 - **Weight indicator**: Small bar showing cargo load percentage
 - **Capacity warning**: Red indicator when approaching/exceeding capacity
 
@@ -614,10 +605,10 @@ When stored in cargo (not installed):
 
 **Question players must answer**:
 1. **Ammunition focus**: AP-heavy for battleship hunting, or HE-heavy for destroyers?
-2. **Consumable count**: Carry extra repair materials for extended operations?
-3. **Module insurance**: Bring backup radar for electronic warfare zones?
-4. **Crew reserves**: Carry reserve crew cards for permadeath protection (T6+)?
-5. **Loot capacity**: Leave cargo space free for extraction loot?
+2. **Fuel vs. cargo**: Carry extra fuel for extended operations, or maximize loot capacity?
+3. **Weight budget**: Prioritize heavy ammunition (weight-limited) or light cargo (grid-limited)?
+4. **Carriers only**: Ship fuel vs. plane fuel ratio - long transit or heavy air operations?
+5. **Loot capacity**: Leave cargo space free for extraction loot, or go combat-heavy?
 
 ### Mid-Mission Adaptability
 
@@ -642,7 +633,7 @@ When stored in cargo (not installed):
 ### Combat Systems Integration
 - **Ammunition consumption** tracked in real-time during gunnery
 - **Torpedo tube reloads** pull from cargo inventory
-- **Module damage** can destroy cargo (magazine explosions)
+- **Module damage** can destroy cargo (ammunition explosions in cargo hold)
 - **AA ammunition** auto-consumed during air defense
 
 ### Extraction System Integration
@@ -659,7 +650,7 @@ When stored in cargo (not installed):
 
 ### Progression System Integration
 - **Module unlocks** require inventory space to carry
-- **Crew recruitment** needs cargo space for crew cards
+- **Crew recruitment** needs wallet space for crew cards (stored in wallet, not cargo)
 - **Ship upgrades** may increase base cargo capacity
 - **Tier progression** unlocks larger cargo holds
 
@@ -668,7 +659,7 @@ When stored in cargo (not installed):
 ## Cross-Reference Documents
 
 **Related Core Gameplay**:
-- [[Crew-Management]] - Crew card storage and reserve crew mechanics
+- [[Crew-Management]] - Crew card storage via wallet system
 - [[Crew-Skills]] - Engineer stats affecting inventory efficiency
 - [[Ship-Physics]] - Weight/capacity effects on ship performance
 
