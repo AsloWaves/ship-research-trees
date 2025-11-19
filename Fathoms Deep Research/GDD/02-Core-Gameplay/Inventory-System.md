@@ -295,41 +295,62 @@ When stored in cargo (not installed):
 
 ### 5. Crew Cards & Currency
 
-#### **Wallet Item - Specialized Storage**
-**Grid Size & Weight**:
-- **Wallet**: 2x2 grid slots (4 total slots), 1 ton
-- **Opens into**: 50x50 separate inventory (2,500 slots for crew/currency only)
-- **Restrictions**: ONLY accepts crew cards and currency (no other items)
+#### **Crew Card System**
+**Crew Card Properties**:
+- **Grid Size**: 2x2 slots per crew card
+- **Weight**: 0.1 tons per card (negligible)
+- **Storage Location**: Port inventory (NOT ship cargo)
+- **Active Crew**: Assigned crew don't occupy any inventory space
 
-**Purpose**:
-- **Port-to-port transfers**: Move crew cards and currency between different ports
-- **Not for backup crew**: Cannot swap crew mid-mission, so backup crew isn't useful in combat
-- **Trading/recruitment**: Carry currency to purchase crew/items at other ports
-- **Crew relocation**: Transfer crew cards when moving operations to new port
+**Port Configuration Views** (Accessible only while docked):
 
-**Crew Card System**:
-- **Active crew**: Assigned to ship positions, don't occupy ANY inventory (crew quarters)
-- **Unassigned crew cards**: Stored in Wallet (can be assigned at port)
-- **Recruitment**: New sailors purchased at port go into Wallet
-- **1 card = 1 sailor**: Each crew member is represented by individual card
+**Equipment View**:
+- Install/remove modules and turrets on ship hardpoints
+- Examples: Main battery turrets, AA mounts, radar modules, torpedo tubes, engine modules, damage control systems
+- Empty hardpoints cannot accept crew assignments
 
-**Crew Capacity Limits** (active positions on ship):
-- **Destroyer**: 50-125 active crew positions
-- **Cruiser**: 100-250 active crew positions
-- **Battleship**: 150-300 active crew positions
-- **Carrier**: 200-400 active crew positions (includes aviation personnel)
+**Crew View**:
+- Assign crew cards from port inventory to equipment slots
+- Pull crew cards from port inventory (drag-and-drop interface)
+- **Assignment Validation**:
+  - Equipment slot HAS module installed → Crew card MUST match module type (e.g., gunner → turret, radar operator → radar)
+  - Equipment slot EMPTY (no module installed) → Any crew card can occupy slot (no type validation)
+- **Port-only changes**: Cannot swap crew or equipment at sea (locked until next port visit)
 
-**Currency System**:
-- **Credits**: Stackable currency items stored in Wallet
-- **Physical representation**: Credits occupy wallet slots (not abstracted)
-- **Port trading**: Carry credits to buy/sell at different ports
-- **Weight**: Currency has minimal weight (1,000 credits = 0.1 tons)
+**Crew Card Types & Equipment Matching**:
+- **Gunnery Crew**: Assigned to turret modules (main battery, secondary battery)
+- **AA Crew**: Assigned to AA gun mounts
+- **Torpedo Crew**: Assigned to torpedo tube modules
+- **Radar Operators**: Assigned to radar/sonar modules
+- **Engineers**: Assigned to engine modules
+- **Damage Control**: Assigned to damage control stations
+- **Bridge Officers**: Assigned to bridge positions (fire control, navigation, command)
+
+**Crew Capacity Limits** (equipment-based positions):
+- **Destroyer**: 50-75 equipment slots
+- **Cruiser**: 75-150 equipment slots
+- **Battleship**: 150-200 equipment slots
+- **Carrier**: 200-300 equipment slots (includes flight deck positions)
+
+#### **Currency System**
+**Credits**:
+- **Abstracted currency**: NOT physical inventory items
+- **Account-wide**: Credits shared across all ships
+- **Port trading**: Used to purchase modules, ammunition, crew cards, ship repairs
+- **No inventory space**: Currency doesn't occupy cargo or port inventory slots
 
 **Example Usage**:
-- Player has 250 active crew on battleship (no inventory space used)
-- Wallet contains 50 unassigned crew cards + 100,000 credits (uses 4 main inventory slots)
-- Player travels to new port to recruit specialists
-- At port: Purchases 10 new crew cards, adds to wallet, assigns to ship positions
+- Player docks battleship at port
+- **Equipment View**: Installs 4x main battery turrets, 6x secondary battery turrets, 8x AA mounts, 1x fire control radar
+- **Crew View**:
+  - Assigns Master Gunner card (2x2) from port inventory → Main Battery Turret #1 slot
+  - Assigns Veteran Gunner card → Main Battery Turret #2 slot
+  - Assigns AA Specialist card → AA Mount #1 slot
+  - Assigns Radar Operator card → Fire Control Radar slot
+  - Has empty secondary battery slot (no turret installed yet) → Places Novice Gunner card there temporarily (no validation error)
+- **At Sea**: All equipment and crew assignments locked (cannot change until next port visit)
+- Player engages in combat, loses crew to casualties, returns to port
+- **Back at Port**: Removes killed crew cards (destroyed), purchases replacements from port recruitment, assigns new crew cards to vacant positions
 
 ---
 
@@ -341,7 +362,7 @@ When stored in cargo (not installed):
 - **Per-ship storage**: Each ship has dedicated unlimited warehouse at home port
 - **Organization**: Same grid system as ship inventory
 - **Access**: Only accessible when ship is docked at home port
-- **Purpose**: Long-term ammunition stockpiles, module collection, spare crew
+- **Purpose**: Long-term ammunition stockpiles, module collection, spare crew cards
 
 #### **Transfer Mechanics**
 - **Drag-and-drop**: Move items between ship and warehouse
@@ -650,16 +671,16 @@ When stored in cargo (not installed):
 
 ### Progression System Integration
 - **Module unlocks** require inventory space to carry
-- **Crew recruitment** needs wallet space for crew cards (stored in wallet, not cargo)
-- **Ship upgrades** may increase base cargo capacity
-- **Tier progression** unlocks larger cargo holds
+- **Crew recruitment** adds crew cards to port inventory (assigned via Crew View at port)
+- **Ship upgrades** may increase base cargo capacity and equipment slots
+- **Tier progression** unlocks larger cargo holds and more equipment positions
 
 ---
 
 ## Cross-Reference Documents
 
 **Related Core Gameplay**:
-- [[Crew-Management]] - Crew card storage via wallet system
+- [[Crew-Management]] - Crew card system, Equipment View, and Crew View assignment mechanics
 - [[Crew-Skills]] - Engineer stats affecting inventory efficiency
 - [[Ship-Physics]] - Weight/capacity effects on ship performance
 
