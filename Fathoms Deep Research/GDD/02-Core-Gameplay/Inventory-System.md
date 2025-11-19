@@ -469,35 +469,40 @@ When stored in cargo (not installed):
 ## Tactical Loadout Examples
 
 ### Destroyer Loadout (USS Fletcher - T3)
-**Total Cargo Capacity**: 120 grid slots
+**Total Cargo Capacity**: 120 grid slots, 200 tons weight capacity
 
-**Combat-Focused Loadout**:
-- 5-inch AP shells: 300 rounds (300 slots) ❌ OVERFLOW
-- 5-inch HE shells: 200 rounds (200 slots) ❌ OVERFLOW
+**Combat-Focused Loadout** (Ammunition-heavy, impractical example):
+- 5-inch AP shells: 300 rounds (3 stacks = 3 slots, 15 tons)
+- 5-inch HE shells: 200 rounds (2 stacks = 2 slots, 10 tons)
+- Torpedoes (reloads): 20 (4 stacks of 5 = 4 slots of 1x3 = 12 grid cells, 40 tons)
+- Ship fuel: 200 units (2 stacks = 2 slots, 20 tons)
+- **Total: 9/120 slots (19 grid cells), 85/200 tons** ✅ Space efficient but limited utility
 
 **Balanced Loadout**:
-- 5-inch AP shells: 150 rounds (150 slots) ❌ OVERFLOW
-- 5-inch HE shells: 100 rounds (100 slots)
-- Torpedoes (reloads): 6 (36 slots) ❌ OVERFLOW
-- Depth charges: 40 (4 slots)
-- Repair materials: 5 steel plates (20 slots)
-- **Total: 160 slots - OVER CAPACITY**
+- 5-inch AP shells: 150 rounds (2 stacks: 100+50 = 2 slots, 7.5 tons)
+- 5-inch HE shells: 150 rounds (2 stacks: 100+50 = 2 slots, 7.5 tons)
+- Torpedoes (reloads): 10 (2 stacks of 5 = 2 slots of 1x3 = 6 grid cells, 20 tons)
+- Depth charges: 40 (2 stacks of 20 = 2 slots of 1x2 = 4 grid cells, 8 tons)
+- Repair materials: 5 steel plates (5 slots of 2x2 = 20 grid cells, 10 tons)
+- Ship fuel: 200 units (2 stacks = 2 slots, 20 tons)
+- **Total: 12 stacks (52 grid cells), 73/200 tons** ✅ 68 slots free for loot
 
-**Optimized Combat Loadout**:
+**Optimized Combat Loadout** (Recommended):
 - 5-inch AP shells: 100 rounds (1 stack = 1 slot, 5 tons)
 - 5-inch HE shells: 100 rounds (1 stack = 1 slot, 5 tons)
-- Torpedoes (reloads): 10 (2 stacks of 5 = 6 slots, 20 tons)
-- Depth charges: 20 (1 stack = 2 slots, 4 tons)
+- Torpedoes (reloads): 10 (2 stacks of 5 = 2 slots of 1x3 = 6 grid cells, 20 tons)
+- Depth charges: 20 (1 stack = 1 slot of 1x2 = 2 grid cells, 4 tons)
 - Ship fuel: 200 units (2 stacks = 2 slots, 20 tons)
-- **Total: 12/120 slots, 54/200 tons - 108 slots free for loot**
+- **Total: 7 stacks (12 grid cells), 54/200 tons** ✅ 108 slots free for loot
 
 **Extraction-Focused Loadout** (After successful loot run):
-- 5-inch HE shells: 50 rounds (50 slots) - Minimal defensive ammo
+- 5-inch HE shells: 50 rounds (1 partial stack = 1 slot, 2.5 tons) - Minimal defensive ammo
 - Torpedoes (reloads): 0 (0 slots) - All fired
-- Salvaged modules: 2x high-value radars (18 slots)
-- Resource crates: 8 crates (32 slots)
-- Intelligence documents: 10 (10 slots)
-- **Total: 110/120 slots - Racing to extract**
+- Ship fuel: 100 units (1 stack = 1 slot, 10 tons) - Enough to reach port
+- Salvaged modules: 2x high-value radars (2 slots of 3x3 = 18 grid cells, 24 tons)
+- Resource crates: 8 crates (8 slots of 2x2 = 32 grid cells, 16 tons)
+- Intelligence documents: 10 (10 slots of 1x1 = 10 grid cells, 1 ton)
+- **Total: 22 stacks/items (73 grid cells), 53.5/200 tons** ✅ Racing to extract with valuable loot
 
 ---
 
@@ -505,20 +510,20 @@ When stored in cargo (not installed):
 **Total Capacity**: 300 grid slots, 500 tons weight capacity
 
 **Optimized Combat Loadout**:
-- 16-inch AP shells: 100 rounds (2 stacks = 4 slots, 100 tons)
-- 16-inch HE shells: 50 rounds (1 stack = 2 slots, 50 tons)
-- 5-inch secondary HE: 200 rounds (2 stacks = 2 slots, 10 tons)
-- AA ammunition: 1,000 rounds (2 stacks = 2 slots, 2 tons)
-- Repair materials: 10 steel plates (10 slots, 10 tons)
-- Ship fuel: 400 units (4 stacks = 4 slots, 40 tons)
-- **Total: 24/300 slots, 212/500 tons** ✅ 276 slots free for loot
+- 16-inch AP shells: 100 rounds (2 stacks of 1x2 = 4 grid cells, 100 tons)
+- 16-inch HE shells: 50 rounds (1 stack of 1x2 = 2 grid cells, 50 tons)
+- 5-inch secondary HE: 200 rounds (2 stacks of 1x1 = 2 grid cells, 10 tons)
+- AA ammunition: 1,000 rounds (2 stacks of 1x1 = 2 grid cells, 2 tons)
+- Repair materials: 10 steel plates (10 items of 2x2 = 40 grid cells, 10 tons)
+- Ship fuel: 400 units (4 stacks of 1x1 = 4 grid cells, 40 tons)
+- **Total: 54 grid cells, 212/500 tons** ✅ 246 grid slots free for loot
 
 **Weight-Constrained Alternative** (more ammunition):
-- 16-inch AP shells: 200 rounds (4 stacks = 8 slots, 200 tons)
-- 16-inch HE shells: 100 rounds (2 stacks = 4 slots, 100 tons)
-- 5-inch secondary HE: 200 rounds (2 stacks = 2 slots, 10 tons)
-- Ship fuel: 400 units (4 stacks = 4 slots, 40 tons)
-- **Total: 18/300 slots, 350/500 tons** ⚠️ Heavy load (70% weight capacity)
+- 16-inch AP shells: 200 rounds (4 stacks of 1x2 = 8 grid cells, 200 tons)
+- 16-inch HE shells: 100 rounds (2 stacks of 1x2 = 4 grid cells, 100 tons)
+- 5-inch secondary HE: 200 rounds (2 stacks of 1x1 = 2 grid cells, 10 tons)
+- Ship fuel: 400 units (4 stacks of 1x1 = 4 grid cells, 40 tons)
+- **Total: 18 grid cells, 350/500 tons** ⚠️ Heavy load (70% weight capacity)
 
 **Strategic considerations**:
 - Battleships are **weight-constrained** due to massive shell weight (1 ton each for 16-inch)
@@ -532,33 +537,33 @@ When stored in cargo (not installed):
 ### Carrier Loadout (USS Essex - T5)
 **Total Capacity**: 500 grid slots, 700 tons weight capacity
 
-**Balanced Air Wing Loadout**:
-- 30 fighters (F6F Hellcat): 270 slots (3x3 each), 150 tons
-- 20 dive bombers (SBD Dauntless): 240 slots (3x4 each), 120 tons
-- 20 torpedo bombers (TBF Avenger): 240 slots (3x4 each), 140 tons
-- **Aircraft subtotal: 750 slots, 410 tons** ❌ OVER GRID CAPACITY
+**Balanced Air Wing Loadout** (Too many aircraft - demonstration of overflow):
+- 30 fighters (F6F Hellcat): 30 items of 3x3 = 270 grid cells, 150 tons
+- 20 dive bombers (SBD Dauntless): 20 items of 3x4 = 240 grid cells, 120 tons
+- 20 torpedo bombers (TBF Avenger): 20 items of 3x4 = 240 grid cells, 140 tons
+- **Aircraft subtotal: 750 grid cells, 410 tons** ❌ OVER GRID CAPACITY
 
 **Optimized Balanced Loadout**:
-- 20 fighters: 180 slots (3x3 each), 100 tons
-- 12 dive bombers: 144 slots (3x4 each), 72 tons
-- 12 torpedo bombers: 144 slots (3x4 each), 84 tons
-- 200x 500-lb bombs: 10 slots (10 stacks), 50 tons
-- 50x 1,000-lb bombs: 10 slots (5 stacks), 25 tons
-- 30 aerial torpedoes: 6 stacks (18 slots), 45 tons
-- Ship fuel: 400 units (4 stacks = 4 slots), 40 tons
-- Plane fuel: 500 units (5 stacks = 5 slots), 40 tons
-- **Total: 485/500 slots, 456/700 tons** ✅ 15 slots free
+- 20 fighters: 20 items of 3x3 = 180 grid cells, 100 tons
+- 12 dive bombers: 12 items of 3x4 = 144 grid cells, 72 tons
+- 12 torpedo bombers: 12 items of 3x4 = 144 grid cells, 84 tons
+- 200x 500-lb bombs: 10 stacks of 1x1 = 10 grid cells, 50 tons
+- 50x 1,000-lb bombs: 5 stacks of 1x2 = 10 grid cells, 25 tons
+- 30 aerial torpedoes: 6 stacks of 1x3 = 18 grid cells, 45 tons
+- Ship fuel: 400 units (4 stacks of 1x1 = 4 grid cells), 40 tons
+- Plane fuel: 500 units (5 stacks of 1x1 = 5 grid cells), 40 tons
+- **Total: 515 grid cells (overflowing by 15), 456/700 tons** ⚠️ Need to reduce aircraft by 2
 
 **Strike-Heavy Loadout** (Offensive operation):
-- 10 fighters: 90 slots, 50 tons
-- 16 dive bombers: 192 slots, 96 tons
-- 16 torpedo bombers: 192 slots, 112 tons
-- 300x 500-lb bombs: 15 slots (15 stacks), 75 tons
-- 80x 1,000-lb bombs: 16 slots (8 stacks), 40 tons
-- 50 aerial torpedoes: 15 slots (10 stacks of 5), 75 tons
-- Ship fuel: 400 units (4 slots), 40 tons
-- Plane fuel: 600 units (6 slots), 48 tons
-- **Total: 490/500 slots, 536/700 tons** ✅ 10 slots free, heavier load
+- 10 fighters: 10 items of 3x3 = 90 grid cells, 50 tons
+- 16 dive bombers: 16 items of 3x4 = 192 grid cells, 96 tons
+- 16 torpedo bombers: 16 items of 3x4 = 192 grid cells, 112 tons
+- 300x 500-lb bombs: 15 stacks of 1x1 = 15 grid cells, 75 tons
+- 80x 1,000-lb bombs: 8 stacks of 1x2 = 16 grid cells, 40 tons
+- 50 aerial torpedoes: 10 stacks of 1x3 = 30 grid cells, 75 tons
+- Ship fuel: 400 units (4 stacks of 1x1 = 4 grid cells), 40 tons
+- Plane fuel: 600 units (6 stacks of 1x1 = 6 grid cells), 48 tons
+- **Total: 545 grid cells (overflowing by 45), 536/700 tons** ⚠️ Need to reduce aircraft by ~4-5
 
 ---
 
@@ -627,18 +632,50 @@ When stored in cargo (not installed):
 
 ### 3. Permadeath & Cargo Loss
 
-**Tier-based cargo loss on death**:
-- **T1-T5**: Ship recovered, 20-40% cargo lost (randomized)
-- **T6**: 10% ship permadeath, full cargo loss on permadeath
-- **T7**: 20% ship permadeath, full cargo loss on permadeath
-- **T8**: 40% ship permadeath, full cargo loss on permadeath
-- **T9**: 60% ship permadeath, full cargo loss on permadeath
-- **T10**: 100% ship permadeath, ALL cargo permanently lost
+**Cargo Loss - Always 100% on Death (All Tiers)**:
+When your ship sinks, **ALL cargo is permanently lost** regardless of tier:
+- Ammunition in cargo hold
+- Fuel reserves
+- Loot and trade goods
+- Uninstalled modules stored in cargo
+- **Loose crew cards in cargo** (not assigned to equipment)
+
+**Ship/Equipment Recovery by Tier**:
+
+**T1-T5 (0% Ship Permadeath - Learning Phase)**:
+- Ship automatically recovered at last port departed from
+- Equipped modules recovered (turrets, radar, engines, etc.)
+- Assigned crew cards recovered (crew in equipment slots)
+- **Cargo lost: 100%** (ammunition, fuel, loot, loose crew cards)
+
+**T6-T10 (10-100% Ship Permadeath - Risk Zones)**:
+Ship permadeath check determines recovery:
+- **T6**: 10% chance ship permanently lost
+- **T7**: 20% chance ship permanently lost
+- **T8**: 40% chance ship permanently lost
+- **T9**: 60% chance ship permanently lost
+- **T10**: 100% chance ship permanently lost (GUARANTEED)
+
+**If permadeath check FAILS (ship survives check)**:
+- Ship recovered via insurance at last port
+- Equipped modules recovered
+- Assigned crew cards recovered
+
+**If permadeath check SUCCEEDS (ship permanently lost)**:
+- Ship permanently destroyed (must rebuy)
+- Equipped modules permanently lost
+- Assigned crew cards permanently lost
+
+**In BOTH cases**: All cargo lost 100% (ammunition, fuel, loot, loose crew cards)
+
+---
 
 **Creates meaningful risk/reward**:
-- High-value loot operations become high-stakes gambling
-- Players must weigh "one more engagement" vs. "extract now"
-- Extraction tension is highest when cargo hold is full
+- **Every death means cargo loss**: Even T1-T5 "safe" tiers lose all loot/ammunition on death
+- **High-tier permadeath risk**: T6+ ships risk losing the ship itself plus equipped modules/crew
+- **Loose crew cards are vulnerable**: Crew cards in cargo (not assigned) are lost with cargo
+- **Extraction tension**: Players must weigh "one more engagement" vs. "extract now with cargo intact"
+- **T10 operations**: Catastrophic - guaranteed ship loss, all cargo lost, equipped modules/crew lost
 
 ---
 
@@ -744,7 +781,7 @@ When stored in cargo (not installed):
 
 ### Progression System Integration
 - **Module unlocks** require inventory space to carry
-- **Crew recruitment** adds crew cards to wallet (assigned to equipment via Crew View at port)
+- **Crew recruitment** adds crew cards to port storage (can be stored loose or in wallet, assigned to equipment via Crew View at port)
 - **Ship upgrades** may increase base cargo capacity and equipment slots
 - **Tier progression** unlocks larger cargo holds and more equipment positions
 
@@ -779,7 +816,7 @@ When stored in cargo (not installed):
 2. Ship cargo hold capacity by class/tier
 3. Ammunition storage and consumption tracking
 4. Weight/volume effects on ship performance
-5. Port warehouse unlimited storage
+5. Port warehouse limited storage (500-1000 slots per port, no account bank)
 
 **Priority 2 - Cargo Management**:
 6. Module storage and swapping at port
