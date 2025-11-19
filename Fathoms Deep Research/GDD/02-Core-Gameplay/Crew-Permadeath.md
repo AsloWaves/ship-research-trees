@@ -24,9 +24,9 @@ The Crew Permadeath System introduces high-stakes consequences to naval combat b
 ### Core Philosophy
 Crew permadeath serves multiple design goals:
 1. **Stakes Creation**: High-tier combat has real consequences beyond ship repair costs
-2. **Investment Protection**: Low-tier zones remain safe for crew training
+2. **Investment Protection**: Low-tier ships (T1-T5) remain safe for crew training anywhere on map
 3. **Emergent Gameplay**: Retrieval mechanics create player-to-player interactions
-4. **Risk/Reward Balance**: Higher rewards in dangerous zones justified by crew death risk
+4. **Risk/Reward Balance**: Higher rewards in dangerous waters justified by crew death risk
 5. **Anti-Zerging**: T10 battles require serious commitment (100% crew loss)
 
 **Key Design Pillars:**
@@ -40,7 +40,7 @@ Crew permadeath serves multiple design goals:
 
 ### Key Features
 - **Crew Card Permadeath by Tier**: 0% (T1-T5), 10% (T6), 20% (T7), 40% (T8), 60% (T9), 100% (T10)
-- **Retrieval Timer System**: 15-60 minute windows based on zone danger
+- **Retrieval Timer System**: 15-60 minute windows based on distance from friendly ports
 - **Death Location Markers**: Map markers show retrieval locations
 - **Player Retrieval Profession**: New playstyle focused on crew card recovery
 - **Ransom Negotiations**: Player-to-player negotiations for crew card return
@@ -58,7 +58,7 @@ Players accept crew card permadeath risk when entering T6+ battles. Upon ship de
 2. Each crew card rolls for permadeath (10/20/40/60/100% based on tier)
 3. Surviving crew cards automatically return to player barracks
 4. "Dead" crew cards marked at death location on map
-5. Retrieval timer begins (15-60 minutes based on zone)
+5. Retrieval timer begins (15-60 minutes based on distance from friendly ports)
 6. Original player can return to location to recover crew cards
 7. Other players can retrieve crew cards for rewards/ransom
 8. Timer expiration = permanent crew card loss
@@ -77,10 +77,10 @@ Players accept crew card permadeath risk when entering T6+ battles. Upon ship de
 
 **Tier-Based Crew Card Permadeath Chance:**
 ```
-T1-T5 (Safe Zones):
+T1-T5 Ships (Safe Tiers):
 - Crew card permadeath chance: 0%
 - All crew cards always survive ship destruction
-- Perfect for crew card training and low-risk operations
+- Perfect for crew card training and low-risk operations anywhere on map
 - Sailor casualties still occur (replaceable damage)
 
 T6 (First Permadeath Tier):
@@ -173,7 +173,7 @@ Death in T8 Battle:
 Player Decision Matrix:
 - Use elite crew for 130% efficiency? (high performance, high risk)
 - Use backup Level 100 crew for 115% efficiency? (lower performance, lower risk)
-- Stay in T7 zones where risk is lower? (safer, lower rewards)
+- Use T7 ship instead of T8 where risk is lower? (safer, lower rewards)
 ```
 
 **Backup Crew Strategy:**
@@ -205,9 +205,9 @@ This creates "crew insurance" through redundancy
 
 **Death Location Mechanics:**
 ```
-When crew card "dies" in T5-T9 battle:
+When crew card "dies" in T6-T9 battle:
 1. Death location marked on map with coordinates
-2. Retrieval timer starts based on zone danger level
+2. Retrieval timer starts based on distance from friendly ports
 3. Marker visible to:
    - Original owner (always)
    - Allied faction players (optional setting)
@@ -215,31 +215,31 @@ When crew card "dies" in T5-T9 battle:
 4. Marker shows:
    - Number of crew cards retrievable
    - Time remaining on retrieval timer
-   - Zone danger level
+   - Area danger level (Safe Waters → Hostile Waters)
    - Original owner (optional, for ransom negotiations)
 ```
 
-**Retrieval Timer by Zone:**
+**Retrieval Timer by Location:**
 ```
-Safe Zones (T1-T4):
+Near Friendly Ports (Safe Waters):
 - Retrieval timer: 60 minutes real-time
 - Low enemy presence
 - Easy recovery for original player
 - Low risk for retrieval professionals
 
-Contested Zones (T5-T6):
+Contested Waters (Medium Distance):
 - Retrieval timer: 30 minutes real-time
 - Moderate enemy presence
 - Challenging recovery
 - Medium risk for retrieval professionals
 
-Hostile Zones (T7-T9):
+Deep Hostile Territory (Far from Friendly Ports):
 - Retrieval timer: 15 minutes real-time
 - High enemy presence
 - Difficult recovery requiring speed/stealth
 - High risk for retrieval professionals
 
-Permadeath Zones (T10):
+T10 Ship Battles (Extreme Danger):
 - Retrieval timer: N/A (no retrieval possible)
 - Permanent loss immediately
 - Creates ultimate stakes
@@ -247,7 +247,7 @@ Permadeath Zones (T10):
 
 **Original Player Retrieval:**
 ```
-Player's own ship destroyed in T7 zone:
+Player's T7 ship destroyed in hostile waters:
 1. Respawn at nearest port or extraction point
 2. Check death location marker on map
 3. Calculate: Can I get there in 15 minutes?
@@ -299,7 +299,7 @@ Retrieval Rewards (if owner doesn't pay ransom):
 **Retrieval Gameplay Examples:**
 ```
 Scenario 1: Friendly Retrieval
-- German player destroys British ship in T8 zone
+- German player destroys British T8 ship in hostile waters
 - 5 British crew cards marked for retrieval
 - German player retrieves crews
 - Contacts British player: "I have your crews, 100M for return"
@@ -316,7 +316,7 @@ Scenario 2: Hostile Retrieval
 
 Scenario 3: Retrieval Profession
 - Player C specializes in retrieval operations
-- Monitors death markers in T7-T8 zones
+- Monitors death markers in high-tier battles (T7-T8)
 - Uses fast, cheap ships to minimize risk
 - Averages 3-5 retrievals per play session
 - Earns 200-500M credits per session
@@ -368,7 +368,7 @@ SAILOR_CASUALTY_REPLACEABLE = true (pay credits at port)
 - [[Crew-Management]] - Base crew card system
 - [[Crew-Progression]] - Crew value calculations for ransoms
 - [[Combat-System]] - Ship destruction triggers death rolls
-- [[Map-System]] - Death location markers and zone classification
+- [[Map-System]] - Death location markers and area danger classification
 - [[Economy-System]] - Ransom payments and retrieval rewards
 - [[Reputation-System]] - Retrieval profession reputation
 
@@ -389,7 +389,7 @@ SAILOR_CASUALTY_REPLACEABLE = true (pay credits at port)
 - New to T6 combat tier (first permadeath tier)
 - Ship has 6 crew cards: 2 Level 75 Gunners, 1 Level 70 Engineer, 1 Level 60 AA, 2 Level 50 support
 - Total investment: ~150 hours combat + 200M credits
-- First battle in crew card permadeath zone
+- First T6 battle with crew card permadeath risk
 
 **Battle Outcome:**
 - Ship destroyed in T6 battle
@@ -405,7 +405,7 @@ SAILOR_CASUALTY_REPLACEABLE = true (pay credits at port)
 **Result:**
 - 4 crew cards survive, return to barracks immediately
 - 2 crew cards destroyed, marked at death location for retrieval
-- 30-minute retrieval timer starts (contested zone)
+- 30-minute retrieval timer starts (contested waters, medium distance from port)
 - Death location: 6km from nearest friendly port
 
 **Player Decision:**
@@ -456,7 +456,7 @@ SAILOR_CASUALTY_REPLACEABLE = true (pay credits at port)
   - Level 180 Master Gunner (flagship crew card, months of work)
   - Level 160 Engineer (critical crew card)
   - Level 150 Electronics
-- 15-minute retrieval timer (hostile zone)
+- 15-minute retrieval timer (hostile waters, far from friendly port)
 - Death location: 12km from friendly port, enemy-controlled waters
 
 **Player Decision:**
@@ -488,13 +488,13 @@ SAILOR_CASUALTY_REPLACEABLE = true (pay credits at port)
 **Setup:**
 - Specialized retrieval player
 - Operates fast, cheap T6 destroyer (minimal crew investment)
-- Monitors death markers in T7-T8 zones
+- Monitors death markers from T7-T8 battles
 - Has built reputation as fair retriever (reasonable ransoms)
 
 **Session Activity:**
 
 **Retrieval 1 (30 minutes into session):**
-- Spots death marker: 4 crews, T7 zone, 12 minutes remaining
+- Spots death marker: 4 crews, T7 battle, 12 minutes remaining
 - Rushes to location, avoids enemy patrol
 - Retrieves 4 crews (2 Level 120s, 2 Level 100s)
 - Contacts original owner (British player)
@@ -503,7 +503,7 @@ SAILOR_CASUALTY_REPLACEABLE = true (pay credits at port)
 - **Profit: 150M credits, 15 minutes work**
 
 **Retrieval 2 (1 hour into session):**
-- Death marker in hostile waters: 2 crews, T8 zone, 8 minutes remaining
+- Death marker in hostile waters: 2 crews, T8 battle, 8 minutes remaining
 - Very risky location (enemy territory)
 - Decides to attempt anyway (high-value crews visible)
 - Retrieves 2 Level 180 elite crews under fire
@@ -514,7 +514,7 @@ SAILOR_CASUALTY_REPLACEABLE = true (pay credits at port)
 - **Profit: 800M credits, 25 minutes work, high risk**
 
 **Retrieval 3 (2 hours into session):**
-- Easy retrieval in contested zone: 3 crews, 25 minutes remaining
+- Easy retrieval in contested waters: 3 crews, 25 minutes remaining
 - Retrieves 3 Level 60-80 crews (mid-tier value)
 - Owner pays 80M ransom quickly
 - **Profit: 80M credits, 10 minutes work**
@@ -572,10 +572,10 @@ SAILOR_CASUALTY_REPLACEABLE = true (pay credits at port)
 - **System working as intended: T10 has ultimate stakes**
 
 ### Scenario 5: Retrieval Drama
-**Captain Schmidt (Germany) dies in T7 zone**
+**Captain Schmidt (Germany) dies in T7 battle**
 
 **Initial Situation:**
-- German battleship destroyed in British-controlled T7 waters
+- German T7 battleship destroyed in British-controlled waters
 - 6 crew cards on ship, 4 fail death rolls (4 dead, 2 survive)
 - Dead crews: 2 Level 150 Gunners, 1 Level 140 Engineer, 1 Level 120 AA
 - 15-minute retrieval timer
