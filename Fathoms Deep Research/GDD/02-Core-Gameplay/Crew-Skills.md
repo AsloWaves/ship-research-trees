@@ -9,7 +9,7 @@ last-updated: 2025-11-19
 # Crew Skills & Stats System
 
 ## Overview
-NavyField 1-inspired stat-based crew progression system with **RNG recruitment mechanics**. Crew cards have random starting stats (7-15 range) when recruited, creating a "hunt for good sailors" gameplay loop. Stats scale from **7 (untrained) to 35 (legendary)** through classification bonuses and level-up growth. The system features 18 specialized classifications, each with 2-4 primary stats that directly affect gameplay mechanics.
+NavyField 1-inspired stat-based crew progression system with **RNG recruitment mechanics**. Crew cards have random starting stats (7-15 range) when recruited, creating a "hunt for good sailors" gameplay loop. Stats scale from **7 (untrained) to 50 (legendary)** through classification bonuses and level-up growth. The system features 18 specialized classifications, each with 2-4 primary stats that directly affect gameplay mechanics.
 
 ## Implementation Status
 **Status**: 📋 PLANNED (designed but not implemented)
@@ -113,21 +113,21 @@ After recruitment:
 
 ## Universal Stat Mechanics
 
-### Stat Ranges (7-35 Scale)
+### Stat Ranges (7-50 Scale)
 
 **All Stats Use Same Range**:
 - **Minimum**: 7 (absolute untrained floor)
-- **Maximum**: 35 (legendary cap, Level 200 + perfect RNG)
+- **Maximum**: 50 (legendary cap, Level 175-200 depending on RNG)
 - **Recruitment Range**: 7-15 (uniform distribution, all ports)
 - **Classification Bonus**: +5 at Level 25
-- **Level Growth**: +0.12/level (primary), +0.06/level (secondary)
+- **Level Growth**: +0.19/level (primary), +0.10/level (secondary)
 
 **Stat Quality Tiers**:
-- **7-12**: Untrained (baseline, poor performance)
-- **13-18**: Trained (competent, serviceable)
-- **19-24**: Expert (strong performance)
-- **25-30**: Elite (top 10% performance)
-- **31-35**: Legendary (perfect, maximum effectiveness)
+- **7-14**: Untrained (poor performance, penalties)
+- **15-24**: Trained (baseline to competent)
+- **25-34**: Expert (strong performance)
+- **35-44**: Elite (top 10% performance)
+- **45-50**: Legendary (near-perfect to maximum effectiveness)
 
 ### Stat Growth Formula
 
@@ -137,29 +137,29 @@ After recruitment:
 1. **Base Stat (Level 1 Recruitment)**: 7-15 (RNG, uniform distribution)
 2. **Level 1-25 Neutral Growth**: +0.05 per level to ALL stats = +1.25 per stat
 3. **Level 25 Classification Bonus**: +5 to primary stats (one-time)
-4. **Level 26-200 Classified Growth**: +0.12/level (primary), +0.06/level (secondary)
+4. **Level 26-200 Classified Growth**: +0.19/level (primary), +0.10/level (secondary)
 
-**Example Progression** (Average Standard Recruitment: Accuracy 12 at Level 1):
+**Example Progression** (Average RNG: Accuracy 11 at Level 1):
 
 ```
-Level 1:   Accuracy 12 (recruited stat)
-Level 25:  Accuracy 12 + (25 × 0.05) = 13.25 (neutral growth)
-           + 5 (classification bonus) = 18.25
-Level 100: Accuracy 18.25 + (75 × 0.12) = 27.25
-Level 200: Accuracy 27.25 + (100 × 0.12) = 39.25 → CAPPED at 35
+Level 1:   Accuracy 11 (recruited stat)
+Level 25:  Accuracy 11 + (25 × 0.05) = 12.25 (neutral growth)
+           + 5 (classification bonus) = 17.25
+Level 100: Accuracy 17.25 + (75 × 0.19) = 31.5
+Level 200: Accuracy 17.25 + (175 × 0.19) = 50.5 → CAPPED at 50
 
-Final: Accuracy 35 (legendary, capped)
+Final: Accuracy 50 (legendary, reaches cap at Level 200)
 ```
 
-**Example Progression** (Bad RNG Recruitment: Accuracy 7 at Level 1):
+**Example Progression** (Bad RNG: Accuracy 7 at Level 1):
 
 ```
 Level 1:   Accuracy 7 (worst possible roll)
 Level 25:  Accuracy 7 + 1.25 = 8.25 + 5 = 13.25
-Level 100: Accuracy 13.25 + (75 × 0.12) = 22.25
-Level 200: Accuracy 22.25 + (100 × 0.12) = 34.25
+Level 100: Accuracy 13.25 + (75 × 0.19) = 27.5
+Level 200: Accuracy 13.25 + (175 × 0.19) = 46.5
 
-Final: Accuracy 34.25 (near cap, RNG disadvantage ~1 point)
+Final: Accuracy 46.5 (RNG disadvantage, 3.5 points below cap)
 ```
 
 **Example Progression** (Perfect RNG: Accuracy 15 best possible roll):
@@ -167,16 +167,18 @@ Final: Accuracy 34.25 (near cap, RNG disadvantage ~1 point)
 ```
 Level 1:   Accuracy 15 (best possible roll)
 Level 25:  Accuracy 15 + 1.25 = 16.25 + 5 = 21.25
-Level 100: Accuracy 21.25 + (75 × 0.12) = 30.25
-Level 200: Accuracy 30.25 + (100 × 0.12) = 42.25 → CAPPED at 35
+Level 100: Accuracy 21.25 + (75 × 0.19) = 35.5
+Level 176: Accuracy 21.25 + (151 × 0.19) = 50 (REACHES CAP)
+Level 200: Accuracy 50 (legendary, capped)
 
-Final: Accuracy 35 (legendary, reached cap at ~Level 139)
+Final: Accuracy 50 (legendary, reached cap at Level 176)
 ```
 
 **Key Insight**:
-- Perfect RNG (15 start) reaches stat cap ~61 levels earlier than worst RNG (7 start)
-- Bad RNG (7 start) reaches 34.25 at Level 200 (~1 point below cap)
-- **RNG matters for progression speed** but endgame equalizes (only ~1 point difference at L200)
+- Perfect RNG (15 start) reaches stat cap at Level 176
+- Average RNG (11 start) reaches stat cap at Level 200
+- Bad RNG (7 start) reaches 46.5 at Level 200 (3.5 points below cap)
+- **RNG creates 3-4 level progression difference**, with meaningful but not game-breaking power gap at endgame
 
 ---
 
@@ -210,23 +212,23 @@ Range:     10.25 (no bonus) ← SECONDARY
 
 Future Growth (Level 26-200):
 ```
-Accuracy: +0.12 per level (primary growth)
-Reload:   +0.12 per level (primary growth)
-Range:    +0.06 per level (secondary growth)
+Accuracy: +0.19 per level (primary growth)
+Reload:   +0.19 per level (primary growth)
+Range:    +0.10 per level (secondary growth)
 ```
 
 ### Stat Type Definitions
 
 **Primary Stats**:
 - Receive +5 classification bonus at Level 25
-- Grow at +0.12 per level (faster)
-- Reach 30-35 range at Level 200
+- Grow at +0.19 per level (faster)
+- Reach 46-50 range at Level 200 (depending on RNG)
 - Core effectiveness stats for the classification
 
 **Secondary Stats**:
 - Receive NO classification bonus at Level 25
-- Grow at +0.06 per level (slower)
-- Reach 20-25 range at Level 200
+- Grow at +0.10 per level (slower)
+- Reach 25-34 range at Level 200 (never hit cap)
 - Supporting stats, still valuable but not focus
 
 **Example Classification Stat Assignments**:
@@ -243,24 +245,30 @@ Range:    +0.06 per level (secondary growth)
 #### 1. Gunner
 **Description**: Main battery and secondary battery operators. Core damage dealers on all surface combatants.
 
-**Primary Stats** (receive +5 bonus, grow +0.12/level):
-- **Accuracy (7-35)**: Hit chance for main/secondary guns
+**Primary Stats** (receive +5 bonus, grow +0.19/level):
+- **Accuracy (7-50)**: Hit chance for main/secondary guns
   - **7**: 30% hit rate at optimal range (terrible)
   - **15**: 50% hit rate at optimal range (baseline)
-  - **25**: 75% hit rate at optimal range (expert)
-  - **35**: 95% hit rate at optimal range (legendary, near-perfect)
-- **Reload (7-35)**: Rate of fire for turrets
-  - **7**: -20% reload speed (very slow, penalty)
+  - **25**: 65% hit rate at optimal range (competent)
+  - **35**: 80% hit rate at optimal range (expert)
+  - **45**: 92% hit rate at optimal range (elite)
+  - **50**: 97% hit rate at optimal range (legendary, near-perfect)
+- **Reload (7-50)**: Rate of fire for turrets
+  - **7**: -25% reload speed (very slow, penalty)
   - **15**: +0% reload speed (baseline)
-  - **25**: +35% reload speed (expert)
-  - **35**: +70% reload speed (legendary, nearly double baseline)
+  - **25**: +30% reload speed (competent)
+  - **35**: +60% reload speed (expert)
+  - **45**: +90% reload speed (elite)
+  - **50**: +105% reload speed (legendary, double fire rate)
 
-**Secondary Stats** (no bonus, grow +0.06/level):
-- **Range (7-35)**: Maximum effective gun range
+**Secondary Stats** (no bonus, grow +0.10/level):
+- **Range (7-50)**: Maximum effective gun range
   - **7**: -25% max range
   - **15**: +0% max range (baseline)
   - **25**: +20% max range
-  - **35**: +45% max range
+  - **35**: +40% max range
+  - **45**: +60% max range
+  - **50**: +70% max range (legendary)
 
 **Gameplay Effects**:
 - Each Accuracy point above 15 = +3% hit chance (below 15 = -3% per point)
@@ -972,24 +980,25 @@ Range:    +0.06 per level (secondary growth)
 
 **Critical Thresholds**:
 - **Stat 15**: Baseline competence (0% bonus/penalty)
-- **Stat 20**: Competent (+15% effectiveness over baseline)
-- **Stat 25**: Expert (+30-35% effectiveness over baseline)
-- **Stat 30**: Elite (+50-60% effectiveness over baseline)
-- **Stat 35**: Legendary (+65-70% effectiveness over baseline, cap)
+- **Stat 25**: Competent (+20% effectiveness over baseline)
+- **Stat 35**: Expert (+40% effectiveness over baseline)
+- **Stat 45**: Elite (+60% effectiveness over baseline)
+- **Stat 50**: Legendary (+70% effectiveness over baseline, cap)
 
 **Diminishing Returns**:
 - Stats below 15 have **penalties** (negative effectiveness)
-- Stats 15-25 have **strong returns** (3-4% per point)
-- Stats 25-35 have **moderate returns** (2.5-3.5% per point)
-- Stats above 35 are **capped** (no further benefit)
+- Stats 15-30 have **strong returns** (2-3% per point)
+- Stats 30-45 have **moderate returns** (1.5-2.5% per point)
+- Stats 45-50 have **diminishing returns** (1-1.5% per point)
+- Stats above 50 are **capped** (no further benefit)
 
 **RNG Impact Zones**:
-- **Bad RNG (7-9 start)**: Reach 31-33 at Level 200 (2-4 points below cap)
-- **Average RNG (10-12 start)**: Reach 33-35 at Level 200 (near/at cap)
-- **Good RNG (13-14 start)**: Reach 35 at ~Level 160-180 (cap ~20-40 levels early)
-- **Perfect RNG (15 start)**: Reach 35 at ~Level 139 (cap 61 levels early)
+- **Bad RNG (7-9 start)**: Reach 44-46.5 at Level 200 (3.5-6 points below cap)
+- **Average RNG (10-12 start)**: Reach 48-50 at Level 200 (at or near cap)
+- **Good RNG (13-14 start)**: Reach 50 at ~Level 185-195 (cap 5-15 levels early)
+- **Perfect RNG (15 start)**: Reach 50 at ~Level 176 (cap 24 levels early)
 
-**Key Insight**: Perfect RNG (15 start) reaches cap ~61 levels earlier than worst RNG (7 start), but at Level 200 the difference is only ~1 stat point. RNG creates early/mid-game advantage but endgame nearly equalizes.
+**Key Insight**: Perfect RNG (15 start) reaches cap 24 levels earlier than average RNG (11 start), but bad RNG (7 start) is now 3.5 points below cap at L200. RNG creates more meaningful differentiation at endgame than previous 35-cap system.
 
 ---
 
@@ -998,14 +1007,14 @@ Range:    +0.06 per level (secondary growth)
 ### Destroyer Optimal Crews
 **Primary Stats**: Reload, Engine Power, Pursuit Evasion, Tube Reload
 **Secondary Stats**: Accuracy, Tactics, Diving Speed (if submarine)
-**Target Stats at Level 150**: Primary 30+, Secondary 23+
+**Target Stats at Level 150**: Primary 42-45, Secondary 26-29
 **Rationale**: Destroyers rely on speed, volume of fire, and evasion
 
 **Example T5 Destroyer Roster**:
-- 2× Level 100 Gunners (27 Reload, 25 Accuracy, 20 Range)
-- 1× Level 100 Engineer (27 Engine Power, 25 Repair, 20 Restore)
-- 1× Level 100 Torpedo Specialist (27 Tube Reload, 25 Torpedo Accuracy, 20 Spread Control)
-- 1× Level 80 Extraction Specialist (24 Pursuit Evasion, 22 Route Planning, 19 Navigation)
+- 2× Level 100 Gunners (35 Reload, 32 Accuracy, 26 Range)
+- 1× Level 100 Engineer (35 Engine Power, 32 Repair, 26 Restore)
+- 1× Level 100 Torpedo Specialist (35 Tube Reload, 32 Torpedo Accuracy, 26 Spread Control)
+- 1× Level 80 Extraction Specialist (30 Pursuit Evasion, 28 Route Planning, 24 Navigation)
 
 ---
 
@@ -1139,7 +1148,7 @@ When crew card dies in T6-T10 ship:
 
 **Example Scenario**:
 - Player hunted for days to recruit perfect Gunner (15 Accuracy, 15 Reload, 14 Range starting stats = rolled 50+ times, 250,000+ credits in rerolls)
-- Invested 1,800 hours leveling to Level 180 (stats: 35 Accuracy, 35 Reload, 27 Range)
+- Invested 1,800 hours leveling to Level 180 (stats: 50 Accuracy, 50 Reload, 32 Range)
 - Assigned to T10 Battleship (100% crew card death on destruction)
 - Battleship destroyed in battle
 - Level 180 Gunner permanently destroyed (GONE FOREVER)
@@ -1160,23 +1169,23 @@ When crew card dies in T6-T10 ship:
 ║ Weight: 192.2 tons                 ║
 ║                                    ║
 ║ PRIMARY STATS                      ║
-║ Accuracy:  35 ████████████████ MAX ║
-║ Reload:    35 ████████████████ MAX ║
+║ Accuracy:  50 ████████████████ MAX ║
+║ Reload:    50 ████████████████ MAX ║
 ║                                    ║
 ║ SECONDARY STATS                    ║
-║ Range:     27 ████████████         ║
+║ Range:     32 ████████             ║
 ║                                    ║
 ║ Starting Stats: 15/15/14 (Perfect!)║
 ║ Specialization: Precision Gunner   ║
 ╚════════════════════════════════════╝
 ```
 
-**Stat Bars** (7-35 range visualization):
+**Stat Bars** (7-50 range visualization):
 - **Red (7-14)**: Below baseline (penalties)
-- **Yellow (15-19)**: Baseline to competent
-- **Green (20-29)**: Expert
-- **Cyan (30-34)**: Elite
-- **Gold (35)**: Legendary MAX
+- **Yellow (15-24)**: Baseline to competent
+- **Green (25-34)**: Expert
+- **Cyan (35-44)**: Elite
+- **Gold (45-50)**: Legendary
 
 **Starting Stats Shown**: Players can see original RNG roll (emotional attachment, bragging rights)
 
@@ -1218,19 +1227,19 @@ When crew card dies in T6-T10 ship:
 
 Hovering over stat shows:
 ```
-Accuracy: 35 (Legendary MAX)
+Accuracy: 50 (Legendary MAX)
 
 Effects:
-- Hit Rate: 95% at optimal range
-- Bonus: +200% vs baseline (15 Accuracy = 50%)
-- With Command Bonus (35 Command = +60%): Effective 56
+- Hit Rate: 97% at optimal range
+- Bonus: +235% vs baseline (15 Accuracy = 50%)
+- With Command Bonus (50 Command = +70%): Effective 85
 - Starting Stat: 15 (Perfect RNG)
 
 Progression:
 - Level 1: 15 (recruited)
 - Level 25: 21.25 (neutral growth + classification)
-- Level 139: 35 (reached cap)
-- Current: 35/35 (MAX, no further growth)
+- Level 176: 50 (reached cap)
+- Current: 50/50 (MAX, no further growth)
 
 Time Investment: 1,800 hours combat
 Recruitment Cost: 5,000 credits per roll, ~50 rerolls = 250,000 credits for perfect 15-15 primary stats
@@ -1244,38 +1253,38 @@ Recruitment Cost: 5,000 credits per roll, ~50 rerolls = 250,000 credits for perf
 
 **Primary Design Targets**:
 - **Stat 15 = Baseline**: 0% bonus/penalty (new Level 1 recruit with average RNG)
-- **Stat 25 = Expert**: +30-35% better than baseline (Level 100 crew)
-- **Stat 35 = Legendary**: +65-70% better than baseline (Level 200 crew)
-- **Command Multiplier = Force Multiplier**: 35 Command = +60% all crew stats
-- **RNG Impact = Early Advantage**: Good RNG reaches cap 100 levels earlier, NOT stronger at cap
+- **Stat 35 = Expert**: +40% better than baseline (Level 100 crew)
+- **Stat 50 = Legendary**: +70% better than baseline (Level 176-200 crew)
+- **Command Multiplier = Force Multiplier**: 50 Command = +70% all crew stats
+- **RNG Impact = Meaningful Difference**: Perfect RNG reaches cap 24 levels earlier, bad RNG is 3.5 points below cap
 
 **Avoid Power Creep**:
-- Level 200 crews are 65-70% better than Level 1 baseline (stat 15), NOT 10x better
-- Stat caps prevent infinite scaling (35 max)
-- Diminishing returns above stat 25 (3-3.5% per point vs 3.5-4% at lower stats)
+- Level 200 crews are 70% better than Level 1 baseline (stat 15), NOT 10x better
+- Stat caps prevent infinite scaling (50 max)
+- Diminishing returns above stat 30 (1.5-2.5% per point vs 2-3% at lower stats)
 - Weight system prevents low-tier ships using max-level crews (211.5 tons at L200)
 
 ### Test Scenarios
 
 **Scenario 1: Bad RNG vs Perfect RNG at Level 200**
-- Bad RNG Gunner: Starting stats 7/7/7, Level 200 stats 34/34/22
-- Perfect RNG Gunner: Starting stats 20/19/18, Level 200 stats 35/35/28
-- **Expected Result**: Perfect RNG only 1-2 points better at cap (marginal), but reached cap ~100 levels earlier
+- Bad RNG Gunner: Starting stats 7/7/7, Level 200 stats 46.5/46.5/25.75
+- Perfect RNG Gunner: Starting stats 15/15/14, Level 200 stats 50/50/33.75
+- **Expected Result**: Perfect RNG 3.5 points better at cap (meaningful), reached cap 24 levels earlier
 
 **Scenario 2: Command Officer Force Multiplier**
-- T7 Battleship with Level 150 Command Officer (30 Command = +45% all stats)
-- 4× Level 100 Gunners (27 Accuracy, 25 Reload → 39.15 effective Accuracy, 36.25 effective Reload)
-- **Expected Result**: 45% DPS increase across all gunners (massive force multiplier justifies command slot)
+- T7 Battleship with Level 150 Command Officer (45 Command = +60% all stats)
+- 4× Level 100 Gunners (35 Accuracy, 32 Reload → 56 effective Accuracy, 51.2 effective Reload)
+- **Expected Result**: 60% DPS increase across all gunners (massive force multiplier justifies command slot)
 
 **Scenario 3: Specialist vs Generalist**
-- Specialist: 35 Accuracy, 25 Reload (focused gunner)
-- Generalist: 30 Accuracy, 30 Reload (balanced gunner)
-- **Expected Result**: Specialist hits more reliably (+15% hit rate), generalist sustains fire (+17.5% fire rate) - trade-offs, not strictly better
+- Specialist: 50 Accuracy, 35 Reload (focused gunner)
+- Generalist: 45 Accuracy, 45 Reload (balanced gunner)
+- **Expected Result**: Specialist hits more reliably (+15% hit rate), generalist sustains fire (+30% fire rate) - trade-offs, not strictly better
 
 **Scenario 4: Reroll Economics**
 - Player wants 14+ average stats for new gunner (good starting point)
-- Standard Recruitment (5,000 credits, 9-15 range, average 12)
-- Expected rerolls: 8-12 (40,000-60,000 credits investment)
+- Standard Recruitment (5,000 credits, 7-15 range, average 11)
+- Expected rerolls: 15-25 (75,000-125,000 credits investment)
 - **Expected Result**: Reasonable investment for competitive starting stats, not prohibitively expensive
 
 ---
@@ -1315,10 +1324,15 @@ Recruitment Cost: 5,000 credits per roll, ~50 rerolls = 250,000 credits for perf
 ---
 
 ## Changelog
-- **2025-11-19**: Initial stat system design (7-15 range, no RNG)
-- **2025-11-19**: Complete redesign with 7-35 range and RNG recruitment mechanics (NavyField 1 faithful adaptation)
+- **2025-11-19**: Initial stat system design (7-15 RNG recruitment, 7-35 cap, 0.12/0.06 growth)
+- **2025-11-19**: Updated to 7-50 cap with slower progression (0.19/0.10 growth rates)
+  - Perfect RNG (15 start) reaches cap at Level 176
+  - Average RNG (11 start) reaches cap at Level 200
+  - Bad RNG (7 start) reaches 46.5 at Level 200 (3.5 below cap)
+  - Updated all formulas, progression examples, UI displays
+  - NOTE: Classifications 2-18 detailed stat breakdowns need update to 7-50 ranges (formulas correct)
 
 ---
 
-**Status**: 📋 Fully designed with RNG mechanics, awaiting implementation
+**Status**: 📋 Fully designed with RNG mechanics and extended progression, awaiting implementation
 **Next Steps**: Phase 2 implementation (RNG recruitment system, stat formulas, UI for rerolling)
