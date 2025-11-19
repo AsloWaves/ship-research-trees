@@ -275,7 +275,7 @@ When stored in cargo (not installed):
 - **Damage Control Supplies**: 2x1 slots, improves fire/flood repair effectiveness
 
 **Strategic use**:
-- Can perform **field repairs** at friendly ports (not home port)
+- Can perform **field repairs** at any friendly port
 - Carrying repair materials reduces cargo capacity but enables extended operations
 - High-tier players carry minimal repair supplies, rely on extraction discipline
 
@@ -295,29 +295,42 @@ When stored in cargo (not installed):
 
 ### 5. Crew Cards & Currency
 
-#### **Wallet Item - Specialized Storage Container**
+#### **Wallet Item - OPTIONAL Space-Saving Container**
 **Grid Size & Weight**:
-- **Wallet**: 2x2 grid slots in ship cargo or port storage, 1 ton
+- **Wallet**: 2x2 grid slots, 1 ton
 - **Opens into**: 50x50 internal inventory (2,500 slots dedicated to crew cards and currency)
-- **Restrictions**: ONLY accepts crew cards and currency (no ammunition, modules, or loot)
+- **Restrictions**: ONLY accepts crew cards (2x2 each) and currency
+- **Purchased item**: Players buy wallets when they can afford them (not starter equipment)
 
-**Purpose**:
-- **Port-to-port transfers**: Carry crew cards and currency between different ports in ship cargo
-- **Crew card storage**: Store unassigned crew cards (recruited crew, reserves for casualties)
-- **Currency transport**: Carry credits for trading/purchases at other ports
-- **Access at port**: Open wallet to access crew cards for assignment via Crew View
+**Why Use Wallets?**
+- **Massive space savings**: 50 crew cards loose = 200 slots vs. 1 wallet = 4 slots
+- **Port-to-port transfers**: Transport large crew card collections efficiently
+- **Inventory optimization**: Free up ship/port inventory space for other items
+
+**Without Wallet** (Starting players):
+- Crew cards stored loose as 2x2 items in ship cargo or port storage
+- Must balance crew cards with ammunition, modules, fuel, loot in limited inventory
+- Example: Destroyer with 120 slots, 9 crew cards = 36 slots, leaves 84 for ammo/fuel/loot
+
+**With Wallet** (Purchased):
+- Same 9 crew cards in wallet = 4 slots (2x2 wallet), leaves 116 slots free
+- Can transport 40+ crew cards in single wallet (4 slots vs. 160 slots loose)
+- Essential for players with large crew card collections or frequent port transfers
 
 **Wallet Mechanics**:
-- **Portable storage**: Can be stored in ship cargo for transport or in port storage
-- **Internal organization**: Crew cards (2x2 each) and currency stacks stored inside wallet
-- **Open/close interface**: Click wallet to open 50x50 internal grid view
-- **Not for backup crew**: Cannot swap crew mid-mission, so carrying extra crew only useful for multi-port operations
+- **Storage locations**: Can be in ship cargo, port storage, or drydocked ship inventory
+- **Open/close interface**: Click wallet to view 50x50 internal grid
+- **Drag-and-drop**: Move crew cards in/out of wallet freely
+- **Not for backup crew**: Cannot swap crew mid-mission, so carrying extra crew only useful for port relocations
 
 #### **Crew Card System**
 **Crew Card Properties**:
-- **Grid Size**: 2x2 slots per crew card (inside wallet)
+- **Grid Size**: 2x2 slots per crew card
 - **Weight**: 0.1 tons per card (negligible)
-- **Storage Location**: Inside wallet (wallet can be in ship cargo or port storage)
+- **Storage Locations**:
+  - Loose in ship cargo inventory
+  - Loose in port storage inventory
+  - Inside wallet (optional, saves space: 2x2 wallet holds 50x50 worth of cards)
 - **Active Crew**: Assigned crew don't occupy ANY inventory space (in crew quarters)
 
 **Port Configuration Views** (Accessible only while docked):
@@ -328,8 +341,10 @@ When stored in cargo (not installed):
 - Empty hardpoints cannot accept crew assignments
 
 **Crew View**:
-- Assign crew cards from wallet to equipment slots
-- **Workflow**: Open wallet → drag crew card → drop on equipment slot in Crew View
+- Assign crew cards from port storage or wallet to equipment slots
+- **Workflow Options**:
+  - **Without wallet**: Drag crew card from port storage → equipment slot in Crew View
+  - **With wallet**: Open wallet in port storage → drag crew card from wallet → equipment slot
 - **Assignment Validation**:
   - Equipment slot HAS module installed → Crew card MUST match module type (e.g., gunner → turret, radar operator → radar)
   - Equipment slot EMPTY (no module installed) → Any crew card can occupy slot (no type validation)
@@ -357,55 +372,89 @@ When stored in cargo (not installed):
 - **Port trading**: Spend credits at any port for modules, ammunition, crew recruitment, repairs
 - **Transfer between ports**: Carry wallet in ship cargo to transport currency
 
-**Example Usage**:
-- Player docks battleship at port with wallet in ship cargo (4 slots, contains 50 crew cards + 100,000 credits inside)
-- Opens wallet from cargo to view internal 50x50 inventory
-- **Equipment View**: Installs 4x main battery turrets, 6x secondary battery turrets, 8x AA mounts, 1x fire control radar
-- **Crew View**: Opens wallet inventory
-  - Drags Master Gunner card from wallet → Main Battery Turret #1 slot
-  - Drags Veteran Gunner card from wallet → Main Battery Turret #2 slot
-  - Drags AA Specialist card from wallet → AA Mount #1 slot
-  - Drags Radar Operator card from wallet → Fire Control Radar slot
-  - Has empty secondary battery slot (no turret installed yet) → Drags Novice Gunner from wallet to empty slot (no validation error)
-- Closes Crew View, assigned crew now in crew quarters (don't occupy wallet space)
-- **At Sea**: All equipment and crew assignments locked (cannot change)
-- Player engages in combat, loses 3 crew to casualties, extracts valuable loot
-- **Returns to Port**:
-  - Opens Crew View: 3 equipment slots now vacant (crew killed)
-  - Spends 15,000 credits from wallet to recruit 3 replacement crew cards at port
-  - New crew cards added to wallet
-  - Assigns new crew cards from wallet to vacant equipment slots
+**Example Usage - Player A (No Wallet, Early Game)**:
+- Destroyer with 9 crew slots, player has 14 total crew cards (9 active + 5 extras)
+- **Port Storage**: 5 unassigned crew cards stored loose (5 × 2x2 = 20 slots used)
+- Wants to relocate to new port 500km away
+- **Loading**: Drags 5 crew cards from port storage → ship cargo (20 slots + ammo + fuel = full inventory)
+- Sails to new port
+- **Unloading**: Drags 5 crew cards from ship cargo → new port storage
+
+**Example Usage - Player B (With Wallet, Late Game)**:
+- Battleship with 150 crew slots, player has 40+ crew cards amassed over time
+- Wants to relocate entire crew card collection to forward port
+- **Purchases wallet** (2x2 item) for 50,000 credits
+- **Loading Phase**:
+  - Opens wallet in port storage
+  - Drags all 40 crew cards from port storage → wallet internal inventory (40 × 2x2 = 160 slots compressed to 4 slots)
+  - Transfers wallet (4 slots) from port storage → battleship cargo
+- Sails to new port with wallet in cargo (4 slots vs. 160 slots loose)
+- **Unloading**: Transfers wallet from battleship cargo → new port storage
+- **Ship Switching**:
+  - Opens port drydock, transfers battleship to drydock (inactive)
+  - Builds new cruiser, sets as active ship
+  - **Equipment View**: Installs turrets/modules on cruiser
+  - **Crew View**:
+    - Recruits 5 new crew cards at port (added loose to port storage)
+    - Opens wallet in port storage
+    - Drags existing crew cards from wallet → cruiser equipment slots
+    - Drags new crew cards from port storage → cruiser equipment slots
 
 ---
 
 ## Port Storage System
 
-### 1. Warehouse (Ship-Specific Storage)
+### 1. Port Storage (Per-Port Inventory)
 
-#### **Unlimited Grid Space**
-- **Per-ship storage**: Each ship has dedicated unlimited warehouse at home port
-- **Organization**: Same grid system as ship inventory
-- **Access**: Only accessible when ship is docked at home port
-- **Purpose**: Long-term ammunition stockpiles, module collection, spare crew cards
+#### **Limited Grid Space (500-1000 Slots Per Port)**
+- **Per-port storage**: Each port has 500-1000 grid slots (prevents infinite hoarding)
+- **Separate inventories**: Storage at Port A is completely separate from Port B
+- **Organization**: Same grid system as ship inventory (drag-and-drop interface)
+- **Access**: Only accessible when docked at that specific port
+- **Purpose**: Long-term storage for ammunition, modules, crew cards (loose or in wallets), loot, fuel
+- **Strategic pressure**: Full warehouse forces decisions to use/sell items or relocate to new port
+
+**What Gets Stored**:
+- Ammunition stockpiles for pre-mission loadouts
+- Spare modules and turrets
+- Crew cards (loose 2x2 items or organized in wallets)
+- Wallets (containing crew cards + currency)
+- Trade goods and extracted loot
+- Fuel reserves
 
 #### **Transfer Mechanics**
-- **Drag-and-drop**: Move items between ship and warehouse
+- **Drag-and-drop**: Move items between active ship cargo ↔ port storage
 - **Auto-stack**: Click to automatically combine partial stacks
-- **Quick-load presets**: Save ammunition loadouts for quick pre-mission prep
-- **Weight warnings**: UI shows when ship is over-capacity
+- **Quick-load presets**: Save ammunition/fuel loadouts for quick pre-mission prep
+- **Weight warnings**: UI shows when ship is over-capacity during loading
+- **No cross-port transfer**: Must physically sail items from Port A to Port B
 
-### 2. Account Bank (Universal Storage)
+**Port Relocation Workflow**:
+1. Load items from Port A storage → ship cargo
+2. Sail ship to Port B
+3. Unload items from ship cargo → Port B storage
+4. Wallets enable efficient bulk transport (40 crew cards = 4 slots vs. 160 slots)
 
-#### **Shared Across All Ships**
-- **Account-wide**: All player ships can access same bank
-- **Unlimited capacity**: No grid limit
-- **Transfer between ships**: Move modules/crew/loot between different ships
-- **Global access**: Available at any friendly port (not just home port)
+### 2. Drydock System (Multi-Ship Management)
 
-**Strategic uses**:
-- Transfer high-value loot from combat ship to trader ship
-- Share elite crew cards between ships
-- Store rare modules for future ship upgrades
+#### **Multiple Ships Per Port**
+- **Active ship**: Currently equipped ship (takes to sea)
+- **Drydocked ships**: Inactive ships stored at port (unlimited per port)
+- **Ship switching**: Change which ship is active at port
+
+**Drydock Transfer Mechanics**:
+- **Ship-to-ship transfers**: Move items between active ship ↔ drydocked ships
+- **Example**: Transfer elite modules from inactive battleship to new cruiser
+- **Port storage hub**: Both active and drydocked ships can access port storage
+- **No restrictions**: Freely transfer ammunition, modules, crew cards between ships at same port
+
+**Example Workflow**:
+1. Dock battleship at Port A
+2. Transfer battleship to drydock (becomes inactive)
+3. Build new destroyer at Port A, set as active ship
+4. Open drydock interface: Transfer radar module from battleship → destroyer
+5. Access port storage: Load ammunition from port → destroyer cargo
+6. Undock destroyer (battleship remains drydocked at Port A)
 
 ### 3. Module Workshop
 
