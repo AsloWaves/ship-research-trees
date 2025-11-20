@@ -59,7 +59,7 @@ The permadeath system uses **10 ship tiers** with escalating risk profiles. Play
 - **Ship Recovery**: 100% guaranteed (always towed to friendly port if destroyed)
 - **Crew Safety**: No permanent casualties (always evacuate successfully)
 - **Module Damage**: Escalating destruction chance (10-30% per module)
-- **Cargo/Loot**: Always at risk if ship destroyed
+- **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Time Investment**: Lost on failed expeditions
 
 #### Purpose
@@ -93,7 +93,7 @@ Module replacement costs create minor economic pressure. Players learn to value 
 - **Crew Card Permadeath**: 0% (crew cards completely safe)
 - **Sailor Casualties**: Variable based on damage taken (replaceable at ports)
 - **Module Damage**: 40% destruction chance per module
-- **Cargo/Loot**: Always at risk
+- **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Psychological**: Last safe tier before true permadeath begins at T6
 
 #### Purpose
@@ -141,6 +141,7 @@ Tier 5 is the "final preparation tier" where players can safely maximize their a
 - **Crew Card Permadeath**: 10% entire card destroyed (all progress lost)
 - **Sailor Casualties**: Variable based on damage (replaceable at ports)
 - **Module Destruction**: 50% loss chance (modified by damage type/caliber)
+- **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Purpose**: First tier where ships and crew cards face permanent loss
 
 **Tier 7: Escalating Permadeath Risk**
@@ -148,6 +149,7 @@ Tier 5 is the "final preparation tier" where players can safely maximize their a
 - **Crew Card Permadeath**: 20% entire card destroyed
 - **Sailor Casualties**: Variable based on damage (replaceable)
 - **Module Destruction**: 60% loss chance (modified by damage type/caliber)
+- **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Purpose**: Noticeable risk increase, serious consequences
 
 **Tier 8: High-Stakes Operations**
@@ -155,6 +157,7 @@ Tier 5 is the "final preparation tier" where players can safely maximize their a
 - **Crew Card Permadeath**: 40% entire card destroyed
 - **Sailor Casualties**: Variable based on damage (replaceable)
 - **Module Destruction**: 70% loss chance (modified by damage type/caliber)
+- **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Purpose**: Major risk, devastating losses likely
 
 **Tier 9: Extreme Risk Zone**
@@ -162,6 +165,7 @@ Tier 5 is the "final preparation tier" where players can safely maximize their a
 - **Crew Card Permadeath**: 60% entire card destroyed
 - **Sailor Casualties**: Variable based on damage (replaceable)
 - **Module Destruction**: 80% loss chance (modified by damage type/caliber)
+- **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Purpose**: Near-certain loss on death, only for bold players
 
 #### Player Experience
@@ -402,11 +406,11 @@ When your ship is destroyed in combat, three **independent** permadeath systems 
 - Each crew card rolls separately for permadeath
 
 #### Step 3: Cargo and Loot
-**Always Lost When Ship Destroyed:**
-- All cargo containers destroyed
-- Loot acquired during expedition lost
-- No recovery possible (creates loot sinks)
-- Even if ship survives permadeath, cargo often destroyed by damage
+**100% Cargo Loss on Death (All Tiers):**
+- ALL cargo permanently lost per [[Inventory-System]]
+- Ammunition, fuel, loot, loose crew cards destroyed
+- No recovery possible (creates extraction tension)
+- See [[Damage-Model]] for complete permadeath mechanics
 
 ---
 

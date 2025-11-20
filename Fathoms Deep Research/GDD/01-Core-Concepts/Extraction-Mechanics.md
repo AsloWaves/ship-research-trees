@@ -227,7 +227,7 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 - **Crew Card Permadeath**: 0% (crew cards ALWAYS safe, no permanent loss)
 - **Sailor Casualties**: Variable based on damage (replaceable at ports for credits)
 - **Module Damage**: Escalating risk (10-40% chance of destroyed modules)
-- **Cargo Loss**: Always at risk if ship destroyed
+- **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Purpose**: Safe environment for learning mechanics and training crew cards
 - **Key Insight**: T1-T5 ships can explore ANYWHERE on the map with zero permadeath risk
 
@@ -236,7 +236,7 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 - **Crew Card Permadeath**: 10% per card (independent rolls, permanent loss of officer + all levels)
 - **Sailor Casualties**: Variable based on damage (replaceable at ports)
 - **Module Destruction**: 50% loss chance (modified by damage type/caliber)
-- **Cargo Loss**: Always at risk
+- **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Insurance Available**: 30,000 credits (reduces 10% → 5%)
 - **Purpose**: First real stakes, psychological barrier for players
 
@@ -245,7 +245,7 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 - **Crew Card Permadeath**: 20% per card (independent rolls)
 - **Sailor Casualties**: Variable based on damage (replaceable)
 - **Module Destruction**: 55% loss chance
-- **Cargo Loss**: Always at risk
+- **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Insurance Available**: 50,000 credits (reduces 20% → 10%)
 - **Purpose**: Moderate risk/reward balance for mid-tier operations
 
@@ -254,7 +254,7 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 - **Crew Card Permadeath**: 40% per card (independent rolls)
 - **Sailor Casualties**: Variable based on damage (replaceable)
 - **Module Destruction**: 60% loss chance
-- **Cargo Loss**: Always at risk
+- **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Insurance Available**: 150,000 credits (reduces 40% → 25%)
 - **Purpose**: Substantial risk for veteran players, backup ships essential
 
@@ -263,7 +263,7 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 - **Crew Card Permadeath**: 60% per card (independent rolls)
 - **Sailor Casualties**: Variable based on damage (replaceable)
 - **Module Destruction**: 70% loss chance
-- **Cargo Loss**: Always at risk
+- **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Insurance Available**: 300,000 credits (reduces 60% → 40%)
 - **Purpose**: Very high stakes, only for experienced players with strong risk management
 
@@ -272,7 +272,7 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 - **Crew Card Permadeath**: 100% ALL crew cards destroyed (no exceptions)
 - **Sailor Casualties**: 100% (irrelevant since all cards destroyed)
 - **Module Destruction**: 100% all modules permanently lost
-- **Cargo Loss**: Always at risk
+- **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Insurance Available**: 1,000,000+ credits (reduces 100% → 70%)
 - **No Recovery**: ABSOLUTE TOTAL LOSS - bring only expendable ships/crews
 - **Purpose**: Ultimate stakes for server-defining accomplishments
