@@ -9,7 +9,7 @@ last-updated: 2025-11-17
 # Ship Physics
 
 ## Overview
-Authentic naval physics system providing realistic ship handling with momentum, turning circles, steerageway, and speed-dependent maneuverability. The 8-speed throttle system (-4 astern to +4 ahead) delivers tactical depth while maintaining accessibility for both casual and hardcore naval simulation enthusiasts.
+Authentic naval physics system providing realistic ship handling with momentum, turning circles, steerageway, speed-dependent maneuverability, and cargo weight performance impact. The 8-speed throttle system (-4 astern to +4 ahead) delivers tactical depth while maintaining accessibility for both casual and hardcore naval simulation enthusiasts. Ship performance dynamically responds to cargo load from the [[Inventory-System]], with over-weight vessels suffering speed, acceleration, and fuel efficiency penalties.
 
 ## Implementation Status
 **Status**: ✅ **IMPLEMENTED** (Core features complete)
@@ -66,6 +66,15 @@ Telegraph-style speed control modeled after real naval vessels:
 - Ship gradually accelerates/decelerates toward target
 - Momentum prevents instant speed changes
 - Reversing at high forward speed takes time (realistic propeller physics)
+
+#### 5. Cargo Weight & Performance ✅
+Ship performance affected by cargo load from unified inventory system:
+- **Weight Affects Performance**: Cargo weight (from [[Inventory-System]]) applies soft cap penalties
+- **Speed Penalties**: Over-weight ships suffer reduced max speed (-5% to -25% based on load)
+- **Acceleration Penalties**: Heavy loads reduce acceleration (-10% to -50%)
+- **Turn Rate Impact**: Over-loaded ships turn slower and have wider turning circles
+- **Fuel Efficiency**: Heavy cargo increases fuel consumption (+10% to +50%)
+- **See [[Inventory-System]]** for detailed weight soft cap penalty tiers (80-100%, 100-120%, 120%+)
 
 ### User Experience
 

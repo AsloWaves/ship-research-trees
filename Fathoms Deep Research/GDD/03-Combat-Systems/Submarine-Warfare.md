@@ -680,7 +680,7 @@ The submarine line progresses through three distinct class categories, each with
 
 ### Fuel Consumption by Operations
 
-**Operational Fuel Usage**:
+**Operational Fuel Usage** (fuel stored in cargo grid per [[Inventory-System]]):
 - **Surface Transit**: 8 fuel units per hour at maximum speed
 - **Surface Charging**: 6 fuel units per hour while stationary (battery charging)
 - **Submerged Operations**: No fuel consumption (battery powered)
@@ -689,12 +689,13 @@ The submarine line progresses through three distinct class categories, each with
 #### **Strategic Fuel Planning: Long-Range Patrol Mission**
 **Mission Parameters**: 5,000km round trip, 14-day patrol
 
-**Fuel Budget**:
-1. **Fuel Capacity**: 280 fuel units maximum capacity
+**Fuel Budget** (fuel occupies cargo grid cells, competes with torpedoes/supplies per [[Inventory-System]]):
+1. **Fuel Capacity**: 280 fuel units maximum capacity (occupies cargo grid cells)
 2. **Transit Requirement**: 2,000km each way = 200 fuel units for transit
 3. **Patrol Operations**: 80 fuel units remaining for 10-day operational patrol
 4. **Contingency Reserve**: 40 fuel units for emergency/combat situations
 5. **Operational Limit**: 4 fuel units per day patrol operations, limits activity
+6. **Cargo Constraint**: More fuel carried = fewer torpedoes/supplies available in grid
 
 ---
 
@@ -702,7 +703,7 @@ The submarine line progresses through three distinct class categories, each with
 
 ### Sonar Technology Integration & Tactical Applications
 
-#### **Passive Sonar Contact Classification** (all detection modified by Electronics/Radar Detection Range stat: -25% range at stat 7, baseline at stat 15, +105% range at stat 50)
+#### **Passive Sonar Contact Classification** (all detection modified by Electronics/Radar Detection Range stat from [[Crew-Skills]]: -25% range at stat 7, baseline at stat 15, +105% range at stat 50)
 
 **Sound Signature Recognition**:
 - **Engine Type Identification**: Diesel, steam, electric motor recognition (accuracy improved by Detection stat)

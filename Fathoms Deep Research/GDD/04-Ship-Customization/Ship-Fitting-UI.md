@@ -449,12 +449,13 @@ The Ship Fitting Interface is a comprehensive multi-screen system allowing playe
 
 **Bottom Panel: Weight Display (100% width)**
 - **Current Weight**: Real-time total cargo weight (bold, large text)
-- **Max Weight**: Ship's cargo capacity limit
-- **Visual Meter**: Progress bar showing weight percentage
-  - Green (0-70%): Safe load
-  - Yellow (70-90%): Moderate load
-  - Red (90-100%): Maximum load
-  - Flashing Red (100%+): Over-weight (can't undock)
+- **Max Weight**: Ship's cargo capacity limit (soft cap, see [[Inventory-System]])
+- **Visual Meter**: Progress bar showing weight percentage with soft cap penalty tiers
+  - Green (0-80%): Optimal performance
+  - Yellow (80-100%): Minor penalty (-5% speed, +10% fuel)
+  - Orange (100-120%): Moderate penalty (-15% speed, -30% acceleration, +25% fuel)
+  - Red (120%+): Severe penalty (-25% speed, -50% acceleration, +50% fuel)
+- **Players CAN undock over-weight** (soft cap with performance penalties, not hard block)
 - **Grid Usage**: X / Y cells occupied (e.g., "128 / 320 cells (40%)")
 
 ### Interaction Flow

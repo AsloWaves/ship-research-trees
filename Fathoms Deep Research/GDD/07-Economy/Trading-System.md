@@ -211,7 +211,7 @@ Risk: 10% chance of interception by British patrols
 **Transport Economics**:
 - **Distance**: Longer routes = higher fuel costs (2-8 oil per hour)
 - **Route Danger**: High-risk routes justify higher markup
-- **Cargo Capacity**: Larger ships more efficient but higher risk
+- **Cargo Capacity**: Larger ships have more cargo grid cells (see [[Inventory-System]]), more efficient but higher risk
 - **Time Sensitivity**: Fast ships can exploit temporary price spikes
 
 ### Example Trade Routes
@@ -325,7 +325,7 @@ Risk-Adjusted Profit: 19,700 × 0.55 (combined arrival probability) = 10,835 cre
 - **Listing Fee**: 100 credits + 2% of starting bid (non-refundable)
 - **Minimum Bid**: Seller sets reserve price
 - **Auction Duration**: 1, 3, or 7 days
-- **Item Location**: Must be in port to list (cannot list cargo at sea)
+- **Item Location**: Items must be in port storage or ship cargo grid (see [[Inventory-System]]) to list (cannot list cargo at sea)
 
 **Bidding Mechanics**:
 - **Bid Increments**:

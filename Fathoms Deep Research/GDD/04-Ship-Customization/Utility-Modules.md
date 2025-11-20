@@ -21,7 +21,7 @@ All utility modules require appropriate crew cards to function and integrate wit
 ## Support Slot Modules
 
 **Slot Characteristics:**
-- **Variable Sizes**: 1x1, 1x2, 2x2, 2x3, 3x3 depending on ship design
+- **Variable Sizes**: Equipment slot sizes 1x1, 1x2, 2x2, 2x3, 3x3 depending on ship design (NOT cargo grid cells, see [[Module-System]])
 - **Quantity**: Scales with ship size (Destroyers: 3-8 slots, Battleships: 18-24 slots)
 - **Accepts**: Support modules ONLY (crew welfare, engineering support, logistics)
 - **Crew Requirement**: Varies by support module type (typically Engineer or Support crew)
@@ -150,10 +150,11 @@ All utility modules require appropriate crew cards to function and integrate wit
 - **Strategic Use**: Extended operations far from friendly ports, self-sufficiency
 
 **Crafting Capabilities:**
-- Basic: Craft ammunition (requires raw materials in cargo)
-- Advanced: Craft Small Repair Kits, basic modules (1x1, 1x2 size)
+- Basic: Craft ammunition (requires raw materials in cargo grid, see [[Inventory-System]])
+- Advanced: Craft Small Repair Kits, basic modules (1x1, 1x2 equipment slot size)
 - Crafting at sea takes 2-5x longer than at port
 - Requires blueprints already unlocked
+- Crafted items stored in cargo grid
 
 ---
 
@@ -266,19 +267,19 @@ All utility modules require appropriate crew cards to function and integrate wit
 
 **Sizes**: 2x2 (Small), 2x3 (Large)
 
-**Effects**: Adds +20-40 grid inventory cells (expands total cargo grid size)
-- **Small**: +20 cells, 50 tons weight penalty
-- **Large**: +40 cells, 95 tons weight penalty
+**Effects**: Adds +20-40 grid inventory cells (expands total cargo grid size per [[Inventory-System]])
+- **Small**: +20 cells, 50 tons weight penalty (contributes to soft cap, see [[Inventory-System]])
+- **Large**: +40 cells, 95 tons weight penalty (contributes to soft cap, see [[Inventory-System]])
 
 **Specifications:**
 - **Crew**: 1 Support crew card required
 - **Strategic Use**: Trade ships, resource extraction missions, maximizing loot capacity
 
 **Cargo Grid Expansion:**
-- Physically expands the tetris-style cargo grid
+- Physically expands the tetris-style cargo grid from [[Inventory-System]]
 - Allows more loot, resources, and trade goods
 - Essential for dedicated extraction/salvage ships
-- Weight penalty significant (must balance with engine capacity)
+- Weight penalty contributes to ship weight (soft cap penalties apply if over-weight, see [[Inventory-System]])
 
 ---
 
@@ -347,6 +348,7 @@ All utility modules require appropriate crew cards to function and integrate wit
 - Salvage time: 30 seconds - 5 minutes depending on wreck size and module rarity
 - Advanced equipment doubles salvage speed (15 sec - 2.5 min)
 - Salvaged modules may be damaged (20-100% condition)
+- Salvaged items stored in ship cargo grid (see [[Inventory-System]] for grid mechanics)
 
 ---
 

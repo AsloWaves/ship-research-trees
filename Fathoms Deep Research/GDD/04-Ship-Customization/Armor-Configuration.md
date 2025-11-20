@@ -194,6 +194,8 @@ Example (Iowa Battleship Center Belt):
 
 ### Performance Impact
 
+**Armor Weight Performance Impact** (permanent ship weight, separate from cargo weight penalties in [[Inventory-System]]):
+
 **Speed Reduction:**
 Total armor weight affects max speed:
 - **Light armor (0-500 tons)**: No penalty
@@ -221,6 +223,8 @@ Ship Speed Penalty Coefficients:
 - Turn rate reduced proportional to total weight
 - Heavier armor = slower turning radius
 - Formula: `Turn Rate = Base Turn Rate × (1 - Total Weight / Max Displacement × 0.2)`
+
+**Note**: These are permanent armor weight penalties. Additional cargo weight penalties from [[Inventory-System]] apply when exceeding cargo weight capacity (soft cap system with -5% to -25% speed, +10% to +50% fuel).
 
 ---
 
@@ -272,7 +276,12 @@ Example (12" Belt RHA):
 
 ### Armor Configuration Constraints
 
-**Weight Budget**: Total armor + modules + crew ≤ ship maximum displacement
+**Weight Budget**: Total armor + modules + crew + cargo ≤ ship maximum displacement (soft cap with penalties per [[Inventory-System]])
+- **Armor/Module/Crew Weight**: Permanent ship weight, reduces available cargo weight capacity
+- **Cargo Weight**: Variable load (ammunition, fuel, loot) subject to soft cap penalties
+- **Soft Cap System**: Exceeding weight capacity reduces speed, acceleration, fuel efficiency (see [[Inventory-System]] for penalty tiers)
+- **Heavy armor reduces weight capacity for cargo**, NOT cargo grid cell count
+
 **Ship Class Limits**: Cannot exceed max thickness per ship class
 **Historical Accuracy Mode** (Optional Toggle): Restricts armor to historically plausible ranges
 

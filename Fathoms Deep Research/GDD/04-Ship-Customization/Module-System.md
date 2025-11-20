@@ -27,7 +27,7 @@ Ship customization in Fathoms Deep follows a **dual-layer system** inspired by N
 **Hardpoint System Overview:**
 - **Fixed 3D Positions**: Each ship class has predetermined mounting locations designed into hull structure
 - **Visual Integration**: Installed turrets/weapons appear on ship sprite with accurate scale and positioning
-- **Drag-Drop Interface**: Players drag turret modules from inventory onto hardpoint positions on ship view
+- **Drag-Drop Interface**: Players drag turret modules from port storage or ship cargo grid ([[Inventory-System]]) onto hardpoint positions on ship view
 - **Tactical Transparency**: Enemy players can identify ship capabilities by visual inspection of equipped turrets
 
 #### Hardpoint Categories
@@ -75,13 +75,14 @@ Result: Green = Valid, Red = Invalid, Yellow = Over-weight warning
 
 ---
 
-### Section B: Internal Ship Systems (Grid-Based Slot Fitting)
+### Section B: Internal Ship Systems (Equipment Slot Fitting)
 
 **Internal System Overview:**
-- **Grid-Based Slots**: Fixed-size slots within ship's internal structure
+- **Equipment Fitting Slots**: Fixed-size slots within ship's internal structure (distinct from cargo grid cells in [[Inventory-System]])
 - **Size Restrictions**: Modules must match slot size (1x1, 1x2, 2x2, 2x3, 3x3, etc.)
 - **Category Restrictions**: Engine slots only accept engines, Support slots only accept support modules, Misc slots universal
 - **Visual Interface**: Fitting screen shows ship cross-section with slot layout
+- **Note**: These are equipment installation slots, NOT cargo storage grid cells
 
 #### Engine Slots
 
@@ -334,6 +335,8 @@ Fathoms Deep uses shortened installation and repair timers to keep players engag
 ### Module Installation Times
 
 **Installation at Port (Friendly Ports Only):**
+
+**Module Source**: Modules can be installed from port storage OR directly from ship cargo grid ([[Inventory-System]])
 
 | Module Size | Installation Time | Concurrent Installation | Examples |
 |-------------|------------------|----------------------|----------|

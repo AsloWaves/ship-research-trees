@@ -275,18 +275,18 @@ HMS Ark Royal sets Auto-movement waypoint 200km northeast to intercept Italian c
 ### Aircraft Storage System
 
 **Physical Aircraft Inventory Management**:
-- **F6F Hellcat**: 2x3 inventory spaces (6 slots) - Medium fighter
-- **SBD Dauntless**: 2x4 inventory spaces (8 slots) - Dive bomber
-- **TBF Avenger**: 3x4 inventory spaces (12 slots) - Large torpedo bomber
-- **A6M Zero**: 2x2 inventory spaces (4 slots) - Compact fighter
+- **F6F Hellcat**: 2x3 inventory spaces (6 grid cells) - Medium fighter
+- **SBD Dauntless**: 2x4 inventory spaces (8 grid cells) - Dive bomber
+- **TBF Avenger**: 3x4 inventory spaces (12 grid cells) - Large torpedo bomber
+- **A6M Zero**: 2x2 inventory spaces (4 grid cells) - Compact fighter
 
 **Storage Optimization Example**:
 
-USS Enterprise (60-slot aircraft inventory) optimally carries:
-- 6 Hellcats (36 slots)
-- 2 Dauntless (16 slots)
-- 1 Avenger (8 slots)
-- **Total**: 54/60 slots used, 6 spare slots for salvaged aircraft or replacement parts
+USS Enterprise (60 grid cell aircraft inventory) optimally carries:
+- 6 Hellcats (36 grid cells)
+- 2 Dauntless (16 grid cells)
+- 1 Avenger (8 grid cells)
+- **Total**: 54/60 grid cells used, 6 spare grid cells for salvaged aircraft or replacement parts
 
 ---
 
@@ -302,19 +302,19 @@ USS Enterprise (60-slot aircraft inventory) optimally carries:
 #### **Ammunition Storage (Tetris Inventory)**
 
 **Ordnance Inventory Items**:
-- **250lb Bombs**: 1x2 slots each, general purpose munitions
-- **500lb Bombs**: 2x2 slots each, heavy anti-ship ordnance
-- **Aerial Torpedoes**: 2x4 slots each, devastating ship-killers
-- **.50 Cal Ammunition**: 1x1 slots, bulk fighter ammunition
-- **20mm Cannon Shells**: 1x2 slots, heavy fighter ammunition
+- **250lb Bombs**: 1x2 grid cells each, general purpose munitions
+- **500lb Bombs**: 2x2 grid cells each, heavy anti-ship ordnance
+- **Aerial Torpedoes**: 2x4 grid cells each, devastating ship-killers
+- **.50 Cal Ammunition**: 1x1 grid cells, bulk fighter ammunition
+- **20mm Cannon Shells**: 1x2 grid cells, heavy fighter ammunition
 
 #### **Maintenance Supplies**
 
 **Essential Maintenance Items**:
-- **Engine Parts**: 2x2 slots, critical for sustained operations
-- **Structural Components**: 1x3 slots, airframe repairs
-- **Electronics**: 1x1 slots, radio and navigation equipment
-- **Hydraulic Fluid**: 1x1 slots, landing gear and flight controls
+- **Engine Parts**: 2x2 grid cells, critical for sustained operations
+- **Structural Components**: 1x3 grid cells, airframe repairs
+- **Electronics**: 1x1 grid cells, radio and navigation equipment
+- **Hydraulic Fluid**: 1x1 grid cells, landing gear and flight controls
 
 ---
 
@@ -565,10 +565,11 @@ USS Enterprise with Long-Range Communications can coordinate with USS Hornet 150
 ### Tier-Based Risk Scaling
 
 **Carrier Value = Massive Target**:
-- **T1-T4 Carriers**: Moderate threat level, full ship recovery on death
-- **T5 Carriers**: High-value target, sailor casualties but 0% permadeath, last completely safe tier
-- **T6-T9 Carriers**: 10-60% ship/crew card permadeath risk, hunted aggressively by players
-- **T10 Carriers**: 100% PERMADEATH (ship + all crew cards), server-wide alerts when detected
+- **T1-T4 Carriers**: Moderate threat level, full ship recovery on death, 100% cargo loss
+- **T5 Carriers**: High-value target, sailor casualties but 0% permadeath, last completely safe tier, 100% cargo loss
+- **T6-T9 Carriers**: 10-60% ship/crew card permadeath risk, hunted aggressively by players, 100% cargo loss
+- **T10 Carriers**: 100% PERMADEATH (ship + all crew cards + cargo), server-wide alerts when detected
+- **ALL Tiers**: 100% cargo loss on death (aircraft, aviation fuel, ordnance, maintenance supplies) per [[Inventory-System]]
 
 **Visibility and Detection**:
 - High-tier carriers attract attention across vast distances (100-200km+ detection range)

@@ -305,15 +305,15 @@ Market Impact (10 simultaneous constructions):
 Scenario: Economic expansion, 20 new factories being built
 
 Material Requirements (per factory):
-- Steel: 5,000 units
-- Electronics: 500 units
-- Oil: 1,000 units
+- Steel: 5,000 units (transported via cargo grid, see [[Inventory-System]])
+- Electronics: 500 units (transported via cargo grid)
+- Oil: 1,000 units (transported via cargo grid)
 - Labor: 100,000 credits
 
 Total Demand (all factories):
-- Steel: 100,000 units (6.7 days of total production)
-- Electronics: 10,000 units (massive shortage)
-- Oil: 20,000 units (1.3 days of production)
+- Steel: 100,000 units (6.7 days of total production, requires multiple cargo shipments)
+- Electronics: 10,000 units (massive shortage, cargo space constraints)
+- Oil: 20,000 units (1.3 days of production, heavy cargo weight)
 
 Market Impact:
 - Steel: +100% price increase (severe shortage)
@@ -417,10 +417,11 @@ Pricing by Distance from Production:
 - Japan (+7,000km): 1,400 credits/unit (+75% maximum distance + hostile territory)
 
 Transport Cost Factors:
-- Fuel: 2-8 credits per 100km
+- Fuel: 2-8 credits per 100km (fuel occupies cargo grid cells, see [[Inventory-System]])
 - Insurance: 5-20% of cargo value (risk-based)
 - Time: Longer routes = opportunity cost
 - Risk: Hostile waters = premium for danger pay
+- Cargo Grid Capacity: Ship cargo grid cells limit trade goods volume (see [[Inventory-System]])
 ```
 
 **Local Supply/Demand Imbalances**:
