@@ -407,11 +407,15 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 
 ### Ammunition Expenditure & Conservation
 
-**Combat Consumption Rates**:
+**Combat Consumption Rates** (ammunition stored in cargo grid per [[Inventory-System]]):
 - **Main Battery Engagement**: 8-15 rounds per minute (battleship main guns)
+  - Example: 16-inch AP shells stack to 20/stack, 14-inch AP shells stack to 40/stack
 - **Secondary Battery Sustained Fire**: 25-40 rounds per minute per gun
+  - Example: 5-inch shells stack to 100/stack, 6-inch shells stack to 75/stack
 - **Anti-Aircraft Defense**: 100-300 rounds per engagement per gun
+  - Example: 40mm Bofors stack to 200/stack, 20mm Oerlikon stack to 500/stack
 - **Total Combat Load**: Typically 2-3 hours sustained combat before resupply required
+- **See [[Inventory-System]]** for complete ammunition stacking mechanics and cargo grid management
 
 #### **Conservation Tactics Example: USS South Dakota in Prolonged Engagement**
 **Scenario**: 6-hour running battle with Japanese surface force

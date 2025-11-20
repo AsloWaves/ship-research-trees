@@ -284,6 +284,8 @@ The submarine line progresses through three distinct class categories, each with
 
 ### Torpedo Effectiveness Scaling
 
+**Note**: All torpedoes stored in cargo grid per [[Inventory-System]] (torpedoes stack to 5/stack, occupy 2x4 grid cells per stack)
+
 #### **T1-T3: Basic Torpedoes**
 - **Type**: Contact detonation only, unguided
 - **Range**: 3-5km maximum
@@ -291,6 +293,7 @@ The submarine line progresses through three distinct class categories, each with
 - **Damage**: Effective against T1-T4 ships, limited against capital ships
 - **Reload Time**: 180-240 seconds per tube (baseline Tube Reload stat 15), reduced to ~73-98 seconds with Tube Reload 50
 - **Accuracy**: Requires precise manual aiming, no fire control assistance (modified by Torpedo Accuracy stat 7-50)
+- **Cargo Storage**: Mk 14 torpedoes stack to 5/stack (2x4 grid cells)
 
 #### **T4-T6: Standard Torpedoes**
 - **Type**: Contact and magnetic influence detonation

@@ -618,8 +618,9 @@ Ship suffering from 3 fires (54% HP damage potential) and 1 heavy flood (120% HP
   - Red: 0-19% HP
 - **Module status indicators**: Show individual module health
 - **Fire/flood counters**: Display active hazards
-- **Ammunition counters**: Remaining shells per battery
-- **Resource gauges**: Fuel, battery, air (submarines)
+- **Ammunition counters**: Remaining shells per battery (ammunition stored in cargo grid per [[Inventory-System]])
+  - Example: "5-inch HE: 450/500 rounds (4.5 stacks remaining)" - displays shells remaining from cargo grid
+- **Resource gauges**: Fuel, battery, air (submarines) - fuel stored in cargo grid per [[Inventory-System]]
 
 **Detailed Damage Display**:
 - **Ship cross-section view**: Shows compartment damage

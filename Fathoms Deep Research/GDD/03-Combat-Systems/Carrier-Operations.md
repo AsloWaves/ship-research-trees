@@ -301,12 +301,12 @@ USS Enterprise (60 grid cell aircraft inventory) optimally carries:
 
 #### **Ammunition Storage (Tetris Inventory)**
 
-**Ordnance Inventory Items**:
-- **250lb Bombs**: 1x2 grid cells each, general purpose munitions
-- **500lb Bombs**: 2x2 grid cells each, heavy anti-ship ordnance
-- **Aerial Torpedoes**: 2x4 grid cells each, devastating ship-killers
-- **.50 Cal Ammunition**: 1x1 grid cells, bulk fighter ammunition
-- **20mm Cannon Shells**: 1x2 grid cells, heavy fighter ammunition
+**Ordnance Inventory Items** (stored in cargo grid per [[Inventory-System]]):
+- **250lb Bombs**: 1x2 grid cells, stack to 10/stack, general purpose munitions
+- **500lb Bombs**: 2x2 grid cells, stack to 5/stack, heavy anti-ship ordnance
+- **Aerial Torpedoes**: 2x4 grid cells, stack to 3/stack, devastating ship-killers
+- **.50 Cal Ammunition**: 1x1 grid cells, stack to 1000/stack, bulk fighter ammunition
+- **20mm Cannon Shells**: 1x2 grid cells, stack to 500/stack, heavy fighter ammunition
 
 #### **Maintenance Supplies**
 
