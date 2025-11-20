@@ -222,20 +222,22 @@ All utility modules require appropriate crew cards to function and integrate wit
 
 **Sizes**: 2x2 (Small), 2x3 (Medium), 3x3 (Large)
 
-**Effects**: Does NOT occupy cargo grid, adds separate ammunition storage slots
-- **Small**: +20 ammo storage slots, 40 tons weight
-- **Medium**: +40 ammo storage slots, 75 tons weight
-- **Large**: +60 ammo storage slots, 120 tons weight
+**Effects**: Installed in equipment slot (does not occupy cargo grid), increases ammunition stacking capacity
+- **Small**: Ammunition stacks +20% larger (e.g., 5-inch shells stack to 120 instead of 100), 40 tons weight
+- **Medium**: Ammunition stacks +40% larger (e.g., 5-inch shells stack to 140 instead of 100), 75 tons weight
+- **Large**: Ammunition stacks +60% larger (e.g., 5-inch shells stack to 160 instead of 100), 120 tons weight
 
 **Specifications:**
 - **Crew**: 1 Support crew card required
-- **Strategic Use**: Extended combat operations, reduces resupply frequency
+- **Strategic Use**: Extended combat operations, more ammunition per cargo grid cell
+- **Equipment Slot**: Occupies support module equipment slot (2x2, 2x3, or 3x3 depending on size)
 
 **Ammunition Storage Mechanics:**
-- Standard ships: 40-80 ammo slots depending on class
-- Expanded Magazine adds dedicated ammo-only slots
-- Does not reduce cargo grid capacity (separate inventory)
-- Critical for sustained engagements
+- All ammunition stored in unified ship cargo grid (same as other items)
+- Expanded Magazine increases stack sizes, NOT grid capacity
+- More ammunition per grid cell = better cargo efficiency
+- Does not create separate ammunition inventory
+- Critical for sustained engagements without increasing cargo grid usage
 
 ---
 

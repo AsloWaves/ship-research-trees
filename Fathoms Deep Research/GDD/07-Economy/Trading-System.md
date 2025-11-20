@@ -32,14 +32,16 @@ Multi-tier trading networks enabling player-to-player commerce, NPC market inter
 
 **Trade Limitations**:
 - **At Sea Restrictions**:
-  - Can only trade basic supplies and credits at sea
-  - No ship component trading while underway
-  - No bulk cargo transfers (requires port facilities)
+  - Can only trade credits at sea (physical currency from wallets)
+  - NO cargo grid transfers while underway (ammunition, modules, loot, trade goods, crew cards)
+  - NO ship component/module trading while underway
+  - Ships must dock at port for all cargo grid transactions
 - **Port Trading**:
-  - Full trading functionality available
-  - Can transfer cargo between ships
-  - Component and module trading enabled
-  - Large bulk transfers possible
+  - Full trading functionality available while docked
+  - Can transfer cargo grid items between ships (drag-and-drop between inventories)
+  - Module and equipment trading enabled
+  - Bulk cargo transfers possible (limited by cargo grid capacity)
+  - Access to port storage warehouse for item retrieval
 
 **Transaction Security**:
 - Automatic trade verification (checks item validity)

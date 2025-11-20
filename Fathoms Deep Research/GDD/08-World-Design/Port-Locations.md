@@ -295,21 +295,39 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 - **T2 Ports**: Basic trading, high transaction fees
 - **T3 Ports**: No marketplace
 
-#### Banking and Storage
-**Mechanism**: Store resources and credits
+#### Port Storage System
+**Mechanism**: Limited storage at each port for resources, modules, ammunition, crew cards, currency, and trade goods
 
-**Bank Services**:
-- **Credit Storage**: Unlimited credit storage (no physical inventory)
-- **Resource Vaults**: Store resources beyond ship cargo capacity
-  - T0 Ports: 10,000 unit capacity
-  - T1 Ports: 5,000 unit capacity
-  - T2 Ports: 1,000 unit capacity
-- **Cross-Port Transfers**: Transfer resources between ports (24 hour delay, 10% fee)
-- **Insurance Policies**: Purchase insurance badges for ships
+**Port Storage Capacity** (Per-Port, Separate Inventories):
+- **T1-T3 Ports**: 500 grid cells storage capacity
+- **T4-T7 Ports**: 750 grid cells storage capacity
+- **T8-T10 Ports**: 1000 grid cells storage capacity
+
+**Key Rules**:
+- **Separate per port**: Storage at Port A is completely separate from Port B
+- **No account bank**: No universal storage shared across all ports
+- **Physical transport only**: Resources must be physically transported via ship cargo between ports
+- **Player teleportation**: Players can teleport between ports (character only), but items cannot
+- **Grid-based system**: Same Tetris-style inventory as ship cargo (items occupy grid cells based on size)
+
+**What Can Be Stored**:
+- Ammunition stockpiles (shells, torpedoes, depth charges)
+- Spare modules and turrets (uninstalled equipment)
+- Crew cards (loose 2x2 items or organized in wallets)
+- Wallets (containing crew cards + physical currency for compression)
+- Trade goods and extracted loot
+- Fuel reserves
+- Repair materials
+- Physical currency (stored as items in inventory or in wallets)
+
+**Port Services**:
+- **Insurance Policies**: Purchase insurance for ships (ship tier-based, distance multiplier)
+- **Drydock Storage**: Store inactive ships at port (ships retain their cargo/modules)
 
 **Storage Fees**:
-- First 1,000 units: Free
-- Additional capacity: 100 credits per 100 units per month
+- First 100 grid cells: Free
+- Additional capacity: 50 credits per 10 grid cells per month
+- Full warehouse forces decisions: sell items, transfer to drydocked ship, or relocate to different port
 
 #### Black Market
 **Mechanism**: Illegal trading for rare items

@@ -420,8 +420,10 @@ The Ship Fitting Interface is a comprehensive multi-screen system allowing playe
 
 **Left Panel: Cargo Grid (70% width)**
 - **Tetris-Style Grid**: Ship's cargo hold represented as grid cells
-  - Grid size varies by ship class (DD: 10x12, CL: 12x14, BB: 16x20, CV: 18x22)
-  - Cell size: ~20x20 pixels per cell
+  - Grid dimensions variable based on ship tier and class (total capacity defines layout)
+  - Example capacities: T1 destroyers (~80-100 cells), T5 battleships (~300 cells), T10 carriers (~700 cells)
+  - Grid layout optimized for ship hull shape (wider for carriers, taller for battleships)
+  - Cell size: ~20x20 pixels per cell (scalable based on total grid size)
 - **Item Representation**: Visual blocks showing item shapes and sizes
   - Items displayed as colored rectangles occupying multiple cells
   - Item icons/sprites overlay on blocks
@@ -533,11 +535,16 @@ The Ship Fitting Interface is a comprehensive multi-screen system allowing playe
 
 ### Weight Management
 
-**Over-Weight Prevention:**
-- Real-time validation during item placement
-- Cannot place item if it would exceed max weight
-- Red text warning: "Exceeds weight capacity by 50 tons"
-- Ship cannot undock if over-weight (must remove cargo)
+**Over-Weight Warning System:**
+- Real-time weight calculation during item placement
+- Color-coded weight indicator:
+  - Green (0-80%): Optimal performance
+  - Yellow (80-100%): Minor penalty warning (-5% speed)
+  - Orange (100-120%): Moderate penalty warning (-15% speed, -30% acceleration)
+  - Red (120%+): Severe penalty warning (-25% speed, -50% acceleration)
+- Weight display shows: "Current: 2,450t / 2,000t (122% - Severe Penalty)"
+- Tooltip on hover: "Over-weight ships suffer speed/acceleration/turn rate penalties. See Inventory System for details."
+- **Players CAN undock over-weight** (soft cap with performance penalties, not hard block)
 
 **Weight Optimization Tips:**
 - Tooltip shows: "Tip: Remove low-value resources to make room for high-value loot"
