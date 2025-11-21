@@ -48,11 +48,11 @@ Combat in Fathoms Deepbalances **accessibility** (assisted targeting, clear feed
 **Operational Philosophy**: Project air power across vast oceanic distances, control air superiority
 
 - **Example Ships**: USS Essex, HMS Ark Royal, IJN Shokaku, KMS Graf Zeppelin
-- **Primary Armament**: 50-100+ aircraft in multiple squadrons
+- **Primary Armament**: 50-100+ aircraft organized in 3-10 wings (tier-dependent)
 - **Secondary Armament**: AA guns, limited surface weapons
 - **Tactical Role**: Stay 50-100km from surface combat, launch coordinated air strikes
 - **Vulnerability**: Massive target, minimal armor, catastrophic if sunk
-- **Example Operation**: USS Enterprise launches 24 dive bombers and 18 torpedo bombers against Japanese fleet at 80km range while defended by 36 fighters
+- **Example Operation**: USS Essex launches Wing 3 (12 dive bombers) and Wing 5 (12 torpedo bombers) against Japanese fleet at 80km range while Wing 1 (12 fighters) provides CAP defense
 
 #### **Battleships (T1-T10)** - Heavy Assault Platforms
 **Operational Philosophy**: Deliver overwhelming firepower, tank massive damage, dominate surface engagements
@@ -249,10 +249,11 @@ Combat in Fathoms Deepbalances **accessibility** (assisted targeting, clear feed
 - Flooding threatens ship stability
 
 **Tactical Adaptation**:
-- Crew reassignment to functional systems
+- Damaged modules reduce crew card efficiency (see [[Crew-Management]])
 - Emergency repairs restore partial capability
 - Formation changes to protect damaged vessels
 - Retreat decisions based on survivability assessment
+- **Note**: Crew cards remain at assigned hardpoints - cannot be reassigned mid-battle
 
 ---
 
@@ -313,7 +314,12 @@ Combat in Fathoms Deepbalances **accessibility** (assisted targeting, clear feed
 - Concentrated AA fire damages attacking aircraft
 - Fighter CAP intercepts bombers before attack
 - Evasive maneuvering reduces hit probability
-- Shoot down carrier aircraft to deplete resource pool
+- Shoot down carrier aircraft to deplete carrier's resource pool:
+  - **Aircraft Attrition**: Destroyed aircraft reduce wing effectiveness
+  - **Aviation Fuel Depletion**: Sustained air ops exhaust fuel reserves in carrier inventory
+  - **Ammunition Exhaustion**: Wings run out of ordnance, return for rearming
+  - **Replacement Limitations**: Carriers carry spare aircraft in cargo inventory for wing replacements, but inventory space is finite
+  - **Wing Destruction**: If entire wing eliminated, crew card returns to player inventory, wing slot remains empty until resupply
 
 ---
 

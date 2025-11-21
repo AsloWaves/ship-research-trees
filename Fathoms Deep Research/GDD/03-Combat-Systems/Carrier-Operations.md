@@ -31,85 +31,92 @@ Command a floating airbase projecting power across hundreds of kilometers while 
 
 ### Unlock Requirements
 
-**Carrier Access** requires completion of T5 Destroyer and 150,000 credits + Advanced Naval Command Certification. This ensures players have proven naval combat competence before commanding the most complex vessel type.
+**Carrier Access** requires researching the **Sims-Class Destroyer** first, then spending research points on your chosen carrier line (no arbitrary credit costs). This research tree progression ensures players understand basic naval operations before commanding complex carrier operations.
 
-**Why Carriers Require T5 Destroyer:**
-1. **Complexity**: Multi-domain operations require advanced tactical understanding
-2. **High Cost**: Carriers are expensive to operate and devastating to lose
-3. **Crew Intensive**: Requires 200+ trained crew members
-4. **Strategic Value**: Carriers change battlefield dynamics, require mature gameplay
+**Research Tree Flow**:
+- Progress through early destroyer lines
+- Research Sims-Class Destroyer (prerequisite for carriers and battleships)
+- Unlock carrier tree (starts with Langley-Class)
+- Continue researching carriers using research points only
+
+**Why Carriers Require Destroyer Experience:**
+1. **Complexity**: Multi-domain operations require tactical understanding developed in destroyers
+2. **High Cost**: Carriers are expensive to operate and catastrophic to lose
+3. **Strategic Value**: Carriers change battlefield dynamics, require operational maturity
 
 ---
 
 ### Carrier Tier Structure (T1-T10)
 
-#### **Tier 1-3 Carriers - Escort & Light Carriers**
+#### **Tier 1-3 Carriers - Early Carriers & Escort Types**
 
-**Ship Types**: CVE (Escort Carriers), CVL (Light Carriers)
+**Ship Types**: CV (Fleet Carriers), CVE (Escort Carriers)
 
-**Example Ships**:
-- **T1**: USS Bogue (CVE), HMS Audacity (CVE) - Basic escort carriers
-- **T2**: USS Independence (CVL), HMS Unicorn (CVL) - Light fleet carriers
-- **T3**: USS Sangamon (CVE), HMS Activity (CVL) - Advanced escort carriers
+**Example Ships (USA Tree)**:
+- **T1**: USS Langley (CV-1) - First US carrier, 36 aircraft, experimental platform
+- **T2**: USS Bogue-Class (CVE) - Escort carriers, 24-28 aircraft, convoy protection
+- **T2**: USS Lexington (CV-2) - Battlecruiser conversion, 78 aircraft, fast fleet carrier
+- **T3**: USS Ranger (CV-4) - First purpose-built carrier, 86 aircraft
 
 **Characteristics**:
-- **Aircraft Capacity**: 20-40 aircraft in 3-4 wings
-- **Operational Role**: Convoy escort, ASW operations, limited strike capability
+- **Aircraft Capacity**: 24-86 aircraft in 3-6 wings (varies by hull type)
+- **Operational Role**: Learning carrier ops (Langley), convoy escort (Bogue), fleet operations (Lexington/Ranger)
 - **Learning Focus**: Basic air operations, carrier positioning, resource management
-- **Vulnerability**: Moderate armor, can survive some mistakes
+- **Vulnerability**: Minimal armor (CVE) to moderate armor (CV), forgiving for new carrier players
 
 ---
 
-#### **Tier 4-6 Carriers - Fleet Carriers**
+#### **Tier 4-6 Carriers - WWII Fleet Carriers**
 
 **Ship Types**: CV (Fleet Carriers)
 
-**Example Ships**:
-- **T4**: HMS Ark Royal (CV), IJN Ryujo (CV)
-- **T5**: USS Essex (CV), HMS Illustrious (CV), IJN Shokaku (CV) ← Mid-tier reference ships
-- **T6**: USS Midway (CV), HMS Audacious (CV)
+**Example Ships (USA Tree)**:
+- **T4**: USS Yorktown-Class (CV-5, CV-6, CV-8) - Classic fleet carriers, 90 aircraft, WWII workhorses
+- **T5**: USS Essex-Class (CV-9+) - Mass-produced fleet carriers, 90-100 aircraft, 24 ships built
+- **T6**: USS Midway-Class (CV-41+) - Large armored carriers, enhanced capability
 
 **Characteristics**:
-- **Aircraft Capacity**: 50-80 aircraft in 4-6 wings
-- **Operational Role**: Fleet operations, major strikes, air superiority
-- **Complexity**: Full multi-domain operations, coordinated strike packages
-- **Vulnerability**: Heavy AA defenses but still vulnerable to coordinated attacks
+- **Aircraft Capacity**: 90-100+ aircraft in 6-8 wings
+- **Operational Role**: Fleet operations, major strikes, carrier task force backbone
+- **Complexity**: Full multi-domain operations, coordinated strike packages, resource-intensive
+- **Vulnerability**: Heavy AA defenses, armored flight decks (Midway), but still vulnerable to submarines and coordinated attacks
 
 ---
 
 #### **Tier 7-9 Carriers - Super Carriers**
 
-**Ship Types**: CVA (Attack Carriers), CVN (Nuclear - if extending to early Cold War)
+**Ship Types**: CVA (Attack Carriers), CVN (Nuclear Carriers)
 
-**Example Ships**:
-- **T7**: USS Forrestal-class concepts (late 1940s designs)
-- **T8**: Advanced fleet carriers with enhanced capability
-- **T9**: Ultimate WWII-era carrier technology
+**Example Ships (USA Tree)**:
+- **T7**: USS Forrestal-Class (CVA-59) - First supercarriers, angled deck, steam catapults
+- **T8**: USS Kitty Hawk-Class (CVA-63) - Improved Forrestal design
+- **T8**: USS Enterprise (CVN-65) - First nuclear carrier, unlimited range
+- **T9**: USS John F. Kennedy-Class (CVA-67) - Ultimate conventional supercarrier
 
 **Characteristics**:
-- **Aircraft Capacity**: 80-100+ aircraft in 6-8 wings
-- **Operational Role**: Theater-level air power projection, multi-carrier coordination
-- **Advanced Features**: Enhanced radar, improved deck operations, superior damage control
-- **Risk**: Ship/crew card permadeath begins at T6 (10%), escalates to 60% at T9
+- **Aircraft Capacity**: 80-100+ aircraft in 8-10 wings
+- **Operational Role**: Theater-level air power projection, multi-carrier task forces
+- **Advanced Features**: Angled flight decks, steam catapults, enhanced radar, nuclear propulsion (CVN)
+- **Risk**: Ship/crew card permadeath 10% (T6) → 20% (T7) → 40% (T8) → 60% (T9)
 
 ---
 
-#### **Tier 10 Carriers - Apex Carriers**
+#### **Tier 10 Carriers - Apex Supercarriers**
 
-**Ship Types**: Ultimate carriers, nation-specific supercarriers
+**Ship Types**: CVN (Nuclear Supercarriers)
 
-**Example Ships**:
-- USS United States (CV-58) concept
-- IJN Shinano (converted super-battleship to carrier)
-- HMS Malta-class supercarrier concept
-- KMS Graf Zeppelin II (advanced concept)
+**Example Ships (USA Tree)**:
+- **T10**: USS Nimitz-Class (CVN-68+) - Nuclear supercarriers, 90+ aircraft
+- **T10**: USS Gerald R. Ford-Class (CVN-78+) - Most advanced carriers ever built
+- **T10**: USS United States (CVA-58) - Cancelled supercarrier concept
+- (Other nations: IJN Shinano conversion, HMS Malta-class concept, Soviet Ulyanovsk)
 
 **Characteristics**:
-- **Aircraft Capacity**: 100-120+ aircraft in 8-10 wings
-- **Operational Role**: Server-defining air power, strategic dominance
-- **Ultimate Features**: Maximum range, best aircraft, elite crew required
-- **FULL PERMADEATH**: 100% ship and crew loss on destruction
-- **Server Impact**: T10 carrier operations become server-wide events
+- **Aircraft Capacity**: 90-120+ aircraft in 8-12 wings
+- **Operational Role**: Server-defining air power, strategic dominance, theater control
+- **Ultimate Features**: Nuclear propulsion (unlimited range), electromagnetic catapults (Ford), most advanced sensors and aircraft
+- **FULL PERMADEATH**: 100% ship and crew card loss on destruction (GUARANTEED)
+- **Server Impact**: T10 carrier deployments generate server-wide alerts and become major events
 
 ---
 
@@ -237,32 +244,47 @@ HMS Ark Royal sets Auto-movement waypoint 200km northeast to intercept Italian c
 
 ---
 
-### Crew Assignment & Specialization
+### Crew Card Assignment & Wing Operations
 
-#### **Crew Requirements Scale by Carrier Tier**
+#### **Minimum Crew Requirements to Leave Port**
 
-**Tier-Based Crew Scaling**:
-- **T1-T3 Carriers**: 100-150 total crew (smaller escort/light carriers)
-- **T4-T6 Carriers**: 200-250 total crew (fleet carriers) ← Examples below reference this tier
-- **T7-T9 Carriers**: 250-300 total crew (super carriers)
-- **T10 Carriers**: 300+ total crew (apex carriers)
+**CRITICAL**: Only **2 crew cards** required to leave port:
+- **Bridge Operator** (1 crew card) - Required for ship navigation and control
+- **Engine Operator** (1 crew card) - Required for propulsion
 
-**Required Crew Positions per Wing** (7-50 Stat System):
-- **Squadron Leader** (Fighter/Bomber Pilot): Affects wing accuracy and coordination (Dogfighting/Accuracy stat 7-50)
-- **Flight Leader** (Fighter/Bomber Pilot): Reduces preparation time (stat-based efficiency)
-- **Wingmen**: Standard pilots - 6-10 additional crew per wing
-- **Ground Crew** (Engineer classification): Affects preparation speed and reliability (Repair Speed stat 7-50)
+**No other crew card restrictions** - Players can leave port with minimal crew, but combat effectiveness depends on crew card assignments to positions.
 
-**Crew Stat Impact Examples** (applies to all tiers):
-- **Fighter Pilot Dogfighting stat 50** (legendary): +97% air-to-air effectiveness, +70% coordination, -60% prep time
-- **Bomber Pilot Accuracy stat 50** (legendary): +97% bombing accuracy, -60% prep time
-- **Engineer Repair Speed stat 50** (legendary): -60% preparation time, +105% aircraft reliability
-- **Rookie stats 7-10**: -25% to -15% accuracy, +35% to +15% fuel consumption, higher loss rates
+---
 
-**Tier-Based Crew Complexity**:
-- **T1-T3**: Simpler crew management, fewer specializations needed
-- **T4-T6**: Moderate complexity, specialized crew beneficial
-- **T7-T10**: High complexity, elite specialized crew essential for survival
+#### **Wing Crew Card Requirements**
+
+**Each Wing Requires 1 Aviation Crew Card Assigned**:
+- **Fighter Wing**: Requires 1 Fighter Pilot crew card (Dogfighting stat 7-50)
+- **Dive Bomber Wing**: Requires 1 Bomber Pilot crew card (Bombing Accuracy stat 7-50)
+- **Torpedo Bomber Wing**: Requires 1 Torpedo Pilot crew card (Torpedo Accuracy stat 7-50)
+
+**Wing Cannot Launch Without Crew Card**: If no crew card assigned to wing hardpoint, that wing cannot conduct operations.
+
+**Crew Card Stat Impact** (7-50 stat system, see [[Crew-Skills]]):
+- **Fighter Pilot Dogfighting stat 50** (legendary): +70% air-to-air effectiveness, -60% prep time
+- **Bomber Pilot Accuracy stat 50** (legendary): +70% bombing accuracy, -60% prep time
+- **Torpedo Pilot Accuracy stat 50** (legendary): +70% torpedo hit chance, -60% prep time
+- **Rookie stats 7-10**: -25% to -15% accuracy, +25% fuel consumption, higher loss rates
+
+**Wing Size Variation by Carrier**:
+- **Small Carriers** (T1-T3): 4-6 aircraft per wing
+- **Medium Carriers** (T4-T6): 8-12 aircraft per wing
+- **Large Carriers** (T7-T9): 10-15 aircraft per wing
+- **Super Carriers** (T10): 12-18 aircraft per wing
+
+**Crew Card Assignment Example (USS Essex T5)**:
+- Wing 1: Level 75 Fighter Pilot crew card (stat 35) → 12 F6F Hellcats
+- Wing 2: Level 50 Fighter Pilot crew card (stat 28) → 12 F6F Hellcats
+- Wing 3: Level 90 Bomber Pilot crew card (stat 42) → 12 SBD Dauntless
+- Wing 4: Level 60 Bomber Pilot crew card (stat 31) → 12 SBD Dauntless
+- Wing 5: Level 100 Torpedo Pilot crew card (stat 45) → 12 TBF Avengers
+- Wing 6: Level 45 Torpedo Pilot crew card (stat 26) → 12 TBF Avengers
+- **Total**: 6 aviation crew cards control 72 aircraft across 6 wings
 
 ---
 
@@ -276,24 +298,48 @@ HMS Ark Royal sets Auto-movement waypoint 200km northeast to intercept Italian c
 - **TBF Avenger**: 3x4 inventory spaces (12 grid cells) - Large torpedo bomber
 - **A6M Zero**: 2x2 inventory spaces (4 grid cells) - Compact fighter
 
+**Aircraft Inventory Usage**:
+- **Active Wings**: Aircraft currently assigned to wing slots (ready for launch)
+- **Spare Aircraft**: Extra aircraft stored in cargo inventory for replacing combat losses
+- **Salvaged Aircraft**: Captured or recovered aircraft stored for later use/sale
+
 **Storage Optimization Example**:
 
 USS Enterprise (60 grid cell aircraft inventory) optimally carries:
-- 6 Hellcats (36 grid cells)
-- 2 Dauntless (16 grid cells)
-- 1 Avenger (8 grid cells)
-- **Total**: 54/60 grid cells used, 6 spare grid cells for salvaged aircraft or replacement parts
+- 6 Hellcats (36 grid cells) - 3 for active wings, 3 as spares
+- 2 Dauntless (16 grid cells) - 1 active, 1 spare
+- 1 Avenger (8 grid cells) - Active wing aircraft
+- **Total**: 54/60 grid cells used, 6 spare grid cells for additional replacements or valuable loot
+
+**Strategic Planning**:
+- Carriers must balance active aircraft vs. spare aircraft vs. cargo space
+- More spares = safer long deployments but less profitable cargo capacity
+- See [[Aircraft Replacement System]] below for spare aircraft mechanics
 
 ---
 
 ### Aviation Resource Management
 
-#### **Fuel Types & Consumption**
+#### **Aviation Fuel (Separate from Ship Fuel)**
 
-**Aviation Fuel Options**:
-- **100-Octane Aviation Gasoline**: 2-4 fuel units per flight hour per aircraft
-- **High-Performance Fuel**: 3-6 fuel units per hour, +15% aircraft performance
-- **Emergency Fuel**: 1 unit per hour, -25% performance, risk of engine failure
+**CRITICAL**: Aviation fuel is **completely separate** from ship propulsion fuel and must be stored in carrier cargo inventory.
+
+**Aviation Fuel Types** (stored in cargo grid):
+- **100-Octane Aviation Gasoline**: 1x2 grid cells, stack to 100/stack, 2-4 fuel units per flight hour per aircraft
+- **High-Performance Fuel**: 1x2 grid cells, stack to 50/stack, 3-6 fuel units per hour, +15% aircraft performance
+- **Emergency Fuel**: 1x1 grid cells, stack to 200/stack, 1 unit per hour, -25% performance, risk of engine failure
+
+**Fuel Requirement to Launch Wings**:
+- Wings **cannot launch** without sufficient aviation fuel in carrier inventory
+- Each wing requires fuel allocation before launch (assigned in Wing Assignment Page)
+- Running out of aviation fuel mid-mission grounds aircraft until resupply
+
+**Example Fuel Planning (6-hour sortie with 3 wings)**:
+- 3 wings × 12 aircraft/wing = 36 aircraft total
+- 36 aircraft × 3 fuel units/hour × 6 hours = **648 aviation fuel units needed**
+- Storage: 7 stacks of 100-Octane (700 units) consumes 14 cargo grid cells
+
+---
 
 #### **Ammunition Storage (Tetris Inventory)**
 
@@ -303,6 +349,11 @@ USS Enterprise (60 grid cell aircraft inventory) optimally carries:
 - **Aerial Torpedoes**: 2x4 grid cells, stack to 3/stack, devastating ship-killers
 - **.50 Cal Ammunition**: 1x1 grid cells, stack to 1000/stack, bulk fighter ammunition
 - **20mm Cannon Shells**: 1x2 grid cells, stack to 500/stack, heavy fighter ammunition
+
+**Ammunition is OPTIONAL** for launch:
+- Wings can launch without ammunition (reconnaissance, CAP, relocation)
+- Combat effectiveness requires appropriate ammunition loaded
+- Ammunition assigned per wing in Wing Assignment Page (see below)
 
 #### **Maintenance Supplies**
 
@@ -333,6 +384,75 @@ USS Enterprise (60 grid cell aircraft inventory) optimally carries:
 - **Essex-Class**: 3 wings simultaneously ready (large deck capacity)
 - **Illustrious-Class**: 2 wings simultaneously ready (armored deck limits)
 - **Shokaku-Class**: 4 wings simultaneously ready (efficient operations)
+
+---
+
+## Wing Assignment Page - Pre-Launch Configuration
+
+### Overview
+
+The **Wing Assignment Page** is where players configure wings before launch by designating aviation fuel and ammunition from carrier cargo inventory. This is accessed before initiating launch preparation.
+
+### Wing Configuration Interface
+
+**For Each Wing, Players Must Assign**:
+
+1. **Crew Card Assignment** (Required):
+   - Drag crew card from crew roster to wing slot
+   - Must match wing type (Fighter Pilot → Fighter Wing, Bomber Pilot → Bomber Wing, etc.)
+   - **Wing cannot launch without crew card**
+
+2. **Aviation Fuel Allocation** (Required):
+   - Designate fuel amount from carrier inventory
+   - Pulled from 100-Octane, High-Performance, or Emergency Fuel stacks
+   - **Wing cannot launch without fuel allocation**
+   - Recommended: Allocate 150-200% of estimated mission fuel (safety margin)
+
+3. **Ammunition Assignment** (Optional):
+   - Select ammunition type and quantity from carrier inventory
+   - Fighter wings: Designate .50 Cal or 20mm Cannon Shells
+   - Dive Bomber wings: Designate 250lb or 500lb Bombs
+   - Torpedo Bomber wings: Designate Aerial Torpedoes
+   - **Wing can launch without ammo** (reconnaissance/relocation missions)
+
+### Example Wing Assignment (USS Essex Strike Mission)
+
+**Wing 1 - Fighter Escort (F6F Hellcat)**:
+- Crew Card: Level 75 Fighter Pilot (Dogfighting stat 35)
+- Aviation Fuel: 288 units (12 aircraft × 3 units/hour × 8 hours)
+- Ammunition: 12,000 rounds .50 Cal (12 stacks)
+- **Status**: ✅ Ready to launch
+
+**Wing 3 - Dive Bomber Strike (SBD Dauntless)**:
+- Crew Card: Level 90 Bomber Pilot (Bombing Accuracy stat 42)
+- Aviation Fuel: 384 units (12 aircraft × 4 units/hour × 8 hours)
+- Ammunition: 24× 500lb Bombs (5 stacks from inventory)
+- **Status**: ✅ Ready to launch
+
+**Wing 5 - Torpedo Strike (TBF Avenger)**:
+- Crew Card: Level 100 Torpedo Pilot (Torpedo Accuracy stat 45)
+- Aviation Fuel: 576 units (12 aircraft × 6 units/hour × 8 hours - heavy fuel consumption)
+- Ammunition: 12× Aerial Torpedoes (4 stacks from inventory)
+- **Status**: ✅ Ready to launch
+
+**Wing 2 - Reconnaissance (F6F Hellcat)**:
+- Crew Card: Level 50 Fighter Pilot (Dogfighting stat 28)
+- Aviation Fuel: 216 units (12 aircraft × 3 units/hour × 6 hours)
+- Ammunition: **None** (reconnaissance only, no combat expected)
+- **Status**: ✅ Ready to launch (no ammo needed for recon)
+
+### Resource Deduction
+
+**When Wings Launch**:
+- Aviation fuel **immediately deducted** from carrier inventory
+- Ammunition **immediately deducted** from carrier inventory
+- Resources cannot be recovered unless wing returns to carrier
+- Lost aircraft = lost fuel + ammunition
+
+**Resource Management Strategy**:
+- Always maintain 20-30% fuel reserve in inventory
+- Stock multiple ammunition types for tactical flexibility
+- Balance cargo space between fuel, ammunition, and valuable cargo
 
 ---
 
@@ -523,6 +643,60 @@ HMS Ark Royal (500 fuel units) plans 8-hour patrol mission with 4 wings:
 - **Combat Losses**: Shot down by enemy fighters or AA fire (permanent loss)
 - **Operational Losses**: Engine failure, weather, navigation errors (10-15% of total losses)
 - **Landing Accidents**: Deck crashes, especially in rough weather (aircraft repairable but crew at risk)
+
+---
+
+### Aircraft Replacement System
+
+**Spare Aircraft in Cargo Inventory**:
+Carriers can store **spare aircraft** in cargo inventory (tetris grid) to replace losses in active wings:
+- **F6F Hellcat**: 2x3 inventory spaces - Can carry spares for fighter wing replacements
+- **SBD Dauntless**: 2x4 inventory spaces - Can carry spares for dive bomber wing replacements
+- **TBF Avenger**: 3x4 inventory spaces - Can carry spares for torpedo bomber wing replacements
+
+**Replacement Mechanics**:
+
+**Individual Aircraft Losses** (Wing Partially Destroyed):
+- Wing loses aircraft during combat/operations
+- **Example**: Wing 1 starts with 12 F6F Hellcats, loses 4 in combat, returns with 8
+- Upon return to carrier, player can assign spare F6F Hellcats from inventory to restore wing to 12 aircraft
+- **Limitation**: Can only replace if spare aircraft available in cargo inventory
+- **Cost**: No credit cost for replacement, just inventory management
+- **Time**: Requires preparation time based on crew stats before wing can launch again
+
+**Complete Wing Destruction** (All Aircraft Lost):
+- Entire wing eliminated in combat (all 12 aircraft shot down)
+- **Crew Card Returns**: The aviation crew card assigned to that wing **automatically returns to player inventory**
+- Wing slot becomes **empty** and inactive
+- **To Rebuild Wing**:
+  1. Must have sufficient replacement aircraft in cargo inventory (e.g., 12x F6F Hellcat)
+  2. Assign replacement aircraft from cargo to empty wing slot
+  3. Re-assign aviation crew card to rebuilt wing
+  4. Wing becomes operational again after preparation time
+
+**Strategic Implications**:
+- **Cargo Space Trade-Off**: Carrying spare aircraft reduces cargo space for fuel, ammunition, or valuable loot
+- **Risk Management**: More spares = safer operations but less profitable (reduced cargo capacity)
+- **Attrition Planning**: Long deployments require spare aircraft planning
+- **Wing Loss**: Losing entire wing is recoverable IF you have spares, but losing crew card (permadeath T6+) is catastrophic
+
+**Example Replacement Scenario (USS Essex)**:
+
+**Before Combat**:
+- Wing 1: 12 F6F Hellcats (Fighter Pilot crew card Level 75)
+- Cargo Inventory: 6 spare F6F Hellcats (36 grid cells), 4 spare SBD Dauntless (32 grid cells)
+
+**After Combat**:
+- Wing 1: 5 F6F Hellcats return (7 lost in combat)
+- **Action**: Assign 7 spare F6F Hellcats from cargo inventory to Wing 1
+- **Result**: Wing 1 restored to 12 F6F Hellcats, crew card remains assigned, ready for next sortie
+- **Remaining Cargo**: 0 spare F6F Hellcats, 4 spare SBD Dauntless (running low on fighter replacements)
+
+**Complete Wing Loss Example**:
+- Wing 3: All 12 SBD Dauntless destroyed
+- **Automatic**: Bomber Pilot crew card (Level 90) returns to player inventory (safe)
+- **To Rebuild**: Assign 12 spare SBD Dauntless from cargo + re-assign crew card
+- **If No Spares**: Wing 3 remains empty until return to port for resupply
 
 ---
 
