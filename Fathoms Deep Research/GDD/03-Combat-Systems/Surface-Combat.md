@@ -23,7 +23,6 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 #### **T1-T3 Destroyers - Learning Phase**
 - **Example Ships**: USS Porter (T1), USS Mahan (T2), USS Fletcher (T3)
 - **Characteristics**: Fast (30-35 knots), fragile, torpedo-focused
-- **Crew**: 50-75 crew members
 - **Learning Focus**: Speed management, torpedo tactics, evasion, positioning
 - **Death Penalty**: 0% permadeath, full ship recovery (safe anywhere on map)
 - **Typical Operations**: Safe learning waters, patrol missions, escort duty
@@ -32,14 +31,12 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 - **Unlock Gates**: T4 = Cruisers/Subs unlock, T5 = Carriers/BBs unlock
 - **Example Ships**: USS Gearing (T4), USS Sumner (T5), Advanced concepts (T6)
 - **Characteristics**: Enhanced firepower, better survivability
-- **Crew**: 75-100 crew members
 - **Death Penalty**: T4-T5 = 0% permadeath (safe), T6 = 10% ship/crew card permadeath risk begins
 - **Typical Operations**: Contested waters, fleet screening, convoy attacks
 
 #### **T7-T10 Destroyers - Elite Operations**
 - **Example Ships**: Post-war destroyer concepts
 - **Characteristics**: Maximum speed, advanced sensors, elite firepower
-- **Crew**: 100-125 crew members
 - **Death Penalty**: T7=20%, T8=40%, T9=60%, T10=100% ship/crew card permadeath
 - **Typical Operations**: Deep hostile territory, high-stakes fleet battles, elite reconnaissance
 
@@ -51,21 +48,18 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 - **Light Cruisers**: USS Brooklyn (T1), USS Cleveland (T2), USS Worcester (T3)
 - **Heavy Cruisers**: USS Pensacola (T1), USS New Orleans (T2), USS Baltimore (T3)
 - **Characteristics**: Balanced combat, versatile operations
-- **Crew**: 75-150 crew members
 - **Firepower**: 8-15 guns (6"-8" caliber)
 - **Role**: Independent operations, convoy escort
 
 #### **T4-T6 Cruisers - Competitive Play**
 - **Example Ships**: USS Des Moines (T4), Advanced concepts (T5-T6)
 - **Characteristics**: Superior firepower, good armor
-- **Crew**: 150-200 crew members
 - **Death Penalty**: T6 = 10% ship/crew card permadeath
 - **Role**: Fleet support, surface combat dominance
 
 #### **T7-T10 Cruisers - Ultimate Cruisers**
 - **Example Ships**: Super-cruiser concepts, missile cruiser prototypes (T10)
 - **Characteristics**: Maximum firepower for cruiser class
-- **Crew**: 200-250 crew members
 - **Death Penalty**: 40-100% permadeath (T10 = full)
 - **Role**: Fleet command, multi-domain coordination
 
@@ -76,14 +70,12 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 #### **T1-T3 Battleships - Dreadnoughts**
 - **Example Ships**: USS Wyoming (T1), USS New York (T2), USS Nevada (T3)
 - **Characteristics**: Heavy armor, slow speed, devastating firepower
-- **Crew**: 150-200 crew members
 - **Main Armament**: 8-12 guns (12"-14" caliber)
 - **Role**: Line of battle, shore bombardment
 
 #### **T4-T6 Battleships - Fast Battleships**
 - **Example Ships**: USS North Carolina (T4), USS Iowa (T5), USS Montana (T6)
 - **Characteristics**: Speed + firepower, balanced design
-- **Crew**: 200-250 crew members
 - **Main Armament**: 9-12 guns (14"-16" caliber)
 - **Death Penalty**: T6 = 10% ship/crew card permadeath
 - **Role**: Fleet flagship, capital ship duels
@@ -91,7 +83,6 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 #### **T7-T10 Battleships - Super Battleships**
 - **Example Ships**: IJN Yamato equivalent (T7), Advanced designs (T8-T9), Ultimate concepts (T10)
 - **Characteristics**: Maximum armor, devastating guns (18"+ caliber)
-- **Crew**: 250-300+ crew members
 - **Main Armament**: 9-12 guns (16"-20" caliber concepts)
 - **Death Penalty**: 40-100% permadeath (T10 = full)
 - **Role**: Strategic deterrence, server-defining presence
@@ -100,13 +91,13 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 
 ### Surface Ship Class Comparison
 
-| Ship Type | Tier | Speed | Armor | Firepower | Crew | Unlock | Best For |
-|-----------|------|-------|-------|-----------|------|--------|----------|
-| Destroyer | T1-T10 | V.Fast | Weak | Med | 50-125 | Start | Learning, torpedoes, scouting |
-| Light Cruiser | T1-T10 | Fast | Light | Med | 75-200 | DD T4 | AA escort, fast response |
-| Heavy Cruiser | T1-T10 | Med | Med | High | 100-250 | DD T4 | Balanced combat, independent ops |
-| Fast BB | T1-T10 | Med | Heavy | V.High | 150-250 | DD T5 | Fleet operations, prestige |
-| Super BB | T7-T10 | Slow | V.Heavy | Extreme | 250-300+ | DD T5 | Strategic dominance |
+| Ship Type | Tier | Speed | Armor | Firepower | Unlock | Best For |
+|-----------|------|-------|-------|-----------|--------|----------|
+| Destroyer | T1-T10 | V.Fast | Weak | Med | Start | Learning, torpedoes, scouting |
+| Light Cruiser | T1-T10 | Fast | Light | Med | DD T4 | AA escort, fast response |
+| Heavy Cruiser | T1-T10 | Med | Med | High | DD T4 | Balanced combat, independent ops |
+| Fast BB | T1-T10 | Med | Heavy | V.High | DD T5 | Fleet operations, prestige |
+| Super BB | T7-T10 | Slow | V.Heavy | Extreme | DD T5 | Strategic dominance |
 
 ---
 

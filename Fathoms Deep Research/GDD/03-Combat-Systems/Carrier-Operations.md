@@ -56,7 +56,6 @@ Command a floating airbase projecting power across hundreds of kilometers while 
 - **Aircraft Capacity**: 20-40 aircraft in 3-4 wings
 - **Operational Role**: Convoy escort, ASW operations, limited strike capability
 - **Learning Focus**: Basic air operations, carrier positioning, resource management
-- **Crew Requirements**: 100-150 crew members
 - **Vulnerability**: Moderate armor, can survive some mistakes
 
 ---
@@ -74,7 +73,6 @@ Command a floating airbase projecting power across hundreds of kilometers while 
 - **Aircraft Capacity**: 50-80 aircraft in 4-6 wings
 - **Operational Role**: Fleet operations, major strikes, air superiority
 - **Complexity**: Full multi-domain operations, coordinated strike packages
-- **Crew Requirements**: 200-250 crew members
 - **Vulnerability**: Heavy AA defenses but still vulnerable to coordinated attacks
 
 ---
@@ -92,7 +90,6 @@ Command a floating airbase projecting power across hundreds of kilometers while 
 - **Aircraft Capacity**: 80-100+ aircraft in 6-8 wings
 - **Operational Role**: Theater-level air power projection, multi-carrier coordination
 - **Advanced Features**: Enhanced radar, improved deck operations, superior damage control
-- **Crew Requirements**: 250-300 crew members
 - **Risk**: Ship/crew card permadeath begins at T6 (10%), escalates to 60% at T9
 
 ---
@@ -111,7 +108,6 @@ Command a floating airbase projecting power across hundreds of kilometers while 
 - **Aircraft Capacity**: 100-120+ aircraft in 8-10 wings
 - **Operational Role**: Server-defining air power, strategic dominance
 - **Ultimate Features**: Maximum range, best aircraft, elite crew required
-- **Crew Requirements**: 300+ crew members
 - **FULL PERMADEATH**: 100% ship and crew loss on destruction
 - **Server Impact**: T10 carrier operations become server-wide events
 
@@ -119,12 +115,12 @@ Command a floating airbase projecting power across hundreds of kilometers while 
 
 ### Carrier Type Comparison
 
-| Tier | Type | Aircraft | Wings | Crew | Cost | Death Risk | Best For |
-|------|------|----------|-------|------|------|------------|----------|
-| T1-T3 | CVE/CVL | 20-40 | 3-4 | 100-150 | Low | 0% | Learning, convoy escort |
-| T4-T6 | CV | 50-80 | 4-6 | 200-250 | Med | 0-10% | Fleet operations |
-| T7-T9 | CVA | 80-100 | 6-8 | 250-300 | High | 20-60% | Strategic strikes |
-| T10 | Super CV | 100-120 | 8-10 | 300+ | Extreme | 100% | Elite dominance |
+| Tier | Type | Aircraft | Wings | Cost | Death Risk | Best For |
+|------|------|----------|-------|------|------------|----------|
+| T1-T3 | CVE/CVL | 20-40 | 3-4 | Low | 0% | Learning, convoy escort |
+| T4-T6 | CV | 50-80 | 4-6 | Med | 0-10% | Fleet operations |
+| T7-T9 | CVA | 80-100 | 6-8 | High | 20-60% | Strategic strikes |
+| T10 | Super CV | 100-120 | 8-10 | Extreme | 100% | Elite dominance |
 
 ---
 

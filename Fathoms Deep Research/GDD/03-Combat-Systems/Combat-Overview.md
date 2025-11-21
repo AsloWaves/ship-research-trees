@@ -44,7 +44,7 @@ Combat in Fathoms Deepbalances **accessibility** (assisted targeting, clear feed
 
 ### Surface Vessels - Gun and Torpedo Combat
 
-#### **Aircraft Carriers** - Mobile Airbases
+#### **Aircraft Carriers (T1-T10)** - Mobile Airbases
 **Operational Philosophy**: Project air power across vast oceanic distances, control air superiority
 
 - **Example Ships**: USS Essex, HMS Ark Royal, IJN Shokaku, KMS Graf Zeppelin
@@ -52,10 +52,9 @@ Combat in Fathoms Deepbalances **accessibility** (assisted targeting, clear feed
 - **Secondary Armament**: AA guns, limited surface weapons
 - **Tactical Role**: Stay 50-100km from surface combat, launch coordinated air strikes
 - **Vulnerability**: Massive target, minimal armor, catastrophic if sunk
-- **Crew Requirements**: 200+ crew members, specialized aviation personnel
 - **Example Operation**: USS Enterprise launches 24 dive bombers and 18 torpedo bombers against Japanese fleet at 80km range while defended by 36 fighters
 
-#### **Battleships** - Heavy Assault Platforms
+#### **Battleships (T1-T10)** - Heavy Assault Platforms
 **Operational Philosophy**: Deliver overwhelming firepower, tank massive damage, dominate surface engagements
 
 - **Example Ships**: USS Iowa, HMS King George V, IJN Yamato, KMS Bismarck
@@ -63,10 +62,9 @@ Combat in Fathoms Deepbalances **accessibility** (assisted targeting, clear feed
 - **Secondary Armament**: 8-20 medium guns (5"-8"), extensive AA suite
 - **Tactical Role**: Anchor battle lines, engage enemy capital ships, shore bombardment
 - **Strengths**: Massive armor, enormous firepower, intimidation factor
-- **Crew Requirements**: 150-200 crew, specialized gunnery teams
 - **Example Engagement**: KMS Bismarck engages HMS Hood at 22km range - single salvo penetrates magazine, causing catastrophic explosion
 
-#### **Heavy Cruisers** - Balanced Combat Platforms
+#### **Heavy Cruisers (T1-T10)** - Balanced Combat Platforms
 **Operational Philosophy**: Independent operations, convoy escort, cruiser warfare
 
 - **Example Ships**: USS Baltimore, HMS Kent, IJN Takao, KMS Admiral Hipper
@@ -74,10 +72,9 @@ Combat in Fathoms Deepbalances **accessibility** (assisted targeting, clear feed
 - **Secondary Armament**: 6-12 medium guns (5"-6"), torpedo tubes, AA guns
 - **Tactical Role**: Long-range patrol, escort duties, independent raids
 - **Balance**: Good armor, speed, firepower - no major weaknesses
-- **Crew Requirements**: 100-150 crew, versatile specialists
 - **Example Mission**: HMS Kent escorts convoy through U-boat infested waters, engages surface raiders while directing destroyer screen
 
-#### **Light Cruisers** - Fast Multi-Role Platforms
+#### **Light Cruisers (T1-T10)** - Fast Multi-Role Platforms
 **Operational Philosophy**: Fast response, anti-destroyer work, squadron leadership
 
 - **Example Ships**: USS Atlanta, HMS Dido, IJN Sendai, KMS Leipzig
@@ -85,9 +82,8 @@ Combat in Fathoms Deepbalances **accessibility** (assisted targeting, clear feed
 - **Secondary Armament**: Torpedo tubes, extensive AA capability
 - **Tactical Role**: Destroyer leader, AA escort, fast reconnaissance
 - **Advantages**: High speed, rapid-fire guns, excellent AA protection
-- **Crew Requirements**: 75-125 crew, emphasis on fire control
 
-#### **Destroyers** - Fast Attack & Anti-Submarine
+#### **Destroyers (T1-T10)** - Fast Attack & Anti-Submarine
 **Operational Philosophy**: Torpedo attacks, submarine hunting, escort screening
 
 - **Example Ships**: USS Fletcher, HMS Tribal, IJN Fubuki, KMS Z-23
@@ -95,14 +91,13 @@ Combat in Fathoms Deepbalances **accessibility** (assisted targeting, clear feed
 - **Secondary Armament**: Depth charges, sonar, AA guns
 - **Tactical Role**: Torpedo runs, sub hunting, convoy escort, smoke screens
 - **Capabilities**: Highest speed, stealth torpedo attacks, ASW operations
-- **Crew Requirements**: 50-75 crew, emphasis on torpedo and sonar specialists
 - **Example Tactic**: USS Fletcher makes high-speed torpedo run against Japanese cruiser column under cover of smoke screen
 
 ---
 
 ### Submarine Warfare - Stealth Operations
 
-#### **Attack Submarines** - Stealth Commerce Raiders
+#### **Attack Submarines (T1-T10)** - Stealth Commerce Raiders
 **Operational Philosophy**: Unseen predator, strike from stealth, disrupt enemy supply lines
 
 - **Example Ships**: USS Gato (T4), HMS T-class (T4), IJN I-400 (T5-T6), KMS U-boat Type VII (T4)
@@ -110,10 +105,9 @@ Combat in Fathoms Deepbalances **accessibility** (assisted targeting, clear feed
 - **Secondary Armament**: Deck gun (88mm-127mm), AA guns
 - **Tactical Role**: Commerce raiding, fleet screening, special operations
 - **Stealth Advantage**: Nearly undetectable when submerged properly
-- **Crew Requirements**: 40-80 crew, specialized submarine operations
 - **Example Hunt**: U-552 (T4 Type VII) stalks British convoy for 6 hours, positions for perfect torpedo spread, sinks 3 merchants before diving deep to escape destroyers
 
-#### **Fleet Submarines** - Long-Range Strategic Platforms
+#### **Fleet Submarines (T4-T10)** - Long-Range Strategic Platforms
 **Operational Philosophy**: Extended operations far from base, strategic reconnaissance
 
 - **Example Ships**: USS Balao, IJN I-class, KMS U-boat Type IX
@@ -480,7 +474,8 @@ Combat in Fathoms Deepbalances **accessibility** (assisted targeting, clear feed
 **Tactical Depth**:
 - Manual control provides accuracy bonuses
 - Module optimization creates specializations
-- Crew stats (7-50 system) enhance capabilities: Accuracy, Reload, Repair Speed, Fire Fighting, etc.
+- Crew card stats (7-50 system) enhance capabilities: Accuracy, Reload, Repair Speed, Fire Fighting, etc. (see [[Crew-Skills]])
+- Each turret/position requires one crew card equipped to hardpoint (see [[Crew-Management]])
 - Positioning and tactics matter more than raw stat numbers
 
 ---
@@ -494,10 +489,12 @@ Combat in Fathoms Deepbalances **accessibility** (assisted targeting, clear feed
 - [Damage-Model.md](Damage-Model.md) - Penetration and critical hit systems
 
 **Related Systems**:
-- Ship Progression System (GDD Core)
-- Crew Management System (GDD Core)
-- Module Customization System (GDD Core)
-- Extraction and Permadeath System (GDD Core)
+- [[Ship-Progression]] - Ship tier advancement and unlocks
+- [[Crew-Management]] - Crew card hardpoint system and positions
+- [[Crew-Progression]] - Crew card leveling and efficiency
+- [[Crew-Permadeath]] - Crew card loss mechanics by tier
+- [[Module-System]] - Turret hardpoints and weapon fitting
+- [[Extraction-Mechanics]] - Extraction-based gameplay loops
 
 ---
 

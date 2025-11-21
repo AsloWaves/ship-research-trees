@@ -26,20 +26,20 @@ NavyField 1-inspired stat-based crew progression system with **RNG recruitment m
 - **Reroll Mechanics**: Players can dismiss and recruit again to hunt for better stats
 - **Classification Bonuses**: Choosing classification adds +5 to primary stats immediately
 - **Level-Up Growth**: Small stat gains per level (+0.12 primary, +0.06 secondary per level)
-- **Wide Stat Range**: 7-35 range creates significant differentiation between crews
+- **Wide Stat Range**: 7-50 range creates significant differentiation between crews
 - **Direct Mechanical Effects**: Each stat point directly affects gameplay (transparent calculations)
 - **Universal Crews**: All crews work on all ships, but stats favor certain ship types
 
 ### NavyField 1 Heritage
 This system faithfully recreates NavyField 1's RNG sailor system:
 - ✅ **Random starting stats** when recruited (can reroll by recruiting again)
-- ✅ **Wide stat ranges** (7-35 vs NF1's 7-12) for more differentiation
+- ✅ **Wide stat ranges** (7-50 vs NF1's 7-12) for more differentiation
 - ✅ **Classification unlocks** add immediate stat bonuses
 - ✅ **Level progression** improves stats gradually over time
 - ✅ **Hunting for good recruits** creates early-game engagement
 
 **Key Improvements Over NavyField 1:**
-- **Wider stat range** (7-35 vs 7-12) allows for more endgame progression
+- **Wider stat range** (7-50 vs 7-12) allows for more endgame progression
 - **Clearer stat-to-gameplay mappings** (transparent effect calculations)
 - **18 classifications** (vs 12) including extraction-specific roles
 - **Transparent RNG** (show stat ranges before recruiting)
@@ -296,19 +296,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Anti-aircraft battery operators. Critical for carrier-heavy metas and fleet defense.
 
 **Primary Stats**:
-- **AA Accuracy (7-35)**: Hit chance vs aircraft
+- **AA Accuracy (7-50)**: Hit chance vs aircraft
   - **7**: 15% hit rate vs fighters (hopeless)
   - **15**: 40% hit rate vs fighters (baseline)
   - **25**: 70% hit rate vs fighters (expert)
   - **35**: 95% hit rate vs fighters (legendary, air superiority)
-- **AA Reload (7-35)**: Rate of fire for AA batteries
+- **AA Reload (7-50)**: Rate of fire for AA batteries
   - **7**: -30% AA fire rate (slow, vulnerable to air)
   - **15**: +0% AA fire rate (baseline)
   - **25**: +40% AA fire rate (expert)
   - **35**: +80% AA fire rate (legendary, flak wall)
 
 **Secondary Stats**:
-- **Detection (7-35)**: Aircraft spotting range
+- **Detection (7-50)**: Aircraft spotting range
   - **7**: -30% aircraft detection (blind)
   - **15**: +0% aircraft detection (baseline)
   - **25**: +30% aircraft detection (early warning)
@@ -335,19 +335,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Torpedo tube operators and submarine torpedo room crews. High-risk, high-reward damage dealers.
 
 **Primary Stats**:
-- **Torpedo Accuracy (7-35)**: Torpedo spread control and aim
+- **Torpedo Accuracy (7-50)**: Torpedo spread control and aim
   - **7**: ±20° spread deviation (wild, unreliable)
   - **15**: ±10° spread deviation (baseline)
   - **25**: ±4° spread deviation (expert, tight spread)
   - **35**: ±1° spread deviation (legendary, sniper torpedoes)
-- **Tube Reload (7-35)**: Torpedo reload speed
+- **Tube Reload (7-50)**: Torpedo reload speed
   - **7**: -30% reload speed (very slow, 85s+ for destroyers)
   - **15**: +0% reload speed (baseline: 60s destroyers, 90s submarines)
   - **25**: +40% reload speed (expert: 43s destroyers, 64s subs)
   - **35**: +80% reload speed (legendary: 33s destroyers, 50s subs)
 
 **Secondary Stats**:
-- **Spread Control (7-35)**: Torpedo spread pattern control
+- **Spread Control (7-50)**: Torpedo spread pattern control
   - **7**: Fixed spread patterns only, wide spreads
   - **15**: Basic manual spread control (baseline)
   - **25**: Advanced pattern control, tighter spreads
@@ -374,19 +374,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Engine room crews controlling ship propulsion and maneuverability. Essential for all ships.
 
 **Primary Stats**:
-- **Engine Power (7-35)**: Ship speed and acceleration
+- **Engine Power (7-50)**: Ship speed and acceleration
   - **7**: -25% max speed, -35% acceleration (crippled)
   - **15**: +0% max speed, +0% acceleration (baseline)
   - **25**: +20% max speed, +30% acceleration (expert)
   - **35**: +40% max speed, +65% acceleration (legendary, speed demon)
-- **Repair Speed (7-35)**: Engine/propulsion module repair rate
+- **Repair Speed (7-50)**: Engine/propulsion module repair rate
   - **7**: -30% repair speed (painfully slow)
   - **15**: +0% repair speed (baseline: 10% HP per 10s)
   - **25**: +60% repair speed (expert: 16% HP per 10s)
   - **35**: +120% repair speed (legendary: 22% HP per 10s)
 
 **Secondary Stats**:
-- **Restore Speed (7-35)**: Disabled module reactivation time
+- **Restore Speed (7-50)**: Disabled module reactivation time
   - **7**: -20% restore speed (slow recovery)
   - **15**: +0% restore speed (baseline: 60s)
   - **25**: +50% restore speed (expert: 40s)
@@ -413,19 +413,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Firefighting and flooding control crews. Keeps ships alive under sustained fire.
 
 **Primary Stats**:
-- **Fire Fighting (7-35)**: Fire damage reduction and extinguish speed
+- **Fire Fighting (7-50)**: Fire damage reduction and extinguish speed
   - **7**: -15% fire damage mitigation, -20% extinguish speed (death trap)
   - **15**: +0% fire damage mitigation, +0% extinguish speed (baseline: 5% HP/tick, 30s extinguish)
   - **25**: -45% fire damage, +50% extinguish speed (expert: 2.75% HP/tick, 20s)
   - **35**: -75% fire damage, +100% extinguish speed (legendary: 1.25% HP/tick, 15s)
-- **Flooding Control (7-35)**: Flood damage reduction and pump speed
+- **Flooding Control (7-50)**: Flood damage reduction and pump speed
   - **7**: -15% flood damage mitigation, -20% pump speed (sinking)
   - **15**: +0% flood damage mitigation, +0% pump speed (baseline)
   - **25**: -45% flood damage, +50% pump speed (expert)
   - **35**: -75% flood damage, +100% pump speed (legendary, unsinkable)
 
 **Secondary Stats**:
-- **Repair Speed (7-35)**: General hull/module repair rate
+- **Repair Speed (7-50)**: General hull/module repair rate
   - **7**: -30% repair speed (slow)
   - **15**: +0% repair speed (baseline)
   - **25**: +50% repair speed (expert)
@@ -452,19 +452,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Radar, sonar, and electronic warfare specialists. Detection and intelligence gathering.
 
 **Primary Stats**:
-- **Detection Range (7-35)**: Surface ship detection radius
+- **Detection Range (7-50)**: Surface ship detection radius
   - **7**: -30% surface detection range (blind)
   - **15**: +0% surface detection range (baseline: 10km)
   - **25**: +35% surface detection range (expert: 13.5km)
   - **35**: +75% surface detection range (legendary: 17.5km, see everything)
-- **Radar Accuracy (7-35)**: Target tracking precision and lock speed
+- **Radar Accuracy (7-50)**: Target tracking precision and lock speed
   - **7**: ±1000m position error, 15s lock time (poor)
   - **15**: ±400m position error, 8s lock time (baseline)
   - **25**: ±120m position error, 4s lock time (expert)
   - **35**: ±20m position error, 2s lock time (legendary, pinpoint)
 
 **Secondary Stats**:
-- **Jamming (7-35)**: Enemy radar/fire control disruption
+- **Jamming (7-50)**: Enemy radar/fire control disruption
   - **7**: -3% enemy accuracy when active (minimal)
   - **15**: -10% enemy accuracy when active (baseline)
   - **25**: -25% enemy accuracy when active (expert)
@@ -493,19 +493,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Fighter squadron pilots. Air superiority and bomber interception.
 
 **Primary Stats**:
-- **Dogfighting (7-35)**: Fighter vs fighter combat effectiveness
+- **Dogfighting (7-50)**: Fighter vs fighter combat effectiveness
   - **7**: 25% win rate vs equal pilots (terrible)
   - **15**: 50% win rate vs equal pilots (baseline)
   - **25**: 75% win rate vs equal pilots (expert, air superiority)
   - **35**: 95% win rate vs equal pilots (legendary, ace)
-- **AA Evasion (7-35)**: Survival vs flak/AA fire
+- **AA Evasion (7-50)**: Survival vs flak/AA fire
   - **7**: -30% evasion vs AA (30% survival rate, dangerous)
   - **15**: +0% evasion vs AA (baseline: 50% survival)
   - **25**: +40% evasion vs AA (expert: 70% survival)
   - **35**: +80% evasion vs AA (legendary: 90% survival, untouchable)
 
 **Secondary Stats**:
-- **Speed (7-35)**: Fighter squadron speed
+- **Speed (7-50)**: Fighter squadron speed
   - **7**: -25% speed (slow intercepts)
   - **15**: +0% speed (baseline)
   - **25**: +30% speed (expert, fast intercepts)
@@ -531,19 +531,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Torpedo and dive bomber pilots. Primary carrier strike capability.
 
 **Primary Stats**:
-- **Bombing Accuracy (7-35)**: Hit rate with torpedoes/bombs
+- **Bombing Accuracy (7-50)**: Hit rate with torpedoes/bombs
   - **7**: 10% hit rate vs large ships (hopeless)
   - **15**: 30% hit rate vs large ships (baseline)
   - **25**: 60% hit rate vs large ships (expert)
   - **35**: 85% hit rate vs large ships (legendary, precision strike)
-- **Payload Efficiency (7-35)**: Damage per sortie
+- **Payload Efficiency (7-50)**: Damage per sortie
   - **7**: -25% payload damage (weak)
   - **15**: +0% payload damage (baseline)
   - **25**: +35% payload damage (expert)
   - **35**: +70% payload damage (legendary, devastating)
 
 **Secondary Stats**:
-- **AA Evasion (7-35)**: Survival vs flak/AA fire
+- **AA Evasion (7-50)**: Survival vs flak/AA fire
   - **7**: -40% evasion (20% survival, suicide missions)
   - **15**: +0% evasion (baseline: 30% survival, bombers vulnerable)
   - **25**: +50% evasion (expert: 45% survival)
@@ -569,19 +569,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Air wing commanders. Force multipliers for all aviation operations.
 
 **Primary Stats**:
-- **Air Command (7-35)**: Squadron effectiveness multiplier
+- **Air Command (7-50)**: Squadron effectiveness multiplier
   - **7**: -20% squadron effectiveness (incompetent)
   - **15**: +0% squadron effectiveness (baseline)
   - **25**: +30% squadron effectiveness (expert, force multiplier)
   - **35**: +70% squadron effectiveness (legendary, elite air wing)
-- **Tactics (7-35)**: Strike coordination and target selection
+- **Tactics (7-50)**: Strike coordination and target selection
   - **7**: -20% strike efficiency (poor planning)
   - **15**: +0% strike efficiency (baseline)
   - **25**: +30% strike efficiency (expert)
   - **35**: +70% strike efficiency (legendary, perfect strikes)
 
 **Secondary Stats**:
-- **Recovery Speed (7-35)**: Aircraft landing/rearm/refuel speed
+- **Recovery Speed (7-50)**: Aircraft landing/rearm/refuel speed
   - **7**: -25% recovery speed (slow turnaround: 150s)
   - **15**: +0% recovery speed (baseline: 120s)
   - **25**: +40% recovery speed (expert: 86s)
@@ -609,19 +609,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Submarine and destroyer sonar crews. Detection and tracking of submerged contacts.
 
 **Primary Stats**:
-- **Sonar Range (7-35)**: Underwater detection radius
+- **Sonar Range (7-50)**: Underwater detection radius
   - **7**: -40% sonar range (baseline 5km → 3km, blind)
   - **15**: +0% sonar range (baseline: 5km)
   - **25**: +40% sonar range (expert: 7km)
   - **35**: +90% sonar range (legendary: 9.5km, see all submarines)
-- **Contact Analysis (7-35)**: Target identification speed and precision
+- **Contact Analysis (7-50)**: Target identification speed and precision
   - **7**: 60s to identify, ±2km range error (slow, inaccurate)
   - **15**: 30s to identify, ±800m range error (baseline)
   - **25**: 12s to identify, ±250m range error (expert)
   - **35**: 5s to identify, ±50m range error (legendary, instant ID)
 
 **Secondary Stats**:
-- **Noise Reduction (7-35)**: Own ship acoustic signature reduction
+- **Noise Reduction (7-50)**: Own ship acoustic signature reduction
   - **7**: +20% acoustic signature (louder, easier to detect)
   - **15**: +0% acoustic signature (baseline)
   - **25**: -30% acoustic signature (expert, quieter)
@@ -648,19 +648,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Submarine captains and diving officers. Stealth and tactical submarine warfare.
 
 **Primary Stats**:
-- **Stealth (7-35)**: Submarine detectability reduction
+- **Stealth (7-50)**: Submarine detectability reduction
   - **7**: +30% detection range (loud submarine, 3.9km surface, 1.95km submerged)
   - **15**: +0% detection range (baseline: 3km surface, 1.5km submerged)
   - **25**: -40% detection range (expert: 1.8km surface, 0.9km submerged)
   - **35**: -75% detection range (legendary: 0.75km surface, 0.375km submerged, ghost)
-- **Tactics (7-35)**: Engagement planning and escape maneuvers
+- **Tactics (7-50)**: Engagement planning and escape maneuvers
   - **7**: -25% tactical effectiveness (poor positioning)
   - **15**: +0% tactical effectiveness (baseline)
   - **25**: +40% escape success rate, +30% ambush setup speed (expert)
   - **35**: +80% escape success rate, +60% ambush setup speed (legendary)
 
 **Secondary Stats**:
-- **Periscope Skill (7-35)**: Surface observation effectiveness
+- **Periscope Skill (7-50)**: Surface observation effectiveness
   - **7**: -30% periscope detection range (baseline 8km → 5.6km, blind)
   - **15**: +0% periscope detection range (baseline: 8km)
   - **25**: +45% periscope detection range (expert: 11.6km)
@@ -687,19 +687,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Submarine diving control and trim balance crews. Maintains depth control and maneuverability.
 
 **Primary Stats**:
-- **Diving Speed (7-35)**: Crash dive and surface speed
+- **Diving Speed (7-50)**: Crash dive and surface speed
   - **7**: -30% dive speed (65s crash dive, 85s surface, too slow)
   - **15**: +0% dive speed (baseline: 45s crash dive, 60s surface)
   - **25**: +50% dive speed (expert: 30s crash dive, 40s surface)
   - **35**: +110% dive speed (legendary: 21s crash dive, 29s surface, instant)
-- **Depth Control (7-35)**: Precise depth maintenance and stability
+- **Depth Control (7-50)**: Precise depth maintenance and stability
   - **7**: ±30m depth oscillation, -30% turn rate submerged (unstable)
   - **15**: ±15m depth oscillation, +0% turn rate submerged (baseline)
   - **25**: ±5m depth oscillation, +30% turn rate submerged (expert, precise)
   - **35**: ±1m depth oscillation, +70% turn rate submerged (legendary, perfect)
 
 **Secondary Stats**:
-- **Trim Balance (7-35)**: Submarine handling and emergency blow efficiency
+- **Trim Balance (7-50)**: Submarine handling and emergency blow efficiency
   - **7**: -20% submerged speed, -20% emergency blow speed (sluggish)
   - **15**: +0% submerged speed, +0% emergency blow speed (baseline)
   - **25**: +20% submerged speed, +50% emergency blow speed (expert)
@@ -728,19 +728,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Ship captains and executive officers. Force multipliers that enhance entire crew performance.
 
 **Primary Stats**:
-- **Command (7-35)**: Crew effectiveness multiplier (like NavyField's Potential)
+- **Command (7-50)**: Crew effectiveness multiplier (like NavyField's Potential)
   - **7**: -20% crew effectiveness (incompetent command)
   - **15**: +0% crew effectiveness (baseline)
   - **25**: +25% all crew stats (expert, significant force multiplier)
   - **35**: +60% all crew stats (legendary, elite command)
-- **Tactics (7-35)**: Strategic decision-making and battle planning
+- **Tactics (7-50)**: Strategic decision-making and battle planning
   - **7**: -20% tactical effectiveness (poor decisions)
   - **15**: +0% tactical effectiveness (baseline)
   - **25**: +30% damage output, +25% damage mitigation (expert)
   - **35**: +65% damage output, +55% damage mitigation (legendary)
 
 **Secondary Stats**:
-- **Leadership (7-35)**: Crew morale and efficiency under pressure
+- **Leadership (7-50)**: Crew morale and efficiency under pressure
   - **7**: -25% effectiveness under heavy damage (panic)
   - **15**: +0% effectiveness under heavy damage (baseline)
   - **25**: +30% effectiveness when ship <50% HP (expert, no panic)
@@ -769,19 +769,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Route planning, pursuit evasion, and safe passage coordination. Core extraction gameplay role.
 
 **Primary Stats**:
-- **Route Planning (7-35)**: Optimal path calculation and navigation
+- **Route Planning (7-50)**: Optimal path calculation and navigation
   - **7**: -20% route efficiency (slow, wasteful)
   - **15**: +0% route efficiency (baseline speed/fuel consumption)
   - **25**: +30% route speed, -25% fuel consumption (expert)
   - **35**: +65% route speed, -50% fuel consumption (legendary, optimal pathing)
-- **Pursuit Evasion (7-35)**: Detection avoidance and escape effectiveness
+- **Pursuit Evasion (7-50)**: Detection avoidance and escape effectiveness
   - **7**: +25% detection range by hostiles (easier to catch)
   - **15**: +0% detection/evasion (baseline)
   - **25**: -35% detection range by hostiles, +30% escape success (expert)
   - **35**: -70% detection range by hostiles, +65% escape success (legendary, ghost)
 
 **Secondary Stats**:
-- **Navigation (7-35)**: General navigation and weather routing
+- **Navigation (7-50)**: General navigation and weather routing
   - **7**: -25% navigation efficiency (lost easily)
   - **15**: +0% navigation efficiency (baseline)
   - **25**: +25% speed in storms, +35% navigation accuracy (expert)
@@ -808,19 +808,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Wreck identification, loot assessment, and salvage operations. Economy and profit maximization.
 
 **Primary Stats**:
-- **Loot Identification (7-35)**: Wreck assessment and cargo analysis
+- **Loot Identification (7-50)**: Wreck assessment and cargo analysis
   - **7**: 25% loot identification accuracy, 60s scan time per wreck (slow, poor info)
   - **15**: 50% loot identification accuracy, 30s scan time (baseline)
   - **25**: 80% loot identification accuracy, 12s scan time (expert, fast)
   - **35**: 98% loot identification accuracy, 5s scan time (legendary, instant appraisal)
-- **Salvage Speed (7-35)**: Wreck recovery and cargo transfer speed
+- **Salvage Speed (7-50)**: Wreck recovery and cargo transfer speed
   - **7**: -30% salvage speed (85s per item, slow profit)
   - **15**: +0% salvage speed (baseline: 60s per item)
   - **25**: +60% salvage speed (expert: 38s per item)
   - **35**: +130% salvage speed (legendary: 26s per item, rapid salvage)
 
 **Secondary Stats**:
-- **Cargo Management (7-35)**: Inventory space optimization
+- **Cargo Management (7-50)**: Inventory space optimization
   - **7**: -15% effective cargo capacity (poor packing)
   - **15**: +0% cargo capacity (baseline)
   - **25**: +25% effective cargo capacity (expert, better packing)
@@ -847,19 +847,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Signal intercept, code breaking, and tactical intelligence gathering. Information warfare.
 
 **Primary Stats**:
-- **Signal Intercept (7-35)**: Radio/communication interception range and quality
+- **Signal Intercept (7-50)**: Radio/communication interception range and quality
   - **7**: 3km intercept range, 15% decryption success (poor intel)
   - **15**: 8km intercept range, 40% decryption success (baseline)
   - **25**: 16km intercept range, 75% decryption success (expert)
   - **35**: 28km intercept range, 95% decryption success (legendary, intercept everything)
-- **Code Breaking (7-35)**: Enemy communication decryption speed
+- **Code Breaking (7-50)**: Enemy communication decryption speed
   - **7**: 240s to decrypt simple messages, cannot attempt complex (slow)
   - **15**: 120s to decrypt simple messages, 300s complex (baseline)
   - **25**: 48s simple, 140s complex (expert, fast decryption)
   - **35**: 20s simple, 60s complex (legendary, rapid intelligence)
 
 **Secondary Stats**:
-- **Analysis (7-35)**: Tactical intelligence processing
+- **Analysis (7-50)**: Tactical intelligence processing
   - **7**: -30% intelligence quality (poor detail)
   - **15**: +0% intelligence quality (baseline)
   - **25**: +50% intelligence detail (expert, fleet composition/movements)
@@ -886,19 +886,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Boarding actions, prize crews, and ship capture operations. High-risk capture gameplay.
 
 **Primary Stats**:
-- **Boarding Efficiency (7-35)**: Boarding action success rate and speed
+- **Boarding Efficiency (7-50)**: Boarding action success rate and speed
   - **7**: 15% boarding success vs equal crew, 300s action time (hopeless)
   - **15**: 40% boarding success vs equal crew, 180s action time (baseline)
   - **25**: 70% boarding success vs equal crew, 85s action time (expert, fast captures)
   - **35**: 95% boarding success vs equal crew, 45s action time (legendary, boarding master)
-- **Prize Crew (7-35)**: Captured ship control effectiveness
+- **Prize Crew (7-50)**: Captured ship control effectiveness
   - **7**: 25% effectiveness controlling captured ships (barely functional)
   - **15**: 50% effectiveness controlling captured ships (baseline)
   - **25**: 80% effectiveness controlling captured ships (expert)
   - **35**: 98% effectiveness controlling captured ships (legendary, full control)
 
 **Secondary Stats**:
-- **Combat (7-35)**: Marine combat effectiveness during boarding
+- **Combat (7-50)**: Marine combat effectiveness during boarding
   - **7**: -30% combat effectiveness (weak marines)
   - **15**: +0% combat effectiveness (baseline)
   - **25**: +50% combat effectiveness (expert, dominate boarding actions)
@@ -925,19 +925,19 @@ Range:    +0.10 per level (secondary growth)
 **Description**: Meteorological analysis, storm prediction, and heavy weather operations. Survival and navigation.
 
 **Primary Stats**:
-- **Storm Prediction (7-35)**: Weather forecasting and early warning
+- **Storm Prediction (7-50)**: Weather forecasting and early warning
   - **7**: 2 minute storm warning, 30% accuracy (caught off-guard)
   - **15**: 10 minute storm warning, 60% accuracy (baseline)
   - **25**: 30 minute storm warning, 85% accuracy (expert, good planning)
   - **35**: 60 minute storm warning, 98% accuracy (legendary, predict all weather)
-- **Heavy Weather Ops (7-35)**: Ship performance in storms
+- **Heavy Weather Ops (7-50)**: Ship performance in storms
   - **7**: -60% speed in storms, -50% accuracy (crippled in storms)
   - **15**: -30% speed in storms, -25% accuracy (baseline)
   - **25**: -10% speed in storms, -5% accuracy (expert, maintain operations)
   - **35**: +5% speed in storms, +10% accuracy (legendary, expert storm operations)
 
 **Secondary Stats**:
-- **Navigation (7-35)**: General navigation and course plotting
+- **Navigation (7-50)**: General navigation and course plotting
   - **7**: -30% navigation efficiency (poor routes)
   - **15**: +0% navigation efficiency (baseline)
   - **25**: +30% navigation accuracy, +20% route optimization (expert)

@@ -49,7 +49,6 @@ The submarine line progresses through three distinct class categories, each with
 
 #### **T1: Early Coastal Submarine**
 - **Historical Examples**: USS S-1 (SS-105), HMS H-class, Type UB-I
-- **Crew**: 20-25 sailors
 - **Displacement**: 150-300 tons surfaced
 - **Speed**: 10 knots surfaced, 5 knots submerged
 - **Range**: 50-100km operational radius from base
@@ -62,7 +61,6 @@ The submarine line progresses through three distinct class categories, each with
 
 #### **T2: Improved Coastal Submarine**
 - **Historical Examples**: USS S-42 (SS-153), HMS L-class, Type UB-III
-- **Crew**: 25-30 sailors
 - **Displacement**: 300-500 tons surfaced
 - **Speed**: 12 knots surfaced, 6 knots submerged
 - **Range**: 100-150km operational radius
@@ -75,7 +73,6 @@ The submarine line progresses through three distinct class categories, each with
 
 #### **T3: Advanced Coastal Submarine**
 - **Historical Examples**: USS Barracuda (SS-163), HMS Porpoise-class, Type II
-- **Crew**: 30-35 sailors
 - **Displacement**: 500-800 tons surfaced
 - **Speed**: 14 knots surfaced, 7 knots submerged
 - **Range**: 150-250km operational radius
@@ -101,7 +98,6 @@ The submarine line progresses through three distinct class categories, each with
 
 #### **T4: Early Fleet Submarine** 🔓 *Unlocks Submarine Line Access*
 - **Historical Examples**: USS Gato (SS-212), HMS Triton, Type VII
-- **Crew**: 35-45 sailors
 - **Displacement**: 1,000-1,500 tons surfaced
 - **Speed**: 16 knots surfaced, 8 knots submerged
 - **Range**: 400-600km operational radius
@@ -114,7 +110,6 @@ The submarine line progresses through three distinct class categories, each with
 
 #### **T5: Standard Fleet Submarine**
 - **Historical Examples**: USS Balao (SS-285), HMS Tiptoe, Type VII-C
-- **Crew**: 45-55 sailors
 - **Displacement**: 1,500-1,800 tons surfaced
 - **Speed**: 18 knots surfaced, 9 knots submerged
 - **Range**: 600-800km operational radius
@@ -127,7 +122,6 @@ The submarine line progresses through three distinct class categories, each with
 
 #### **T6: Advanced Fleet Submarine** ⚠️ *Permadeath Risk Begins*
 - **Historical Examples**: USS Tench (SS-417), HMS Acheron, Type IX-C
-- **Crew**: 55-65 sailors
 - **Displacement**: 1,800-2,200 tons surfaced
 - **Speed**: 20 knots surfaced, 10 knots submerged
 - **Range**: 800-1,200km operational radius
@@ -153,7 +147,6 @@ The submarine line progresses through three distinct class categories, each with
 
 #### **T7: Early Attack Submarine**
 - **Historical Examples**: USS Tang (SS-563), HMS Dreadnought, Type XXI
-- **Crew**: 65-75 sailors
 - **Displacement**: 2,200-2,500 tons surfaced
 - **Speed**: 22 knots surfaced, 12 knots submerged
 - **Range**: 1,200-1,600km operational radius
@@ -166,7 +159,6 @@ The submarine line progresses through three distinct class categories, each with
 
 #### **T8: Advanced Attack Submarine**
 - **Historical Examples**: USS Nautilus (SSN-571 diesel concept), HMS Valiant, Type XXVI
-- **Crew**: 75-85 sailors
 - **Displacement**: 2,500-3,000 tons surfaced
 - **Speed**: 24 knots surfaced, 14 knots submerged
 - **Range**: 1,600-2,000km operational radius
@@ -179,7 +171,6 @@ The submarine line progresses through three distinct class categories, each with
 
 #### **T9: Elite Attack Submarine**
 - **Historical Examples**: Advanced diesel-electric concepts, Project 611/613 equivalents
-- **Crew**: 85-95 sailors
 - **Displacement**: 3,000-3,500 tons surfaced
 - **Speed**: 26 knots surfaced, 16 knots submerged
 - **Range**: 2,000-2,500km operational radius
@@ -203,7 +194,6 @@ The submarine line progresses through three distinct class categories, each with
 
 #### **T10: Strategic Attack Submarine**
 - **Historical Examples**: Hypothetical advanced designs, nuclear concepts adapted to diesel-electric
-- **Crew**: 95-110 sailors
 - **Displacement**: 3,500-4,000 tons surfaced
 - **Speed**: 28 knots surfaced, 18 knots submerged
 - **Range**: 2,500+ km operational radius (limited only by supplies)
@@ -233,18 +223,18 @@ The submarine line progresses through three distinct class categories, each with
 
 ## Submarine Class Comparison Table
 
-| Tier | Class Type | Example Ship | Crew | Torpedoes | Range | Dive Depth | Speed (Sub) | Death Risk | Best Use |
-|------|------------|--------------|------|-----------|-------|------------|-------------|------------|----------|
-| T1 | Coastal SS | USS S-1 | 20-25 | 4-6 | 50-100km | 50m | 5kt | 0% | Coastal defense, learning |
-| T2 | Coastal SS | USS S-42 | 25-30 | 8-10 | 100-150km | 60m | 6kt | 0% | Extended coastal ops |
-| T3 | Coastal SS | USS Barracuda | 30-35 | 12-14 | 150-250km | 80m | 7kt | 0% | Transition to fleet ops |
-| T4 | Fleet SS | USS Gato | 35-45 | 16-20 | 400-600km | 100m | 8kt | 0% | Commerce warfare basics |
-| T5 | Fleet SS | USS Balao | 45-55 | 20-24 | 600-800km | 120m | 9kt | 0% | Standard fleet operations |
-| T6 | Fleet SS | USS Tench | 55-65 | 24-28 | 800-1,200km | 150m | 10kt | 10% | Long-range interdiction |
-| T7 | Attack SSA | USS Tang | 65-75 | 28-32 | 1,200-1,600km | 200m | 12kt | 20% | Capital ship hunting |
-| T8 | Attack SSA | USS Nautilus | 75-85 | 32-36 | 1,600-2,000km | 250m | 14kt | 40% | Strategic interdiction |
-| T9 | Attack SSA | Advanced | 85-95 | 36-40 | 2,000-2,500km | 300m | 16kt | 60% | Fleet elimination |
-| T10 | Attack SSA | Strategic | 95-110 | 40-50 | 2,500+ km | 350m | 18kt | 100% | Strategic dominance |
+| Tier | Class Type | Example Ship | Torpedoes | Range | Dive Depth | Speed (Sub) | Death Risk | Best Use |
+|------|------------|--------------|-----------|-------|------------|-------------|------------|----------|
+| T1 | Coastal SS | USS S-1 | 4-6 | 50-100km | 50m | 5kt | 0% | Coastal defense, learning |
+| T2 | Coastal SS | USS S-42 | 8-10 | 100-150km | 60m | 6kt | 0% | Extended coastal ops |
+| T3 | Coastal SS | USS Barracuda | 12-14 | 150-250km | 80m | 7kt | 0% | Transition to fleet ops |
+| T4 | Fleet SS | USS Gato | 16-20 | 400-600km | 100m | 8kt | 0% | Commerce warfare basics |
+| T5 | Fleet SS | USS Balao | 20-24 | 600-800km | 120m | 9kt | 0% | Standard fleet operations |
+| T6 | Fleet SS | USS Tench | 24-28 | 800-1,200km | 150m | 10kt | 10% | Long-range interdiction |
+| T7 | Attack SSA | USS Tang | 28-32 | 1,200-1,600km | 200m | 12kt | 20% | Capital ship hunting |
+| T8 | Attack SSA | USS Nautilus | 32-36 | 1,600-2,000km | 250m | 14kt | 40% | Strategic interdiction |
+| T9 | Attack SSA | Advanced | 36-40 | 2,000-2,500km | 300m | 16kt | 60% | Fleet elimination |
+| T10 | Attack SSA | Strategic | 40-50 | 2,500+ km | 350m | 18kt | 100% | Strategic dominance |
 
 ---
 
