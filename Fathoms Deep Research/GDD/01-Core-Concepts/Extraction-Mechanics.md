@@ -18,6 +18,32 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 
 ---
 
+## Extraction Points: Ports ARE Extraction
+
+**CRITICAL DESIGN PRINCIPLE**: There are NO special "extraction zones" or "extraction points" separate from ports. **Any friendly port IS an extraction point.**
+
+### How Extraction Works
+1. **Enter any friendly port** → Expedition ends, cargo secured
+2. **No extraction timers** in open water
+3. **No special UI** for extraction beyond port proximity indicators
+4. **Multiple port options** → Players choose closest, safest, or most profitable port
+
+### What Players See
+- Ports on the map (as safe havens)
+- Port proximity indicator when approaching
+- "Docking" prompt when in port range
+- Cargo secured confirmation upon docking
+
+### What Players Do NOT See
+- "Extraction zones" or boundaries
+- Special extraction points separate from ports
+- Extraction countdown timers in open water
+- Zone labels or danger level indicators
+
+**Design Rationale**: Simplicity. Players understand "get to port = safe." No additional complexity needed.
+
+---
+
 ## Core Extraction Loop
 
 ### The Five-Phase Cycle
@@ -506,10 +532,11 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 **Principle**: Higher-value opportunities exist in more dangerous locations.
 
 **Implementation:**
-- Deeper penetration into hostile territory = rarer resources and higher-tier enemies
-- High-traffic areas have better targets but more competition
+- Further from map edges (toward center) = rarer resources and higher-tier enemies
+- Center of map is most dangerous, edges near faction capitals are safest
 - Time spent hunting increases both reward opportunity and exposure risk
 - Higher-tier ships provide access to more valuable targets but increase permadeath stakes
+- **Note**: Risk is determined by SHIP TIER (permadeath %), not by location
 
 **Why This Matters**: Players must constantly evaluate risk/reward trade-offs. Greed is balanced against survival instinct.
 
@@ -568,10 +595,9 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 ### Depends On
 - [[Ship-Systems]] - Physical inventory, fuel, ammunition management
 - [[Combat-Mechanics]] - PvPvE engagements during hunting/extraction
-- [[Permadeath-System]] - Stakes and consequences of failed extraction
-- [[Port-Systems]] - Outfitting before and banking after expeditions
-- [[Reputation-System]] - Diplomatic consequences of aggressive actions
-- [[Zone-Control]] - Territory ownership affects safe extraction routes
+- [[Permadeath-System]] - Stakes and consequences of failed extraction (TIER-BASED ONLY)
+- [[Port-Systems]] - Ports ARE extraction points, outfitting before and banking after
+- [[Reputation-System]] - Diplomatic consequences of aggressive actions, affects port access
 - [[Loot-Tables]] - What players acquire during expeditions
 
 ### Used By
@@ -679,4 +705,5 @@ The extraction mechanic is the core gameplay loop of Fathoms Deep, defining how 
 ---
 
 ## Changelog
+- **2025-12-03**: Added "Extraction Points: Ports ARE Extraction" section, clarified ports as extraction points, removed zone references, corrected map orientation (center=dangerous, edges=safe)
 - **2025-11-17**: Initial document creation - extracted from GDD_Updated-1.md lines 23-50, 26-31

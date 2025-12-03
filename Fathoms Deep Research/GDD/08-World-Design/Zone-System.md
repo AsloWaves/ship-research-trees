@@ -121,31 +121,37 @@ The entire game world is fully explorable from day one by all players regardless
 ## Geographic Distribution (Design Internal)
 
 ### Map Layout Philosophy
-The map is designed with natural risk progression from center (safe) to edges (dangerous), but this is NOT enforced or advertised.
+The map is designed with natural risk progression from edges (safe) to center (dangerous), but this is NOT enforced or advertised. Players discover this organically through exploration.
 
-**Core Region (Map Center)**:
+**IMPORTANT**: Players should NEVER see zone boundaries or labels. They only see ports (as safe havens) and discover danger through experience.
+
+**Map Edge (Outer Periphery)**:
 - Major faction capitals and primary ports
 - Safe/Protected water characteristics
-- Naturally attracts new players
-- High-tier ships visible but not common
+- Starting areas for new players
+- Friendly NPC patrols common
+- Low-tier ships dominate
 
-**Mid-Ocean (Between Capitals)**:
+**Mid-Ocean (Between Edge and Center)**:
 - Contested water characteristics
 - Natural battlegrounds between factions
 - Mixed ship tiers common
 - Active PvP hotspots
+- Moderate NPC presence
 
-**Deep Ocean (Map Periphery)**:
+**Deep Center (Map Core)**:
 - Dangerous water characteristics
 - Rare resources and elite NPCs
 - High-tier ships more common
 - Experienced player territory
+- Minimal friendly NPC presence
 
-**Enemy Capitals (Opposing Faction Centers)**:
-- Enemy core water characteristics
+**Absolute Center (Heart of Map)**:
+- Enemy core/No Man's Land characteristics
 - Highest rewards and difficulty
 - T10 operations common
 - Server events and major battles
+- Maximum danger, legendary loot
 
 ---
 

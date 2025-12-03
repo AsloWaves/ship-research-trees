@@ -9,7 +9,9 @@ last-updated: 2025-11-17
 # Port Locations
 
 ## Overview
-Port Locations define the network of naval bases, harbors, and anchorages throughout the game world. Ports serve as safe havens, economic centers, repair facilities, and strategic objectives. The port system includes home ports (T0 safe zones), forward bases (T1-T2), contested ports (T2-T3), and temporary anchorages (T3-T4). Each port offers different services, facilities, and strategic value based on its tier and faction control.
+Port Locations define the network of naval bases, harbors, and anchorages throughout the game world. Ports serve as safe havens, economic centers, repair facilities, and strategic objectives. The port system includes major naval bases (home ports), standard ports (forward operations), contested ports (frontline), and temporary anchorages (player-created). Each port offers different services, facilities, and strategic value based on its tier and faction control.
+
+**IMPORTANT**: Port tiers (Tier 0-3) describe port FACILITY LEVELS, not visible zones. Players see ports as safe havens - they don't see "zone boundaries" on the map.
 
 **Core Philosophy**: Ports are the economic and strategic lifeblood of naval warfare, providing sanctuary, supplies, and staging areas for operations.
 
@@ -790,7 +792,7 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 #### Lisbon (Portugal)
 **Location**: Atlantic coast, Iberian Peninsula
 **Faction**: Neutral (serves all factions)
-**Zone Tier**: T1 (Neutral Waters)
+**Area Type**: Neutral Waters (safe haven for all factions)
 
 **Facilities**:
 - ✓ Neutral port (all factions welcome)
@@ -829,7 +831,7 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 #### Hidden Coves and Remote Anchorages
 **Location**: Varies (player-established)
 **Faction**: Player-controlled
-**Zone Tier**: T3-T4 (Lawless areas)
+**Area Type**: Lawless Waters (dangerous, unpatrolled areas)
 
 **Facilities**:
 - ✓ Basic anchorage (player-built)
@@ -852,7 +854,7 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 **Safe Zone**: None (PvP enabled)
 
 **Player Anchorage Mechanics**:
-- Players can establish hidden bases in T3-T4 zones
+- Players can establish hidden bases in dangerous, unpatrolled waters
 - Requires significant resource investment
 - Must be defended from discovery
 - Can be raided and destroyed
@@ -1044,7 +1046,7 @@ Port Locations define the network of naval bases, harbors, and anchorages throug
 ## Cross-References
 
 ### Related Systems
-- [[Zone-System]] - Port tiers align with zone tiers
+- [[Zone-System]] - Port locations relate to danger gradients (edges=safe, center=dangerous)
 - [[Map-Layout]] - Geographic location of all ports
 - [[Economy-System]] - Port services drive economy
 - [[Territory-Control]] - Port ownership and control mechanics

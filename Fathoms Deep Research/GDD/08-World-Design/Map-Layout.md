@@ -88,7 +88,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Wake Island**
 - **Location**: Central Pacific (19.3°N, 166.6°E)
-- **Zone Tier**: T2 (Contested Border Waters)
+- **Area Type**: Contested Territory (frontline base)
 - **Facilities**:
   - Forward operating base
   - Contested supply depot
@@ -99,7 +99,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Guadalcanal**
 - **Location**: Solomon Islands (9.5°S, 160.2°E)
-- **Zone Tier**: T2 (Contested Border Waters)
+- **Area Type**: Contested Territory (resource zone)
 - **Facilities**:
   - Resource-rich supply base
   - Critical airfield (Henderson Field)
@@ -161,7 +161,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Philippine Sea**
 - **Location**: Between Philippines and Mariana Islands
-- **Zone Tier**: T2-T3 (Contested to Disputed)
+- **Area Type**: Contested Waters (toward map center)
 - **Strategic Value**:
   - Critical sea lane between Japan and Southern Resource Area
   - Major carrier battle zone
@@ -172,7 +172,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Coral Sea**
 - **Location**: Between Australia and Solomon Islands
-- **Zone Tier**: T2-T3 (Contested to Disputed)
+- **Area Type**: Contested Waters (mid-range danger)
 - **Strategic Value**:
   - Controls approach to Australia
   - Critical convoy route
@@ -182,7 +182,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Marshall Islands**
 - **Location**: Central Pacific (5-15°N, 160-175°E)
-- **Zone Tier**: T2-T3 (Contested to Disputed)
+- **Area Type**: Contested Waters (defensive perimeter)
 - **Strategic Value**:
   - Japanese forward defense perimeter
   - USA advance route toward Japan
@@ -194,7 +194,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Mid-Pacific Void**
 - **Location**: Central Pacific between Hawaii and Midway
-- **Zone Tier**: T3-T4 (Disputed to International Waters)
+- **Area Type**: Deep Waters (high danger, sparse activity)
 - **Strategic Value**:
   - Unrestricted submarine operations
   - High-value convoy routes
@@ -204,7 +204,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **International Date Line**
 - **Location**: 180° longitude
-- **Zone Tier**: T4 (Deep Ocean International Waters)
+- **Area Type**: No Man's Land (maximum danger)
 - **Strategic Value**:
   - Lawless frontier
   - Rare resource spawns
@@ -353,7 +353,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Mid-Atlantic Gap**
 - **Location**: Central Atlantic (40-50°N, 30-40°W)
-- **Zone Tier**: T2-T3 (Contested to Disputed)
+- **Area Type**: Dangerous Waters (beyond air cover)
 - **Strategic Value**:
   - Beyond air cover range
   - U-boat hunting ground
@@ -364,7 +364,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Denmark Strait**
 - **Location**: Between Iceland and Greenland (66°N, 27°W)
-- **Zone Tier**: T2-T3 (Contested to Disputed)
+- **Area Type**: Contested Waters (battleship route)
 - **Strategic Value**:
   - German battleship breakout route
   - Critical chokepoint
@@ -375,7 +375,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Bay of Biscay**
 - **Location**: Western France coast (45°N, 5°W)
-- **Zone Tier**: T2 (Contested Border Waters)
+- **Area Type**: Contested Waters (U-boat transit zone)
 - **Strategic Value**:
   - U-boat transit route
   - Allied air patrol zone
@@ -385,7 +385,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **North Sea**
 - **Location**: Between UK and Germany
-- **Zone Tier**: T2-T3 (Contested to Disputed)
+- **Area Type**: Contested Waters (channel approach)
 - **Strategic Value**:
   - Controls access to Germany
   - Channel operations
@@ -397,7 +397,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Central Atlantic**
 - **Location**: Mid-Atlantic (20-40°N, 40-60°W)
-- **Zone Tier**: T3-T4 (Disputed to International)
+- **Area Type**: Deep Waters (long-range operations)
 - **Strategic Value**:
   - Major convoy routes
   - Unrestricted submarine operations
@@ -407,7 +407,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **South Atlantic**
 - **Location**: Below equator
-- **Zone Tier**: T4 (Deep Ocean International Waters)
+- **Area Type**: Remote Waters (isolated, high reward)
 - **Strategic Value**:
   - Isolated raider operations
   - Rare resource zones
@@ -516,7 +516,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Sicily (Italy)**
 - **Location**: Central Mediterranean (37.5°N, 14.0°E)
-- **Zone Tier**: T2 (Contested Border Waters)
+- **Area Type**: Contested Territory (air superiority base)
 - **Facilities**:
   - Strategic island
   - Airfields
@@ -527,7 +527,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Crete (Occupied Greece)**
 - **Location**: Eastern Mediterranean (35.2°N, 24.9°E)
-- **Zone Tier**: T2 (Contested Border Waters)
+- **Area Type**: Contested Territory (eastern approaches)
 - **Facilities**:
   - Contested island
   - Airfields
@@ -540,7 +540,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Central Mediterranean**
 - **Location**: Between Sicily and Malta
-- **Zone Tier**: T2-T3 (Contested to Disputed)
+- **Area Type**: Dangerous Waters (most contested)
 - **Strategic Value**:
   - Critical convoy route to Malta
   - Most contested waters
@@ -550,7 +550,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Sicilian Channel**
 - **Location**: Between Sicily and Tunisia
-- **Zone Tier**: T2 (Contested Border Waters)
+- **Area Type**: Contested Waters (supply corridor)
 - **Strategic Value**:
   - North Africa supply route
   - Malta resupply corridor
@@ -560,7 +560,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Aegean Sea**
 - **Location**: Between Greece and Turkey
-- **Zone Tier**: T3 (Disputed Ocean Areas)
+- **Area Type**: Contested Waters (island warfare)
 - **Strategic Value**:
   - Eastern Mediterranean access
   - Strategic islands
@@ -628,7 +628,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Bear Island (Norway)**
 - **Location**: Barents Sea (74.5°N, 19.0°E)
-- **Zone Tier**: T2-T3 (Contested to Disputed)
+- **Area Type**: Contested Territory (convoy waypoint)
 - **Facilities**:
   - Weather station
   - Early warning post
@@ -638,7 +638,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Spitsbergen (Svalbard)**
 - **Location**: Arctic Ocean (78.2°N, 15.6°E)
-- **Zone Tier**: T3 (Disputed Ocean Areas)
+- **Area Type**: Remote Territory (extreme conditions)
 - **Facilities**:
   - Coal mining operations
   - Weather reporting station
@@ -649,7 +649,7 @@ Total World Coverage: ~150 million km² (compressed)
 
 **Jan Mayen Island**
 - **Location**: Arctic Ocean (71.0°N, 8.5°W)
-- **Zone Tier**: T3 (Disputed Ocean Areas)
+- **Area Type**: Remote Territory (weather intelligence)
 - **Facilities**:
   - Meteorological station
   - Radio intercept facility
@@ -868,14 +868,16 @@ Total World Coverage: ~150 million km² (compressed)
 | Gibraltar to Alexandria | 3,300 km | 330 units | ~1.1 hours |
 | Scapa Flow to Murmansk | 3,000 km | 300 units | ~1 hour |
 
-### Zone Size Reference
-**Typical Zone Dimensions**:
-- **T0 Zone (Core Waters)**: 50 km radius = 500 unit diameter
-- **T1 Zone (Protected Waters)**: 100 km radius = 1000 unit diameter
-- **T2 Zone (Contested Waters)**: 200 km radius = 2000 unit diameter
-- **T3 Zone (Disputed Waters)**: 300 km radius = 3000 unit diameter
-- **T4 Zone (International Waters)**: 500+ km radius = 5000+ unit diameter
-- **T5 Zone (Enemy Core)**: 50 km radius = 500 unit diameter
+### Distance Reference
+**Typical Distance Ranges from Friendly Ports**:
+- **Near Port (Safe Waters)**: 0-50 km = quick extraction
+- **Protected Waters**: 50-100 km = moderate extraction time
+- **Contested Waters**: 100-200 km = extended operations
+- **Dangerous Waters**: 200-400 km = high-risk expeditions
+- **Remote Waters**: 400+ km = extreme range operations
+- **Map Center**: Maximum danger, legendary rewards
+
+**Note**: These are internal design references. Players do NOT see zone boundaries - only ports and discovered danger through gameplay.
 
 ---
 
