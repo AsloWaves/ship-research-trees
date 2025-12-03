@@ -1,0 +1,53 @@
+---
+designation: 14" Mark Mark 5 Single Turret
+turret_id: 384
+gun_id: 110
+nation: USA
+caliber: 14"
+turret_type: Single
+tags: [14inch, single, usa, turret]
+completeness: complete
+---
+
+# 14" Mark Mark 5 Single Turret
+
+## Overview
+
+**Turret ID**: 384  
+**Gun ID**: 110 (See Guns database)  
+**Nation**: USA  
+**Caliber**: 14"  
+**Turret Type**: Single  
+
+## Physical Specifications
+
+- **Turret Weight**: 414.00 tons  
+- **Crew Size**: 32 personnel  
+
+## Armor Protection
+
+- **Face Armor**: 18.00 inches  
+- **Side Armor**: 10.00 inches  
+- **Roof Armor**: 5.00 inches  
+
+## Performance
+
+- **Traverse Rate**: 6.80 °/sec  
+- **Elevation Range**: -5.00° to 45.00°  
+- **Elevation Rate**: 17.00 °/sec  
+- **Rate of Fire**: 2.00 rounds/min  
+
+## Associated Gun
+
+This turret is associated with Gun ID 110.  
+See the Guns database for specifications of the 14" gun.  
+
+## Compatible Ammunition
+
+Uses ammunition for 14" caliber guns.  
+See the Ammunition database for compatible shells.  
+
+## Notes
+
+Fictional single turret variant for 14" Mark Mark 5. Generated from patterns.
+
