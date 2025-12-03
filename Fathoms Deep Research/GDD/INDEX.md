@@ -8,7 +8,7 @@ tags: [index, navigation, gdd]
 **Project**: Fathoms Deep - Tactical Naval MMO
 **Version**: 0.3.0-alpha (Phase 3 Development)
 **Engine**: Unity 6000.0.55f1 (2D/URP)
-**Last Updated**: 2025-11-17
+**Last Updated**: 2025-12-03
 
 ---
 
@@ -46,12 +46,15 @@ tags: [index, navigation, gdd]
 
 ### 02 - Core Gameplay
 - [[02-Core-Gameplay/Ship-Physics|Ship Physics]] ✅ **IMPLEMENTED**
-- [[02-Core-Gameplay/Ship-Controls|Ship Controls]] ✅ **IMPLEMENTED**
 - [[02-Core-Gameplay/Camera-System|Camera System]] ✅ **IMPLEMENTED**
-- [[02-Core-Gameplay/Navigation-System|Navigation System]] ✅ **IMPLEMENTED**
+- [[02-Core-Gameplay/Inventory-System|Inventory System]] 📋 PLANNED
+- [[02-Core-Gameplay/Mission-System|Mission System]] 📋 PLANNED
+- [[02-Core-Gameplay/Mission-Examples|Mission Examples]] 📋 PLANNED
 - [[02-Core-Gameplay/Crew-Management|Crew Management]] 📋 PLANNED
 - [[02-Core-Gameplay/Crew-Progression|Crew Progression]] 📋 PLANNED
 - [[02-Core-Gameplay/Crew-Permadeath|Crew Permadeath]] 📋 PLANNED
+- [[02-Core-Gameplay/Crew-Skills|Crew Skills]] 📋 PLANNED
+- [[02-Core-Gameplay/AI-NPC-System|AI & NPC System]] 📋 PLANNED
 
 ### 03 - Combat Systems
 - [[03-Combat-Systems/Combat-Overview|Combat Overview]] 🚧 PARTIAL
@@ -71,17 +74,17 @@ tags: [index, navigation, gdd]
 ### 05 - UI Systems
 - [[05-UI-Systems/UI-Overview|UI Overview]] ✅ **IMPLEMENTED**
 - [[05-UI-Systems/Menu-System|Menu System]] ✅ **IMPLEMENTED**
+- [[05-UI-Systems/Settings-Options|Settings & Options]] 📋 PLANNED
+- [[05-UI-Systems/Controls|Controls Reference]] 📋 PLANNED
 - [[05-UI-Systems/HUD-Design|HUD Design]] 🚧 PARTIAL
-- [[05-UI-Systems/Chat-System|Chat System]] ✅ **IMPLEMENTED**
-- [[05-UI-Systems/Debug-UI|Debug UI]] ✅ **IMPLEMENTED**
 - [[05-UI-Systems/Accessibility|Accessibility]] ✅ **IMPLEMENTED** (WCAG 2.1 AA)
 
 ### 06 - Multiplayer & Networking
 - [[06-Multiplayer/Network-Architecture|Network Architecture]] ✅ **IMPLEMENTED**
-- [[06-Multiplayer/Server-Config|Server Configuration]] ✅ **IMPLEMENTED**
-- [[06-Multiplayer/Client-Prediction|Client Prediction]] ✅ **IMPLEMENTED**
 - [[06-Multiplayer/Authentication|Authentication]] ✅ **IMPLEMENTED** (JWT)
 - [[06-Multiplayer/Chat-System|Chat System]] ✅ **IMPLEMENTED**
+- [[06-Multiplayer/Squadron-Guild-System|Squadron & Guild System]] 📋 PLANNED
+- [[06-Multiplayer/Save-Reconnection|Save & Reconnection]] 📋 PLANNED
 - [[06-Multiplayer/Scalability-Plan|Scalability Plan]] 📋 PLANNED (300+ players)
 
 ### 07 - Economy & Trading
@@ -228,6 +231,17 @@ tags: [index, navigation, gdd]
 - [[Weapons/INDEX|Weapon Database]] - Historical weapons
 - [[Aircraft/INDEX|Aircraft Database]] - Historical aircraft
 
+### Module Database
+- [[Modules/INDEX|Module Database]] - All ship modules
+- [[Modules/Weapons/_Weapons-Overview|Weapons]] - Guns, torpedoes, missiles
+- [[Modules/Engines/_Engines-Overview|Engines]] - Propulsion systems
+- [[Modules/Sensors/_Sensors-Overview|Sensors]] - Radar, sonar, optics
+- [[Modules/Fire-Control/_Fire-Control-Overview|Fire Control]] - Targeting systems
+- [[Modules/Utilities/_Utilities-Overview|Utilities]] - Damage control, repair
+- [[Modules/Aircraft/_Aircraft-Overview|Aircraft]] - Carrier operations
+- [[Modules/Communications/_Communications-Overview|Communications]] - Radio, signals
+- [[Modules/Auxiliary/_Auxiliary-Overview|Auxiliary]] - Generators, pumps
+
 ---
 
 ## 📝 Document Templates
@@ -260,6 +274,6 @@ Creating new documentation? Use these templates:
 
 ---
 
-**Last Updated**: 2025-11-17
+**Last Updated**: 2025-12-03
 **Maintained By**: Project lead + Claude Code
 **Questions?** Start with the relevant section above or use Obsidian search
