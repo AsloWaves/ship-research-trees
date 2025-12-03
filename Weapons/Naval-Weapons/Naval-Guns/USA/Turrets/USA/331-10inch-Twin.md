@@ -1,0 +1,53 @@
+---
+designation: 10" Mark Mark 3 Twin Turret
+turret_id: 331
+gun_id: 124
+nation: USA
+caliber: 10"
+turret_type: Twin
+tags: [10inch, twin, usa, turret]
+completeness: complete
+---
+
+# 10" Mark Mark 3 Twin Turret
+
+## Overview
+
+**Turret ID**: 331  
+**Gun ID**: 124 (See Guns database)  
+**Nation**: USA  
+**Caliber**: 10"  
+**Turret Type**: Twin  
+
+## Physical Specifications
+
+- **Turret Weight**: 75.00 tons  
+- **Crew Size**: 27 personnel  
+
+## Armor Protection
+
+- **Face Armor**: 6.00 inches  
+- **Side Armor**: 3.30 inches  
+- **Roof Armor**: 1.80 inches  
+
+## Performance
+
+- **Traverse Rate**: 10.90 °/sec  
+- **Elevation Range**: -5.00° to 45.00°  
+- **Elevation Rate**: 16.40 °/sec  
+- **Rate of Fire**: 2.00 rounds/min  
+
+## Associated Gun
+
+This turret is associated with Gun ID 124.  
+See the Guns database for specifications of the 10" gun.  
+
+## Compatible Ammunition
+
+Uses ammunition for 10" caliber guns.  
+See the Ammunition database for compatible shells.  
+
+## Notes
+
+Fictional twin turret variant for 10" Mark Mark 3. Generated from patterns.
+
