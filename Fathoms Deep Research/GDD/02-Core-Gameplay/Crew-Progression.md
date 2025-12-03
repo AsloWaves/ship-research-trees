@@ -22,14 +22,15 @@ The Crew Progression System governs how crew cards gain experience, level up, an
 ## Design Specification
 
 ### Core Philosophy
-Crew progression follows a **dual-path advancement system**:
-1. **Combat Experience**: Earned through battle participation (slower, free)
-2. **Paid Training**: Direct XP purchase with credits (faster, expensive)
+Crew progression follows a **combat-primary advancement system** with supplementary paid training:
+1. **Combat Experience**: Earned through battle participation (primary source, required)
+2. **Paid Training**: Supplementary XP boost with credits (cannot replace combat, only enhance)
 
-This creates player choice between time investment (grinding battles) and credit investment (paying for faster progression), while maintaining balance through exponential cost scaling at higher levels.
+**Critical Rule**: Paid training can only provide up to **50% of any level's XP requirement**. The remaining 50% MUST come from combat experience. This ensures all crews have meaningful battle experience and prevents "buying" elite crews without actual gameplay.
 
 **Key Design Pillars:**
-- **Dual Progression Paths**: Combat XP or paid training
+- **Combat-Primary Progression**: Combat XP is mandatory, paid training is supplementary
+- **50% Training Cap**: Paid training cannot exceed 50% of any level's XP
 - **Exponential Cost Scaling**: Higher levels require significantly more investment
 - **Level Matching Rewards**: Appropriate-level crews perform optimally
 - **Over-Leveling Bonuses**: Higher-level crews provide efficiency bonuses (capped)
@@ -107,11 +108,12 @@ Players level crew cards through combat or paid training at ports. During battle
      - XP scaling: T1 (100 XP) < T3 (300 XP) < T5 (500 XP) < T10 (1500 XP)
      - Ship tier determines both XP gained AND permadeath risk
 
-2. **Paid Training**:
-   - Direct XP purchase at port training facilities
-   - Instant XP application (no waiting)
+2. **Paid Training** (Supplementary Only):
+   - Purchase additional XP at port training facilities
+   - **50% Cap**: Can only provide up to 50% of each level's XP requirement
+   - Remaining 50% MUST come from combat experience
    - Higher levels = exponentially higher training costs
-   - Faster progression for players with credits
+   - Accelerates progression but cannot replace combat
 
 **XP Award Calculation (Combat):**
 ```
@@ -197,9 +199,10 @@ Total to reach Level 200: ~3,050,000 XP
 - **Strategic Use**: Ultimate endgame investment, flagship crews
 
 **Total Time Investment:**
-- Level 1 → 200: ~500-700 hours of active combat (no paid training)
-- Level 1 → 200: ~3,050M credits (pure paid training, no combat)
-- **Realistic Mix**: 300-400 hours combat + 500M-1B credits for Level 200
+- Level 1 → 200: ~500-700 hours of active combat (no paid training, slowest)
+- Level 1 → 200: ~250-350 hours combat + ~1.5B credits (maximum paid training, fastest)
+- **Realistic Mix**: 350-450 hours combat + 500M-800M credits for Level 200
+- **NOTE**: Pure paid training impossible - minimum 50% of all XP must come from combat
 
 #### Performance & Efficiency System
 
@@ -361,6 +364,7 @@ TRAINING_BRACKET_1_MULT = 1.0x (Levels 1-50)
 TRAINING_BRACKET_2_MULT = 2.5x (Levels 51-100)
 TRAINING_BRACKET_3_MULT = 6.0x (Levels 101-150)
 TRAINING_BRACKET_4_MULT = 15.0x (Levels 151-200)
+TRAINING_XP_CAP_PER_LEVEL = 0.50 (50% max - remaining must be combat XP)
 
 // Efficiency System
 MIN_EFFICIENCY = 0.35 (35% at Level 1 on high-level modules)
@@ -392,28 +396,32 @@ SAILOR_COST_LEVEL_MODIFIER = 1.0 + (Level / 100)
 
 ## Example Scenarios
 
-### Scenario 1: Combat vs. Paid Training
+### Scenario 1: Combat + Paid Training
 **Captain Rodriguez levels a Gunner from 1 → 50**
 
-**Option A: Pure Combat Grinding**
+**Option A: Pure Combat (Minimum Required)**
 - Needs 50,000 total XP
+- **Minimum 50% from combat**: 25,000 XP required from battles
 - Plays T1-T3 battles averaging 300 XP per battle
-- Requires ~167 battles
-- Time investment: ~25-30 hours of gameplay
-- Credit cost: 0 (free progression)
+- Requires ~84 battles minimum (combat portion only)
+- Time investment: ~12-15 hours of gameplay minimum
+- Credit cost: 0 (slowest but free)
 
-**Option B: Pure Paid Training**
+**Option B: Combat + Maximum Paid Training (Fastest)**
 - Needs 50,000 total XP
-- Training cost at L1-50: ~1,020 credits per 100 XP average
-- Total cost: 50,000 / 100 × 1,020 = ~510,000 credits
-- Time investment: 5 minutes (instant)
-- Credit cost: 510,000
+- **50% from combat**: 25,000 XP (~84 battles, 12-15 hours)
+- **50% from training**: 25,000 XP (~255,000 credits)
+- Time investment: 12-15 hours (half of pure combat)
+- Credit cost: 255,000 credits
+- **Fastest possible progression - cuts time in half**
 
-**Option C: Hybrid Approach (Most Common)**
-- Plays 80 battles, earns 24,000 XP through combat (12 hours)
-- Pays for remaining 26,000 XP at port (265,000 credits)
-- Total: 12 hours + 265K credits
-- **Balanced approach most players use**
+**Option C: Combat + Partial Training (Balanced)**
+- Plays 120 battles, earns 36,000 XP through combat (18 hours)
+- Pays for remaining 14,000 XP at port (143,000 credits)
+- Total: 18 hours + 143K credits
+- **Most common approach - moderate time savings**
+
+**NOTE**: Pure paid training is NOT possible. Combat experience is mandatory.
 
 ### Scenario 2: Efficiency Curve Impact
 **Captain Tanaka operates Level 90 Heavy Cruiser**
@@ -483,33 +491,34 @@ SAILOR_COST_LEVEL_MODIFIER = 1.0 + (Level / 100)
 
 **Month 1-2: Basic Crews (Levels 1-50)**
 - Creates 8 crew cards, levels to 50 through T1-T3 combat
-- Time: 60 hours gameplay
-- Cost: 0 credits (pure combat grinding)
+- Time: 80 hours gameplay (combat required)
+- Cost: 0 credits (no training used)
 - Unlocks basic classifications
 
 **Month 3-6: Intermediate Crews (Levels 51-100)**
-- Levels 6 primary crews to 100 through T4-T6 combat + training
-- Time: 120 hours gameplay
-- Cost: ~400M credits (hybrid approach)
+- Levels 6 primary crews to 100 through T4-T6 combat + supplementary training
+- Time: 100 hours gameplay (combat)
+- Cost: ~200M credits (50% training supplement)
 - Unlocks advanced specializations
 
 **Month 7-10: Advanced Crews (Levels 101-150)**
 - Focuses on 4 main crews for T7-T8 operations
-- Time: 150 hours gameplay
-- Cost: ~1.2B credits (hybrid approach)
+- Time: 120 hours gameplay (combat)
+- Cost: ~600M credits (50% training supplement)
 - Unlocks elite specializations
 
 **Month 11-12: Elite Crews (Levels 151-200)**
 - Pushes 2 critical crews to 200 (main gunner, main engineer)
-- Time: 100 hours gameplay
-- Cost: ~1.8B credits (heavy paid training)
+- Time: 80 hours gameplay (combat)
+- Cost: ~700M credits (50% training supplement)
 - Reaches maximum mastery
 
 **Total Investment:**
-- **Time:** 430 hours active gameplay
-- **Credits:** ~3.4B total
+- **Time:** 380 hours active gameplay (combat mandatory)
+- **Credits:** ~1.5B total (supplementary training)
 - **Result:** 2 Level 200 elite crews, 4 Level 150 advanced crews, 8 Level 50-100 backup crews
 - **Strategic Value:** Can field optimal crews for T10 battleship with elite performance
+- **NOTE:** Combat time cannot be reduced below ~380 hours - training only supplements, never replaces
 
 ---
 

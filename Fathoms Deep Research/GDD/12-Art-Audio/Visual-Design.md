@@ -678,7 +678,7 @@ This document defines the complete visual art direction and style guide for Fath
 
 **Advanced Damage Models**
 - Physics-based structural deformation
-- Individual compartment flooding visualization
+- Ship-wide flooding/fire debuff effects (visual/audio indicators attached to ship, not compartment-based)
 - Progressive ship sinking with realistic list and trim
 - Wreck persistence (sunken ships remain visible on seafloor)
 

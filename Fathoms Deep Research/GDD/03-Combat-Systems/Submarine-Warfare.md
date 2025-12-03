@@ -508,17 +508,59 @@ The submarine line progresses through three distinct class categories, each with
 
 ---
 
-## Advanced Periscope Operations & Intelligence Gathering
+## Periscope Operations & Visual Detection System
 
-### Periscope Risk/Reward Management
+### Periscope Detection Mechanics
 
-#### **Observation Window Mechanics**
+**CRITICAL**: Periscope operations create a risk/reward system based on visibility mechanics that work both ways - what the submarine can see AND what can see the submarine.
 
-**Periscope Exposure Levels**:
-- **Quick Sweep** (5-10 seconds): Basic bearing information, minimal detection risk
-- **Target Assessment** (15-30 seconds): Ship identification, course/speed estimate, moderate risk
-- **Extended Observation** (30-60 seconds): Detailed intelligence, high detection risk
-- **Continuous Surveillance** (60+ seconds): Maximum information, almost certain detection
+---
+
+#### **What Other Players See (Enemy Perspective)**
+
+**Submarine at Periscope Depth WITH Periscope Extended**:
+- **Surface Ships**: See an **extremely small wake** trailing behind the periscope location (mid-ship area)
+  - Wake is subtle and requires attention to spot
+  - Wake only visible when submarine is moving
+  - Stationary submarine with extended periscope has no wake but periscope tip may be visible at close range
+- **Aircraft**: If the detecting player has aircraft in the area, they see the **outline/silhouette of the submarine** beneath the water
+  - Aerial view provides clear submarine shape visibility
+  - Makes aircraft extremely dangerous for submarines at periscope depth
+
+**Submarine at Periscope Depth WITHOUT Periscope Extended**:
+- **Surface Ships**: See **nothing** - no wake, no visual indication
+  - Submarine is effectively invisible to surface observers
+  - Can only be detected via sonar (cone-based ping system)
+- **Aircraft**: If planes are present, they **still see the submarine outline** beneath the water
+  - Submarines cannot hide from aerial observation at periscope depth
+  - Must dive deeper to avoid aircraft detection
+
+---
+
+#### **What the Submarine Player Sees (Submarine Perspective)**
+
+**WITH Periscope Extended**:
+- **Cone of Vision**: Submarine player sees other players **only within the periscope's cone of view**
+  - Periscope cone: Approximately 30-45° field of view in the direction the periscope is facing
+  - Player must rotate periscope to scan different directions
+  - Objects outside the cone are NOT visible
+- **Detection Quality**: Can identify ship types, estimate range and bearing within cone
+
+**WITHOUT Periscope Extended** (Periscope Depth but retracted):
+- **BLIND**: Submarine player sees **no other surface players at all**
+  - Cannot see surface ships or aircraft
+  - Must rely entirely on sonar for situational awareness
+  - Used for stealth movement when surface observation is too risky
+
+---
+
+#### **Periscope Tactical Decisions**
+
+**Periscope Exposure Trade-offs**:
+- **Quick Sweep** (5-10 seconds): Rotate periscope quickly, minimal wake exposure, limited intelligence
+- **Target Assessment** (15-30 seconds): Extended observation, wake visible to alert enemies
+- **Extended Observation** (30-60 seconds): Detailed intelligence, high detection risk from wake
+- **Continuous Surveillance** (60+ seconds): Maximum information, almost certain detection if enemies nearby
 
 ---
 
@@ -548,20 +590,21 @@ The submarine line progresses through three distinct class categories, each with
 
 ## Periscope Detection & Counter-Detection
 
-### Enemy Detection Probability
+### Detection Factors
 
-**Detection Factors**:
-- **Periscope Exposure Time**: Longer exposure dramatically increases detection chance
-- **Weather Conditions**: Calm seas make periscope wake more visible
-- **Enemy Experience**: Veteran lookouts 300% more effective than green crew
-- **Distance**: Detection probability decreases exponentially with range
-- **Time of Day**: Periscope visible against dawn/dusk sky backdrop
+**What Makes Detection More/Less Likely**:
+- **Movement**: Moving submarine creates wake; stationary submarine much harder to spot
+- **Weather Conditions**: Calm seas make periscope wake more visible; rough seas conceal wake
+- **Distance**: Wake visibility decreases with range (very hard to spot beyond 2-3km)
+- **Time of Day**: Periscope wake more visible in dawn/dusk light, harder at night
+- **Aircraft Presence**: **CRITICAL** - Aircraft can always see submarine outline at periscope depth regardless of periscope state
 
 **Detection Avoidance Tactics**:
-- **Minimize Exposure**: Use brief sweeps with compass bearings
-- **Weather Advantage**: Extend periscope during rough seas when wake is concealed
-- **Tactical Timing**: Observe during enemy watch changes or high-activity periods
-- **Multiple Positions**: Change position between observations to prevent pattern recognition
+- **Minimize Exposure**: Brief sweeps, lower periscope immediately after observation
+- **Stop Movement**: Extend periscope only when stationary to eliminate wake
+- **Weather Advantage**: Operate during rough seas when wake is concealed
+- **Avoid Aircraft**: Dive deep when enemy aircraft are present - they WILL see you
+- **Use Sonar**: Rely on sonar instead of periscope when enemies are nearby
 
 ---
 
@@ -692,41 +735,76 @@ The submarine line progresses through three distinct class categories, each with
 
 ---
 
-## Advanced Sonar Systems & Acoustic Warfare
+## Submarine Sonar Systems - Cone-Based Detection
 
-### Sonar Technology Integration & Tactical Applications
+### Sonar Module-Based Detection System
 
-#### **Passive Sonar Contact Classification** (all detection modified by Electronics/Radar Detection Range stat from [[Crew-Skills]]: -25% range at stat 7, baseline at stat 15, +105% range at stat 50)
-
-**Sound Signature Recognition**:
-- **Engine Type Identification**: Diesel, steam, electric motor recognition (accuracy improved by Detection stat)
-- **Ship Size Estimation**: Propeller cavitation patterns indicate displacement (accuracy improved by Detection stat)
-- **Speed Calculation**: Propeller revolution rate analysis (precision improved by Detection stat)
-- **Course Estimation**: Doppler shift analysis for bearing change (accuracy improved by Detection stat)
-- **Range Estimation**: Sound intensity levels (experienced sonar operators only, heavily modified by Detection stat)
+**IMPORTANT**: Submarine sonar operates identically to surface ship sonar - it is a **module-based system** using **cone-based visual detection mechanics**.
 
 ---
 
-### Active Sonar Tactical Decision Matrix
+#### **How Submarine Sonar Works**
 
-**Active Sonar Usage Scenarios**:
+**Cone-Based Detection** (same mechanics as surface ship sonar):
+- **Cone Projection**: When activated, sonar projects a **visual cone** outward from the submarine
+- **Cone Width by Module Tier**:
+  - **Early Sonar Modules**: 15-25° detection cone (narrow, limited coverage)
+  - **Mid-Tier Modules**: 30-45° detection cone (improved coverage)
+  - **Advanced Modules**: 60-90° detection cone (wide area scanning)
+- **Ping Behavior**: The cone moves outward and **pings off any objects** in its path (ships, submarines, terrain)
+- **Return Signal**: When the cone contacts something, a **cone-shaped visual bounces back** toward the submarine
+- **Estimation Only**: The return ping provides an **estimate** of contact location - NOT precise positioning (just like real sonar)
+- **No Auto-Reveal**: Nothing is automatically revealed - player must interpret the visual returns
+
+**Passive Sonar** (listening mode):
+- Does NOT send out a ping (no detection risk)
+- Detects engine noise from nearby ships within range
+- Provides **bearing only** - no range information
+- Sound signature analysis modified by Electronics/Radar Detection Range stat (7-50): -25% range at stat 7, baseline at stat 15, +105% at stat 50
+
+**Active Sonar** (ping mode):
+- Sends out visible cone that bounces off contacts
+- Provides **bearing + estimated range** from return signal
+- **REVEALS SUBMARINE POSITION** to anyone with sonar - use carefully!
+- More precise than passive, but extremely risky
+
+---
+
+#### **Sonar Module Examples**
+
+**Submarine Sonar Modules**:
+- **Type JS (Early)**: 8km range, 20° cone, passive only
+- **Type JK (Improved)**: 15km range, 30° cone, passive + active modes
+- **Type BQR (Advanced)**: 25km range, 45° cone, enhanced passive detection
+- **Type SQS (Late-War)**: 40km range, 60° cone, multiple ping modes
+
+---
+
+### Active Sonar Tactical Decisions
+
+**When to Use Active Sonar**:
 - **Safe Navigation**: Shallow waters, reef navigation, obstacle avoidance
 - **Target Confirmation**: Verify passive sonar contacts when stealth less critical
 - **Counter-Detection**: Locate enemy submarines in mutual detection scenarios
-- **Emergency Situations**: Navigation when periscope impossible, critical intelligence
+- **Emergency**: When periscope is impossible and you need immediate situational awareness
+
+**Active Sonar Risks**:
+- **Position Revealed**: Any ship with sonar equipment will detect your ping and know your approximate location
+- **Destroyer Response**: ASW-equipped destroyers will immediately vector toward your ping origin
+- **Combat Consequence**: Often triggers depth charge attacks within minutes
 
 #### **Active Sonar Risk Assessment: U-boat in Convoy Hunting Grounds**
 **Situation**: Multiple passive contacts, unclear target priority
 
 **Risk/Benefit Analysis**:
-1. **Tactical Dilemma**: 4 passive contacts detected, need target classification
-2. **Risk Analysis**: Active sonar will reveal submarine position to all contacts
+1. **Tactical Dilemma**: Passive sonar shows 4 contacts at various bearings, need range information
+2. **Risk Analysis**: Active ping will reveal submarine position to all contacts with sonar
 3. **Benefit Assessment**: Accurate range/bearing for optimal torpedo positioning
 4. **Decision Factors**:
-   - Enemy escort experience level (veteran crews have passive sonar)
+   - Enemy escort experience level (veteran crews respond faster to active pings)
    - Time pressure (convoy moving out of intercept range)
-   - Battery life (can submarine maintain pursuit if detected)
-5. **Tactical Decision**: Single active ping to classify largest contact, accept detection risk
+   - Battery life (can submarine evade if detected after pinging)
+5. **Tactical Decision**: Single active ping toward largest passive contact, accept detection risk
 
 ---
 

@@ -589,34 +589,38 @@ When stored in cargo (not installed):
 
 ## Weight & Performance Impact
 
+### Hard Cap at 100% Weight
+
+**IMPORTANT**: Ships have a **hard weight cap at 100%**. Players cannot load cargo that would exceed the ship's weight capacity. The game will prevent adding items that would push weight over the limit.
+
 ### Speed Penalties by Load Percentage
 
-**Optimal Load (0-80% capacity)**:
+**Light Load (0-50% capacity)**:
 - **Speed**: 100% (no penalty)
 - **Acceleration**: 100%
 - **Turn rate**: 100%
 - **Fuel efficiency**: 100%
 
-**Heavy Load (80-100% capacity)**:
+**Standard Load (50-80% capacity)**:
+- **Speed**: 100% (no penalty)
+- **Acceleration**: 95% (-5% slower acceleration)
+- **Turn rate**: 100%
+- **Fuel efficiency**: 105% (+5% fuel consumption)
+
+**Heavy Load (80-95% capacity)**:
 - **Speed**: 95% (-5% max speed)
-- **Acceleration**: 90% (-10% slower acceleration)
-- **Turn rate**: 95% (-5% turn rate)
-- **Fuel efficiency**: 110% (+10% fuel consumption)
+- **Acceleration**: 85% (-15% slower acceleration)
+- **Turn rate**: 92% (-8% turn rate)
+- **Fuel efficiency**: 115% (+15% fuel consumption)
 
-**Over-Capacity (100-120%)**:
-- **Speed**: 85% (-15% max speed)
+**Maximum Load (95-100% capacity)**:
+- **Speed**: 88% (-12% max speed)
 - **Acceleration**: 70% (-30% slower acceleration)
-- **Turn rate**: 85% (-15% turn rate)
-- **Fuel efficiency**: 125% (+25% fuel consumption)
-- **Warning**: HUD shows over-capacity warning (red weight indicator)
-
-**Extreme Over-Capacity (120%+)**:
-- **Speed**: 75% (-25% max speed)
-- **Acceleration**: 50% (-50% slower acceleration)
-- **Turn rate**: 75% (-25% turn rate)
-- **Fuel efficiency**: 150% (+50% fuel consumption)
-- **Critical**: Combat effectiveness severely impaired, difficult to maneuver
-- **Extraction risk**: Extremely vulnerable, can't outrun pursuers
+- **Turn rate**: 82% (-18% turn rate)
+- **Fuel efficiency**: 130% (+30% fuel consumption)
+- **Warning**: HUD shows heavy load warning (yellow weight indicator)
+- **Combat risk**: Significantly reduced maneuverability, vulnerable in engagements
+- **Extraction risk**: Difficult to outrun pursuers, recommend jettisoning non-essential cargo
 
 ---
 

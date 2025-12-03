@@ -19,9 +19,9 @@ This document details the comprehensive damage model for Fathoms Deep, covering 
 Combat in Fathoms Deep balances **accessibility** (assisted targeting, clear feedback) with **mastery** (manual aiming, module optimization, tactical positioning). The hybrid damage model rewards both precision shooting (critical hits, module damage) and sustained pressure (HP attrition). Multi-domain warfare creates rock-paper-scissors dynamics where submarines threaten battleships, destroyers hunt submarines, and aircraft strike all surface vessels.
 
 **Design Principles**:
-- **Hybrid System**: HP pool + compartmentalized damage for depth
+- **Streamlined System**: Pure HP pool with separate module damage for clarity
 - **Skill Rewards**: Critical hits and module damage reward precision
-- **Progressive Degradation**: Damaged systems reduce combat effectiveness
+- **Progressive Degradation**: Damaged modules reduce combat effectiveness
 - **Tactical Feedback**: Visual and UI indicators show damage state
 - **Extraction Stakes**: Damage accumulation threatens survival and loot
 
@@ -29,7 +29,7 @@ Combat in Fathoms Deep balances **accessibility** (assisted targeting, clear fee
 
 ## Damage Model Architecture
 
-### Hybrid System: HP Pool + Compartmentalized Damage
+### HP Pool System
 
 #### **Primary Health Pool**
 
@@ -49,32 +49,18 @@ Combat in Fathoms Deep balances **accessibility** (assisted targeting, clear fee
 
 ---
 
-#### **Compartmentalized Damage Zones**
+### Damage Application Mechanics
 
-Ships divided into damage zones with individual integrity:
+**Simple Damage System**:
+- All hits reduce the **total HP pool** directly
+- Module damage is separate from HP (modules have individual HP)
+- No compartmentalized zones - damage applies to whole ship
 
-**Zone Distribution**:
-1. **Bow Section** (10% of total HP) - Forward hull
-2. **Forward Superstructure** (15% of total HP) - Bridge, forward modules
-3. **Citadel/Amidships** (40% of total HP) - **CRITICAL ZONE** - Magazines, engines
-4. **Aft Superstructure** (15% of total HP) - Rear modules, communications
-5. **Stern Section** (10% of total HP) - Rear hull
-6. **Underwater Hull** (10% of total HP) - Submarine/torpedo damage zone
-
----
-
-### Damage Distribution Mechanics
-
-**Dual Damage System**:
-- Hits reduce **both** total HP and zone HP
-- When zone HP depletes → zone "destroyed" → special effects
-- Example: Bow destroyed → flooding, speed penalty
-
-**Zone-Specific Damage Multipliers**:
-- **Citadel hits** deal **1.5x damage** to total HP
-- **Underwater hits** bypass armor, deal **2x flooding damage**
-- **Superstructure hits** deal normal damage, high fire chance
-- **Module direct hits** have critical hit chance
+**Damage Type Multipliers**:
+- **Citadel penetration**: Deal **1.5x damage** to total HP (precision shots)
+- **Underwater hits** (torpedoes): Deal full damage + **guaranteed flooding**
+- **Module direct hits**: Deal damage to HP + chance to damage/destroy specific module
+- **Critical hits**: Deal **1.5x damage** + guaranteed status effect
 
 ---
 
@@ -399,12 +385,7 @@ Shell Penetration Value vs. Armor Thickness = Outcome
 - **Damage rate**: 0.3% max HP per second per fire
 - **Duration**: 60 seconds if not extinguished
 - **Total damage**: 18% max HP per fire over full duration
-
-**Fire Locations**:
-1. **Bow fire**
-2. **Forward superstructure fire**
-3. **Amidships fire**
-4. **Aft superstructure fire**
+- **Visual Indication**: Fires appear on ship sprite at random positions, purely visual (no zone-specific effects)
 
 **Fire Management**:
 - **Damage Control Party**: Instant extinguish, 90-second cooldown (baseline Fire Fighting stat 15), reduced to ~36 seconds with Fire Fighting 50
@@ -623,8 +604,8 @@ Ship suffering from 3 fires (54% HP damage potential) and 1 heavy flood (120% HP
 - **Resource gauges**: Fuel, battery, air (submarines) - fuel stored in cargo grid per [[Inventory-System]]
 
 **Detailed Damage Display**:
-- **Ship cross-section view**: Shows compartment damage
-- **Module health percentages**: Exact damage values
+- **Ship overview**: Shows overall HP and active status effects (fire, flooding)
+- **Module health percentages**: Exact damage values for each installed module
 - **Repair timers**: Countdown for active repairs
 - **Crew status**: Casualty count and effectiveness
 
@@ -754,7 +735,7 @@ Ship suffering from 3 fires (54% HP damage potential) and 1 heavy flood (120% HP
 **Phase 2 Development Focus**:
 
 **Priority 1 - Core Damage System**:
-1. HP pool and compartmentalized damage
+1. HP pool damage system
 2. Armor penetration mechanics
 3. Module damage and degradation
 4. Basic fire and flooding systems

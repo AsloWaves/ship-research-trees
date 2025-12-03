@@ -302,8 +302,8 @@ The Fathoms Deep economy is built on **extraction-based resource cycling**:
 **Scarcity Factor**:
 - Most limited resource in game economy
 - Highest value-to-weight ratio
-- Production requires specialized facilities (only 6 major production sites globally)
-- 80% of electronics produced by USA and UK
+- Production requires specialized facilities (distributed across all 4 nations)
+- Each nation has electronics production capacity with unique specializations (no single nation monopoly)
 
 **Production Complexity**:
 - Requires specialized facilities and skilled technicians

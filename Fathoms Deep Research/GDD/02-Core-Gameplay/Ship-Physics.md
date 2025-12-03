@@ -69,12 +69,13 @@ Telegraph-style speed control modeled after real naval vessels:
 
 #### 5. Cargo Weight & Performance ✅
 Ship performance affected by cargo load from unified inventory system:
-- **Weight Affects Performance**: Cargo weight (from [[Inventory-System]]) applies soft cap penalties
-- **Speed Penalties**: Over-weight ships suffer reduced max speed (-5% to -25% based on load)
-- **Acceleration Penalties**: Heavy loads reduce acceleration (-10% to -50%)
-- **Turn Rate Impact**: Over-loaded ships turn slower and have wider turning circles
-- **Fuel Efficiency**: Heavy cargo increases fuel consumption (+10% to +50%)
-- **See [[Inventory-System]]** for detailed weight soft cap penalty tiers (80-100%, 100-120%, 120%+)
+- **Hard Weight Cap**: Ships have a **100% weight limit** - cannot exceed maximum capacity
+- **Weight Affects Performance**: Cargo weight (from [[Inventory-System]]) applies graduated penalties
+- **Speed Penalties**: Heavy ships suffer reduced max speed (-5% to -12% based on load)
+- **Acceleration Penalties**: Heavy loads reduce acceleration (-5% to -30%)
+- **Turn Rate Impact**: Heavy ships turn slower and have wider turning circles (-8% to -18%)
+- **Fuel Efficiency**: Heavy cargo increases fuel consumption (+5% to +30%)
+- **See [[Inventory-System]]** for detailed weight penalty tiers (0-50%, 50-80%, 80-95%, 95-100%)
 
 ### User Experience
 

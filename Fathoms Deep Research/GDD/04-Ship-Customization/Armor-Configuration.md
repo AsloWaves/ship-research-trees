@@ -224,7 +224,7 @@ Ship Speed Penalty Coefficients:
 - Heavier armor = slower turning radius
 - Formula: `Turn Rate = Base Turn Rate × (1 - Total Weight / Max Displacement × 0.2)`
 
-**Note**: These are permanent armor weight penalties. Additional cargo weight penalties from [[Inventory-System]] apply when exceeding cargo weight capacity (soft cap system with -5% to -25% speed, +10% to +50% fuel).
+**Note**: Armor weight contributes to total hull weight percentage equally with turrets, modules, crew, and cargo. Graduated penalties apply based on total weight percentage (50-80% minor, 80-95% moderate, 95-100% heavy penalties). **HARD CAP at 100%** - ships cannot undock when overweight.
 
 ---
 
@@ -276,19 +276,20 @@ Example (12" Belt RHA):
 
 ### Armor Configuration Constraints
 
-**Weight Budget**: Total armor + modules + crew + cargo ≤ ship maximum displacement (soft cap with penalties per [[Inventory-System]])
-- **Armor/Module/Crew Weight**: Permanent ship weight, reduces available cargo weight capacity
-- **Cargo Weight**: Variable load (ammunition, fuel, loot) subject to soft cap penalties
-- **Soft Cap System**: Exceeding weight capacity reduces speed, acceleration, fuel efficiency (see [[Inventory-System]] for penalty tiers)
-- **Heavy armor reduces weight capacity for cargo**, NOT cargo grid cell count
+**Weight Budget**: Total armor + modules + crew + cargo ≤ ship maximum displacement (**HARD CAP at 100%** per [[Inventory-System]])
+- **All Weight Types Equal**: Armor, turrets, modules, crew, and cargo ALL contribute equally to total hull weight percentage
+- **Cargo Weight**: Variable load (ammunition, fuel, loot) subject to graduated penalties (50-80% minor, 80-95% moderate, 95-100% heavy)
+- **Hard Cap System**: Ships **cannot exceed 100% weight** - applies at port (cannot undock) AND at sea (cannot pick up cargo that would exceed cap)
+- **Armor adds to total weight** just like any other equipment - does NOT reduce cargo grid cell count
 
 **Ship Class Limits**: Cannot exceed max thickness per ship class
 **Historical Accuracy Mode** (Optional Toggle): Restricts armor to historically plausible ranges
 
 **Validation Warnings:**
-- Red: Exceeds weight limit or ship class maximum
-- Yellow: Near weight limit (>90% capacity)
-- Green: Valid configuration within all limits
+- Red: At or exceeds 100% weight limit (HARD CAP - cannot undock) or ship class maximum
+- Orange: Near weight limit (95-100% capacity) - heavy penalties active
+- Yellow: Moderate weight (80-95% capacity) - moderate penalties active
+- Green: Valid configuration within optimal limits (<80% capacity)
 
 ---
 

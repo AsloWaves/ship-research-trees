@@ -137,7 +137,8 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 - **Tertiary Battery**: Anti-aircraft/light ship weapons (20mm-40mm) - rapid fire, limited damage
 
 **Individual Battery Control System**:
-- **Independent Target Assignment**: Each battery section assigned separate targets simultaneously
+- **Independent Target Assignment**: Each battery section can be assigned separate targets simultaneously **IF** the appropriate fire control module is installed (see [[Module-System]])
+- **Module Requirement**: Without multi-target fire control module, all batteries engage single target
 - **Target Queue Management**: Pre-assign backup targets for automatic engagement after primary destroyed
 - **Priority Override**: Emergency targets can interrupt current firing solutions
 - **Range Optimization**: System suggests optimal battery for target range and type
@@ -319,23 +320,48 @@ This document details the complete surface ship combat system for Fathoms Deep, 
 
 ---
 
-### Advanced Radar Integration
+### Radar/Sonar Module-Based Detection System
 
-**Radar Technology Progression**:
-- **Early Radar (1940)**: 30km range, bearing only, poor resolution
-- **Improved Radar (1942)**: 50km range, bearing + rough distance, weather resistant
-- **Advanced Radar (1944)**: 80km range, precise positioning, target classification
-- **Late-War Radar (1945)**: 120km range, multiple target tracking, fire control integration
+**IMPORTANT**: Radar and sonar are **module-based systems** that must be installed on ships. Detection is NOT automatic - it requires active use of equipped detection modules.
+
+#### **Cone-Based Visual Detection Mechanics**
+
+**How Detection Works**:
+- **Cone Projection**: When activated, radar/sonar projects a **visual cone** outward from the ship
+- **Cone Width by Module Tier**:
+  - **Early Modules**: 15-25° detection cone (narrow, limited coverage)
+  - **Mid-Tier Modules**: 30-45° detection cone (improved coverage)
+  - **Advanced Modules**: 60-90° detection cone (wide area scanning)
+  - **Late-War Modules**: 120°+ detection cone or rotating sweep
+- **Ping Behavior**: The cone moves outward and **pings off any objects** in its path
+- **Return Signal**: When the cone contacts something, a **cone-shaped visual bounces back** toward the player
+- **Estimation Only**: The return ping provides an **estimate** of contact location - NOT precise positioning (just like real sonar/radar)
+- **No Auto-Reveal**: Nothing is automatically revealed on the map - player must interpret the visual returns
+
+**Module Limitations**:
+- **Range**: Determined by module quality (early: 15-30km, advanced: 60-120km)
+- **Accuracy**: Early modules provide rough bearing only; advanced modules give bearing + estimated range
+- **Power Consumption**: Active scanning consumes battery/fuel resources
+- **Detection Risk**: Active radar/sonar can be detected by enemy ships with appropriate equipment
+
+#### **Radar Technology Progression**
+
+**Radar Module Examples**:
+- **Type 271 (Early)**: 20km range, 20° cone, surface detection only
+- **Type 273 (Improved)**: 40km range, 35° cone, improved resolution
+- **SG Radar (Advanced)**: 60km range, 45° cone, target size estimation
+- **SK Radar (Late-War)**: 100km range, rotating sweep, air and surface detection
 
 #### **Radar Combat Application: USS Fletcher Night Engagement**
 **Scenario**: Pitch black night, no visual contacts
 
 **Radar-Directed Engagement**:
-1. **Radar Contact**: 3 ships detected at 24km, bearing 045°
-2. **Classification**: Advanced radar identifies 2 cruisers, 1 destroyer formation
-3. **Fire Control Solution**: Radar provides continuous target updates for gunnery
-4. **Tactical Advantage**: Enemy has no radar, unaware of Fletcher's presence
-5. **Engagement Result**: Surprise attack achieves 8 hits before enemy can respond
+1. **Radar Activation**: Player activates SG radar module, 45° cone sweeps toward bearing 045°
+2. **Ping Return**: Cone contacts objects, visual return shows 3 distinct echoes at estimated 24km
+3. **Interpretation**: Player estimates 2 larger contacts (cruisers) and 1 smaller (destroyer) based on return strength
+4. **Fire Control**: Player aims based on estimated positions from radar returns
+5. **Tactical Advantage**: Enemy has no radar, unaware of Fletcher's presence
+6. **Engagement Result**: Surprise attack achieves 8 hits before enemy can respond
 
 ---
 

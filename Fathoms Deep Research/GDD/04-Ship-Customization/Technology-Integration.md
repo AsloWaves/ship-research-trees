@@ -12,7 +12,7 @@
 Technology Integration describes how installing specific modules fundamentally transforms ship capabilities and UI functionality. Unlike simple stat bonuses, technology modules unlock entirely new gameplay features, visual elements, and tactical options.
 
 **Core Principle:**
-Historical technology progression mirrors real naval evolution—ships without radar operate blind beyond visual range, fire control computers dramatically improve accuracy, and electronic warfare creates entirely new tactical dimensions.
+Technology progression spans **1936-2025**, mirroring real naval evolution from WWII through modern era. Ships without radar operate blind beyond visual range, fire control computers dramatically improve accuracy, and electronic warfare creates entirely new tactical dimensions.
 
 ---
 

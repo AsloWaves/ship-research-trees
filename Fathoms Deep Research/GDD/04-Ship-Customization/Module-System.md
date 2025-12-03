@@ -639,7 +639,7 @@ Result: Rookie crew rapidly promoted to operational levels, veteran crew still p
 
 **Combat System:**
 - Module damage affects ship combat performance in real-time
-- Compartmentalized damage system (turrets/engines damaged independently)
+- HP pool damage system with individual module damage (turrets/engines damaged independently from hull HP)
 - Emergency repairs critical for sustained combat operations
 
 **Economy System:**
