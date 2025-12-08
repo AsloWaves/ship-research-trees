@@ -59,6 +59,28 @@ archive/
 # Claude Code local files
 .claude/
 
+# MCP and Agent tooling
+.mcp.json
+.env.example
+mcp_*.py
+mcp_*.json
+*_agent.py
+docker-compose.yml
+docker/
+setup_*.bat
+test_agent_setup.py
+generate_*.py
+mcp_helpers.sh
+
+# Agent documentation (local dev only)
+AGENT_SDK_SETUP.md
+QUICK_START_ZERO_CONTEXT.md
+READY_TO_USE.md
+ZERO_CONTEXT_MCP.md
+
+# Windows artifacts
+nul
+
 # Agent results (will be generated)
 agent_results/*.md
 
