@@ -1,0 +1,203 @@
+{
+	"nodes": [
+		{
+			"id": "1",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/SPEAR 3.md",
+			"x": 0,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "2",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/CRV7 Pod.md",
+			"x": 450,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "3",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/Mk 13 (British).md",
+			"x": 900,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "4",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/WE.177.md",
+			"x": 1350,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "5",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/WE.177A-B.md",
+			"x": 1800,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "6",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/250 lb GP.md",
+			"x": 2250,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "7",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/500 lb GP.md",
+			"x": 2700,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "8",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/BL755.md",
+			"x": 3150,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "9",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/RBL755.md",
+			"x": 3600,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "10",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/1000 lb GP (Post-war).md",
+			"x": 4050,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "11",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/1000 lb HE.md",
+			"x": 4500,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "12",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/1000 lb MC.md",
+			"x": 4950,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "13",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/4000 lb HC.md",
+			"x": 5400,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "14",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/Blue Danube.md",
+			"x": 5850,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "15",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/Enhanced Paveway II.md",
+			"x": 6300,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "16",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/Grand Slam.md",
+			"x": 6750,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "17",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/Paveway II (RAF).md",
+			"x": 7200,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "18",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/Paveway III (RAF).md",
+			"x": 7650,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "19",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/Paveway IV.md",
+			"x": 8100,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "20",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/Red Beard.md",
+			"x": 8550,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "21",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/SNEB Rocket.md",
+			"x": 9000,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "22",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Bombs/British/Tallboy.md",
+			"x": 9450,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		}
+	],
+	"edges": []
+}

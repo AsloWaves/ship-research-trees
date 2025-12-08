@@ -1,0 +1,869 @@
+{
+	"nodes": [
+		{
+			"id": "713",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/1.5cm-65 MG 151.md",
+			"x": 0,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "714",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/2.5cm-60 C-39.md",
+			"x": 450,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "715",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/2.5cm-65 C-40.md",
+			"x": 900,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "716",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/2cm-65 C-30.md",
+			"x": 1350,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "717",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/2cm-65 C-38.md",
+			"x": 1800,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "718",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/2cm-65 C-40.md",
+			"x": 2250,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "719",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/2cm-65 C-41.md",
+			"x": 2700,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "720",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/3.7cm-69 SK C-30.md",
+			"x": 3150,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "721",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/3.7cm-69 SK C-32.md",
+			"x": 3600,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "722",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/3.7cm-83 SK C-30.md",
+			"x": 4050,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "723",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/3.7cm-83 SK C-36.md",
+			"x": 4500,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "724",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/3cm-60 C-38.md",
+			"x": 4950,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "725",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/3cm-65 MK 103.md",
+			"x": 5400,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "726",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/4cm-60 SK C-40.md",
+			"x": 5850,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "727",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/4cm-70 Flak C-41.md",
+			"x": 6300,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "728",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/5cm-55 SK C-39.md",
+			"x": 6750,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "729",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/5cm-60 SK C-41.md",
+			"x": 7200,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "730",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/5cm-65 SK C-41.md",
+			"x": 7650,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "731",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/6cm-60 SK C-40.md",
+			"x": 8100,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "732",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/7.5cm-55 SK C-38.md",
+			"x": 8550,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "733",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/7.5cm-60 SK C-40.md",
+			"x": 9000,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "734",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/7.5cm-65 SK C-42.md",
+			"x": 9450,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "735",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/8.8cm-45 SK L-45.md",
+			"x": 9900,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "736",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/8.8cm-76 SK C-35.md",
+			"x": 10350,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "737",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/8.8cm-76 SK C-37.md",
+			"x": 10800,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "738",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/8.8cm-76 SK C-39.md",
+			"x": 11250,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "739",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/9cm-60 SK C-39.md",
+			"x": 11700,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "740",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/9cm-65 SK C-41.md",
+			"x": 12150,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "741",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/10.5cm-45 SK L-45.md",
+			"x": 12600,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "742",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/10.5cm-60 SK C-32.md",
+			"x": 13050,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "743",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/10.5cm-65 SK C-33.md",
+			"x": 13500,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "744",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/10.5cm-65 SK C-35.md",
+			"x": 13950,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "745",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/10.5cm-65 SK C-37.md",
+			"x": 14400,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "746",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/10.5cm-70 SK C-43.md",
+			"x": 14850,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "747",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/10cm-65 SK C-38.md",
+			"x": 15300,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "748",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/11.5cm-50 SK C-38.md",
+			"x": 15750,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "749",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/11.5cm-55 SK C-40.md",
+			"x": 16200,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "750",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/12.7cm-45 SK C-34.md",
+			"x": 16650,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "751",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/12.7cm-45 SK C-36.md",
+			"x": 17100,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "752",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/12.8cm-45 SK C-34.md",
+			"x": 17550,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "753",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/12.8cm-45 SK C-36.md",
+			"x": 18000,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "754",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/12.8cm-45 SK C-38.md",
+			"x": 18450,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "755",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/12cm-55 Flak C-40.md",
+			"x": 18900,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "756",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/12cm-60 SK C-40.md",
+			"x": 19350,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "757",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/12cm-65 SK C-42.md",
+			"x": 19800,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "758",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/13.5cm-45 SK C-37.md",
+			"x": 20250,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "759",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/13.5cm-48 SK C-39.md",
+			"x": 20700,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "760",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/13.5cm-50 SK C-39.md",
+			"x": 21150,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "761",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/13.5cm-55 SK C-40.md",
+			"x": 21600,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "762",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/15cm-40 L-40.md",
+			"x": 22050,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "763",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/15cm-45 SK L-45.md",
+			"x": 22500,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "764",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/15cm-48 SK C-36.md",
+			"x": 22950,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "765",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/15cm-55 SK C-28.md",
+			"x": 23400,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "766",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/15cm-55 SK C-30.md",
+			"x": 23850,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "767",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/15cm-55 SK C-32.md",
+			"x": 24300,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "768",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/15cm-55 SK C-36.md",
+			"x": 24750,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "769",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/15cm-60 SK C-42.md",
+			"x": 25200,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "770",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/17cm-55 SK C-38.md",
+			"x": 25650,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "771",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/17cm-60 SK C-40.md",
+			"x": 26100,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "772",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/18cm-50 SK C-34.md",
+			"x": 26550,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "773",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/18cm-55 SK C-36.md",
+			"x": 27000,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "774",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/18cm-60 SK C-39.md",
+			"x": 27450,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "775",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/20.3cm-60 SK C-34.md",
+			"x": 27900,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "776",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/20.3cm-60 SK C-36.md",
+			"x": 28350,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "777",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/20.3cm-60 SK C-39.md",
+			"x": 28800,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "778",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/20.3cm-65 SK C-41.md",
+			"x": 29250,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "779",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/21cm-55 SK C-34.md",
+			"x": 29700,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "780",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/21cm-60 SK C-37.md",
+			"x": 30150,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "781",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/24cm-52 SK C-37.md",
+			"x": 30600,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "782",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/24cm-55 SK C-39.md",
+			"x": 31050,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "783",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/24cm-60 SK C-41.md",
+			"x": 31500,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "784",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/28cm-40 L-40.md",
+			"x": 31950,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "785",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/28cm-52 SK C-28.md",
+			"x": 32400,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "786",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/28cm-52 SK C-30.md",
+			"x": 32850,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "787",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/28cm-52 SK C-32.md",
+			"x": 33300,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "788",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/28cm-54.5 SK C-34.md",
+			"x": 33750,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "789",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/28cm-54.5 SK C-36.md",
+			"x": 34200,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "790",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/28cm-54.5 SK C-39.md",
+			"x": 34650,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "791",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/28cm-60 SK C-42.md",
+			"x": 35100,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "792",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/30cm-50 SK C-34.md",
+			"x": 35550,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "793",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/30cm-54 SK C-37.md",
+			"x": 36000,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "794",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/33cm-50 SK C-36.md",
+			"x": 36450,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "795",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/33cm-52 SK C-38.md",
+			"x": 36900,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "796",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/33cm-55 SK C-40.md",
+			"x": 37350,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "797",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/38cm-52 SK C-34.md",
+			"x": 37800,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "798",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/38cm-52 SK C-35.md",
+			"x": 38250,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "799",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/38cm-52 SK C-40.md",
+			"x": 38700,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "800",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/38cm-56 SK C-41.md",
+			"x": 39150,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "801",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/38cm-60 SK C-43.md",
+			"x": 39600,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "802",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/40.6cm-45 SK C-36.md",
+			"x": 40050,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "803",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/40.6cm-50 SK C-34.md",
+			"x": 40500,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "804",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/40.6cm-52 SK C-40.md",
+			"x": 40950,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "805",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/40.6cm-56 SK C-42.md",
+			"x": 41400,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "806",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/42cm-52 SK C-40.md",
+			"x": 41850,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "807",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/42cm-56 SK C-42.md",
+			"x": 42300,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		},
+		{
+			"id": "808",
+			"type": "file",
+			"file": "Weapons/Naval-Weapons/Naval-Guns/USA/Guns/Germany/48cm-50 SK C-42.md",
+			"x": 42750,
+			"y": 0,
+			"width": 400,
+			"height": 400
+		}
+	],
+	"edges": []
+}
