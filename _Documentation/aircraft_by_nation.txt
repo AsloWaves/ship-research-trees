@@ -1,4 +1,0 @@
-Germany|8
-Japan|27
-UK|32
-USA|46
