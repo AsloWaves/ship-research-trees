@@ -1,6 +1,6 @@
 ---
 title: Complete Naval Guns Index
-generated: 2025-12-09 08:24
+generated: 2025-12-09 08:53
 tags: [index, guns, weapons, gdd]
 ---
 

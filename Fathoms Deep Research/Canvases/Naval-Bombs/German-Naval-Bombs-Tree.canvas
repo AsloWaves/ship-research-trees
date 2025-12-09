@@ -1,158 +1,22 @@
 {
-	"nodes": [
-		{
-			"id": "23",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/MW-1.md",
-			"x": 0,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "24",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/GBU-12 (Luftwaffe).md",
-			"x": 450,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "25",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/GBU-24 (Luftwaffe).md",
-			"x": 900,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "26",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/GBU-38 (Luftwaffe).md",
-			"x": 1350,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "27",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/SC 50.md",
-			"x": 1800,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "28",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/GBU-54 (Luftwaffe).md",
-			"x": 2250,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "29",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/DM 91.md",
-			"x": 2700,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "30",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/DM 118.md",
-			"x": 3150,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "31",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/250 kg (Bundeswehr).md",
-			"x": 3600,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "32",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/SC 250.md",
-			"x": 4050,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "33",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/Hs 293.md",
-			"x": 4500,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "34",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/500 kg (Bundeswehr).md",
-			"x": 4950,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "35",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/SC 500.md",
-			"x": 5400,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "36",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/SC 1000.md",
-			"x": 5850,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "37",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/PC 1400.md",
-			"x": 6300,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "38",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/SC 1800.md",
-			"x": 6750,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		},
-		{
-			"id": "39",
-			"type": "file",
-			"file": "Weapons/Naval-Weapons/Bombs/German/Fritz X.md",
-			"x": 7200,
-			"y": 0,
-			"width": 400,
-			"height": 400
-		}
+	"nodes":[
+		{"id":"23","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/MW-1.md","x":0,"y":0,"width":400,"height":400},
+		{"id":"24","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/GBU-12 (Luftwaffe).md","x":450,"y":0,"width":400,"height":400},
+		{"id":"25","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/GBU-24 (Luftwaffe).md","x":900,"y":0,"width":400,"height":400},
+		{"id":"26","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/GBU-38 (Luftwaffe).md","x":1350,"y":0,"width":400,"height":400},
+		{"id":"27","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/SC 50.md","x":1800,"y":0,"width":400,"height":400},
+		{"id":"28","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/GBU-54 (Luftwaffe).md","x":2250,"y":0,"width":400,"height":400},
+		{"id":"29","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/DM 91.md","x":2700,"y":0,"width":400,"height":400},
+		{"id":"30","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/DM 118.md","x":3150,"y":0,"width":400,"height":400},
+		{"id":"31","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/250 kg (Bundeswehr).md","x":3600,"y":0,"width":400,"height":400},
+		{"id":"32","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/SC 250.md","x":4050,"y":0,"width":400,"height":400},
+		{"id":"33","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/Hs 293.md","x":4500,"y":0,"width":400,"height":400},
+		{"id":"34","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/500 kg (Bundeswehr).md","x":4950,"y":0,"width":400,"height":400},
+		{"id":"35","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/SC 500.md","x":5400,"y":0,"width":400,"height":400},
+		{"id":"36","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/SC 1000.md","x":5850,"y":0,"width":400,"height":400},
+		{"id":"37","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/PC 1400.md","x":6300,"y":0,"width":400,"height":400},
+		{"id":"38","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/SC 1800.md","x":6750,"y":0,"width":400,"height":400},
+		{"id":"39","type":"file","file":"Weapons/Naval-Weapons/Bombs/German/Fritz X.md","x":7200,"y":0,"width":400,"height":400}
 	],
-	"edges": []
+	"edges":[]
 }
