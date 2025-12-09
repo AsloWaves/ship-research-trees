@@ -7,7 +7,6 @@ era: 1935-1945
 nation: Germany
 slot_type: bridge
 weight: 85000
-power_draw: 35
 crew_required: 12
 armor_thickness: 350
 tags: [bridge, german, battleship, armored, kriegsmarine]

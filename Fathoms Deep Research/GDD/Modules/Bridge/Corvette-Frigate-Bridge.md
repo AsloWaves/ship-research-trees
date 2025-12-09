@@ -6,7 +6,6 @@ subcategory: escort
 era: 1940-1970
 slot_type: bridge
 weight: 4000
-power_draw: 12
 crew_required: 5
 tags: [bridge, corvette, frigate, escort, ASW-focus, economical, convoy]
 ---

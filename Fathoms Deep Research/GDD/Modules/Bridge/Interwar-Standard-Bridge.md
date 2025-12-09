@@ -6,7 +6,6 @@ subcategory: surface_combatant
 era: 1920-1940
 slot_type: bridge
 weight: 12000
-power_draw: 15
 crew_required: 10
 tags: [bridge, interwar, standard, gyrocompass, rangefinder]
 ---

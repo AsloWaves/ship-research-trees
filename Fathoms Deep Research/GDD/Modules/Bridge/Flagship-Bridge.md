@@ -6,7 +6,6 @@ subcategory: command
 era: 1900-present
 slot_type: bridge
 weight: 45000
-power_draw: 80
 crew_required: 40
 tags: [bridge, flagship, admiral, command, fleet]
 ---

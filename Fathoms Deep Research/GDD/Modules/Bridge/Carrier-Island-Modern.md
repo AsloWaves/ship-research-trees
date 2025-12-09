@@ -6,7 +6,6 @@ subcategory: carrier
 era: 1960-present
 slot_type: bridge
 weight: 150000
-power_draw: 500
 crew_required: 80
 tags: [bridge, carrier, modern, supercarrier]
 ---

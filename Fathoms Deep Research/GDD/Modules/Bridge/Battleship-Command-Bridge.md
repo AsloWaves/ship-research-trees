@@ -6,7 +6,6 @@ subcategory: capital_ship
 era: 1900-1950
 slot_type: bridge
 weight: 35000
-power_draw: 40
 crew_required: 25
 tags: [bridge, battleship, capital-ship, armored, command]
 ---

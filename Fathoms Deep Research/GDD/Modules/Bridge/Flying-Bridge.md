@@ -6,7 +6,6 @@ subcategory: auxiliary
 era: 1900-1960
 slot_type: bridge
 weight: 2000
-power_draw: 2
 crew_required: 4
 tags: [bridge, auxiliary, open, visibility]
 ---

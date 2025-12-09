@@ -7,7 +7,6 @@ era: 1920-1945
 nation: Britain
 slot_type: bridge
 weight: 92000
-power_draw: 35
 crew_required: 28
 tags: [bridge, british, battleship, enclosed, weather-protection, king-george-v, north-atlantic]
 ---

@@ -7,7 +7,6 @@ era: 1942-1970
 nation: United States
 slot_type: bridge
 weight: 9500
-power_draw: 35
 crew_required: 12
 tags: [bridge, american, destroyer, fletcher, radar, usn, wwii]
 ---

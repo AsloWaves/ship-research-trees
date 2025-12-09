@@ -5,7 +5,6 @@ category: bridge
 era: 1890-1920
 slot_type: bridge
 weight: 50000
-power_draw: 5
 crew_required: 8
 armor_thickness: 300
 tags: [bridge, pre-dreadnought, armored, battleship]

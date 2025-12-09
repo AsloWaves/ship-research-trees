@@ -7,7 +7,6 @@ era: 1925-1945
 nation: Japan
 slot_type: bridge
 weight: 65000
-power_draw: 32
 crew_required: 22
 tags: [bridge, japanese, cruiser, night-fighting, torpedo, distinctive]
 ---

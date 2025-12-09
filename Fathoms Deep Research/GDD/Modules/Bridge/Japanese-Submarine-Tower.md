@@ -7,7 +7,6 @@ era: 1930-1945
 nation: Japan
 slot_type: bridge
 weight: 12000
-power_draw: 8
 crew_required: 4
 tags: [bridge, japanese, submarine, i-boat, aircraft-carrying, long-range]
 ---

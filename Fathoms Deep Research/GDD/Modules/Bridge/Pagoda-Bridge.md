@@ -7,7 +7,6 @@ era: 1920-1945
 nation: Japan
 slot_type: bridge
 weight: 120000
-power_draw: 40
 crew_required: 35
 tags: [bridge, japanese, battleship, pagoda, distinctive]
 ---

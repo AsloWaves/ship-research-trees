@@ -7,7 +7,6 @@ era: 1930-1960
 nation: Britain
 slot_type: bridge
 weight: 22000
-power_draw: 18
 crew_required: 10
 tags: [bridge, british, destroyer, convoy-escort, asw, tribal, north-atlantic]
 ---

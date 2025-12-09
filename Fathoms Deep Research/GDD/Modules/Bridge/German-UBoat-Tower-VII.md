@@ -7,7 +7,6 @@ era: 1936-1945
 nation: Germany
 slot_type: bridge
 weight: 6500
-power_draw: 12
 crew_required: 4
 pressure_depth: 220
 tags: [bridge, german, submarine, uboat, type-vii, atlantic]

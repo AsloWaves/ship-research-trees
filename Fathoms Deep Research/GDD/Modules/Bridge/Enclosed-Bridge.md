@@ -5,7 +5,6 @@ category: bridge
 era: 1910-1940
 slot_type: bridge
 weight: 8000
-power_draw: 5
 crew_required: 6
 tags: [bridge, wwi-era, intermediate]
 ---

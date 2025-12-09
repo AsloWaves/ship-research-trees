@@ -6,7 +6,6 @@ subcategory: submarine
 era: 1914-1945
 slot_type: bridge
 weight: 8000
-power_draw: 15
 crew_required: 3
 pressure_depth: 100
 tags: [bridge, submarine, wwii, periscope]

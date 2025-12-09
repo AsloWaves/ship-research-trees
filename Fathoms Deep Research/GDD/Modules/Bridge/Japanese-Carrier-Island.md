@@ -7,7 +7,6 @@ era: 1922-1945
 nation: Japan
 slot_type: bridge
 weight: 45000
-power_draw: 30
 crew_required: 20
 tags: [bridge, japanese, carrier, island, aviation, compact]
 ---

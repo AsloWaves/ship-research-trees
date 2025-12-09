@@ -6,7 +6,6 @@ subcategory: auxiliary
 era: 1890-present
 slot_type: bridge
 weight: 5000
-power_draw: 15
 crew_required: 4
 tags: [bridge, merchant, auxiliary, civilian]
 ---

@@ -307,14 +307,6 @@ Modern naval forces use layered communication architecture:
 - Link 16: 238 kbps
 - SATCOM: 1+ Mbps
 
-### Power Requirements
-
-- Visual Signals: 0-2 kW
-- Voice Radio: 3-5 kW
-- Data Links: 6-8 kW
-- SATCOM: 4-6 kW
-- VLF Transmitter: 50+ kW
-
 ## Related Systems
 
 ### Bridge Modules

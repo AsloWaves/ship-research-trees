@@ -28,6 +28,13 @@ Chaff and flare systems for missile defense:
 Comprehensive EW suites combining multiple capabilities:
 - **ECM-Suite.md** (EW-006/EWR-004): Fully integrated detection, jamming, and control, 1970+
 
+### Signals Intelligence (SIGINT)
+Passive radio intercept and cryptanalysis systems:
+- **Radio-Intercept-Basic.md** (EW-007): Basic TBS voice intercept, 30km range, 1940-1970
+- **Radio-Intercept-Standard.md** (EW-008): HF/VHF fleet radio intercept + direction finding, 75km, 1942-1980
+- **SIGINT-Suite.md** (EW-009): Full-spectrum intercept, data link detection, traffic analysis, 150km, 1960+
+- **Decryption-Module.md** (EW-010): Cryptanalysis computer for breaking enemy codes, requires EW-008/009, 1965+
+
 ## Technology Evolution
 
 ### WWII Era (1942-1945)
@@ -35,12 +42,17 @@ Comprehensive EW suites combining multiple capabilities:
 - Simple noise jammers
 - Chaff (Window/Düppel) introduction
 - Manual operation, limited effectiveness
+- **Basic radio intercept** (TBS voice monitoring)
+- Traffic analysis reveals enemy activity patterns
 
 ### Early Cold War (1950-1970)
 - Improved RWR with better classification
 - More powerful jammers
 - Automated chaff launchers
 - Beginning of integrated systems
+- **Standard radio intercept** (HF/VHF fleet radio)
+- Direction finding enables triangulation
+- Cryptanalysis of tactical codes
 
 ### Modern Era (1970-Present)
 - Advanced threat libraries (1000+ emitters)
@@ -48,6 +60,9 @@ Comprehensive EW suites combining multiple capabilities:
 - Fully automated ECM suites
 - AI-assisted threat prioritization
 - Network-centric EW coordination
+- **Full-spectrum SIGINT** (all radio + data link detection)
+- Advanced decryption capabilities
+- Automated traffic analysis and pattern recognition
 
 ## Tactical Considerations
 
@@ -123,18 +138,41 @@ Modern EW systems integrate with:
 - Basic RWR essential for radar threats
 - Chaff launchers for missile defense (late-war)
 - Simple noise jammers if available
+- **Radio Intercept Basic (EW-007)**: Monitor enemy TBS voice
+- Traffic analysis reveals enemy activity
 
 ### Cold War (1950-1970)
 - Advanced RWR for threat identification
 - Noise and deceptive jammers
 - Automated chaff launchers
 - Begin integrating systems
+- **Radio Intercept Standard (EW-008)**: HF/VHF intercept + DF
+- **Decryption Module (EW-010)**: Break enemy tactical codes
 
 ### Modern Era (1970+)
 - Integrated ECM Suite recommended
 - Full-spectrum protection
 - Automated response critical
 - Network with task force
+- **SIGINT Suite (EW-009)**: Full-spectrum intercept
+- Detect Data Link usage (know enemy has coordinated sensors)
+
+## SIGINT Limitations
+
+**What SIGINT Systems CANNOT Intercept:**
+- Visual signals (signal lamps, flags, semaphore)
+- Laser communication (future systems)
+- Physical messages (courier)
+- Actions (enemy maneuvers)
+
+**Counter-SIGINT for Enemies:**
+Ships being monitored by SIGINT can:
+- Maintain radio silence
+- Use signal lamps for secure coordination
+- Use pre-arranged code words
+- Switch to burst transmissions
+- Employ frequency hopping (modern era)
+- Use one-time pad encryption (unbreakable)
 
 ## Future Additions
 

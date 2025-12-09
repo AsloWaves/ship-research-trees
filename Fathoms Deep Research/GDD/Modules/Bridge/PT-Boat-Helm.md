@@ -6,7 +6,6 @@ subcategory: small_craft
 era: 1935-1970
 slot_type: bridge
 weight: 500
-power_draw: 5
 crew_required: 2
 tags: [bridge, pt-boat, small-craft, fast-attack]
 ---

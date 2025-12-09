@@ -7,7 +7,6 @@ era: 1930-1970
 nation: United States
 slot_type: bridge
 weight: 55000
-power_draw: 95
 crew_required: 25
 tags: [bridge, american, cruiser, radar, usn, wwii]
 ---

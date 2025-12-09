@@ -6,7 +6,6 @@ subcategory: carrier
 era: 1940-1965
 slot_type: bridge
 weight: 15000
-power_draw: 35
 crew_required: 20
 tags: [bridge, carrier, CVL, CVE, island, flight-operations, compact]
 ---

@@ -7,7 +7,6 @@ era: 1940-1960
 nation: United States
 slot_type: bridge
 weight: 9500
-power_draw: 18
 crew_required: 8
 pressure_depth: 120
 tags: [bridge, american, submarine, fleet-boat, pacific, usn, wwii]

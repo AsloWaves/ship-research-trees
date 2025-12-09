@@ -7,7 +7,6 @@ era: 1935-1945
 nation: Germany
 slot_type: bridge
 weight: 12000
-power_draw: 28
 crew_required: 10
 tags: [bridge, german, destroyer, torpedo, kriegsmarine]
 ---

@@ -6,7 +6,6 @@ subcategory: submarine
 era: 1955-present
 slot_type: bridge
 weight: 15000
-power_draw: 50
 crew_required: 4
 pressure_depth: 400
 tags: [bridge, submarine, modern, nuclear]

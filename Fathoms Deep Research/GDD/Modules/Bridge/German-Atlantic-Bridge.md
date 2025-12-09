@@ -7,7 +7,6 @@ era: 1935-1945
 nation: Germany
 slot_type: bridge
 weight: 45000
-power_draw: 30
 crew_required: 15
 tags: [bridge, german, cruiser, raider, atlantic, kriegsmarine]
 ---

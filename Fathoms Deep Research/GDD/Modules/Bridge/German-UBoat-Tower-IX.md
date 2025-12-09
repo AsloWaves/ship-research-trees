@@ -7,7 +7,6 @@ era: 1938-1945
 nation: Germany
 slot_type: bridge
 weight: 8500
-power_draw: 15
 crew_required: 6
 pressure_depth: 230
 tags: [bridge, german, submarine, uboat, type-ix, long-range]

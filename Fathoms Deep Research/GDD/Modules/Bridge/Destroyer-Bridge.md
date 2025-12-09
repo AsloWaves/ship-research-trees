@@ -6,7 +6,6 @@ subcategory: surface_combatant
 era: 1900-1970
 slot_type: bridge
 weight: 8000
-power_draw: 25
 crew_required: 8
 tags: [bridge, destroyer, escort, surface-combatant]
 ---

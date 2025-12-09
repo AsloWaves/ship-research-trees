@@ -6,7 +6,6 @@ subcategory: surface_combatant
 era: 1925-1960
 slot_type: bridge
 weight: 18000
-power_draw: 30
 crew_required: 15
 tags: [bridge, cruiser, heavy-cruiser, treaty-cruiser, balanced]
 ---

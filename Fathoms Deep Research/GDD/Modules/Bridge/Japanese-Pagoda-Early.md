@@ -7,7 +7,6 @@ era: 1920-1935
 nation: Japan
 slot_type: bridge
 weight: 95000
-power_draw: 35
 crew_required: 30
 tags: [bridge, japanese, battleship, pagoda, reconstruction, kongo]
 ---

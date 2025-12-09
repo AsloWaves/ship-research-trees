@@ -7,7 +7,6 @@ era: 1914-1960
 nation: Britain
 slot_type: bridge
 weight: 10000
-power_draw: 6
 crew_required: 3
 tags: [bridge, british, submarine, t-class, s-class, patrol, mediterranean, far-east]
 ---

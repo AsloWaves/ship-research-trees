@@ -7,7 +7,6 @@ era: 1910-1935
 nation: United States
 slot_type: bridge
 weight: 95000
-power_draw: 25
 crew_required: 25
 tags: [bridge, american, battleship, cage-mast, pre-radar, usn]
 ---

@@ -6,7 +6,6 @@ subcategory: surface_combatant
 era: 1920-1960
 slot_type: bridge
 weight: 12000
-power_draw: 25
 crew_required: 12
 tags: [bridge, cruiser, light-cruiser, AA-coordination, speed-emphasis]
 ---

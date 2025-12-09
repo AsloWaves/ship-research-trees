@@ -7,7 +7,6 @@ era: 1927-1960
 nation: United States
 slot_type: bridge
 weight: 95000
-power_draw: 150
 crew_required: 60
 tags: [bridge, american, carrier, island, aviation, usn, wwii]
 ---

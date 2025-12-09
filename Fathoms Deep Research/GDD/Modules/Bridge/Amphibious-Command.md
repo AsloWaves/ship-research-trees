@@ -6,7 +6,6 @@ subcategory: amphibious
 era: 1942-present
 slot_type: bridge
 weight: 60000
-power_draw: 200
 crew_required: 60
 tags: [bridge, amphibious, command, landing, marines]
 ---

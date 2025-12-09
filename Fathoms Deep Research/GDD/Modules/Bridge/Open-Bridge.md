@@ -5,7 +5,6 @@ category: bridge
 era: 1890-1920
 slot_type: bridge
 weight: 2000
-power_draw: 0
 crew_required: 4
 tags: [bridge, early-era, basic]
 ---

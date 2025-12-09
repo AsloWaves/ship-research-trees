@@ -6,7 +6,6 @@ subcategory: specialized
 era: 1860-1950
 slot_type: bridge
 weight: 6000
-power_draw: 10
 crew_required: 8
 tags: [bridge, monitor, gunboat, river-warfare, coastal, shore-bombardment]
 ---

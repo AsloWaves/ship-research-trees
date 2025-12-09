@@ -6,7 +6,6 @@ subcategory: escort
 era: 1942-1970
 slot_type: bridge
 weight: 5000
-power_draw: 18
 crew_required: 6
 tags: [bridge, escort, destroyer-escort, ASW-focus, convoy-ops, economical]
 ---

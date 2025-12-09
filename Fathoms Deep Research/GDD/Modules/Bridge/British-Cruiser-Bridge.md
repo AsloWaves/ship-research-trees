@@ -7,7 +7,6 @@ era: 1920-1960
 nation: Britain
 slot_type: bridge
 weight: 70000
-power_draw: 30
 crew_required: 24
 tags: [bridge, british, cruiser, global-deployment, colonial-station, county, town, traditional]
 ---

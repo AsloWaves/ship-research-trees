@@ -6,7 +6,6 @@ subcategory: carrier
 era: 1922-1960
 slot_type: bridge
 weight: 80000
-power_draw: 100
 crew_required: 50
 tags: [bridge, carrier, wwii, aviation]
 ---

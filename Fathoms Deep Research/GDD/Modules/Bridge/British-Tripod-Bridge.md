@@ -7,7 +7,6 @@ era: 1910-1940
 nation: Britain
 slot_type: bridge
 weight: 85000
-power_draw: 28
 crew_required: 25
 tags: [bridge, british, battleship, tripod-mast, traditional, queen-elizabeth, warspite]
 ---

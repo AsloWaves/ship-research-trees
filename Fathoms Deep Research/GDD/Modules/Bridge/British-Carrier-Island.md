@@ -7,7 +7,6 @@ era: 1918-1960
 nation: Britain
 slot_type: bridge
 weight: 58000
-power_draw: 32
 crew_required: 24
 tags: [bridge, british, carrier, armored-deck, illustrious, ark-royal, fleet-air-arm]
 ---
