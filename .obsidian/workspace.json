@@ -11,14 +11,17 @@
             "id": "4299289cb81304bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Fathoms Deep Research/GDD/Modules/Weapons/_Weapons-Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "Fathoms Deep Research/Canvases/Naval-Bombs/German-Naval-Bombs-Tree.canvas",
+                "viewState": {
+                  "x": 3800,
+                  "y": 200,
+                  "zoom": -3.0138721745815578
+                }
               },
-              "icon": "lucide-file",
-              "title": "_Weapons-Overview"
+              "icon": "lucide-layout-dashboard",
+              "title": "German-Naval-Bombs-Tree"
             }
           }
         ]
@@ -78,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 281.5
   },
   "right": {
     "id": "fb5b74a3fc407eeb",
@@ -169,53 +172,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4299289cb81304bc",
+  "active": "67ece1643beaca7f",
   "lastOpenFiles": [
-    "Fathoms Deep Research/GDD/03-Combat-Systems/Combat-Overview.md",
-    "Fathoms Deep Research/GDD/02-Core-Gameplay/Mission-Examples.md",
-    "Fathoms Deep Research/GDD/02-Core-Gameplay/Mission-System.md",
-    "Fathoms Deep Research/GDD/06-Multiplayer/Squadron-Guild-System.md",
-    "Fathoms Deep Research/GDD/03-Combat-Systems/Carrier-Operations.md.tmp.972.1763743001629",
-    "Fathoms Deep Research/GDD/03-Combat-Systems/Carrier-Operations.md.tmp.972.1763742976299",
-    "Fathoms Deep Research/GDD/03-Combat-Systems/Combat-Overview.md.tmp.972.1763742908343",
-    "Fathoms Deep Research/GDD/03-Combat-Systems/Combat-Overview.md.tmp.972.1763742889234",
-    "Fathoms Deep Research/GDD/03-Combat-Systems/Combat-Overview.md.tmp.972.1763742869932",
-    "Fathoms Deep Research/GDD/03-Combat-Systems/Carrier-Operations.md",
-    "Fathoms Deep Research/GDD/03-Combat-Systems/Carrier-Operations.md.tmp.972.1763742357847",
-    "Fathoms Deep Research/GDD/03-Combat-Systems/Carrier-Operations.md.tmp.972.1763742321292",
-    "Fathoms Deep Research/GDD/03-Combat-Systems/Carrier-Operations.md.tmp.972.1763742224906",
-    "Fathoms Deep Research/GDD/03-Combat-Systems/Carrier-Operations.md.tmp.972.1763742208450",
-    "Fathoms Deep Research/GDD/03-Combat-Systems/Carrier-Operations.md.tmp.972.1763742201750",
+    "_Scripts/verify_canvas_files.py",
+    "_Scripts/validate_canvas.py",
+    "_Scripts/update_chronological_lists.py",
+    "_Scripts/reorganize_usa_turrets_v3.py",
+    "_Scripts/regenerate_all_canvases.py",
+    "_Scripts/generate_turrets.py",
+    "_Scripts/generate_japan_germany_canvases.py",
+    "_Scripts/generate_gb_ship_tree.py",
+    "_Scripts/fix_usa_canvas_paths.py",
+    "_Scripts/fix_canvas_paths_final.py",
+    "_Scripts/filter_naval_weapons_edges.py",
+    "Fathoms Deep Research/Canvases/Naval-Bombs/British-Naval-Bombs-Tree.canvas",
+    "Fathoms Deep Research/GDD/Modules/Aircraft/_Aircraft-Index.md",
+    "Fathoms Deep Research/GDD/03-Combat-Systems/Ammunition/Torpedoes/_Complete-Torpedoes-Index.md",
+    "Fathoms Deep Research/GDD/Modules/Aircraft/_Complete-Aircraft-Index.md",
+    "Fathoms Deep Research/GDD/Modules/Weapons/Main-Guns/_Complete-Guns-Index.md",
+    "Fathoms Deep Research/GDD/04-Ship-Customization/Ship-Database/_Complete-Ships-Index.md",
+    "Fathoms Deep Research/GDD/Modules/Utilities/_Utilities-Overview.md",
+    "Fathoms Deep Research/GDD/Modules/Weapons/_Weapons-Overview.md",
+    "Fathoms Deep Research/GDD/Modules/INDEX.md",
+    "Fathoms Deep Research/GDD/Modules/Aircraft/Torpedo-Bombers/TBF-Avenger.md",
+    "Fathoms Deep Research/GDD/Modules/Aircraft/Fighters/F6F-Hellcat.md",
+    "Fathoms Deep Research/GDD/03-Combat-Systems/Ammunition/Torpedoes/Type-93-Torpedo.md",
+    "Fathoms Deep Research/GDD/03-Combat-Systems/Ammunition/Naval-Shells/16-inch-AP-Mark-8.md",
+    "Fathoms Deep Research/GDD/03-Combat-Systems/Ammunition/_Ammunition-Index.md",
+    "Fathoms Deep Research/GDD/Modules/Weapons/Main-Guns/127mm-50-Type-3.md",
+    "Fathoms Deep Research/GDD/Modules/Weapons/Main-Guns/16-inch-50-Mark-7.md",
+    "Fathoms Deep Research/GDD/Modules/Weapons/Main-Guns/_Main-Guns-Index.md",
+    "Fathoms Deep Research/GDD/Modules/Aircraft/_Aircraft-Overview.md",
+    "Fathoms Deep Research/MOCs/Implemented-Features.md",
+    "Fathoms Deep Research/GDD/04-Ship-Customization/Ship-Database/Japan/Destroyers/Kagero-Class.md",
+    "Fathoms Deep Research/GDD/04-Ship-Customization/Ship-Database/USA/Battleships/Iowa-Class.md",
+    "Fathoms Deep Research/Scripts-Reference/Camera/CameraController.md",
+    "Fathoms Deep Research/Templates/Design-Document-Template.md",
+    "Fathoms Deep Research/WOS2.3_DETAILED_Player_Interaction_Canvas.canvas",
+    "Fathoms Deep Research/Templates/Script-Reference-Template.md",
+    "Fathoms Deep Research/Templates/Implementation-Guide-Template.md",
+    "Aircraft/Germany/Land-Bomber/He 111.md",
+    "Zinc.jpg",
     "Ships/USA/USA Ship Tree.canvas",
     "Ships/Japan/Japan Ship Tree.canvas",
-    "Fathoms Deep Research/GDD/02-Core-Gameplay/Crew-Progression.md",
-    "Fathoms Deep Research/WOS2.3_DETAILED_Player_Interaction_Canvas.canvas",
-    "Fathoms Deep Research/GDD/04-Ship-Customization/Module-System.md",
-    "Fathoms Deep Research/GDD/02-Core-Gameplay/Ship-Physics.md",
-    "Fathoms Deep Research/GDD/02-Core-Gameplay/Inventory-System.md",
-    "Fathoms Deep Research/GDD/02-Core-Gameplay/Crew-Permadeath.md",
-    "Fathoms Deep Research/GDD/02-Core-Gameplay/Crew-Management.md",
-    "Fathoms Deep Research/GDD/02-Core-Gameplay/Crew-Skills.md",
-    "Fathoms Deep Research/GDD/02-Core-Gameplay/Camera-System.md",
-    "Fathoms Deep Research/GDD/01-Core-Concepts/Extraction-Mechanics.md",
-    "Fathoms Deep Research/GDD/01-Core-Concepts/Competitive-Positioning.md",
-    "Fathoms Deep Research/GDD/01-Core-Concepts/Game-Vision.md",
-    "Fathoms Deep Research/GDD/00-Meta/GDD-Overview.md",
-    "Fathoms Deep Research/GDD/01-Core-Concepts/Permadeath-System.md",
-    "Fathoms Deep Research/GDD/00-Meta/DOCUMENTATION_COMPLETE_SUMMARY.md",
-    "Fathoms Deep Research/GDD/00-Meta/COMPLETE_DOCUMENTATION_ACHIEVEMENT.md",
-    "WOS2.3V2 Research/GDD/01-Core-Concepts/Competitive-Positioning.md",
-    "Fathoms Deep Research/Scripts-Reference/UI/MenuKeyboardNavigation.md",
-    "Fathoms Deep Research/Scripts-Reference/UI/ShipDebugUIManager.md",
-    "Fathoms Deep Research/Scripts-Reference/UI/ShipDebugUI.md",
-    "Fathoms Deep Research/Scripts-Reference/UI/ReadOnlyTextField.md",
-    "Fathoms Deep Research/Scripts-Reference/UI/OptionsMenuController.md",
     "WOS2.3V2 Research/WOS2.3_DETAILED_Player_Interaction_Canvas.canvas",
     "WOS2.3V2 Research/WOS2.3_DETAILED_Player_Interaction_Canvas_BACKUP.canvas",
     "WOS2.3V2 Research/WOS2.3_COMPLETE_Feature_Canvas.canvas",
     "WOS2.3V2 Research/WOS2.3_Player_Decision_Canvas.canvas",
     "WOS2.3V2 Research/WOS2.3_ACCURATE_Scripts_vs_GDD_Canvas.canvas",
-    "WOS2.3V2 Research/WOS2.3_Comprehensive_Feature_Canvas.canvas",
-    "Weapons/Naval-Weapons/Naval-Weapons Tree.canvas"
+    "WOS2.3V2 Research/WOS2.3_Comprehensive_Feature_Canvas.canvas"
   ]
 }
