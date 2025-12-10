@@ -21,7 +21,6 @@ tags: [bridge, british, submarine, t-class, s-class, patrol, mediterranean, far-
 | **Era** | 1914-1960 |
 | **Nation** | Royal Navy |
 | **Weight** | 10,000 kg |
-| **Power Draw** | 6 kW |
 | **Crew Required** | 3 (surface operations) |
 
 ## Description

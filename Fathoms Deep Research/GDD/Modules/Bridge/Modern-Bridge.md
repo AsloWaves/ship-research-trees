@@ -5,7 +5,6 @@ category: bridge
 era: 1970-present
 slot_type: bridge
 weight: 25000
-power_draw: 500
 crew_required: 8
 tags: [bridge, modern, digital, automated]
 ---
@@ -19,7 +18,6 @@ tags: [bridge, modern, digital, automated]
 | **Module ID** | BRG-005 |
 | **Era** | 1970-Present |
 | **Weight** | 25,000 kg |
-| **Power Draw** | 500 kW |
 | **Crew Required** | 8 |
 
 ## Description

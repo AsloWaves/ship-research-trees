@@ -26,7 +26,6 @@ bearing_accuracy: 2          # degrees
 # Physical
 hull_mounted: true
 weight: 3400
-power_draw: 30
 crew_required: 2
 reliability: 90
 
@@ -124,7 +123,6 @@ The QGB features exceptionally reliable electronics (90%), higher than British e
 | Spec | Value |
 |------|-------|
 | Weight | 3,400 kg |
-| Power Draw | 30 kW |
 | Crew | 2 operators |
 | Reliability | 90% |
 | Beam Width | 15° |

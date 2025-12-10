@@ -6,7 +6,6 @@ subcategory: detection
 era: all
 slot_type: support
 weight: 500
-power_draw: 0
 crew_required: 4
 tags: [support, detection, visual, basic]
 ---
@@ -21,7 +20,6 @@ tags: [support, detection, visual, basic]
 | **Era** | All Eras |
 | **Category** | Detection |
 | **Weight** | 500 kg |
-| **Power Draw** | None |
 | **Crew Required** | 4 lookouts |
 
 ## Description

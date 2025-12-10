@@ -7,7 +7,6 @@ era: 1890+
 nation: Universal
 slot_type: support
 weight: 10
-power_draw: 0
 crew_required: 1
 
 # Performance

@@ -19,7 +19,6 @@ tags: [bridge, flagship, admiral, command, fleet]
 | **Module ID** | BRG-015 |
 | **Era** | 1900-Present |
 | **Weight** | 45,000 kg |
-| **Power Draw** | 80 kW |
 | **Crew Required** | 40 |
 
 ## Description

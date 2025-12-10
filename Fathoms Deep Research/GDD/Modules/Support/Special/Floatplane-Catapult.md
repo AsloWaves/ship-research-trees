@@ -6,7 +6,6 @@ subcategory: special
 era: 1920-1950
 slot_type: support
 weight: 15000
-power_draw: 10
 crew_required: 6
 tags: [support, aircraft, scout, spotting, special]
 ---
@@ -21,7 +20,6 @@ tags: [support, aircraft, scout, spotting, special]
 | **Era** | 1920-1950 |
 | **Category** | Special |
 | **Weight** | 15,000 kg |
-| **Power Draw** | 10 kW |
 | **Crew Required** | 6 (+ aircrew) |
 
 ## Description

@@ -25,7 +25,6 @@ height_finding: false
 
 # Physical
 weight: 5100
-power_draw: 55
 crew_required: 2
 reliability: 88
 
@@ -99,7 +98,6 @@ Restricts sweep to a chosen arc (90°, 120°, or 180°), improving update rate t
 | Spec | Value |
 |------|-------|
 | Weight | 5,100 kg |
-| Power Draw | 55 kW |
 | Crew Required | 2 |
 | Reliability | 88% |
 | Frequency | 10 cm (S-band) |

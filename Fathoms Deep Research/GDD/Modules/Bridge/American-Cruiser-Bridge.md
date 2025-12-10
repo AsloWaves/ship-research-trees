@@ -21,7 +21,6 @@ tags: [bridge, american, cruiser, radar, usn, wwii]
 | **Era** | 1930-1970 |
 | **Nation** | United States Navy |
 | **Weight** | 55,000 kg |
-| **Power Draw** | 95 kW |
 | **Crew Required** | 25 |
 
 ## Description

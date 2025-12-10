@@ -21,7 +21,6 @@ tags: [bridge, british, battleship, tripod-mast, traditional, queen-elizabeth, w
 | **Era** | 1910-1940 |
 | **Nation** | Royal Navy |
 | **Weight** | 85,000 kg |
-| **Power Draw** | 28 kW |
 | **Crew Required** | 25 |
 
 ## Description

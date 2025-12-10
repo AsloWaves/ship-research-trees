@@ -21,7 +21,6 @@ tags: [bridge, japanese, battleship, pagoda, reconstruction, kongo]
 | **Era** | 1920-1935 |
 | **Nation** | Imperial Japanese Navy |
 | **Weight** | 95,000 kg |
-| **Power Draw** | 35 kW |
 | **Crew Required** | 30 |
 
 ## Description

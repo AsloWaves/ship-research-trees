@@ -7,7 +7,6 @@ era: 1900-1970
 nation: Universal
 slot_type: support
 weight: 150
-power_draw: 0
 crew_required: 1
 reliability: 90
 tags: [support, detection-visual, rangefinding, fire-control, destroyer]
@@ -22,7 +21,6 @@ tags: [support, detection-visual, rangefinding, fire-control, destroyer]
 | **Era** | 1900+ |
 | **Category** | Detection-Visual |
 | **Weight** | 150 kg |
-| **Power Draw** | None |
 
 ## Description
 

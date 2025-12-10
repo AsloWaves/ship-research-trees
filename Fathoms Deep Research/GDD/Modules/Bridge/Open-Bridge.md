@@ -18,7 +18,6 @@ tags: [bridge, early-era, basic]
 | **Module ID** | BRG-001 |
 | **Era** | 1890-1920 |
 | **Weight** | 2,000 kg |
-| **Power Draw** | None |
 | **Crew Required** | 4 |
 
 ## Description

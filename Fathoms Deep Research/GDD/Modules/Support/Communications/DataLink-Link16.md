@@ -7,7 +7,6 @@ era: 1990+
 nation: USA/NATO
 slot_type: support
 weight: 300
-power_draw: 6
 crew_required: 1
 
 # Performance

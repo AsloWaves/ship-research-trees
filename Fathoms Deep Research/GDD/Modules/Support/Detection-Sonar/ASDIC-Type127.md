@@ -26,7 +26,6 @@ bearing_accuracy: 2          # degrees
 # Physical
 hull_mounted: true
 weight: 2600
-power_draw: 20
 crew_required: 3
 reliability: 83
 
@@ -124,7 +123,6 @@ Standard hydrophone listening mode for initial detection without alerting target
 | Spec | Value |
 |------|-------|
 | Weight | 2,600 kg |
-| Power Draw | 20 kW |
 | Crew | 3 operators |
 | Reliability | 83% |
 | Beam Width | 15° horizontal |

@@ -11,7 +11,6 @@ flooding_control_bonus: 15%
 damage_ui: detailed
 status_monitoring: real_time
 weight: 8000
-power_draw: 15
 crew_required: 6
 tags: [support, damage_control, coordination, survivability, information]
 ---
@@ -25,7 +24,6 @@ tags: [support, damage_control, coordination, survivability, information]
 | **Era** | 1940-Present |
 | **Category** | Damage Control |
 | **Weight** | 8,000 kg |
-| **Power Draw** | 15 kW |
 | **Crew Required** | 6 |
 
 ## Description

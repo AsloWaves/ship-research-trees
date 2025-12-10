@@ -22,7 +22,6 @@ tags: [bridge, german, battleship, armored, kriegsmarine]
 | **Era** | 1935-1945 |
 | **Nation** | Kriegsmarine (Germany) |
 | **Weight** | 85,000 kg |
-| **Power Draw** | 35 kW |
 | **Crew Required** | 12 |
 | **Armor** | 350mm |
 

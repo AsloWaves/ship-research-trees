@@ -19,7 +19,6 @@ tags: [bridge, carrier, modern, supercarrier]
 | **Module ID** | BRG-011 |
 | **Era** | 1960-Present |
 | **Weight** | 150,000 kg |
-| **Power Draw** | 500 kW |
 | **Crew Required** | 80 |
 
 ## Description

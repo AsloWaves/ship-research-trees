@@ -19,7 +19,6 @@ tags: [bridge, merchant, auxiliary, civilian]
 | **Module ID** | BRG-016 |
 | **Era** | 1890-Present |
 | **Weight** | 5,000 kg |
-| **Power Draw** | 15 kW |
 | **Crew Required** | 4 |
 
 ## Description

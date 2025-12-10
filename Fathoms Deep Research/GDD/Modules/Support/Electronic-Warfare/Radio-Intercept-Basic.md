@@ -22,7 +22,6 @@ tags: [support, electronic_warfare, sigint, intercept, radio, voice]
 | **Era** | 1940-1970 |
 | **Category** | Electronic Warfare / SIGINT |
 | **Weight** | 150 kg |
-| **Power Draw** | 5 kW |
 | **Crew Required** | 2 (operator + linguist) |
 
 ## Description

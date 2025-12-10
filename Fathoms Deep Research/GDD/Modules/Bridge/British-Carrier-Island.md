@@ -21,7 +21,6 @@ tags: [bridge, british, carrier, armored-deck, illustrious, ark-royal, fleet-air
 | **Era** | 1918-1960 |
 | **Nation** | Royal Navy |
 | **Weight** | 58,000 kg |
-| **Power Draw** | 32 kW |
 | **Crew Required** | 24 |
 
 ## Description

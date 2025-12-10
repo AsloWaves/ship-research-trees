@@ -6,7 +6,6 @@ subcategory: detection
 era: 1900-1970
 slot_type: support
 weight: 2000
-power_draw: 0
 crew_required: 2
 tags: [support, detection, rangefinding, fire-control]
 ---
@@ -21,7 +20,6 @@ tags: [support, detection, rangefinding, fire-control]
 | **Era** | 1900-1970 |
 | **Category** | Detection / Fire Control |
 | **Weight** | 2,000 kg |
-| **Power Draw** | None |
 | **Crew Required** | 2 |
 
 ## Description

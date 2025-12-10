@@ -10,7 +10,6 @@ reload_capacity: 4-20_reloads
 reload_time: 5-15_minutes
 storage_type: magazine
 weight: 10000
-power_draw: 10
 crew_required: 6
 tags: [support, special, torpedo, reload, ammunition, magazine]
 ---
@@ -24,7 +23,6 @@ tags: [support, special, torpedo, reload, ammunition, magazine]
 | **Era** | 1900-Present |
 | **Category** | Special Systems |
 | **Weight** | 10,000 kg (magazine + equipment) |
-| **Power Draw** | 10 kW |
 | **Crew Required** | 6 (torpedo crew) |
 
 ## Description

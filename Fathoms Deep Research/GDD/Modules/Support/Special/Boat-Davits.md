@@ -10,7 +10,6 @@ boat_capacity: 2-6_boats
 boat_types: motor_launch_whaleboat_rigid_inflatable
 launch_recovery: davits_cranes
 weight: 8000
-power_draw: 5
 crew_required: 4
 tags: [support, special, boats, davits, utility, shore_operations]
 ---
@@ -24,7 +23,6 @@ tags: [support, special, boats, davits, utility, shore_operations]
 | **Era** | 1800-Present |
 | **Category** | Special Systems |
 | **Weight** | 8,000 kg (davits + boats) |
-| **Power Draw** | 5 kW |
 | **Crew Required** | 4 (boat crews) |
 
 ## Description

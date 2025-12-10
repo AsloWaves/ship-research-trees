@@ -7,7 +7,6 @@ era: 1920-present
 nation: Universal
 slot_type: support
 weight: 5000
-power_draw: 15
 crew_required: 2
 reliability: 90
 tags: [support, damage-control, firefighting, automated, suppression]
@@ -22,7 +21,6 @@ tags: [support, damage-control, firefighting, automated, suppression]
 | **Era** | 1920+ |
 | **Category** | Damage Control |
 | **Weight** | 5,000 kg |
-| **Power Draw** | 15 kW |
 
 ## Description
 

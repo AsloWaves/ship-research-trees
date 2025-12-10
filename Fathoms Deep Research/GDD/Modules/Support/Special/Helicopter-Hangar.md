@@ -7,7 +7,6 @@ era: 1960-present
 nation: Universal
 slot_type: support
 weight: 45000
-power_draw: 30
 crew_required: 12
 reliability: 87
 tags: [support, special, helicopter, asw, aviation]
@@ -22,7 +21,6 @@ tags: [support, special, helicopter, asw, aviation]
 | **Era** | 1960+ |
 | **Category** | Special |
 | **Weight** | 45,000 kg |
-| **Power Draw** | 30 kW |
 
 ## Description
 

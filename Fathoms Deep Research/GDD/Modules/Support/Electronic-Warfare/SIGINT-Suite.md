@@ -23,7 +23,6 @@ tags: [support, electronic_warfare, sigint, intercept, full_spectrum, modern]
 | **Era** | 1960+ |
 | **Category** | Electronic Warfare / SIGINT |
 | **Weight** | 800 kg |
-| **Power Draw** | 35 kW |
 | **Crew Required** | 4 (operators + analysts) |
 
 ## Description

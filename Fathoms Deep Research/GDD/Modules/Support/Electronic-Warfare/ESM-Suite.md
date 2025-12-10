@@ -7,7 +7,6 @@ era: 1960-present
 nation: Universal
 slot_type: support
 weight: 600
-power_draw: 15
 crew_required: 2
 reliability: 90
 tags: [support, electronic-warfare, esm, detection, intelligence]
@@ -22,7 +21,6 @@ tags: [support, electronic-warfare, esm, detection, intelligence]
 | **Era** | 1960+ |
 | **Category** | Electronic Warfare |
 | **Weight** | 600 kg |
-| **Power Draw** | 15 kW |
 
 ## Description
 

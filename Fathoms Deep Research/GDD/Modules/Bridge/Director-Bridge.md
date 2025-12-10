@@ -5,7 +5,6 @@ category: bridge
 era: 1920-1945
 slot_type: bridge
 weight: 15000
-power_draw: 25
 crew_required: 10
 tags: [bridge, interwar, fire-control]
 ---
@@ -19,7 +18,6 @@ tags: [bridge, interwar, fire-control]
 | **Module ID** | BRG-003 |
 | **Era** | 1920-1945 |
 | **Weight** | 15,000 kg |
-| **Power Draw** | 25 kW |
 | **Crew Required** | 10 |
 
 ## Description

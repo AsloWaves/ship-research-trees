@@ -25,7 +25,6 @@ height_finding: false
 
 # Physical
 weight: 3800
-power_draw: 38
 crew_required: 2
 reliability: 65
 
@@ -99,7 +98,6 @@ The default and most practical mode. Operator selects 60°, 90°, or 120° arc w
 | Spec | Value |
 |------|-------|
 | Weight | 3,800 kg |
-| Power Draw | 38 kW |
 | Crew Required | 2 |
 | Reliability | 65% |
 | Frequency | 10 cm (S-band) |

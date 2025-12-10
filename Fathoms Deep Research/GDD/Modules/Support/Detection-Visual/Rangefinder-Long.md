@@ -7,7 +7,6 @@ era: 1915-1970
 nation: Universal
 slot_type: support
 weight: 4500
-power_draw: 0
 crew_required: 3
 reliability: 88
 tags: [support, detection-visual, rangefinding, fire-control, battleship]
@@ -22,7 +21,6 @@ tags: [support, detection-visual, rangefinding, fire-control, battleship]
 | **Era** | 1915+ |
 | **Category** | Detection-Visual |
 | **Weight** | 4,500 kg |
-| **Power Draw** | None |
 
 ## Description
 

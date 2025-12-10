@@ -10,7 +10,6 @@ automatic_activation: enabled
 coverage: ship_wide
 suppression_types: water_foam_halon_CO2
 weight: 5000
-power_draw: 20
 crew_required: 2
 tags: [support, damage_control, firefighting, automated, safety]
 ---
@@ -24,7 +23,6 @@ tags: [support, damage_control, firefighting, automated, safety]
 | **Era** | 1940-Present |
 | **Category** | Damage Control |
 | **Weight** | 5,000 kg |
-| **Power Draw** | 20 kW |
 | **Crew Required** | 2 (system operators) |
 
 ## Description

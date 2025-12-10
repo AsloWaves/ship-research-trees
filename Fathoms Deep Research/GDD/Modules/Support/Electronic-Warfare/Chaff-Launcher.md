@@ -7,7 +7,6 @@ era: 1943-present
 nation: Universal
 slot_type: support
 weight: 450
-power_draw: 5
 crew_required: 1
 reliability: 92
 tags: [support, electronic-warfare, chaff, countermeasure, missile-defense]
@@ -22,7 +21,6 @@ tags: [support, electronic-warfare, chaff, countermeasure, missile-defense]
 | **Era** | 1943+ |
 | **Category** | Electronic Warfare |
 | **Weight** | 450 kg |
-| **Power Draw** | 5 kW |
 
 ## Description
 

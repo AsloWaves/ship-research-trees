@@ -25,7 +25,6 @@ height_finding: false    # can determine altitude?
 
 # Physical
 weight: 4200
-power_draw: 45
 crew_required: 2
 reliability: 78
 
@@ -98,7 +97,6 @@ Locks antenna to sweep only a chosen sector (90°, 120°, or 180°). Update rate
 | Spec | Value |
 |------|-------|
 | Weight | 4,200 kg |
-| Power Draw | 45 kW |
 | Crew Required | 2 |
 | Reliability | 78% |
 | Frequency | 10 cm (S-band) |

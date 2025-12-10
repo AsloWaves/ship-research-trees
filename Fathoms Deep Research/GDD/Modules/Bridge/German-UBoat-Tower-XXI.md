@@ -22,7 +22,6 @@ tags: [bridge, german, submarine, uboat, type-xxi, elektroboot, revolutionary]
 | **Era** | 1944-1945 |
 | **Nation** | Kriegsmarine (Germany) |
 | **Weight** | 7,200 kg |
-| **Power Draw** | 18 kW |
 | **Crew Required** | 5 |
 | **Pressure Depth** | 280m |
 

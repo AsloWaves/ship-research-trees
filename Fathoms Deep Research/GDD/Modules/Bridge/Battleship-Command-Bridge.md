@@ -19,7 +19,6 @@ tags: [bridge, battleship, capital-ship, armored, command]
 | **Module ID** | BRG-T01 |
 | **Era** | 1900-1950 |
 | **Weight** | 35,000 kg |
-| **Power Draw** | 40 kW |
 | **Crew Required** | 25 |
 
 ## Description

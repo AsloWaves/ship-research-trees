@@ -25,7 +25,6 @@ height_finding: true     # precise altitude determination
 
 # Physical
 weight: 85000            # entire system including arrays
-power_draw: 6000         # MW - requires dedicated generators
 crew_required: 4         # CIC operators
 reliability: 96
 
@@ -114,7 +113,6 @@ Operators designate specific targets for tracking and engagement. Used for train
 | Spec | Value |
 |------|-------|
 | Weight | 85,000 kg (complete system) |
-| Power Draw | 6 MW (6,000 kW) |
 | Crew Required | 4 CIC operators |
 | Reliability | 96% |
 | Frequency | S-band (3.1-3.5 GHz) |

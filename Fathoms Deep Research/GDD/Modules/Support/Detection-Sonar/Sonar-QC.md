@@ -26,7 +26,6 @@ bearing_accuracy: 2.5        # degrees
 # Physical
 hull_mounted: true
 weight: 2800
-power_draw: 22
 crew_required: 2
 reliability: 85
 
@@ -124,7 +123,6 @@ Silent hydrophone mode for initial detection without alerting targets. The QC pr
 | Spec | Value |
 |------|-------|
 | Weight | 2,800 kg |
-| Power Draw | 22 kW |
 | Crew | 2 operators |
 | Reliability | 85% |
 | Beam Width | 25° |

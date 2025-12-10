@@ -7,7 +7,6 @@ era: 1970-present
 nation: Universal
 slot_type: support
 weight: 1200
-power_draw: 60
 crew_required: 3
 reliability: 88
 tags: [support, electronic-warfare, ecm, countermeasure, integrated]
@@ -22,7 +21,6 @@ tags: [support, electronic-warfare, ecm, countermeasure, integrated]
 | **Era** | 1970+ |
 | **Category** | Electronic Warfare |
 | **Weight** | 1,200 kg |
-| **Power Draw** | 60 kW |
 
 ## Description
 

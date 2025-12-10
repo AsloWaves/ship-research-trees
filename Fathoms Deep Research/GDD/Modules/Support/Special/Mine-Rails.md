@@ -10,7 +10,6 @@ mine_capacity: 40-200
 deployment_method: stern_rails
 mine_types: contact_magnetic_acoustic
 weight: 8000
-power_draw: 5
 crew_required: 6
 tags: [support, special, mines, minelaying, area_denial]
 ---
@@ -24,7 +23,6 @@ tags: [support, special, mines, minelaying, area_denial]
 | **Era** | 1900-Present |
 | **Category** | Special Systems |
 | **Weight** | 8,000 kg (rails + equipment) |
-| **Power Draw** | 5 kW |
 | **Crew Required** | 6 (mine handling crew) |
 
 ## Description

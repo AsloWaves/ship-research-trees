@@ -26,7 +26,6 @@ bearing_accuracy: 2          # degrees
 # Physical
 hull_mounted: true
 weight: 3500
-power_draw: 32
 crew_required: 3
 reliability: 88
 
@@ -126,7 +125,6 @@ The Type 147 was specifically designed to work with Hedgehog and Squid ahead-thr
 | Spec | Value |
 |------|-------|
 | Weight | 3,500 kg |
-| Power Draw | 32 kW |
 | Crew | 3 operators |
 | Reliability | 88% |
 | Beam Width | 14° |

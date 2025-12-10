@@ -7,7 +7,6 @@ era: 1980-present
 nation: Universal
 slot_type: support
 weight: 2800
-power_draw: 35
 crew_required: 2
 reliability: 86
 tags: [support, special, torpedo-defense, countermeasure, asw]
@@ -22,7 +21,6 @@ tags: [support, special, torpedo-defense, countermeasure, asw]
 | **Era** | 1980+ |
 | **Category** | Special |
 | **Weight** | 2,800 kg |
-| **Power Draw** | 35 kW |
 
 ## Description
 

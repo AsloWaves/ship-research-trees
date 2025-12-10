@@ -7,7 +7,6 @@ era: 1970-present
 nation: Universal
 slot_type: support
 weight: 6200
-power_draw: 50
 crew_required: 1
 reliability: 91
 tags: [support, special, ciws, point-defense, anti-missile]
@@ -22,7 +21,6 @@ tags: [support, special, ciws, point-defense, anti-missile]
 | **Era** | 1970+ |
 | **Category** | Special |
 | **Weight** | 6,200 kg |
-| **Power Draw** | 50 kW |
 
 ## Description
 

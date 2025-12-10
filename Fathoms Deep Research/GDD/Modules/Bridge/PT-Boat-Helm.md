@@ -19,7 +19,6 @@ tags: [bridge, pt-boat, small-craft, fast-attack]
 | **Module ID** | BRG-012 |
 | **Era** | 1935-1970 |
 | **Weight** | 500 kg |
-| **Power Draw** | 5 kW |
 | **Crew Required** | 2 |
 
 ## Description

@@ -20,7 +20,6 @@ tags: [bridge, submarine, wwii, periscope]
 | **Module ID** | BRG-008 |
 | **Era** | 1914-1945 |
 | **Weight** | 8,000 kg |
-| **Power Draw** | 15 kW |
 | **Crew Required** | 3 |
 | **Pressure Depth** | 100m |
 

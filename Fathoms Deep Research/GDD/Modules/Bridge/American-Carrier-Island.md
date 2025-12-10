@@ -21,7 +21,6 @@ tags: [bridge, american, carrier, island, aviation, usn, wwii]
 | **Era** | 1927-1960 |
 | **Nation** | United States Navy |
 | **Weight** | 95,000 kg |
-| **Power Draw** | 150 kW |
 | **Crew Required** | 60 |
 
 ## Description

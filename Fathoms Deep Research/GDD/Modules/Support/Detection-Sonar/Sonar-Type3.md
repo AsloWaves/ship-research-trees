@@ -26,7 +26,6 @@ bearing_accuracy: 4          # degrees
 # Physical
 hull_mounted: true
 weight: 2900
-power_draw: 24
 crew_required: 2
 reliability: 78
 
@@ -120,7 +119,6 @@ Basic hydrophone capability provides bearing-only detection. Adequate for initia
 | Spec | Value |
 |------|-------|
 | Weight | 2,900 kg |
-| Power Draw | 24 kW |
 | Crew | 2 operators |
 | Reliability | 78% |
 | Beam Width | 18° |

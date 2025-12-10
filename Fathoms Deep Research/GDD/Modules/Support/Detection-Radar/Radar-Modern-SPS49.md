@@ -25,7 +25,6 @@ height_finding: true     # can determine altitude
 
 # Physical
 weight: 18000
-power_draw: 280
 crew_required: 1
 reliability: 94
 
@@ -105,7 +104,6 @@ The SPS-49's most advanced feature: continuously tracks dozens of targets simult
 | Spec | Value |
 |------|-------|
 | Weight | 18,000 kg |
-| Power Draw | 280 kW |
 | Crew Required | 1 (computer-assisted) |
 | Reliability | 94% |
 | Frequency | L-band (1-2 GHz) |

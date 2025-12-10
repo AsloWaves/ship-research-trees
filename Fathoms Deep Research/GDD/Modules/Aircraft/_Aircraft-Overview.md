@@ -42,7 +42,6 @@ Aircraft launch systems.
 - Launch Rate (aircraft per minute)
 - Maximum Aircraft Weight
 - Crew Required
-- Power Required
 
 ### Arresting Gear
 Aircraft recovery systems.
@@ -135,7 +134,6 @@ Rearm & Refuel ──► Ready for next sortie
 |------|-------|
 | [Primary Stat] | X |
 | Crew Required | X |
-| Power Required | X kW |
 | Weight | X tons |
 
 ## Aircraft Compatibility

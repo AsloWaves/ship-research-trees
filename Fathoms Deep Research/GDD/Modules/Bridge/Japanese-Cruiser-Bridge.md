@@ -21,7 +21,6 @@ tags: [bridge, japanese, cruiser, night-fighting, torpedo, distinctive]
 | **Era** | 1925-1945 |
 | **Nation** | Imperial Japanese Navy |
 | **Weight** | 65,000 kg |
-| **Power Draw** | 32 kW |
 | **Crew Required** | 22 |
 
 ## Description

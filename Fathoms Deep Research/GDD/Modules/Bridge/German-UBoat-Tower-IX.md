@@ -22,7 +22,6 @@ tags: [bridge, german, submarine, uboat, type-ix, long-range]
 | **Era** | 1938-1945 |
 | **Nation** | Kriegsmarine (Germany) |
 | **Weight** | 8,500 kg |
-| **Power Draw** | 15 kW |
 | **Crew Required** | 6 |
 | **Pressure Depth** | 230m |
 

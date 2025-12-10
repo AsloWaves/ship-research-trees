@@ -7,7 +7,6 @@ era: 1940-present
 nation: Universal
 slot_type: support
 weight: 3500
-power_draw: 80
 crew_required: 1
 reliability: 93
 tags: [support, special, degaussing, mine-defense, magnetic]
@@ -22,7 +21,6 @@ tags: [support, special, degaussing, mine-defense, magnetic]
 | **Era** | 1940+ |
 | **Category** | Special |
 | **Weight** | 3,500 kg |
-| **Power Draw** | 80 kW |
 
 ## Description
 

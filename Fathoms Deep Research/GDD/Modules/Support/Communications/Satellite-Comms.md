@@ -7,7 +7,6 @@ era: 1970-present
 nation: Universal
 slot_type: support
 weight: 800
-power_draw: 25
 crew_required: 1
 reliability: 95
 tags: [support, communications, satellite, modern, global]
@@ -22,7 +21,6 @@ tags: [support, communications, satellite, modern, global]
 | **Era** | 1970+ |
 | **Category** | Communications |
 | **Weight** | 800 kg |
-| **Power Draw** | 25 kW |
 
 ## Description
 

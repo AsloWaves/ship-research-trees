@@ -11,7 +11,6 @@ filtered_ventilation: enabled
 decontamination: equipped
 collective_protection: full
 weight: 6000
-power_draw: 40
 crew_required: 4
 tags: [support, damage_control, nbc, protection, modern, survivability]
 ---
@@ -25,7 +24,6 @@ tags: [support, damage_control, nbc, protection, modern, survivability]
 | **Era** | 1950-Present |
 | **Category** | Damage Control |
 | **Weight** | 6,000 kg |
-| **Power Draw** | 40 kW |
 | **Crew Required** | 4 (system operators) |
 
 ## Description

@@ -6,7 +6,6 @@ subcategory: detection
 era: 1920-present
 slot_type: support
 weight: 3000
-power_draw: 25
 crew_required: 2
 tags: [support, detection, sonar, active, asw]
 ---
@@ -21,7 +20,6 @@ tags: [support, detection, sonar, active, asw]
 | **Era** | 1920-Present |
 | **Category** | Detection |
 | **Weight** | 3,000 kg |
-| **Power Draw** | 25 kW |
 | **Crew Required** | 2 |
 
 ## Description

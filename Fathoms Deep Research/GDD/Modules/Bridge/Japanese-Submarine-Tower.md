@@ -21,7 +21,6 @@ tags: [bridge, japanese, submarine, i-boat, aircraft-carrying, long-range]
 | **Era** | 1930-1945 |
 | **Nation** | Imperial Japanese Navy |
 | **Weight** | 12,000 kg |
-| **Power Draw** | 8 kW |
 | **Crew Required** | 4 (surface operations) |
 
 ## Description

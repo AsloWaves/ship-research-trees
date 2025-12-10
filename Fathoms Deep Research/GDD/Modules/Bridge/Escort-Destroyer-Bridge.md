@@ -19,7 +19,6 @@ tags: [bridge, escort, destroyer-escort, ASW-focus, convoy-ops, economical]
 | **Module ID** | BRG-T05 |
 | **Era** | 1942-1970 |
 | **Weight** | 5,000 kg |
-| **Power Draw** | 18 kW |
 | **Crew Required** | 6 |
 
 ## Description

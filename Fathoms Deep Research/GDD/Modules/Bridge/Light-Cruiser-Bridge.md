@@ -19,7 +19,6 @@ tags: [bridge, cruiser, light-cruiser, AA-coordination, speed-emphasis]
 | **Module ID** | BRG-T03 |
 | **Era** | 1920-1960 |
 | **Weight** | 12,000 kg |
-| **Power Draw** | 25 kW |
 | **Crew Required** | 12 |
 
 ## Description

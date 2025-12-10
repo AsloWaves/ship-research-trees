@@ -21,7 +21,6 @@ tags: [bridge, japanese, carrier, island, aviation, compact]
 | **Era** | 1922-1945 |
 | **Nation** | Imperial Japanese Navy |
 | **Weight** | 45,000 kg |
-| **Power Draw** | 30 kW |
 | **Crew Required** | 20 |
 
 ## Description

@@ -7,7 +7,6 @@ era: 1935-present
 nation: Universal
 slot_type: support
 weight: 350
-power_draw: 15
 crew_required: 1
 reliability: 88
 tags: [support, communications, radio, voice, long-range]
@@ -22,7 +21,6 @@ tags: [support, communications, radio, voice, long-range]
 | **Era** | 1935+ |
 | **Category** | Communications |
 | **Weight** | 350 kg |
-| **Power Draw** | 15 kW |
 
 ## Description
 

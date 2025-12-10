@@ -21,7 +21,6 @@ tags: [bridge, german, destroyer, torpedo, kriegsmarine]
 | **Era** | 1935-1945 |
 | **Nation** | Kriegsmarine (Germany) |
 | **Weight** | 12,000 kg |
-| **Power Draw** | 28 kW |
 | **Crew Required** | 10 |
 
 ## Description

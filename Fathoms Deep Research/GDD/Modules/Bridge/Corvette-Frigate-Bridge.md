@@ -19,7 +19,6 @@ tags: [bridge, corvette, frigate, escort, ASW-focus, economical, convoy]
 | **Module ID** | BRG-T07 |
 | **Era** | 1940-1970 |
 | **Weight** | 4,000 kg |
-| **Power Draw** | 12 kW |
 | **Crew Required** | 5 |
 
 ## Description

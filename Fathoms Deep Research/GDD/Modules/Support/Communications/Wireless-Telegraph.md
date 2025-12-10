@@ -6,7 +6,6 @@ subcategory: communication
 era: 1900-1950
 slot_type: support
 weight: 500
-power_draw: 10
 crew_required: 2
 tags: [support, communication, radio, morse, early]
 ---
@@ -21,7 +20,6 @@ tags: [support, communication, radio, morse, early]
 | **Era** | 1900-1950 |
 | **Category** | Communication |
 | **Weight** | 500 kg |
-| **Power Draw** | 10 kW |
 | **Crew Required** | 2 (operator + assistant) |
 
 ## Description

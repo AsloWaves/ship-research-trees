@@ -21,7 +21,6 @@ tags: [bridge, japanese, battleship, pagoda, distinctive]
 | **Era** | 1920-1945 |
 | **Nation** | Imperial Japanese Navy |
 | **Weight** | 120,000 kg |
-| **Power Draw** | 40 kW |
 | **Crew Required** | 35 |
 
 ## Description

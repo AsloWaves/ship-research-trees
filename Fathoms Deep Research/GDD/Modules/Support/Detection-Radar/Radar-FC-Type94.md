@@ -25,7 +25,6 @@ height_finding: false
 
 # Physical
 weight: 2900
-power_draw: 32
 crew_required: 2
 reliability: 55
 
@@ -99,7 +98,6 @@ Operator manually aims the 30° beam at the target. The wider beam makes initial
 | Spec | Value |
 |------|-------|
 | Weight | 2,900 kg |
-| Power Draw | 32 kW |
 | Crew Required | 2 |
 | Reliability | 55% |
 | Frequency | 10 cm (S-band) |

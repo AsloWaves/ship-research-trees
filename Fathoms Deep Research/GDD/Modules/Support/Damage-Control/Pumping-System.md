@@ -7,7 +7,6 @@ era: all
 nation: Universal
 slot_type: support
 weight: 8000
-power_draw: 120
 crew_required: 2
 reliability: 88
 tags: [support, damage-control, flooding, pumps, dewatering]
@@ -22,7 +21,6 @@ tags: [support, damage-control, flooding, pumps, dewatering]
 | **Era** | All Eras |
 | **Category** | Damage Control |
 | **Weight** | 8,000 kg |
-| **Power Draw** | 120 kW |
 
 ## Description
 
@@ -50,7 +48,6 @@ When installed:
 | Counterflood Time | 5-10 minutes for list correction |
 | Cross-Connection | Any pump serves any compartment |
 | Emergency Power | Diesel backup pumps |
-| Power Draw | 120 kW (all pumps running) |
 
 ## Advantages
 

@@ -25,7 +25,6 @@ height_finding: false
 
 # Physical
 weight: 5800
-power_draw: 62
 crew_required: 3
 reliability: 70
 
@@ -100,7 +99,6 @@ Restricts antenna sweep to a chosen arc (90°, 120°, or 180°). Update rate imp
 | Spec | Value |
 |------|-------|
 | Weight | 5,800 kg |
-| Power Draw | 62 kW |
 | Crew Required | 3 |
 | Reliability | 70% |
 | Frequency | 2.4 m (VHF) |

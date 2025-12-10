@@ -5,7 +5,6 @@ category: bridge
 era: 1940-1970
 slot_type: bridge
 weight: 35000
-power_draw: 150
 crew_required: 20
 tags: [bridge, wwii-era, radar, advanced]
 ---
@@ -19,7 +18,6 @@ tags: [bridge, wwii-era, radar, advanced]
 | **Module ID** | BRG-004 |
 | **Era** | 1940-1970 |
 | **Weight** | 35,000 kg |
-| **Power Draw** | 150 kW |
 | **Crew Required** | 20 |
 
 ## Description

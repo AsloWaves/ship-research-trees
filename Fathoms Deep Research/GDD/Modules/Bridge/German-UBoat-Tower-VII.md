@@ -22,7 +22,6 @@ tags: [bridge, german, submarine, uboat, type-vii, atlantic]
 | **Era** | 1936-1945 |
 | **Nation** | Kriegsmarine (Germany) |
 | **Weight** | 6,500 kg |
-| **Power Draw** | 12 kW |
 | **Crew Required** | 4 |
 | **Pressure Depth** | 220m |
 

@@ -26,7 +26,6 @@ bearing_accuracy: 1          # degrees
 # Physical
 hull_mounted: false
 weight: 4500
-power_draw: 25
 crew_required: 2
 reliability: 88
 
@@ -133,7 +132,6 @@ Coverage:         Complete passive coverage
 | Spec | Value |
 |------|-------|
 | Weight | 4,500 kg (array + winch) |
-| Power Draw | 25 kW |
 | Crew | 2 operators |
 | Reliability | 88% |
 | Array Length | 60m |

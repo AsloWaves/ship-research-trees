@@ -120,7 +120,6 @@ Each weapon module file should include:
 | Stat | Value |
 |------|-------|
 | Weight | X tons |
-| Power Required | X kW |
 | Slot Type | [Hardpoint / Internal] |
 | Slot Size | [S / M / L / XL] |
 

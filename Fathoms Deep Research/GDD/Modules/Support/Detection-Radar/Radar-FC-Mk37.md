@@ -25,7 +25,6 @@ height_finding: true     # can determine altitude for AA fire
 
 # Physical
 weight: 3600
-power_draw: 40
 crew_required: 2
 reliability: 92
 
@@ -107,7 +106,6 @@ Operator manually aims the narrow 25° beam at the target. The radar is integrat
 | Spec | Value |
 |------|-------|
 | Weight | 3,600 kg |
-| Power Draw | 40 kW |
 | Crew Required | 2 |
 | Reliability | 92% |
 | Frequency | 10 cm (S-band) |

@@ -27,10 +27,10 @@ Precision optical instruments for measuring range to targets.
 ### Searchlights
 Night illumination systems for visual detection and gunnery.
 
-| Module ID | Name | Era | Illumination Range | Beam Width | Power Draw | Notes |
-|-----------|------|-----|-------------------|------------|------------|-------|
-| VIS-009 | 36-inch Searchlight | 1900+ | 5 km | 30° | 12 kW | Standard naval searchlight |
-| VIS-010 | 60-inch Searchlight | 1920+ | 8 km | 25° | 30 kW | Heavy searchlight, capital ships |
+| Module ID | Name | Era | Illumination Range | Beam Width | Notes |
+|-----------|------|-----|-------------------|------------|-------|
+| VIS-009 | 36-inch Searchlight | 1900+ | 5 km | 30° | Standard naval searchlight |
+| VIS-010 | 60-inch Searchlight | 1920+ | 8 km | 25° | Heavy searchlight, capital ships |
 
 ## Design Philosophy
 
@@ -76,7 +76,6 @@ Visual detection systems form the foundation of naval awareness from antiquity t
 
 ### Lookout Stations
 - Compatible with all bridge types
-- No power requirements
 - Can stack multiple stations (diminishing returns)
 - Work with all rangefinders and fire control systems
 
@@ -87,7 +86,6 @@ Visual detection systems form the foundation of naval awareness from antiquity t
 - Cannot range through smoke
 
 ### Searchlights
-- Require electrical power system
 - Risk tactical exposure when used
 - Useful for night surface combat (pre-radar)
 - AA illumination role
@@ -141,6 +139,5 @@ Each module file includes:
 
 - **Fire Control Modules**: Rangefinder data feeds fire control computers
 - **Bridge Modules**: Required mounting location for most optical systems
-- **Power Systems**: Searchlights require electrical power
 - **Radar Modules**: Eventually supplement/replace optical detection
 - **Electronic Warfare**: Not applicable to optical systems (no emissions)

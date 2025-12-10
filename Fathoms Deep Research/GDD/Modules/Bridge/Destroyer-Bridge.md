@@ -19,7 +19,6 @@ tags: [bridge, destroyer, escort, surface-combatant]
 | **Module ID** | BRG-014 |
 | **Era** | 1900-1970 |
 | **Weight** | 8,000 kg |
-| **Power Draw** | 25 kW |
 | **Crew Required** | 8 |
 
 ## Description

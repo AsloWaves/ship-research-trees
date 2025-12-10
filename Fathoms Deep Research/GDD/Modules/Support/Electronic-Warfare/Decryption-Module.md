@@ -22,7 +22,6 @@ tags: [support, electronic_warfare, sigint, decryption, crypto, intelligence]
 | **Era** | 1965+ |
 | **Category** | Electronic Warfare / SIGINT |
 | **Weight** | 200 kg |
-| **Power Draw** | 15 kW |
 | **Crew Required** | 2 (cryptanalysts) |
 | **Requires** | Radio Intercept Standard (EW-008) or SIGINT Suite (EW-009) |
 

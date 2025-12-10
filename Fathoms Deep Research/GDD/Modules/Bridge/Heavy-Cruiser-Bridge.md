@@ -19,7 +19,6 @@ tags: [bridge, cruiser, heavy-cruiser, treaty-cruiser, balanced]
 | **Module ID** | BRG-T02 |
 | **Era** | 1925-1960 |
 | **Weight** | 18,000 kg |
-| **Power Draw** | 30 kW |
 | **Crew Required** | 15 |
 
 ## Description

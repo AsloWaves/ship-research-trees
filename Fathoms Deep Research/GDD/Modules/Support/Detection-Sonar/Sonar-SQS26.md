@@ -26,7 +26,6 @@ bearing_accuracy: 0.5        # degrees
 # Physical
 hull_mounted: true
 weight: 12000
-power_draw: 75
 crew_required: 4
 reliability: 94
 
@@ -132,7 +131,6 @@ The SQS-26 features sophisticated digital processing:
 | Spec | Value |
 |------|-------|
 | Weight | 12,000 kg |
-| Power Draw | 75 kW |
 | Crew | 4 operators |
 | Reliability | 94% |
 | Coverage | 360° omnidirectional |

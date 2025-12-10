@@ -12,7 +12,6 @@ automation_level: high
 remote_control: enabled
 damage_prediction: enabled
 weight: 12000
-power_draw: 30
 crew_required: 8
 tags: [support, damage_control, automated, modern, survivability]
 ---
@@ -26,7 +25,6 @@ tags: [support, damage_control, automated, modern, survivability]
 | **Era** | 1960-Present |
 | **Category** | Damage Control |
 | **Weight** | 12,000 kg |
-| **Power Draw** | 30 kW |
 | **Crew Required** | 8 |
 
 ## Description

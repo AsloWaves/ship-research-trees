@@ -7,7 +7,6 @@ era: 1890-present
 nation: Universal
 slot_type: support
 weight: 800
-power_draw: 50
 crew_required: 2
 reliability: 85
 tags: [support, detection-visual, night, illumination]
@@ -22,7 +21,6 @@ tags: [support, detection-visual, night, illumination]
 | **Era** | 1890+ |
 | **Category** | Detection-Visual |
 | **Weight** | 800 kg |
-| **Power Draw** | 50 kW |
 
 ## Description
 

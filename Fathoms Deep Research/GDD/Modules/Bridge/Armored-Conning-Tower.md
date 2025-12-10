@@ -19,7 +19,6 @@ tags: [bridge, pre-dreadnought, armored, battleship]
 | **Module ID** | BRG-006 |
 | **Era** | 1890-1920 |
 | **Weight** | 50,000 kg |
-| **Power Draw** | 5 kW |
 | **Crew Required** | 8 |
 | **Armor** | 300mm |
 

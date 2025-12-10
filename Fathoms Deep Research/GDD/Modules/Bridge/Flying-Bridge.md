@@ -19,7 +19,6 @@ tags: [bridge, auxiliary, open, visibility]
 | **Module ID** | BRG-007 |
 | **Era** | 1900-1960 |
 | **Weight** | 2,000 kg |
-| **Power Draw** | 2 kW |
 | **Crew Required** | 4 |
 
 ## Description

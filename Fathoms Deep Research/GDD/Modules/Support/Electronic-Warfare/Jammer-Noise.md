@@ -10,7 +10,6 @@ effectiveness: moderate
 frequency_coverage: 1-10_GHz
 jamming_range: 40_km
 weight: 500
-power_draw: 50
 crew_required: 2
 tags: [support, electronic_warfare, jammer, ecm, countermeasure]
 ---
@@ -24,7 +23,6 @@ tags: [support, electronic_warfare, jammer, ecm, countermeasure]
 | **Era** | 1943-Present |
 | **Category** | Electronic Warfare |
 | **Weight** | 500 kg |
-| **Power Draw** | 50 kW |
 | **Crew Required** | 2 |
 
 ## Description

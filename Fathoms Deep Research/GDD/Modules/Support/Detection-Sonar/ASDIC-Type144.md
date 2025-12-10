@@ -26,7 +26,6 @@ bearing_accuracy: 3          # degrees
 # Physical
 hull_mounted: true
 weight: 3200
-power_draw: 28
 crew_required: 2
 reliability: 86
 
@@ -122,7 +121,6 @@ Each contact is refreshed every 5 seconds as the beam sweeps past. Fast-moving s
 | Spec | Value |
 |------|-------|
 | Weight | 3,200 kg |
-| Power Draw | 28 kW |
 | Crew | 2 operators |
 | Reliability | 86% |
 | Beam Width | 12° |

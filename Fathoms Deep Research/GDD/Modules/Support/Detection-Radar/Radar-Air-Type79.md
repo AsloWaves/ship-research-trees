@@ -25,7 +25,6 @@ height_finding: false
 
 # Physical
 weight: 6800
-power_draw: 65
 crew_required: 3
 reliability: 68
 
@@ -100,7 +99,6 @@ Locks antenna to sweep a specific arc (90°, 120°, or 180°). Update rate impro
 | Spec | Value |
 |------|-------|
 | Weight | 6,800 kg |
-| Power Draw | 65 kW |
 | Crew Required | 3 |
 | Reliability | 68% |
 | Frequency | 7.5 m (HF) |

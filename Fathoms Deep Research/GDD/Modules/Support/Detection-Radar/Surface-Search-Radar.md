@@ -6,7 +6,6 @@ subcategory: detection
 era: 1940-present
 slot_type: support
 weight: 5000
-power_draw: 50
 crew_required: 2
 tags: [support, detection, radar, wwii, game-changer]
 ---
@@ -21,7 +20,6 @@ tags: [support, detection, radar, wwii, game-changer]
 | **Era** | 1940-Present |
 | **Category** | Detection |
 | **Weight** | 5,000 kg |
-| **Power Draw** | 50 kW |
 | **Crew Required** | 2 |
 
 ## Description

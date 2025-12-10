@@ -26,7 +26,6 @@ bearing_accuracy: 3          # degrees
 # Physical
 hull_mounted: true
 weight: 2200
-power_draw: 18
 crew_required: 2
 reliability: 80
 
@@ -119,7 +118,6 @@ Silent listening mode using the ASDIC transducer as a hydrophone. Provides beari
 | Spec | Value |
 |------|-------|
 | Weight | 2,200 kg |
-| Power Draw | 18 kW |
 | Crew | 2 operators |
 | Reliability | 80% |
 | Beam Width | 20° |

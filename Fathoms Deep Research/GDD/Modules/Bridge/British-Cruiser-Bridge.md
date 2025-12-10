@@ -21,7 +21,6 @@ tags: [bridge, british, cruiser, global-deployment, colonial-station, county, to
 | **Era** | 1920-1960 |
 | **Nation** | Royal Navy |
 | **Weight** | 70,000 kg |
-| **Power Draw** | 30 kW |
 | **Crew Required** | 24 |
 
 ## Description

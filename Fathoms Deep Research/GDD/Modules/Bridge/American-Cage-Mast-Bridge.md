@@ -21,7 +21,6 @@ tags: [bridge, american, battleship, cage-mast, pre-radar, usn]
 | **Era** | 1910-1935 |
 | **Nation** | United States Navy |
 | **Weight** | 95,000 kg |
-| **Power Draw** | 25 kW |
 | **Crew Required** | 25 |
 
 ## Description

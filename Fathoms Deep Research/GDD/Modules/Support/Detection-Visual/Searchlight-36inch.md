@@ -16,7 +16,6 @@ update_rate: continuous
 # Illumination
 beam_range: 5                 # km effective illumination
 beam_width: 30                # degrees
-power_draw: 12                # kW
 
 # Physical
 weight: 800

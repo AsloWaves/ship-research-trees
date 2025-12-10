@@ -7,7 +7,6 @@ era: all
 nation: Universal
 slot_type: support
 weight: 1200
-power_draw: 0
 crew_required: 6
 reliability: 92
 tags: [support, damage-control, firefighting, basic, repair]
@@ -22,7 +21,6 @@ tags: [support, damage-control, firefighting, basic, repair]
 | **Era** | All Eras |
 | **Category** | Damage Control |
 | **Weight** | 1,200 kg |
-| **Power Draw** | None |
 
 ## Description
 

@@ -21,7 +21,6 @@ tags: [bridge, british, destroyer, convoy-escort, asw, tribal, north-atlantic]
 | **Era** | 1930-1960 |
 | **Nation** | Royal Navy |
 | **Weight** | 22,000 kg |
-| **Power Draw** | 18 kW |
 | **Crew Required** | 10 |
 
 ## Description

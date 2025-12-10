@@ -21,7 +21,6 @@ tags: [bridge, japanese, destroyer, night-fighting, torpedo, compact, special-ty
 | **Era** | 1930-1945 |
 | **Nation** | Imperial Japanese Navy |
 | **Weight** | 18,000 kg |
-| **Power Draw** | 15 kW |
 | **Crew Required** | 8 |
 
 ## Description

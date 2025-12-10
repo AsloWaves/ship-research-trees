@@ -26,7 +26,6 @@ bearing_accuracy: 8          # degrees
 # Physical
 hull_mounted: true
 weight: 650
-power_draw: 6
 crew_required: 1
 reliability: 82
 
@@ -111,7 +110,6 @@ Type 93 operators provide:
 | Spec | Value |
 |------|-------|
 | Weight | 650 kg |
-| Power Draw | 6 kW |
 | Crew | 1 operator |
 | Reliability | 82% |
 | Array Elements | 12 hydrophones |

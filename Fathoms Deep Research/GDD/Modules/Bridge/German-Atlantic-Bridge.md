@@ -21,7 +21,6 @@ tags: [bridge, german, cruiser, raider, atlantic, kriegsmarine]
 | **Era** | 1935-1945 |
 | **Nation** | Kriegsmarine (Germany) |
 | **Weight** | 45,000 kg |
-| **Power Draw** | 30 kW |
 | **Crew Required** | 15 |
 
 ## Description

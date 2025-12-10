@@ -18,7 +18,6 @@ tags: [bridge, wwi-era, intermediate]
 | **Module ID** | BRG-002 |
 | **Era** | 1910-1940 |
 | **Weight** | 8,000 kg |
-| **Power Draw** | 5 kW |
 | **Crew Required** | 6 |
 
 ## Description

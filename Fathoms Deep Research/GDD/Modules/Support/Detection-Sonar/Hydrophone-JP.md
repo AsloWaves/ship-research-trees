@@ -26,7 +26,6 @@ bearing_accuracy: 7          # degrees
 # Physical
 hull_mounted: true
 weight: 720
-power_draw: 7
 crew_required: 1
 reliability: 88
 
@@ -111,7 +110,6 @@ JP operators are trained to:
 | Spec | Value |
 |------|-------|
 | Weight | 720 kg |
-| Power Draw | 7 kW |
 | Crew | 1 operator |
 | Reliability | 88% |
 | Array Elements | 16 hydrophones |

@@ -22,7 +22,6 @@ tags: [bridge, american, submarine, fleet-boat, pacific, usn, wwii]
 | **Era** | 1940-1960 |
 | **Nation** | United States Navy |
 | **Weight** | 9,500 kg |
-| **Power Draw** | 18 kW |
 | **Crew Required** | 8 |
 | **Pressure Depth** | 120m |
 

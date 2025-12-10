@@ -19,7 +19,6 @@ tags: [bridge, amphibious, command, landing, marines]
 | **Module ID** | BRG-017 |
 | **Era** | 1942-Present |
 | **Weight** | 60,000 kg |
-| **Power Draw** | 200 kW |
 | **Crew Required** | 60 |
 
 ## Description

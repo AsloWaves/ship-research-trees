@@ -6,7 +6,6 @@ subcategory: electronic_warfare
 era: 1942-present
 slot_type: support
 weight: 100
-power_draw: 5
 crew_required: 1
 tags: [support, ew, detection, warning, countermeasure]
 ---
@@ -21,7 +20,6 @@ tags: [support, ew, detection, warning, countermeasure]
 | **Era** | 1942-Present |
 | **Category** | Electronic Warfare |
 | **Weight** | 100 kg |
-| **Power Draw** | 5 kW |
 | **Crew Required** | 1 |
 
 ## Description

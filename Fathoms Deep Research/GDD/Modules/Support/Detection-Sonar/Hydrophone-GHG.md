@@ -26,7 +26,6 @@ bearing_accuracy: 5          # degrees
 # Physical
 hull_mounted: true
 weight: 850
-power_draw: 8
 crew_required: 2
 reliability: 90
 
@@ -112,7 +111,6 @@ Experienced GHG operators can identify:
 | Spec | Value |
 |------|-------|
 | Weight | 850 kg |
-| Power Draw | 8 kW |
 | Crew | 2 operators |
 | Reliability | 90% |
 | Array Elements | 24 hydrophones |

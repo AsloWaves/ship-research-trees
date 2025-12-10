@@ -7,7 +7,6 @@ era: 1940-present
 nation: Universal
 slot_type: support
 weight: 450
-power_draw: 20
 crew_required: 2
 reliability: 90
 tags: [support, communications, encrypted, secure, electronic-warfare]
@@ -22,7 +21,6 @@ tags: [support, communications, encrypted, secure, electronic-warfare]
 | **Era** | 1940+ |
 | **Category** | Communications |
 | **Weight** | 450 kg |
-| **Power Draw** | 20 kW |
 
 ## Description
 

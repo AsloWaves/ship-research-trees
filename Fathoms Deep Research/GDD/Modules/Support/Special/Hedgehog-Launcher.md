@@ -10,7 +10,6 @@ projectile_count: 24
 launch_range: 200-250m
 pattern_type: circular
 weight: 6000
-power_draw: 5
 crew_required: 4
 tags: [support, special, asw, hedgehog, ahead_throwing, anti_submarine]
 ---
@@ -24,7 +23,6 @@ tags: [support, special, asw, hedgehog, ahead_throwing, anti_submarine]
 | **Era** | 1942-1970 |
 | **Category** | Special Systems |
 | **Weight** | 6,000 kg |
-| **Power Draw** | 5 kW |
 | **Crew Required** | 4 (operators + loaders) |
 
 ## Description

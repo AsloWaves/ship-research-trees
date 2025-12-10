@@ -10,7 +10,6 @@ capacity: 20-40_charges
 deployment_method: stern_roll_side_throw
 charge_types: standard_heavy_hedgehog
 weight: 4000
-power_draw: 2
 crew_required: 4
 tags: [support, special, asw, depth_charge, anti_submarine]
 ---
@@ -24,7 +23,6 @@ tags: [support, special, asw, depth_charge, anti_submarine]
 | **Era** | 1915-1970 |
 | **Category** | Special Systems |
 | **Weight** | 4,000 kg (racks + equipment) |
-| **Power Draw** | 2 kW |
 | **Crew Required** | 4 (DC handlers) |
 
 ## Description

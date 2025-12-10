@@ -10,7 +10,6 @@ cargo_handling: helicopter_compatible
 transfer_rate: 10_tons_per_hour
 deck_space: landing_spot
 weight: 5000
-power_draw: 10
 crew_required: 8
 tags: [support, special, logistics, replenishment, vertrep, modern]
 ---
@@ -24,7 +23,6 @@ tags: [support, special, logistics, replenishment, vertrep, modern]
 | **Era** | 1960-Present |
 | **Category** | Special Systems |
 | **Weight** | 5,000 kg (equipment) |
-| **Power Draw** | 10 kW |
 | **Crew Required** | 8 (handling crew) |
 
 ## Description

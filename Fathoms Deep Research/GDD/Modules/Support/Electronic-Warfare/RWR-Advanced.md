@@ -10,7 +10,6 @@ threat_classification: detailed
 threat_library: 500+_emitters
 warning_time: instant
 weight: 120
-power_draw: 8
 crew_required: 1
 tags: [support, electronic_warfare, detection, warning, modern]
 ---
@@ -24,7 +23,6 @@ tags: [support, electronic_warfare, detection, warning, modern]
 | **Era** | 1960-Present |
 | **Category** | Electronic Warfare |
 | **Weight** | 120 kg |
-| **Power Draw** | 8 kW |
 | **Crew Required** | 1 |
 
 ## Description

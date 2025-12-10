@@ -21,7 +21,6 @@ tags: [bridge, american, destroyer, fletcher, radar, usn, wwii]
 | **Era** | 1942-1970 |
 | **Nation** | United States Navy |
 | **Weight** | 9,500 kg |
-| **Power Draw** | 35 kW |
 | **Crew Required** | 12 |
 
 ## Description

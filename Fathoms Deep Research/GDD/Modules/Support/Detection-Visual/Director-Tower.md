@@ -7,7 +7,6 @@ era: 1920-1960
 nation: Universal
 slot_type: support
 weight: 8000
-power_draw: 10
 crew_required: 6
 reliability: 85
 tags: [support, detection-visual, fire-control, director, gunnery]
@@ -22,7 +21,6 @@ tags: [support, detection-visual, fire-control, director, gunnery]
 | **Era** | 1920+ |
 | **Category** | Detection-Visual |
 | **Weight** | 8,000 kg |
-| **Power Draw** | 10 kW |
 
 ## Description
 

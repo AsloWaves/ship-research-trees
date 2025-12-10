@@ -7,7 +7,6 @@ era: 1942+
 nation: USA
 slot_type: support
 weight: 200
-power_draw: 5
 crew_required: 1
 
 # Performance

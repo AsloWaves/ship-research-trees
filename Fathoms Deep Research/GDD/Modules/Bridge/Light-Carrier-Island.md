@@ -19,7 +19,6 @@ tags: [bridge, carrier, CVL, CVE, island, flight-operations, compact]
 | **Module ID** | BRG-T09 |
 | **Era** | 1940-1965 |
 | **Weight** | 15,000 kg |
-| **Power Draw** | 35 kW |
 | **Crew Required** | 20 |
 
 ## Description

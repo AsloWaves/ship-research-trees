@@ -6,7 +6,6 @@ subcategory: detection
 era: 1915-1945
 slot_type: support
 weight: 500
-power_draw: 5
 crew_required: 1
 tags: [support, detection, sonar, passive, asw]
 ---
@@ -21,7 +20,6 @@ tags: [support, detection, sonar, passive, asw]
 | **Era** | 1915-1945 |
 | **Category** | Detection |
 | **Weight** | 500 kg |
-| **Power Draw** | 5 kW |
 | **Crew Required** | 1 operator |
 
 ## Description

@@ -7,7 +7,6 @@ era: all
 nation: Universal
 slot_type: support
 weight: 50
-power_draw: 0
 crew_required: 2
 reliability: 95
 tags: [support, communications, visual, flags, basic]
@@ -22,7 +21,6 @@ tags: [support, communications, visual, flags, basic]
 | **Era** | All Eras |
 | **Category** | Communications |
 | **Weight** | 50 kg |
-| **Power Draw** | None |
 
 ## Description
 

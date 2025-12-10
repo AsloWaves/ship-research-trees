@@ -19,7 +19,6 @@ tags: [bridge, interwar, standard, gyrocompass, rangefinder]
 | **Module ID** | BRG-G04 |
 | **Era** | 1920-1940 |
 | **Weight** | 12,000 kg |
-| **Power Draw** | 15 kW |
 | **Crew Required** | 10 |
 
 ## Description

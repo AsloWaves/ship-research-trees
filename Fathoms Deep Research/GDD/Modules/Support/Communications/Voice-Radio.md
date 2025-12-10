@@ -6,7 +6,6 @@ subcategory: communication
 era: 1930-present
 slot_type: support
 weight: 200
-power_draw: 5
 crew_required: 1
 tags: [support, communication, radio, voice, team]
 ---
@@ -21,7 +20,6 @@ tags: [support, communication, radio, voice, team]
 | **Era** | 1930-Present |
 | **Category** | Communication |
 | **Weight** | 200 kg |
-| **Power Draw** | 5 kW |
 | **Crew Required** | 1 |
 
 ## Description

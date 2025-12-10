@@ -21,7 +21,6 @@ tags: [bridge, british, battleship, enclosed, weather-protection, king-george-v,
 | **Era** | 1920-1945 |
 | **Nation** | Royal Navy |
 | **Weight** | 92,000 kg |
-| **Power Draw** | 35 kW |
 | **Crew Required** | 28 |
 
 ## Description

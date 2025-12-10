@@ -368,7 +368,7 @@ Phase 1 built the foundation. Phase 2 builds the **game**. Without combat, crew,
 **Constraints**:
 - **Weight Limit**: Ship can't exceed tonnage
 - **Slot Limits**: Max weapons per category
-- **Power Requirements**: Advanced modules need power
+- **Era Gating**: Modules must match ship's era capability
 - **Tech Tier**: Can't equip higher-tier modules on lower-tier ships
 
 **UI/UX**:

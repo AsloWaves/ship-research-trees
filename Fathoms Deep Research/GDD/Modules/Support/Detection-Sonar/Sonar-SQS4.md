@@ -26,7 +26,6 @@ bearing_accuracy: 1          # degrees
 # Physical
 hull_mounted: true
 weight: 5200
-power_draw: 45
 crew_required: 3
 reliability: 92
 
@@ -132,7 +131,6 @@ The SQS-4 represents the first generation of post-WWII sonar, incorporating tran
 | Spec | Value |
 |------|-------|
 | Weight | 5,200 kg |
-| Power Draw | 45 kW |
 | Crew | 3 operators |
 | Reliability | 92% |
 | Beam Width | 10° |

@@ -25,7 +25,6 @@ height_finding: false
 
 # Physical
 weight: 3200
-power_draw: 35
 crew_required: 2
 reliability: 82
 
@@ -99,7 +98,6 @@ Operator manually aims the narrow 20° beam at the target. The radar is slaved t
 | Spec | Value |
 |------|-------|
 | Weight | 3,200 kg |
-| Power Draw | 35 kW |
 | Crew Required | 2 |
 | Reliability | 82% |
 | Frequency | 50 cm (UHF) |

@@ -19,7 +19,6 @@ tags: [bridge, carrier, wwii, aviation]
 | **Module ID** | BRG-010 |
 | **Era** | 1922-1960 |
 | **Weight** | 80,000 kg |
-| **Power Draw** | 100 kW |
 | **Crew Required** | 50 |
 
 ## Description

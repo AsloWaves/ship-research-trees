@@ -10,7 +10,6 @@ effectiveness: high
 techniques: range_gate_pull-off_velocity_gate_pull-off_false_targets
 frequency_coverage: 2-18_GHz
 weight: 650
-power_draw: 75
 crew_required: 2
 tags: [support, electronic_warfare, jammer, ecm, deception, modern]
 ---
@@ -24,7 +23,6 @@ tags: [support, electronic_warfare, jammer, ecm, deception, modern]
 | **Era** | 1960-Present |
 | **Category** | Electronic Warfare |
 | **Weight** | 650 kg |
-| **Power Draw** | 75 kW |
 | **Crew Required** | 2 |
 
 ## Description

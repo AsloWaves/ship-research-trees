@@ -19,7 +19,6 @@ tags: [bridge, monitor, gunboat, river-warfare, coastal, shore-bombardment]
 | **Module ID** | BRG-T14 |
 | **Era** | 1860-1950 |
 | **Weight** | 6,000 kg |
-| **Power Draw** | 10 kW (early: 0 kW) |
 | **Crew Required** | 8 |
 
 ## Description

@@ -20,7 +20,6 @@ tags: [bridge, submarine, modern, nuclear]
 | **Module ID** | BRG-009 |
 | **Era** | 1955-Present |
 | **Weight** | 15,000 kg |
-| **Power Draw** | 50 kW |
 | **Crew Required** | 4 |
 | **Pressure Depth** | 400m |
 

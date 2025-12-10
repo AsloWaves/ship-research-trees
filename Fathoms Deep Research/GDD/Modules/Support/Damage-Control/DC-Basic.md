@@ -9,7 +9,6 @@ repair_speed_bonus: 10%
 firefighting_bonus: 5%
 flooding_control_bonus: 5%
 weight: 500
-power_draw: 0
 crew_required: 4
 tags: [support, damage_control, repair, survivability, basic]
 ---
@@ -23,7 +22,6 @@ tags: [support, damage_control, repair, survivability, basic]
 | **Era** | 1900-Present |
 | **Category** | Damage Control |
 | **Weight** | 500 kg (equipment) |
-| **Power Draw** | 0 kW |
 | **Crew Required** | 4 |
 
 ## Description

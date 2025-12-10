@@ -6,7 +6,6 @@ subcategory: damage_control
 era: 1940-present
 slot_type: support
 weight: 10000
-power_draw: 20
 crew_required: 8
 tags: [support, damage-control, survivability, repair]
 ---
@@ -21,7 +20,6 @@ tags: [support, damage-control, survivability, repair]
 | **Era** | 1940-Present |
 | **Category** | Damage Control |
 | **Weight** | 10,000 kg |
-| **Power Draw** | 20 kW |
 | **Crew Required** | 8 |
 
 ## Description

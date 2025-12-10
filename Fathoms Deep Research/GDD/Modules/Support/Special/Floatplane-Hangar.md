@@ -10,7 +10,6 @@ storage_type: enclosed
 maintenance_facilities: equipped
 weather_protection: full
 weight: 25000
-power_draw: 15
 crew_required: 12
 tags: [support, special, aircraft, floatplane, hangar, scout]
 ---
@@ -24,7 +23,6 @@ tags: [support, special, aircraft, floatplane, hangar, scout]
 | **Era** | 1920-1950 |
 | **Category** | Special Systems |
 | **Weight** | 25,000 kg |
-| **Power Draw** | 15 kW |
 | **Crew Required** | 12 (aviation personnel) |
 
 ## Description

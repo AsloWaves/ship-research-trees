@@ -25,7 +25,6 @@ height_finding: false
 
 # Physical
 weight: 4600
-power_draw: 48
 crew_required: 2
 reliability: 72
 
@@ -99,7 +98,6 @@ Restricts antenna sweep to a selected arc (90°, 120°, or 180°). Update rate i
 | Spec | Value |
 |------|-------|
 | Weight | 4,600 kg |
-| Power Draw | 48 kW |
 | Crew Required | 2 |
 | Reliability | 72% |
 | Frequency | 9.5 cm (S-band) |

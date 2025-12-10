@@ -9,7 +9,6 @@ detection_range: 2x_enemy_radar
 threat_classification: basic
 warning_time: 1_second
 weight: 80
-power_draw: 3
 crew_required: 1
 tags: [support, electronic_warfare, detection, warning, early]
 ---
@@ -23,7 +22,6 @@ tags: [support, electronic_warfare, detection, warning, early]
 | **Era** | 1942-1965 |
 | **Category** | Electronic Warfare |
 | **Weight** | 80 kg |
-| **Power Draw** | 3 kW |
 | **Crew Required** | 1 |
 
 ## Description

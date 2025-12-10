@@ -7,7 +7,6 @@ era: 1943-present
 nation: Universal
 slot_type: support
 weight: 300
-power_draw: 40
 crew_required: 2
 reliability: 85
 tags: [support, electronic-warfare, jamming, countermeasure, defense]
@@ -22,7 +21,6 @@ tags: [support, electronic-warfare, jamming, countermeasure, defense]
 | **Era** | 1943+ |
 | **Category** | Electronic Warfare |
 | **Weight** | 300 kg |
-| **Power Draw** | 40 kW |
 
 ## Description
 

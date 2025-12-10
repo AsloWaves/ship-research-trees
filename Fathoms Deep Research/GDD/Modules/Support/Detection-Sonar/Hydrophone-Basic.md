@@ -26,7 +26,6 @@ bearing_accuracy: 10         # degrees
 # Physical
 hull_mounted: true
 weight: 500
-power_draw: 5
 crew_required: 1
 reliability: 85
 
@@ -103,7 +102,6 @@ Trained operators can:
 | Spec | Value |
 |------|-------|
 | Weight | 500 kg |
-| Power Draw | 5 kW |
 | Crew | 1 operator |
 | Reliability | 85% |
 
