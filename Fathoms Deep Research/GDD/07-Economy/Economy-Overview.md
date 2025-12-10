@@ -552,6 +552,7 @@ The Fathoms Deep economy is built on **extraction-based resource cycling**:
 - **[Nation-Overview.md](../09-Faction-System/Nation-Overview.md)** - Nation economic characteristics
 - **[Reputation-System.md](../09-Faction-System/Reputation-System.md)** - Economic impact of reputation
 - **[Extraction-Missions.md](../05-Mission-System/Extraction-Missions.md)** - How economy drives core gameplay loop
+- **[Research-Unlock-System.md](../10-Progression/Research-Unlock-System.md)** - Ship/module unlocks feed into build-or-buy acquisition
 
 ---
 

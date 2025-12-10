@@ -697,6 +697,7 @@ Economy Balance:      ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪  0%
 - [[Module-Dependencies]] - Module requirements and weight-based fitting ✅
 - [[Tetris-Fitting-Mechanics]] - Grid systems, wing slots, drydock storage ✅
 - [[Inventory-System]] - Cargo grid, port storage mechanics
+- [[Research-Unlock-System]] - War Thunder-style progression, RP, blueprints ✅
 - [[Economy-Overview]] - Economy design
 - [[Surface-Combat]] - Weapon mechanics
 

@@ -532,6 +532,7 @@ SAILOR_COST_LEVEL_MODIFIER = 1.0 + (Level / 100)
 - [[Combat-System]] - XP awards and efficiency impact on battles
 - [[Economy-System]] - Training costs and replenishment economics
 - [[Port-Services]] - Training facilities and casualty replenishment
+- [[Research-Unlock-System]] - Crew XP is separate from Research Points (RP)
 
 ---
 
