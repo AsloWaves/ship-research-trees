@@ -366,10 +366,12 @@ Phase 1 built the foundation. Phase 2 builds the **game**. Without combat, crew,
 - Drag-and-drop placement
 
 **Constraints**:
-- **Weight Limit**: Ship can't exceed tonnage
-- **Slot Limits**: Max weapons per category
-- **Era Gating**: Modules must match ship's era capability
-- **Tech Tier**: Can't equip higher-tier modules on lower-tier ships
+- **Mount Weight Limit**: Each mount has a weight capacity (module + crew weight must fit)
+- **Ship Tonnage**: Total module weight can't exceed ship's displacement
+- **Slot Limits**: Max weapons per category (physical hardpoints)
+- **Crew Requirement**: Module installs without crew, but won't function until properly manned
+
+**Design Philosophy**: If it fits, it works. A 1900s destroyer with a modern radar? If the mount can handle the weight (module + crew), go for it. No artificial era restrictions—just physics.
 
 **UI/UX**:
 - Visual ship layout (top-down view)

@@ -2,7 +2,7 @@
 
 **Document Type**: Core Mechanics Implementation
 **Status**: Active Development
-**Tags**: [mechanics, modules, dependencies, integration, era-gating, power]
+**Tags**: [mechanics, modules, dependencies, integration, weight]
 **Last Updated**: 2025-01-17
 
 ---
@@ -12,11 +12,12 @@
 This document defines how modules depend on and interact with each other, creating a coherent system of equipment progression and tactical choice. Understanding dependencies is crucial for effective ship fitting.
 
 **Design Philosophy:**
-1. **Logical Dependencies** - Modules that need other modules to function (e.g., Decryption needs SIGINT)
-2. **Era Gating** - Historical accuracy prevents anachronistic combinations
-3. **Resource Constraints** - Power, weight, and crew limit configurations
-4. **Synergy Rewards** - Complementary modules provide bonus effects
-5. **Graceful Degradation** - Losing a dependency reduces effectiveness but doesn't always disable
+1. **If It Fits, It Works** - Weight is the universal constraint. A modern radar on a 1900s destroyer? If the mount can handle the weight, go for it.
+2. **Logical Dependencies** - Modules that need other modules to function (e.g., Decryption needs SIGINT)
+3. **Weight Constraints** - Mount weight capacity and ship tonnage limit configurations
+4. **Crew Requirements** - Modules install without crew but won't function until manned
+5. **Synergy Rewards** - Complementary modules provide bonus effects
+6. **Graceful Degradation** - Losing a dependency reduces effectiveness but doesn't always disable
 
 ---
 
@@ -405,47 +406,69 @@ Damage_Control_Module
 
 ---
 
-## Era Gating Rules
+## Weight-Based Fitting System
 
-### Compatibility Formula
+### Core Principle: If It Fits, It Works
 
-```
-Era_Check:
-  IF Module.Era_Start > Ship.Build_Date THEN
-    Module CANNOT be equipped (anachronistic)
+There are **no era restrictions** on module installation. When a player unlocks a ship hull, they can technically mount ANY module on it—as long as the physics work.
 
-  IF Module.Era_End < Game_Current_Year THEN
-    Module is obsolete (may have availability restrictions)
-```
+### Mount Weight Capacity
 
-### Era Compatibility Matrix
-
-| Module Type | Pre-1920 | 1920-1940 | 1940-1960 | 1960+ |
-|-------------|----------|-----------|-----------|-------|
-| Rangefinder | YES | YES | YES | Obsolete |
-| Fire Control Director | NO | YES | YES | YES |
-| Basic Radar | NO | NO | YES | YES |
-| CIC Systems | NO | NO | YES | YES |
-| Data Link | NO | NO | NO | YES |
-| Digital FC | NO | NO | NO | YES |
-| SIGINT Suite | NO | NO | NO | YES |
-| Manual Fire Control | YES | YES | YES | YES |
-
-### Era Upgrade Paths
-
-Ships can be "modernized" but within limits:
+Every turret mount and module slot has a **weight capacity** that determines what can be installed:
 
 ```
-Modernization_Rules:
-  - Ship cannot exceed original era by more than 2 brackets
-  - Example: 1935 ship (Interwar) can install 1940s equipment
-  - Example: 1935 ship CANNOT install 1970s equipment
+Mount_Check:
+  Mount_Weight_Capacity = Maximum weight the mount can support
+  Module_Total_Weight = Module_Weight + (Crew_Weight × Crew_Required)
 
-  - Modernization cost increases exponentially per era gap
-  - Era +1: Base cost × 1.5
-  - Era +2: Base cost × 3.0
-  - Era +3: Not possible without major refit
+  IF Module_Total_Weight > Mount_Weight_Capacity THEN
+    Module CANNOT be installed (too heavy for mount)
+  ELSE
+    Module installs successfully
 ```
+
+### Crew Weight Factor
+
+Crew members take up space and add weight. Each crew station adds approximately:
+
+| Crew Type | Weight per Person |
+|-----------|------------------|
+| Standard Crew | 100 kg |
+| Officer | 120 kg (gear) |
+| Specialist | 150 kg (equipment) |
+
+**Example**: A modern radar requiring 4 specialist crew adds 600 kg to its total weight.
+
+### Module Without Crew
+
+Players CAN install a module even if they don't have enough crew:
+
+```
+Crew_Installation_Rules:
+  Module installs: Always (if weight fits)
+  Module functions: Only when properly crewed
+
+  Partially_Crewed: Module functions at reduced effectiveness
+  No_Crew: Module is installed but completely non-functional
+```
+
+This allows players to:
+- Plan ahead by installing equipment for future crews
+- Make tactical decisions about which systems to man
+- Sacrifice one system's crew to bolster another in emergencies
+
+### Why No Era Restrictions?
+
+**Gameplay Reasoning:**
+- Rewards clever players who save for advanced equipment
+- Creates interesting asymmetric combat (old ship + new tech vs new ship + old tech)
+- Allows "Project Ship" builds where players upgrade beloved vessels
+- Naturally balanced by economics (advanced modules are expensive)
+
+**Physics Balance:**
+- Heavy modern equipment may not fit on small destroyer mounts
+- Large ships can support heavier, more advanced systems
+- Weight penalties affect speed and handling if overloaded
 
 ---
 
@@ -603,19 +626,20 @@ Result: Ship can still fight but with 1940s-era effectiveness
 ### Fitting Screen Requirements
 
 **Must Display:**
-- Module dependency status
-- Weight budget (used/max)
+- Mount weight capacity vs module weight (+ crew weight)
+- Ship tonnage budget (used/max)
 - Crew requirements (assigned/needed)
-- Era compatibility warnings
+- Module dependency status
 - Synergy bonuses active
+- Warning if module installed but non-functional (missing crew)
 
 ### Validation Order
 
-1. Era compatibility check
-2. Bridge requirements check
+1. Mount weight check (module + crew weight vs mount capacity)
+2. Ship tonnage check (total weight vs displacement)
 3. Hard dependencies check
-4. Weight constraints check
-5. Crew requirements check
+4. Crew availability check (warn if insufficient, allow anyway)
+5. Bridge requirements check (for UI features)
 6. Soft dependencies check (calculate effectiveness)
 7. Synergy bonuses calculation
 
@@ -648,11 +672,11 @@ Result: Ship can still fight but with 1940s-era effectiveness
 
 ### Most Common Fitting Mistakes
 
-1. Installing Data Link without CIC Bridge
-2. Installing Decryption without Intercept system
-3. Under-crewing modules (effectiveness penalties)
-4. Era-inappropriate equipment
-5. Exceeding weight budget (speed/stability penalties)
+1. Installing module too heavy for mount (module + crew exceeds capacity)
+2. Exceeding ship tonnage (speed/stability penalties)
+3. Installing modules without crew (non-functional until manned)
+4. Installing Data Link without CIC Bridge
+5. Installing Decryption without Intercept system
 
 ---
 
