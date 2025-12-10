@@ -173,66 +173,80 @@ See [Utility-Modules.md](Utility-Modules.md) for detailed misc module specificat
 
 ### Module Efficiency System
 
-**Crew Level Matching:**
+> **Note**: For complete crew-module interaction mechanics, see [[Crew-Module-Mechanics]].
 
-Each module has a **recommended crew level** for 100% efficiency. Crew level vs. module level determines performance:
+**Core Efficiency Formula:**
 
-**Efficiency Curve Formula:**
+Module efficiency combines two factors: **Sailor Factor** (crew survival) and **Stat Factor** (crew skill):
+
 ```
-Efficiency % = 35% + (Crew Level / Module Level) × 65%
-Capped at 130% maximum (Level 200 crew on Level 90 module)
+Module_Efficiency = Sailor_Factor × Stat_Factor
 
-Examples:
-- Level 1 crew on Level 90 module = 36% efficiency (severe penalty)
-- Level 45 crew on Level 90 module = 68% efficiency (half level penalty)
-- Level 70 crew on Level 90 module = 86% efficiency (close but not optimal)
-- Level 90 crew on Level 90 module = 100% efficiency (perfect match)
-- Level 120 crew on Level 90 module = 115% efficiency (over-leveling bonus)
-- Level 200 crew on Level 90 module = 130% efficiency (maximum bonus)
+Where:
+  Sailor_Factor = Current_Sailors / Max_Sailors
+  Stat_Factor = 1.0 + ((Primary_Stat - 15) × 0.02)
+
+Stat Value → Stat Factor:
+  Stat 7:  0.84 (16% penalty)
+  Stat 15: 1.00 (baseline)
+  Stat 25: 1.20 (+20% bonus)
+  Stat 35: 1.40 (+40% bonus)
+  Stat 50: 1.70 (+70% bonus, cap)
 ```
+
+**Key Design Insight**: Modules do NOT have levels. Any crew card can operate any module. Higher-level crews are more effective because they have:
+1. **Better stats** (trained over time)
+2. **More sailors** (casualty buffer)
 
 **Efficiency Impact by Module Type:**
 
 **Main Battery Turret:**
-- **Reload Speed**: Efficiency % directly affects reload time
+- **Spread Control**: Efficiency affects shell grouping around aim point
+  - 100% efficiency = Base spread
+  - 140% efficiency = 40% tighter spread (Accuracy 35 gunner)
+  - 50% efficiency = 2x wider spread (heavy casualties)
+- **Reload Speed**: Efficiency directly affects reload time
   - 100% efficiency = 30 second base reload
-  - 130% efficiency = 23 second reload (23% faster)
-  - 50% efficiency = 60 second reload (100% slower)
-- **Accuracy**: Efficiency % affects hit probability
-  - 100% efficiency = 75% hit chance at optimal range
-  - 130% efficiency = 97.5% hit chance
-  - 50% efficiency = 37.5% hit chance
+  - 134% efficiency = 22.4 second reload (Reload 32 gunner)
+  - 50% efficiency = 60 second reload (casualties)
 
 **Engine:**
-- **Max Speed**: Efficiency % affects top speed
-  - 100% efficiency = 33 knots
-  - 130% efficiency = 35 knots (+6% speed bonus)
-  - 50% efficiency = 16.5 knots (-50% speed)
+- **Max Speed**: Efficiency affects top speed with 70% floor
+  - Speed_Mod = 0.7 + (0.3 × Efficiency)
+  - 100% efficiency = 100% speed
+  - 50% efficiency = 85% speed (floor prevents total loss)
 - **Fuel Efficiency**: Higher efficiency = better fuel economy
 - **Acceleration**: Efficiency affects time to reach max speed
 
 **Radar System:**
 - **Detection Range**: Efficiency % affects maximum detection distance
-  - 100% efficiency = 80km base range
-  - 130% efficiency = 88km range
-  - 50% efficiency = 40km range
-- **Update Rate**: Higher efficiency = faster target updates
+  - 100% efficiency = Base range
+  - 140% efficiency = 140% of base range
+  - 50% efficiency = 50% of base range
+- **Target Lock Speed**: Higher efficiency = faster target updates
 
 **Damage Control Station:**
-- **Fire Suppression Speed**: Efficiency % directly affects extinguishing time
+- **Fire Suppression Speed**: Efficiency directly affects extinguishing time
 - **Flooding Control**: Efficiency affects pumping effectiveness
 
-### Unassigned Module Penalty
+### Unassigned & Zero-Crew Module Behavior
 
-**Modules without assigned crew operate at 25% efficiency:**
-- Main turret with no gunner: 75-second reload instead of 30-second
-- Engine with no engineer: 8 knots max speed instead of 32 knots
-- Radar with no operator: 20km range instead of 80km
-- **Warning Indicator**: Red icon on module slot showing "No Crew Assigned"
+**Modules without assigned crew are NON-FUNCTIONAL:**
+- Main turret with no gunner: Cannot fire
+- Engine with no engineer: No propulsion contribution
+- Radar with no operator: No detection
+- **Warning Indicator**: Red icon on module slot showing "UNMANNED"
+
+**Modules with assigned crew but 0 sailors are NON-FUNCTIONAL:**
+- Crew card remains assigned (not destroyed)
+- Module displays "CREW WIPED OUT" status
+- Can replenish sailors at port to restore function
+- Even 1 sailor remaining = minimal function (0.22% for Level 100 crew)
 
 **Strategic Implications:**
 - Players must maintain adequate crew roster for all equipped modules
-- Losing crew cards in battle creates immediate performance degradation
+- Higher-level crews absorb casualties better (more sailors)
+- Losing sailors in battle creates gradual performance degradation
 - Backup crew cards essential for high-tier operations
 
 ### Multiple Module Management
@@ -633,9 +647,10 @@ Result: Rookie crew rapidly promoted to operational levels, veteran crew still p
 ## Integration with Other Systems
 
 **Crew System:**
-- Module efficiency tied to crew level and class matching
-- Crew weight impacts total ship weight calculations
+- Module efficiency tied to sailor count and crew stats (see [[Crew-Module-Mechanics]])
+- Crew weight impacts total ship weight calculations (mount capacity = module + crew weight)
 - Crew cards act as consumable resources with insurance protection
+- Generic classifications allow flexibility (Gunner works on any turret type)
 
 **Combat System:**
 - Module damage affects ship combat performance in real-time

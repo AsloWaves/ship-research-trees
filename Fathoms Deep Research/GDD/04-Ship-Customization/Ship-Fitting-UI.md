@@ -89,8 +89,9 @@ The Ship Fitting Interface is a comprehensive multi-screen system allowing playe
 4. **Drop to Install**: Release mouse to install turret
 5. **Crew Assignment**: Popup appears: "Assign Gunner crew card to this turret?"
    - Dropdown list of available Gunner crew cards
-   - Shows crew level, efficiency %, weight
-   - Click to assign or skip (turret operates at 25% efficiency without crew)
+   - Shows crew level, sailor count, primary stats, weight
+   - Projected efficiency based on stats (see [[Crew-Module-Mechanics]])
+   - Click to assign or skip (turret is NON-FUNCTIONAL without crew)
 
 **Hover Tooltips:**
 - **Hardpoint Hover**: Shows hardpoint capacity, current turret (if any), crew assignment
@@ -213,7 +214,8 @@ The Ship Fitting Interface is a comprehensive multi-screen system allowing playe
 **Crew Assignment:**
 1. **Drag Crew Card**: From crew panel to module's crew slot (small circle on module sprite)
 2. **Validation**: Check class compatibility (Engineer → Engine, Support → Support module)
-3. **Efficiency Display**: Shows expected efficiency % based on crew level vs. module level
+3. **Efficiency Display**: Shows expected efficiency % based on crew stats and sailor count
+   - Formula: `Efficiency = Sailor_Factor × Stat_Factor` (see [[Crew-Module-Mechanics]])
 4. **Assign**: Click to confirm assignment
 
 **Slot Filtering:**
@@ -264,12 +266,13 @@ The Ship Fitting Interface is a comprehensive multi-screen system allowing playe
 **Smart Crew Assignment:**
 - **Auto-Assign Button**: Automatically assigns best-matched crew to modules
 - **Algorithm**:
-  1. Prioritize exact level matches (crew level = module level)
-  2. Assign highest-level crew to highest-tier modules
-  3. Ensure class compatibility (Engineer → Engine, Gunner → Turret)
-  4. Maximize overall efficiency
+  1. Ensure class compatibility (Engineer → Engine, Gunner → Turret)
+  2. Prioritize crews with highest relevant primary stats
+  3. Balance crew weight against mount capacity constraints
+  4. Maximize overall efficiency (Sailor_Factor × Stat_Factor)
 - **Result**: All modules crew-assigned optimally
 - **Manual Override**: Player can manually reassign after auto-assignment
+- **Note**: See [[Crew-Module-Mechanics]] for efficiency calculation details
 
 ---
 
@@ -812,6 +815,7 @@ The Ship Fitting Interface is a comprehensive multi-screen system allowing playe
 
 **Integration Points:**
 - Module System: UI reflects module slot constraints and compatibility
+- Crew-Module Mechanics: Efficiency display uses Sailor_Factor × Stat_Factor formula
 - Armor Configuration: Visual schematic shows armor zones and thickness
 - Utility Modules: All support/misc modules accessible via Systems screen
 - Technology Integration: Module effects visible in tooltips and stats

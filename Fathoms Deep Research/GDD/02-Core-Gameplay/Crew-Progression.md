@@ -206,72 +206,62 @@ Total to reach Level 200: ~3,050,000 XP
 
 #### Performance & Efficiency System
 
-**Level Matching Mechanics:**
-Each module/turret has a **recommended crew level** for 100% efficiency:
-- Level 90 turret needs Level 90+ crew for full performance
-- Lower level crew operates at reduced efficiency (penalty)
-- Higher level crew provides efficiency **bonus** (capped)
+> **Note**: For complete efficiency mechanics, see [[Crew-Module-Mechanics]].
 
-**Efficiency Curve Formula:**
+**Core Design Principle:**
+Modules do NOT have levels. Any crew card can operate any module. Crew effectiveness comes from:
+1. **Stats** - Higher stats from training/leveling improve performance
+2. **Sailor Count** - More sailors provide casualty resilience
+
+**Efficiency Formula:**
 ```
-Efficiency = Base Efficiency × Level Match Factor × Casualty Factor
+Module_Efficiency = Sailor_Factor × Stat_Factor
 
-Level Match Factor:
-- Crew Level < Module Level:
-  Factor = 0.35 + (Crew Level / Module Level) × 0.65
+Where:
+  Sailor_Factor = Current_Sailors / Max_Sailors
+  Stat_Factor = 1.0 + ((Primary_Stat - 15) × 0.02)
 
-- Crew Level = Module Level:
-  Factor = 1.0 (100% efficiency)
-
-- Crew Level > Module Level:
-  Factor = 1.0 + min(0.30, (Crew Level - Module Level) / Module Level × 0.5)
-  (Bonus capped at +30% efficiency)
-
-Casualty Factor:
-- Factor = Current Sailors / Max Sailors
-- Linear scaling with sailor count
-
-Examples (Level 90 Turret):
-- Level 1 crew:   0.35 + (1/90) × 0.65 = 35.7% efficiency
-- Level 45 crew:  0.35 + (45/90) × 0.65 = 67.5% efficiency
-- Level 70 crew:  0.35 + (70/90) × 0.65 = 85.6% efficiency
-- Level 90 crew:  100% efficiency (perfect match)
-- Level 120 crew: 100% + min(30%, (30/90) × 50%) = 116.7% efficiency
-- Level 200 crew: 100% + 30% = 130% efficiency (capped)
+Stat Value → Stat Factor:
+  Stat 7:  0.84 (16% penalty - poor recruit)
+  Stat 15: 1.00 (baseline)
+  Stat 25: 1.20 (+20% bonus)
+  Stat 35: 1.40 (+40% bonus - veteran)
+  Stat 50: 1.70 (+70% bonus, cap - elite)
 ```
+
+**Why Leveling Matters:**
+Higher-level crews are better because:
+- **Better Stats**: Training improves primary stats over time
+- **More Sailors**: Level 1 = 10 sailors, Level 100 = 455 sailors, Level 200 = 705 sailors
+- **Casualty Buffer**: More sailors means the crew can absorb more damage before efficiency drops
 
 **Natural Balancing:**
-Over-leveling is limited by weight constraints (see [[Crew-Management]]):
-- Small ships can't support Level 200 crew (too heavy)
+Crew weight limits which ships can field veteran crews (see [[Crew-Management]]):
+- Small ships can't support Level 200 crew (mount weight capacity)
 - Large ships benefit from veteran crew investments
 - Creates progression incentive (bring crew to bigger ships)
 
 **Efficiency Impact on Combat:**
 ```
-Module Performance = Base Stats × Efficiency Factor
+Example: Main Battery Turret
 
-Example: Level 90 Main Battery Turret
-- Base damage: 1,000 HP per shot
-- Base reload: 20 seconds
-- Base accuracy: 60%
+Level 1 Crew (10 sailors, Accuracy 11):
+- Sailor_Factor: 10/10 = 100%
+- Stat_Factor: 1.0 + ((11 - 15) × 0.02) = 0.92
+- Efficiency: 92%
+- **Functional but below baseline**
 
-With Level 1 Crew (35% efficiency):
-- Damage: 350 HP per shot
-- Reload: 57 seconds (20 / 0.35)
-- Accuracy: 21%
-- **Severely crippled performance**
+Level 100 Crew (455 sailors, Accuracy 35):
+- Sailor_Factor: 455/455 = 100%
+- Stat_Factor: 1.0 + ((35 - 15) × 0.02) = 1.40
+- Efficiency: 140%
+- **40% tighter spread, faster reload**
 
-With Level 90 Crew (100% efficiency):
-- Damage: 1,000 HP per shot
-- Reload: 20 seconds
-- Accuracy: 60%
-- **Optimal performance**
-
-With Level 200 Crew (130% efficiency):
-- Damage: 1,300 HP per shot
-- Reload: 15.4 seconds (20 / 1.30)
-- Accuracy: 78%
-- **Enhanced performance**
+Level 100 Crew After Heavy Casualties (155/455 sailors, Accuracy 35):
+- Sailor_Factor: 155/455 = 34%
+- Stat_Factor: 1.40
+- Efficiency: 34% × 1.40 = 47.6%
+- **Skill retained but casualties cripple output**
 ```
 
 #### Battle Casualties & Replenishment
