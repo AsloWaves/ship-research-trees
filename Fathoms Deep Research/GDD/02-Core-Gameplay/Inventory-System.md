@@ -844,8 +844,14 @@ Ship permadeath check determines recovery:
 
 ## Cross-Reference Documents
 
+**Related Ship Customization**:
+- [[Tetris-Fitting-Mechanics]] - Unified overview of all grid systems (cargo, port, drydock, equipment slots)
+- [[Module-System]] - Equipment slot mechanics and module installation
+- [[Module-Dependencies]] - Weight-based fitting validation
+
 **Related Core Gameplay**:
 - [[Crew-Management]] - Wallet system, crew card storage, Equipment View, and Crew View assignment mechanics
+- [[Crew-Module-Mechanics]] - Crew weight calculations and efficiency
 - [[Crew-Skills]] - Engineer stats affecting inventory efficiency
 - [[Ship-Physics]] - Weight/capacity effects on ship performance
 
@@ -855,9 +861,9 @@ Ship permadeath check determines recovery:
 - [[Carrier-Operations]] - Aircraft and ordnance storage
 - [[Submarine-Warfare]] - Limited cargo capacity constraints
 
-**Related Extraction/Economy** (Future documents):
-- Extraction-Mechanics - Cargo loss on death, jettison tactics
-- Economy-Overview - Trade goods, loot values, port trading
+**Related Extraction/Economy**:
+- [[Extraction-Mechanics]] - Cargo loss on death, jettison tactics
+- [[Economy-Overview]] - Trade goods, loot values, port trading
 - Progression-System - Cargo capacity unlocks, module progression
 
 ---

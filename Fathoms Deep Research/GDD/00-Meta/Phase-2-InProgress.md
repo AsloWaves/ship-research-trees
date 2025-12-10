@@ -695,6 +695,8 @@ Economy Balance:      ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪  0%
 - [[Crew-Module-Mechanics]] - Crew-module interaction mechanics ✅
 - [[Module-System]] - Ship fitting mechanics
 - [[Module-Dependencies]] - Module requirements and weight-based fitting ✅
+- [[Tetris-Fitting-Mechanics]] - Grid systems, wing slots, drydock storage ✅
+- [[Inventory-System]] - Cargo grid, port storage mechanics
 - [[Economy-Overview]] - Economy design
 - [[Surface-Combat]] - Weapon mechanics
 

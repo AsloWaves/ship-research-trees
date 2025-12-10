@@ -669,6 +669,20 @@ Result: Rookie crew rapidly promoted to operational levels, veteran crew still p
 
 ---
 
+## Cross-Reference Documents
+
+**Related Ship Customization**:
+- [[Tetris-Fitting-Mechanics]] - Unified overview of all grid systems (equipment slots, cargo, drydock)
+- [[Ship-Fitting-UI]] - Visual interface for module installation
+- [[Module-Dependencies]] - Weight-based fitting validation
+
+**Related Core Gameplay**:
+- [[Inventory-System]] - Cargo grid mechanics for uninstalled modules
+- [[Crew-Module-Mechanics]] - Crew efficiency and weight calculations
+- [[Crew-Management]] - Crew card assignment workflow
+
+---
+
 ## Summary & Future Considerations
 
 **Complete Module System Includes:**
@@ -676,6 +690,7 @@ Result: Rookie crew rapidly promoted to operational levels, veteran crew still p
 ✅ **Dual Module System**: Weapon hardpoints (visual 3D drag-drop) + Internal systems (grid-based slots)
 ✅ **Comprehensive Module Categories**: 40+ module types across turrets, engines, support, and misc systems
 ✅ **Crew-Module Integration**: Every module requires appropriately classed crew card for optimal performance
+✅ **Slot-Matching System**: Equipment slots have grid dimensions; modules must exactly match
 ✅ **Quality Variance System**: 70-130% RNG for crafted modules with crafting skill progression
 ✅ **Reduced Real-Time Timers**: 30 seconds - 20 minutes for installation, 1 minute - 2 hours for repairs
 ✅ **Offline Training System**: 300 XP per crew card, premium account options, training facility bonuses
