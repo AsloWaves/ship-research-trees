@@ -4,7 +4,7 @@ status: 🚧 IN PROGRESS
 phase: Phase 2
 start-date: 2025-01
 target-completion: 2025-Q2
-last-updated: 2025-11-17
+last-updated: 2025-12-10
 related: [[Development-Status]], [[Phase-1-Complete]], [[Phase-3-Plan]]
 ---
 
@@ -692,7 +692,9 @@ Economy Balance:      ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪  0%
 ### Design Documents
 - [[Combat-Overview]] - Combat system design
 - [[Crew-Management]] - Crew system details
+- [[Crew-Module-Mechanics]] - Crew-module interaction mechanics ✅
 - [[Module-System]] - Ship fitting mechanics
+- [[Module-Dependencies]] - Module requirements and weight-based fitting ✅
 - [[Economy-Overview]] - Economy design
 - [[Surface-Combat]] - Weapon mechanics
 
