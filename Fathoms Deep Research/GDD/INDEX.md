@@ -151,6 +151,7 @@ tags: [index, navigation, gdd]
 - [[MOCs/Planned-Features|📋 Planned Features]] - Future development
 - [[MOCs/Phase-1-Features|Phase 1 Summary]] - Foundation complete
 - [[MOCs/Script-to-GDD-Map|Script ↔ GDD Cross-Reference]]
+- [[00-Meta/Script-GDD-Comparison|🔄 Script-GDD Comparison]] - Implementation gap analysis ✅ NEW
 
 ### System-Specific MOCs
 - [[MOCs/Combat-Systems-MOC|Combat Systems Hub]] - All combat-related docs
