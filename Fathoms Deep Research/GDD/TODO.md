@@ -1,7 +1,7 @@
 # Fathoms Deep GDD - Master TODO List
 **Generated**: 2025-12-10
 **Documents Reviewed**: 40+ primary design documents from 564 total files
-**Last Updated**: 2025-12-10
+**Last Updated**: 2025-12-11
 
 ---
 
@@ -9,11 +9,13 @@
 
 | Category | Critical | High | Medium | Low |
 |----------|----------|------|--------|-----|
-| Missing Mechanics | 12 | 18 | 15 | 8 |
+| Missing Mechanics | 11 | 18 | 15 | 8 |
 | Incomplete Mechanics | 8 | 14 | 12 | 6 |
-| Contradictions | 6 | 8 | - | - |
-| Design Questions | - | - | 70+ | - |
-| Integration Gaps | 10 | 10 | - | - |
+| Contradictions | 4 | 8 | - | - |
+| Design Questions | - | - | 65+ | - |
+| Integration Gaps | 9 | 10 | - | - |
+
+*Updated 2025-12-11: Resolved items via [[Crew-Module-Mechanics]], [[Tetris-Fitting-Mechanics]], [[Research-Unlock-System]]*
 
 ---
 
@@ -21,11 +23,11 @@
 
 ### Must Resolve Before Combat Implementation
 
-- [ ] **Crew-Module Efficiency Formula**: Define interaction between `Sailor_Factor × Stat_Factor` and module quality variance (70-130%)
+- [x] **Crew-Module Efficiency Formula**: Define interaction between `Sailor_Factor × Stat_Factor` and module quality variance (70-130%) ✅ *Resolved in [[Crew-Module-Mechanics]]*
 - [ ] **Permadeath Crew Recovery**: Define exact window, location, cost, and prerequisites for crew card retrieval
 - [ ] **Firing Solution Formula**: Align buildup/degradation rates with stated solution modifier ranges (0.5-1.0×)
 - [ ] **Ammunition Storage**: Define stack sizes, weight per stack, cargo grid consumption, and mid-combat depletion
-- [ ] **Crew Classification System**: Resolve "any crew can operate any module" vs "Gunner required for turrets" contradiction
+- [x] **Crew Classification System**: Resolve "any crew can operate any module" vs "Gunner required for turrets" contradiction ✅ *Resolved in [[Crew-Module-Mechanics]] - any crew can operate, specialists get bonuses*
 - [ ] **Module Quality-to-Efficiency**: Define how 70-130% quality affects ongoing efficiency (cap? reduction? multiplicative?)
 
 ---
@@ -72,7 +74,7 @@
 
 ### Module System
 
-- [ ] **Module Slot Rotation**: Can modules be rotated during placement?
+- [x] **Module Slot Rotation**: Can modules be rotated during placement? ✅ *Resolved in [[Tetris-Fitting-Mechanics]] - yes, if shape makes sense*
 - [ ] **Structural Support**: Do some modules require foundation modules?
 - [ ] **Module Degradation**: Non-combat wear over time
 - [ ] **Component Interchangeability**: Salvaged module direct installation rules
@@ -169,9 +171,9 @@
 |----|------------|------------|----------|
 | C1 | Crew-Module-Mechanics | Damage-Model | Casualty timing: during combat vs post-battle? |
 | C2 | GDD-Overview | Damage-Model | T10 100% loss: automatic or 100% roll per card? |
-| C3 | Module-System | Crew-Management | "Any crew operates any module" vs "Gunner required for turrets" |
+| ~~C3~~ | ~~Module-System~~ | ~~Crew-Management~~ | ~~"Any crew operates any module" vs "Gunner required for turrets"~~ ✅ *Resolved in [[Crew-Module-Mechanics]]* |
 | C4 | Ballistics-Gunnery | Detection-System | Solution buildup rate interpretation (+%/sec meaning) |
-| C5 | Crew-Management examples | Formula text | Weight calculation formula consistency |
+| ~~C5~~ | ~~Crew-Management examples~~ | ~~Formula text~~ | ~~Weight calculation formula consistency~~ ✅ *Resolved in [[Crew-Module-Mechanics]]* |
 | C6 | Module-System | Module-System | Repair slower than installation (2-5 min vs 5-15 min) |
 
 ### Minor Contradictions
@@ -230,7 +232,7 @@
 
 ### Module System (Q29-Q37)
 
-29. **Module Rotation**: 2×2 module orientation flexibility?
+29. ~~**Module Rotation**: 2×2 module orientation flexibility?~~ ✅ *Resolved in [[Tetris-Fitting-Mechanics]]*
 30. **Modular Redundancy**: Dual identical engines advantage?
 31. **Cascading Failures**: Adjacent module collateral damage?
 32. **Module Cooling**: Deliberate overheating through sustained fire?
@@ -238,7 +240,7 @@
 34. **Weapon Interchangeability**: DD turret on cruiser mounting?
 35. **Quality Impact on Efficiency**: 70% vs 130% quality effect on formula?
 36. **Armor Stacking**: Multiple armor section installations?
-37. **Module vs Crew Weight**: Separate calculations or combined budget?
+37. ~~**Module vs Crew Weight**: Separate calculations or combined budget?~~ ✅ *Resolved in [[Crew-Module-Mechanics]] - separate, both count toward mount capacity*
 
 ### Economy System (Q38-Q48)
 
@@ -273,8 +275,8 @@
 
 ### Progression System (Q60-Q64)
 
-60. **Ship Tier Unlock**: Credits only? Reputation? Missions?
-61. **Module Tech Trees**: Branching or linear? Nation choice?
+60. ~~**Ship Tier Unlock**: Credits only? Reputation? Missions?~~ ✅ *Resolved in [[Research-Unlock-System]] - RP research then build or buy*
+61. ~~**Module Tech Trees**: Branching or linear? Nation choice?~~ ✅ *Resolved in [[Research-Unlock-System]] - three separate trees (ships, turrets, modules), nation-specific*
 62. **Crew Collection Limit**: Max cards? Storage limit?
 63. **Post-Permadeath Progression**: Restart from scratch or accelerated?
 64. **Achievement System**: Tracking, rewards, bonuses?
@@ -296,7 +298,7 @@
 
 | ID | Systems | Issue |
 |----|---------|-------|
-| I1 | Crew-Module Weight | No interaction explanation between crew weight and module weight budgets |
+| ~~I1~~ | ~~Crew-Module Weight~~ | ~~No interaction explanation between crew weight and module weight budgets~~ ✅ *Resolved in [[Crew-Module-Mechanics]] and [[Tetris-Fitting-Mechanics]]* |
 | I2 | Offline Training + Economy | Training facility fees undefined; free training devalues paid methods |
 | I3 | Ammunition + Combat | No mid-combat depletion mechanic; magazine vs cargo undefined |
 | I4 | Fuel + Economy | Fuel efficiency vs distance calculation; long-distance trade viability |
@@ -353,11 +355,11 @@
 
 ### Phase 2 Blockers (Resolve First)
 
-1. Crew-Module Efficiency Formula completion
+1. ~~Crew-Module Efficiency Formula completion~~ ✅
 2. Permadeath Crew Recovery definition
 3. Firing Solution Formula alignment
 4. Ammunition Storage mechanics
-5. Crew Classification contradiction resolution
+5. ~~Crew Classification contradiction resolution~~ ✅
 6. Module Quality-to-Efficiency mapping
 
 ### Before Phase 2 Complete
@@ -386,11 +388,11 @@
 - Clear multi-tier economy design with strategic depth
 
 ### Critical Gaps
-- Crew-module efficiency calculations incomplete
+- ~~Crew-module efficiency calculations incomplete~~ ✅
 - Permadeath recovery system undefined
 - Firing solution formula misaligned
 - Ammunition storage system undefined
-- Crew classification system contradictory
+- ~~Crew classification system contradictory~~ ✅
 
 ### Estimated Resolution Time
 2-3 weeks of design work (not implementation) for Phase 2 blockers
