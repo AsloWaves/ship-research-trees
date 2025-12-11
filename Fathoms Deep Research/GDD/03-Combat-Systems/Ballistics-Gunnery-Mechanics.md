@@ -64,7 +64,10 @@ Base accuracy represents the inherent precision of the weapon system at optimal 
 
 ## Firing Solution Modifier
 
-The firing solution is a "living number" (see Detection-System.md) that affects accuracy.
+> **See [[Firing-Solution-System]] for the authoritative, complete firing solution mechanics.**
+> That document resolves formula contradictions and provides definitive buildup rates and caps.
+
+The firing solution is a "living number" that affects accuracy.
 
 ### Solution Quality to Accuracy Modifier
 

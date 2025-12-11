@@ -58,11 +58,13 @@ tags: [index, navigation, gdd]
 
 ### 03 - Combat Systems
 - [[03-Combat-Systems/Combat-Overview|Combat Overview]] 🚧 PARTIAL
+- [[03-Combat-Systems/Firing-Solution-System|Firing Solution System]] ✅ **DOCUMENTED**
+- [[03-Combat-Systems/Detection-System|Detection System]] ✅ **DOCUMENTED**
+- [[03-Combat-Systems/Ballistics-Gunnery-Mechanics|Ballistics & Gunnery]] ✅ **DOCUMENTED**
 - [[03-Combat-Systems/Surface-Combat|Surface Combat]] 📋 PLANNED
 - [[03-Combat-Systems/Carrier-Operations|Carrier Operations]] 📋 PLANNED
 - [[03-Combat-Systems/Submarine-Warfare|Submarine Warfare]] 📋 PLANNED
 - [[03-Combat-Systems/Damage-Model|Damage Model]] 📋 PLANNED
-- [[03-Combat-Systems/Ballistics-System|Ballistics System]] 📋 PLANNED
 
 ### 04 - Ship Customization
 - [[04-Ship-Customization/Module-System|Module System]] 📋 PLANNED

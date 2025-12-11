@@ -352,6 +352,9 @@ When a target moves back outside detection range or breaks lock:
 
 ### Firing Solution Quality
 
+> **See [[Firing-Solution-System]] for the authoritative, complete firing solution mechanics.**
+> The section below provides a summary; the full document resolves all formula contradictions.
+
 The firing solution is a **living number** that constantly fluctuates based on both your ship's movement and the target's movement. Even a 100% solution can degrade if conditions change.
 
 ```

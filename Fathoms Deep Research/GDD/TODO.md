@@ -9,13 +9,13 @@
 
 | Category | Critical | High | Medium | Low |
 |----------|----------|------|--------|-----|
-| Missing Mechanics | 11 | 18 | 15 | 8 |
+| Missing Mechanics | 10 | 18 | 15 | 8 |
 | Incomplete Mechanics | 8 | 14 | 12 | 6 |
-| Contradictions | 4 | 8 | - | - |
+| Contradictions | 3 | 8 | - | - |
 | Design Questions | - | - | 65+ | - |
 | Integration Gaps | 9 | 10 | - | - |
 
-*Updated 2025-12-11: Resolved items via [[Crew-Module-Mechanics]], [[Tetris-Fitting-Mechanics]], [[Research-Unlock-System]]*
+*Updated 2025-12-11: Resolved items via [[Crew-Module-Mechanics]], [[Tetris-Fitting-Mechanics]], [[Research-Unlock-System]], [[Firing-Solution-System]]*
 
 ---
 
@@ -25,7 +25,7 @@
 
 - [x] **Crew-Module Efficiency Formula**: Define interaction between `Sailor_Factor × Stat_Factor` and module quality variance (70-130%) ✅ *Resolved in [[Crew-Module-Mechanics]]*
 - [ ] **Permadeath Crew Recovery**: Define exact window, location, cost, and prerequisites for crew card retrieval
-- [ ] **Firing Solution Formula**: Align buildup/degradation rates with stated solution modifier ranges (0.5-1.0×)
+- [x] **Firing Solution Formula**: Align buildup/degradation rates with stated solution modifier ranges (0.5-1.0×) ✅ *Resolved in [[Firing-Solution-System]]*
 - [ ] **Ammunition Storage**: Define stack sizes, weight per stack, cargo grid consumption, and mid-combat depletion
 - [x] **Crew Classification System**: Resolve "any crew can operate any module" vs "Gunner required for turrets" contradiction ✅ *Resolved in [[Crew-Module-Mechanics]] - any crew can operate, specialists get bonuses*
 - [ ] **Module Quality-to-Efficiency**: Define how 70-130% quality affects ongoing efficiency (cap? reduction? multiplicative?)
@@ -172,7 +172,7 @@
 | C1 | Crew-Module-Mechanics | Damage-Model | Casualty timing: during combat vs post-battle? |
 | C2 | GDD-Overview | Damage-Model | T10 100% loss: automatic or 100% roll per card? |
 | ~~C3~~ | ~~Module-System~~ | ~~Crew-Management~~ | ~~"Any crew operates any module" vs "Gunner required for turrets"~~ ✅ *Resolved in [[Crew-Module-Mechanics]]* |
-| C4 | Ballistics-Gunnery | Detection-System | Solution buildup rate interpretation (+%/sec meaning) |
+| ~~C4~~ | ~~Ballistics-Gunnery~~ | ~~Detection-System~~ | ~~Solution buildup rate interpretation (+%/sec meaning)~~ ✅ *Resolved in [[Firing-Solution-System]]*|
 | ~~C5~~ | ~~Crew-Management examples~~ | ~~Formula text~~ | ~~Weight calculation formula consistency~~ ✅ *Resolved in [[Crew-Module-Mechanics]]* |
 | C6 | Module-System | Module-System | Repair slower than installation (2-5 min vs 5-15 min) |
 
@@ -330,7 +330,7 @@
 
 ### Critical (Phase 2 Blocking)
 
-- [ ] `03-Combat-Systems/Firing-Solution-System.md` - Complete firing solution calculation
+- [x] `03-Combat-Systems/Firing-Solution-System.md` - Complete firing solution calculation ✅ *Created 2025-12-11*
 - [ ] `03-Combat-Systems/Damage-States.md` - Module and ship damage state definitions
 - [ ] `02-Core-Gameplay/Ammunition-System.md` - Storage, depletion, resupply mechanics
 - [ ] `07-Economy/Insurance-System.md` - Providers, coverage, claims, costs
@@ -357,7 +357,7 @@
 
 1. ~~Crew-Module Efficiency Formula completion~~ ✅
 2. Permadeath Crew Recovery definition
-3. Firing Solution Formula alignment
+3. ~~Firing Solution Formula alignment~~ ✅ *Resolved in [[Firing-Solution-System]]*
 4. Ammunition Storage mechanics
 5. ~~Crew Classification contradiction resolution~~ ✅
 6. Module Quality-to-Efficiency mapping
@@ -390,7 +390,7 @@
 ### Critical Gaps
 - ~~Crew-module efficiency calculations incomplete~~ ✅
 - Permadeath recovery system undefined
-- Firing solution formula misaligned
+- ~~Firing solution formula misaligned~~ ✅ *Resolved in [[Firing-Solution-System]]*
 - Ammunition storage system undefined
 - ~~Crew classification system contradictory~~ ✅
 
