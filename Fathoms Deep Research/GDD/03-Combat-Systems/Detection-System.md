@@ -2,9 +2,10 @@
 title: Detection System Mechanics
 category: combat-systems
 description: Comprehensive mechanics for visual, radar, and sonar detection with mathematical formulas
-version: 1.0
-last_updated: 2025-12-09
+version: 1.1
+last_updated: 2025-12-11
 tags: [detection, mechanics, formulas, fog-of-war, visual, radar, sonar]
+status: CONFIRMED
 ---
 
 # Detection System Mechanics
@@ -80,9 +81,11 @@ Larger ships are easier to detect:
 |-----------|-----------------|----------------|
 | **Normal** | 1.0× | 1.0× |
 | **Making Smoke** | 0.3× | 1.0× (radar unaffected) |
-| **In Smoke Screen** | 0.1× | 1.0× |
+| **In Smoke Screen** | 0.0× | 1.0× |
 | **Dazzle Camouflage** | 0.85× | 1.0× |
 | **Low Visibility Paint** | 0.9× | 1.0× |
+
+> **CONFIRMED (2025-12-11)**: No visual detection through smoke or weather. Smoke screens completely block visual detection (0×). Heavy weather has similar blocking effect. Radar remains effective through smoke. This makes smoke screens tactically valuable for breaking visual contact while remaining radar-detectable.
 
 ---
 
@@ -153,6 +156,8 @@ Detection isn't binary - contacts progress through visual stages as they move fr
 | **Standard (1920-1940)** | Moderate arc (±15°), some randomization | None |
 | **Advanced (1940+)** | Narrow arc (±8°) | Approximate range band |
 | **Modern (1960+)** | Precise bearing (±3°) | Estimated range |
+
+> **CONFIRMED (2025-12-11)**: Bearing randomization uses **uniform distribution** within the arc. This means any point within the bearing arc is equally likely - players cannot assume the center is more accurate. Creates genuine uncertainty.
 
 **Design Note:** Direction is randomized within the arc so players cannot simply aim at the center of the band to find the target. This creates uncertainty and rewards closing to improve detection.
 
@@ -239,6 +244,8 @@ Variance_Range by Equipment:
 Effective_Variance = Base_Variance × (Distance_to_Phase3 / Phase2_Range)
 ```
 This means the shadow "settles" toward actual size as the target approaches Phase 3.
+
+> **CONFIRMED (2025-12-11)**: Initial ID is locked. Once the shadow size variance is rolled at Phase 2 entry, it does NOT auto-correct based on better equipment or ally data. Only **visual confirmation** (reaching Phase 3+) reveals the truth.
 
 **Historical Misidentifications:**
 - Battle of Samar: Japanese misidentified escort carriers as fleet carriers, destroyers as cruisers
@@ -340,13 +347,18 @@ When a target moves back outside detection range or breaks lock:
 | Phase 4 → 3 | Full info fades, sprite remains |
 | Phase 3 → 2 | Sprite fades to shadow |
 | Phase 2 → 1 | Shadow fades, direction indicator only |
-| Phase 1 → Lost | Contact marker disappears after delay |
+| Phase 1 → Lost | Contact marker disappears **immediately** |
 
-**Contact Memory:** Last known position/heading displayed with "stale" indicator for:
-- Basic: 30 seconds
-- Standard: 60 seconds
-- Advanced: 120 seconds
-- Modern: 300 seconds (5 minutes)
+**Contact Memory:**
+> **CONFIRMED (2025-12-11)**: Instant fade - no last-known-position system.
+
+When contact is lost:
+- Contact marker disappears immediately
+- No "stale" indicator or ghost marker
+- No memory of last position
+- Must re-detect from scratch
+
+**Design Rationale**: This makes escape meaningful. If you break contact, you're truly GONE. Combined with locked initial IDs, this creates fog-of-war tension and rewards stealth/disengagement tactics.
 
 ---
 
@@ -544,6 +556,17 @@ Target_RCS (Radar Cross Section):
 - Sector scan: 2-4× faster updates in chosen direction
 - Fire control radar: Continuous tracking in narrow beam
 
+> **CONFIRMED (2025-12-11)**: Radar cannot detect submerged submarines. Surface ships must use sonar/hydrophone to detect subs underwater. This creates asymmetric detection where submarines have stealth advantage against radar-only equipped ships.
+
+**Radar vs Submarine Detection:**
+| Submarine State | Radar Detection | Sonar Detection |
+|-----------------|-----------------|-----------------|
+| Surfaced | Yes (0.4× RCS) | Yes |
+| Snorkel depth | Minimal (0.1× RCS) | Yes |
+| Periscope depth | No | Yes |
+| Submerged | No | Yes (only method) |
+| Deep/Below layer | No | Reduced by thermal layer |
+
 ### Sonar Detection
 
 See [[../Modules/Support/Detection-Sonar/_Sonar-Mechanics|Sonar Mechanics]] for detailed sonar operations.
@@ -582,6 +605,17 @@ Active_Range = Base_Range
 
 Active reveals YOUR position to target!
 ```
+
+> **CONFIRMED (2025-12-11)**: 5-10 second cooldown on toggling active sensors (radar/sonar) on/off. This prevents "ping spam" tactics and creates commitment to sensor activation decisions.
+
+**Sensor Toggle Rules:**
+| Action | Cooldown |
+|--------|----------|
+| Radar ON → OFF | 5 seconds |
+| Radar OFF → ON | 5 seconds |
+| Active Sonar ON → OFF | 5 seconds |
+| Active Sonar OFF → ON | 10 seconds (warm-up) |
+| Passive Sonar | No cooldown (always passive) |
 
 ---
 
@@ -813,6 +847,8 @@ Allies accept this as FACT until they can detect the contact themselves.
 - When ally enters their own Phase 2 range → They roll their own shadow size
 - When ally enters Phase 3 → They see actual sprite (truth revealed)
 - Better-equipped ally detecting same contact → Can share corrected info
+
+> **CONFIRMED (2025-12-11)**: Best data wins. When multiple allies detect the same contact, the system compares all assessments and displays the most accurate identification to all observers. This encourages fleet coordination - having a scout with advanced sensors improves everyone's intel.
 
 **Gameplay Implications:**
 | Scenario | Result |

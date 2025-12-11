@@ -1,9 +1,9 @@
 ---
-tags: [planned, design, core-concepts]
-status: 📋 PLANNED
+tags: [confirmed, design, core-concepts]
+status: CONFIRMED
 phase: Vision/Foundation
 priority: HIGH
-last-updated: 2025-11-17
+last-updated: 2025-12-11
 ---
 
 # Permadeath System
@@ -138,35 +138,37 @@ Tier 5 is the "final preparation tier" where players can safely maximize their a
 
 **Tier 6: Introduction to True Permadeath**
 - **Ship Permadeath**: 10% permanent destruction chance
-- **Crew Card Permadeath**: 10% entire card destroyed (all progress lost)
+- **Crew Card Permadeath**: 10% per card (rolled individually)
 - **Sailor Casualties**: Variable based on damage (replaceable at ports)
 - **Module Destruction**: 50% loss chance (modified by damage type/caliber)
 - **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Purpose**: First tier where ships and crew cards face permanent loss
 
 **Tier 7: Escalating Permadeath Risk**
-- **Ship Permadeath**: 20% permanent destruction chance
-- **Crew Card Permadeath**: 20% entire card destroyed
+- **Ship Permadeath**: 25% permanent destruction chance
+- **Crew Card Permadeath**: 25% per card (rolled individually)
 - **Sailor Casualties**: Variable based on damage (replaceable)
 - **Module Destruction**: 60% loss chance (modified by damage type/caliber)
 - **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Purpose**: Noticeable risk increase, serious consequences
 
 **Tier 8: High-Stakes Operations**
-- **Ship Permadeath**: 40% permanent destruction chance
-- **Crew Card Permadeath**: 40% entire card destroyed
+- **Ship Permadeath**: 50% permanent destruction chance
+- **Crew Card Permadeath**: 50% per card (rolled individually)
 - **Sailor Casualties**: Variable based on damage (replaceable)
 - **Module Destruction**: 70% loss chance (modified by damage type/caliber)
 - **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Purpose**: Major risk, devastating losses likely
 
 **Tier 9: Extreme Risk Zone**
-- **Ship Permadeath**: 60% permanent destruction chance
-- **Crew Card Permadeath**: 60% entire card destroyed
+- **Ship Permadeath**: 75% permanent destruction chance
+- **Crew Card Permadeath**: 75% per card (rolled individually)
 - **Sailor Casualties**: Variable based on damage (replaceable)
 - **Module Destruction**: 80% loss chance (modified by damage type/caliber)
 - **Cargo Loss**: 100% on death (ammunition, fuel, loot, loose crew cards) per [[Inventory-System]]
 - **Purpose**: Near-certain loss on death, only for bold players
+
+> **CONFIRMED (2025-12-11)**: Permadeath percentage table is T6=10%, T7=25%, T8=50%, T9=75%, T10=100%. Rolls are **per-crew-card**, not ship-wide.
 
 #### Player Experience
 **Tiers 6-7**: "My ship and crew cards could be lost, but I have good survival odds"
@@ -405,12 +407,43 @@ When your ship is destroyed in combat, three **independent** permadeath systems 
 - **Sailor casualties**: Occur on ALL cards regardless of ship/card survival
 - Each crew card rolls separately for permadeath
 
+> **CONFIRMED (2025-12-11)**: Surviving crew cards suffer 50% sailor casualties. Cards that pass their permadeath roll still lose half their sailors - they're damaged but alive.
+
 #### Step 3: Cargo and Loot
 **100% Cargo Loss on Death (All Tiers):**
 - ALL cargo permanently lost per [[Inventory-System]]
 - Ammunition, fuel, loot, loose crew cards destroyed
 - No recovery possible (creates extraction tension)
 - See [[Damage-Model]] for complete permadeath mechanics
+
+#### Step 4: Wreck Persistence
+
+> **CONFIRMED (2025-12-11)**: Ship wrecks persist for 1-4 hours.
+
+**Wreck Mechanics:**
+- Destroyed ships leave wreckage at sinking location
+- Wreck persists for 1-4 hours (varies by ship size, conditions)
+- Other players can salvage from wreck
+- Salvage includes: modules, cargo, resources
+- Wreck disappears after time limit
+
+**Salvage Implications:**
+- Creates PvP hotspots (wrecks attract scavengers)
+- Allows recovery of some value from enemy kills
+- Encourages "clean up" after battles
+- Adds urgency to post-battle looting
+
+---
+
+## Death Announcements
+
+> **CONFIRMED (2025-12-11)**: Permadeath events are private.
+
+- No server-wide announcements of ship destruction
+- Only involved parties (attacker, victim, nearby players) know
+- No "kill feed" broadcast
+- Creates uncertainty about who is active/dead in region
+- Prevents targeted hunting of recently-weakened players
 
 ---
 
@@ -429,8 +462,9 @@ When your ship is destroyed in combat, three **independent** permadeath systems 
 - Entire crew card destroyed (officer, levels, all progress)
 - Card removed from roster forever
 - Must recruit new Level 1 card to replace
-- Tier-based risk: 0/0/0/0/0/10/20/40/60/100%
+- Tier-based risk: 0/0/0/0/0/10/25/50/75/100%
 - This is the TRUE permadeath that matters
+- **ONLY RECOVERY**: Insurance (see [[Insurance-System]])
 
 ### Why Crew Card Permadeath Matters
 

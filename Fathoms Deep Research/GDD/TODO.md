@@ -9,13 +9,14 @@
 
 | Category | Critical | High | Medium | Low |
 |----------|----------|------|--------|-----|
-| Missing Mechanics | 10 | 18 | 15 | 8 |
-| Incomplete Mechanics | 8 | 14 | 12 | 6 |
-| Contradictions | 3 | 8 | - | - |
-| Design Questions | - | - | 65+ | - |
-| Integration Gaps | 9 | 10 | - | - |
+| Missing Mechanics | 4 | 12 | 12 | 8 |
+| Incomplete Mechanics | 3 | 10 | 10 | 6 |
+| Contradictions | 1 | 4 | - | - |
+| Design Questions | - | - | 25+ | - |
+| Integration Gaps | 4 | 8 | - | - |
 
-*Updated 2025-12-11: Resolved items via [[Crew-Module-Mechanics]], [[Tetris-Fitting-Mechanics]], [[Research-Unlock-System]], [[Firing-Solution-System]]*
+*Updated 2025-12-11: Major Q&A session resolved 40+ design questions*
+*Resolved via: [[Crew-Module-Mechanics]], [[Tetris-Fitting-Mechanics]], [[Research-Unlock-System]], [[Firing-Solution-System]], [[Design-Decisions-2025-12-11]]*
 
 ---
 
@@ -24,11 +25,11 @@
 ### Must Resolve Before Combat Implementation
 
 - [x] **Crew-Module Efficiency Formula**: Define interaction between `Sailor_Factor × Stat_Factor` and module quality variance (70-130%) ✅ *Resolved in [[Crew-Module-Mechanics]]*
-- [ ] **Permadeath Crew Recovery**: Define exact window, location, cost, and prerequisites for crew card retrieval
+- [x] **Permadeath Crew Recovery**: Define exact window, location, cost, and prerequisites for crew card retrieval ✅ *Resolved 2025-12-11: Insurance-based recovery only. NPC + Player-run insurance. Processing takes days. See [[Design-Decisions-2025-12-11]]*
 - [x] **Firing Solution Formula**: Align buildup/degradation rates with stated solution modifier ranges (0.5-1.0×) ✅ *Resolved in [[Firing-Solution-System]]*
-- [ ] **Ammunition Storage**: Define stack sizes, weight per stack, cargo grid consumption, and mid-combat depletion
+- [x] **Ammunition Storage**: Define stack sizes, weight per stack, cargo grid consumption, and mid-combat depletion ✅ *Resolved 2025-12-11: Cargo-only system, stacks by caliber, manual ammo type switching. See [[Design-Decisions-2025-12-11]]*
 - [x] **Crew Classification System**: Resolve "any crew can operate any module" vs "Gunner required for turrets" contradiction ✅ *Resolved in [[Crew-Module-Mechanics]] - any crew can operate, specialists get bonuses*
-- [ ] **Module Quality-to-Efficiency**: Define how 70-130% quality affects ongoing efficiency (cap? reduction? multiplicative?)
+- [x] **Module Quality-to-Efficiency**: Define how 70-130% quality affects ongoing efficiency (cap? reduction? multiplicative?) ✅ *Resolved 2025-12-11: Direct multiplier (70% quality = 70% stats). See [[Design-Decisions-2025-12-11]]*
 
 ---
 
@@ -37,23 +38,23 @@
 ### Combat Systems
 
 - [ ] **Torpedo Detonation Mechanics**: Obstacles, decoys, evasion handling, detonation distance
-- [ ] **Ramming Mechanics**: Ship collision damage system
-- [ ] **Friendly Fire System**: Blue-on-blue handling in team combat
+- [x] **Ramming Mechanics**: Ship collision damage system ✅ *Resolved 2025-12-11: Asymmetric by class/size (larger ship takes less damage)*
+- [x] **Friendly Fire System**: Blue-on-blue handling in team combat ✅ *Resolved 2025-12-11: Full friendly fire always on*
 - [ ] **Artillery Spotting System**: Observer ship fire correction mechanics
 - [ ] **Gunnery Dispersion Formula**: Mathematical model for shell spread pattern
 - [ ] **Bounce/Ricochet Mechanics**: Shell deflection angles and probabilities
 - [ ] **Fire Spread Mechanics**: Compartment-to-compartment fire propagation
-- [ ] **Aircraft Recovery Mechanics**: Carrier aircraft fuel exhaustion, ditching, recovery
-- [ ] **Magazine Detonation Prevention**: Magazine flooding mechanics and effects
+- [x] **Aircraft Recovery Mechanics**: Carrier aircraft fuel exhaustion, ditching, recovery ✅ *Resolved 2025-12-11: Plane lost, pilot crew card loses sailors (not card itself)*
+- [x] **Magazine Detonation Prevention**: Magazine flooding mechanics and effects ✅ *Resolved 2025-12-11: Per penetrating hit roll, chance scales with ammo quantity in cargo*
 
 ### Crew Systems
 
-- [ ] **Morale System**: Effects on crew performance (or confirm "zero morale" design)
-- [ ] **Crew Stat Generation**: Initial stat distribution at Level 1
+- [x] **Morale System**: Effects on crew performance (or confirm "zero morale" design) ✅ *Resolved 2025-12-11: Confirmed zero-morale design - crew performance purely stat-based*
+- [x] **Crew Stat Generation**: Initial stat distribution at Level 1 ✅ *Confirmed in [[Crew-Skills]]: 7-15 starting range, Navy Field-style randomization*
 - [ ] **Crew Training Costs**: Exact credit costs for classification unlocks
 - [ ] **Crew Reassignment Under Fire**: Emergency mid-combat crew reassignment rules
-- [ ] **Crew Panic/Breakdown**: Heavy damage effects on crew performance
-- [ ] **Crew Death Visuals**: What happens when crew card is wiped out
+- [ ] **Crew Panic/Breakdown**: Heavy damage effects on crew performance *(Note: May be N/A due to zero-morale design)*
+- [x] **Crew Death Visuals**: What happens when crew card is wiped out ✅ *Resolved 2025-12-11: Station goes red/disabled when crew drops below threshold*
 
 ### Ship Systems
 
@@ -62,15 +63,15 @@
 - [ ] **Bulkhead Integrity**: Hit capacity before damage spreads
 - [ ] **Secondary Gun Auto-Fire**: AI targeting rules for secondary batteries
 - [ ] **Ship Sinking Animation**: Time from fatal damage to sinking
-- [ ] **Submarine Surfacing/Diving**: Time, vulnerability window, mechanics
+- [x] **Submarine Surfacing/Diving**: Time, vulnerability window, mechanics ✅ *Resolved 2025-12-11: Category-based depths (Surface/Periscope/Shallow/Deep/Crush) limited by ocean depth and hull type*
 
 ### Detection & Targeting
 
 - [ ] **Horizon Distance Formula**: Visual horizon calculation based on observer height
 - [ ] **Weather Transition Timing**: How long weather changes take to propagate
-- [ ] **Contact Memory Duration**: Exact decay timing after losing contact
-- [ ] **Bearing Arc Randomization**: Distribution type (linear, Gaussian, etc.)
-- [ ] **Misidentification Update**: Real-time shadow correction with better equipment
+- [x] **Contact Memory Duration**: Exact decay timing after losing contact ✅ *Resolved 2025-12-11: Instant fade (no memory/last-known-position)*
+- [x] **Bearing Arc Randomization**: Distribution type (linear, Gaussian, etc.) ✅ *Resolved 2025-12-11: Uniform distribution within arc*
+- [x] **Misidentification Update**: Real-time shadow correction with better equipment ✅ *Resolved 2025-12-11: Initial ID locked - only visual confirmation can override*
 
 ### Module System
 
@@ -81,26 +82,26 @@
 
 ### Economy Systems
 
-- [ ] **Currency Exchange Rates**: Resource Points to Credits conversion
-- [ ] **Market Price Algorithm**: NPC price generation formula
-- [ ] **Player Tax/Tariff System**: Port transaction taxation
+- [x] **Currency Exchange Rates**: Resource Points to Credits conversion ✅ *Resolved 2025-12-11: No conversion - separate economies*
+- [x] **Market Price Algorithm**: NPC price generation formula ✅ *Resolved 2025-12-11: Supply/demand simulation (dynamic economy)*
+- [x] **Player Tax/Tariff System**: Port transaction taxation ✅ *Resolved 2025-12-11: Split (port owner + nation tax)*
 - [ ] **Inflation Control**: Economy scaling as server wealth increases
-- [ ] **Resource Decay**: Stored resource degradation over time
+- [x] **Resource Decay**: Stored resource degradation over time ✅ *Resolved 2025-12-11: No decay (permanent storage)*
 - [ ] **Storage Fees**: Port storage costs for player loot
-- [ ] **Trade Route Automation**: Automated merchant trading mechanics
+- [x] **Trade Route Automation**: Automated merchant trading mechanics ✅ *Resolved 2025-12-11: Guild convoy system only*
 
 ### Permadeath System
 
-- [ ] **Crew Recovery Window**: Exact time limit for permadead crew retrieval
-- [ ] **Ship Wreck Persistence**: How long wrecks remain as salvage opportunities
-- [ ] **Insurance Claim Processing**: Time and process for payouts
-- [ ] **Permadeath Announcements**: Public or private death notifications
-- [ ] **Crew Resurrection Methods**: Any path to recover dead crews
+- [x] **Crew Recovery Window**: Exact time limit for permadead crew retrieval ✅ *Resolved 2025-12-11: Insurance-based recovery only (no timed retrieval)*
+- [x] **Ship Wreck Persistence**: How long wrecks remain as salvage opportunities ✅ *Resolved 2025-12-11: 1-4 hours*
+- [x] **Insurance Claim Processing**: Time and process for payouts ✅ *Resolved 2025-12-11: Takes days (real-time), unlimited coverage*
+- [x] **Permadeath Announcements**: Public or private death notifications ✅ *Resolved 2025-12-11: Private (no server broadcast)*
+- [x] **Crew Resurrection Methods**: Any path to recover dead crews ✅ *Resolved 2025-12-11: Insurance only - returns same stats/level, different identity (name)*
 
 ### Multiplayer Features
 
-- [ ] **Alliance/Guild Structures**: Complete system definition
-- [ ] **Diplomacy Declaration**: Alliance formation/breaking mechanics
+- [x] **Alliance/Guild Structures**: Complete system definition ✅ *Resolved 2025-12-11: Large guilds (500+), full alliance system, full sharing including ships*
+- [x] **Diplomacy Declaration**: Alliance formation/breaking mechanics ✅ *Resolved 2025-12-11: Dev-controlled events + auto-escalation from player actions*
 - [ ] **Player Housing/Guild Halls**: Absent entirely
 - [ ] **Seasonal Content Rotation**: Content refresh cadence
 
@@ -169,8 +170,8 @@
 
 | ID | Document A | Document B | Conflict |
 |----|------------|------------|----------|
-| C1 | Crew-Module-Mechanics | Damage-Model | Casualty timing: during combat vs post-battle? |
-| C2 | GDD-Overview | Damage-Model | T10 100% loss: automatic or 100% roll per card? |
+| ~~C1~~ | ~~Crew-Module-Mechanics~~ | ~~Damage-Model~~ | ~~Casualty timing: during combat vs post-battle?~~ ✅ *Resolved 2025-12-11: Real-time (immediate effect)* |
+| ~~C2~~ | ~~GDD-Overview~~ | ~~Damage-Model~~ | ~~T10 100% loss: automatic or 100% roll per card?~~ ✅ *Resolved 2025-12-11: Per-card roll (T6=10%, T7=25%, T8=50%, T9=75%, T10=100%)* |
 | ~~C3~~ | ~~Module-System~~ | ~~Crew-Management~~ | ~~"Any crew operates any module" vs "Gunner required for turrets"~~ ✅ *Resolved in [[Crew-Module-Mechanics]]* |
 | ~~C4~~ | ~~Ballistics-Gunnery~~ | ~~Detection-System~~ | ~~Solution buildup rate interpretation (+%/sec meaning)~~ ✅ *Resolved in [[Firing-Solution-System]]*|
 | ~~C5~~ | ~~Crew-Management examples~~ | ~~Formula text~~ | ~~Weight calculation formula consistency~~ ✅ *Resolved in [[Crew-Module-Mechanics]]* |
@@ -180,14 +181,14 @@
 
 | ID | Issue | Resolution Needed |
 |----|-------|-------------------|
-| C7 | Ammunition in cargo grid vs magazine system | Define capacity, stack size, jettison rules |
+| ~~C7~~ | ~~Ammunition in cargo grid vs magazine system~~ | ~~Define capacity, stack size, jettison rules~~ ✅ *Resolved 2025-12-11: Cargo-only, stacks by caliber* |
 | C8 | Loot rarity vs module quality | Are these separate systems or connected? |
-| C9 | Fire control module bonus vs solution cap | Can accuracy exceed 100%? |
+| ~~C9~~ | ~~Fire control module bonus vs solution cap~~ | ~~Can accuracy exceed 100%?~~ ✅ *Resolved 2025-12-11: Soft cap with logarithmic diminishing returns* |
 | C10 | Aircraft fuel consumption | Ship inventory vs global supply? |
 | C11 | Radar range variance (SG 35km vs 20-50km table) | Clarify SG-specific vs general ranges |
 | C12 | Crew experience numbers | Missing XP-to-level table |
-| C13 | Battle casualty timing | Real-time updates or post-battle only? |
-| C14 | Insurance system existence | Mentioned but no mechanics document |
+| ~~C13~~ | ~~Battle casualty timing~~ | ~~Real-time updates or post-battle only?~~ ✅ *Resolved 2025-12-11: Real-time* |
+| ~~C14~~ | ~~Insurance system existence~~ | ~~Mentioned but no mechanics document~~ ✅ *Resolved 2025-12-11: Full system defined - NPC + Player providers, level-based costs, days processing*
 
 ---
 
@@ -197,72 +198,72 @@
 
 1. **Citadel Definition**: Where exactly is citadel zone? Can multiple shells hit simultaneously?
 2. **Penetration Angles**: Does 60° auto-bounce apply to all shell types or only AP?
-3. **Fire Control Failure**: Solution collapse: immediate to 0% or gradual decay?
-4. **Magazine Detonation Roll**: Per hit or once per engagement?
+3. ~~**Fire Control Failure**: Solution collapse: immediate to 0% or gradual decay?~~ ✅ *Gradual decay (accelerated 2-3×)*
+4. ~~**Magazine Detonation Roll**: Per hit or once per engagement?~~ ✅ *Per penetrating hit, chance scales with ammo quantity*
 5. **Torpedo Evasion**: Player-controlled or automatic? Probability formula?
 6. **Aircraft Attrition Selection**: Random or most-damaged-first destruction?
-7. **Submarine Depth Levels**: Specific depths or shallow/medium/deep categories?
-8. **Ramming Damage Distribution**: Equal to both ships? Asymmetric by class?
+7. ~~**Submarine Depth Levels**: Specific depths or shallow/medium/deep categories?~~ ✅ *Category-based, limited by ocean depth + hull*
+8. ~~**Ramming Damage Distribution**: Equal to both ships? Asymmetric by class?~~ ✅ *Asymmetric by class/size*
 9. **Fog Spotting with Radar**: Can observer provide targeting without line-of-sight?
-10. **Gun Magazine Capacity**: Reload from cargo after depletion?
+10. ~~**Gun Magazine Capacity**: Reload from cargo after depletion?~~ ✅ *Cargo-only system, manual ammo switching*
 
 ### Crew System (Q11-Q18)
 
-11. **Crew Specializations**: What classifications beyond Gunner/Engineer/AA?
-12. **Cross-Ship Crew Efficiency**: Destroyer crew on battleship turret penalty/bonus?
-13. **Morale System Status**: Actually absent or simplified?
-14. **Initial Stat Variance**: Random or fixed at Level 1? Nationality effects?
+11. ~~**Crew Specializations**: What classifications beyond Gunner/Engineer/AA?~~ ✅ *18 classes in 4 branches (Gunnery, Engineering, Operations, Aviation) + extraction roles*
+12. ~~**Cross-Ship Crew Efficiency**: Destroyer crew on battleship turret penalty/bonus?~~ ✅ *No penalty - any crew can operate any compatible module*
+13. ~~**Morale System Status**: Actually absent or simplified?~~ ✅ *Confirmed zero-morale design - purely stat-based*
+14. ~~**Initial Stat Variance**: Random or fixed at Level 1? Nationality effects?~~ ✅ *7-15 NF-style random, no nationality effect*
 15. **Crew Fatigue**: Extended combat performance degradation?
-16. **Crew Cross-Training**: Can Gunner retrain as Engineer?
+16. ~~**Crew Cross-Training**: Can Gunner retrain as Engineer?~~ ✅ *Full respec (costly)*
 17. **Crew Achievement Tracking**: Kill counts, battles survived?
 18. **Officer Name Generation**: Random or database-driven? Player customizable?
 
 ### Detection System (Q19-Q28)
 
-19. **Shadow Misidentification Recovery**: Real-time update when better equipped ally detects?
-20. **Phase Transition During Combat**: Solution behavior when target goes Phase 3→2?
+19. ~~**Shadow Misidentification Recovery**: Real-time update when better equipped ally detects?~~ ✅ *Initial ID locked - only visual confirmation overrides*
+20. ~~**Phase Transition During Combat**: Solution behavior when target goes Phase 3→2?~~ ✅ *Solution independent of phase*
 21. **Bearing Randomization Frequency**: Per second? Per radar sweep?
 22. **Passive Sonar Accuracy**: Single line or 2-3° arc?
 23. **Radar Clutter/Chaff**: False contacts in storms? Decoy mechanics?
-24. **Visual Detection Through Smoke**: Can visible turrets identify target?
-25. **Detection Toggle Spam**: Cooldown between sonar on/off?
-26. **Contact Persistence Post-Combat**: Do enemy contacts fade or persist?
+24. ~~**Visual Detection Through Smoke**: Can visible turrets identify target?~~ ✅ *No visual through smoke/weather (complete block)*
+25. ~~**Detection Toggle Spam**: Cooldown between sonar on/off?~~ ✅ *5-10 second cooldown*
+26. ~~**Contact Persistence Post-Combat**: Do enemy contacts fade or persist?~~ ✅ *Instant fade (no memory)*
 27. **Radar vs Sonar Priority**: Single crew monitoring both simultaneously?
-28. **Shared Misidentification**: Does ally see sender's error or own data?
+28. ~~**Shared Misidentification**: Does ally see sender's error or own data?~~ ✅ *Best data wins (system compares all observers)*
 
 ### Module System (Q29-Q37)
 
 29. ~~**Module Rotation**: 2×2 module orientation flexibility?~~ ✅ *Resolved in [[Tetris-Fitting-Mechanics]]*
-30. **Modular Redundancy**: Dual identical engines advantage?
-31. **Cascading Failures**: Adjacent module collateral damage?
+30. ~~**Modular Redundancy**: Dual identical engines advantage?~~ ✅ *No redundancy - each module independent*
+31. ~~**Cascading Failures**: Adjacent module collateral damage?~~ ✅ *No cascade - isolated damage*
 32. **Module Cooling**: Deliberate overheating through sustained fire?
-33. **Module Warm-Up**: New installation fire delay?
-34. **Weapon Interchangeability**: DD turret on cruiser mounting?
-35. **Quality Impact on Efficiency**: 70% vs 130% quality effect on formula?
-36. **Armor Stacking**: Multiple armor section installations?
+33. ~~**Module Warm-Up**: New installation fire delay?~~ ✅ *No warm-up - all modules installed in port*
+34. ~~**Weapon Interchangeability**: DD turret on cruiser mounting?~~ ✅ *Cross-nation freely interchangeable*
+35. ~~**Quality Impact on Efficiency**: 70% vs 130% quality effect on formula?~~ ✅ *Direct multiplier (70% = 70% stats)*
+36. ~~**Armor Stacking**: Multiple armor section installations?~~ ✅ *Navy Field style - thickness allocation to zones, not modules*
 37. ~~**Module vs Crew Weight**: Separate calculations or combined budget?~~ ✅ *Resolved in [[Crew-Module-Mechanics]] - separate, both count toward mount capacity*
 
 ### Economy System (Q38-Q48)
 
-38. **Resource Conversion**: Chromium to Electronics exchange rate?
+38. ~~**Resource Conversion**: Chromium to Electronics exchange rate?~~ ✅ *No conversion - RP and Credits are separate economies*
 39. **Port Fee Determinants**: Tier, cargo value, ship size, reputation?
-40. **Market Volatility**: Real-time or periodic price calculation?
-41. **Black Market Locations**: All ports or secret locations?
-42. **Intelligence Valuation**: Who determines initial value?
+40. ~~**Market Volatility**: Real-time or periodic price calculation?~~ ✅ *Supply/demand simulation (dynamic)*
+41. ~~**Black Market Locations**: All ports or secret locations?~~ ✅ *Hidden locations (must discover)*
+42. ~~**Intelligence Valuation**: Who determines initial value?~~ ✅ *Relevance-based pricing (freshness + importance)*
 43. **Crafting Skill Progression**: XP per craft determination?
-44. **Player Market Taxes**: Where do fees go? Sink? Nation? Port owner?
+44. ~~**Player Market Taxes**: Where do fees go? Sink? Nation? Port owner?~~ ✅ *Split (port owner + nation)*
 45. **Inflation Control**: Server wealth spiral prevention?
 46. **Resource Gathering**: Mining operations? Harvesting zones?
-47. **Production Facility Ownership**: Individual or guild only?
-48. **Trade Route Automation**: Profit model vs manual trading?
+47. ~~**Production Facility Ownership**: Individual or guild only?~~ ✅ *Guild-owned facilities*
+48. ~~**Trade Route Automation**: Profit model vs manual trading?~~ ✅ *Guild convoy system only*
 
 ### Permadeath System (Q49-Q53)
 
-49. **Recovery Mechanics**: Window length, location, cost, prerequisites?
-50. **Insurance Claims**: Auto-pay or submission required? Fraud detection?
-51. **Public Announcements**: Server memorial? Legacy impact?
-52. **Resurrection Methods**: Any path to recover dead crews?
-53. **Partial Ship Survival**: Condition after surviving T6-T9 roll?
+49. ~~**Recovery Mechanics**: Window length, location, cost, prerequisites?~~ ✅ *Insurance-based only, NPC + Player providers, level-based costs, days processing*
+50. ~~**Insurance Claims**: Auto-pay or submission required? Fraud detection?~~ ✅ *Processing takes days, unlimited coverage per crew, returns same stats/level but different name*
+51. ~~**Public Announcements**: Server memorial? Legacy impact?~~ ✅ *Private (no server broadcast)*
+52. ~~**Resurrection Methods**: Any path to recover dead crews?~~ ✅ *Insurance only - same stats/level, new identity*
+53. ~~**Partial Ship Survival**: Condition after surviving T6-T9 roll?~~ ✅ *50% sailor casualties on surviving crew cards*
 
 ### Extraction System (Q54-Q59)
 
@@ -270,7 +271,7 @@
 55. **Cargo Visibility Radius**: Same as ship detection or different?
 56. **Loot Crate Quantity**: Per HP, per class, or fixed?
 57. **Port Security Variance**: Reputation affect cargo safety?
-58. **Cargo Insurance**: Available? Cost? Coverage?
+58. ~~**Cargo Insurance**: Available? Cost? Coverage?~~ ✅ *Not available - only ship/crew insurance*
 59. **Extraction Failure Salvage**: Can sunken cargo be recovered?
 
 ### Progression System (Q60-Q64)
@@ -283,12 +284,12 @@
 
 ### Multiplayer Coordination (Q65-Q70)
 
-65. **Fleet Radar Sharing**: Automatic ally target sharing?
-66. **Voice Communication Range**: Bypass 2km radio limit?
-67. **Guild Management**: Size, treasury, ranks, shared resources?
-68. **Nation Diplomacy Votes**: War declaration mechanics?
-69. **Cross-Nation Grouping**: Grouping during active war?
-70. **PvP Flagging**: Indicate intent? Go peaceful?
+65. ~~**Fleet Radar Sharing**: Automatic ally target sharing?~~ ✅ *Range-limited sharing (~radio range)*
+66. ~~**Voice Communication Range**: Bypass 2km radio limit?~~ ✅ *Equipment-dependent (radio module quality)*
+67. ~~**Guild Management**: Size, treasury, ranks, shared resources?~~ ✅ *Large (500+), full sharing including ships, full alliance system*
+68. ~~**Nation Diplomacy Votes**: War declaration mechanics?~~ ✅ *Dev-controlled + auto-escalation from player actions*
+69. ~~**Cross-Nation Grouping**: Grouping during active war?~~ ✅ *Not allowed during war*
+70. ~~**PvP Flagging**: Indicate intent? Go peaceful?~~ ✅ *Always PvP enabled (no flag system)*
 
 ---
 
@@ -300,13 +301,13 @@
 |----|---------|-------|
 | ~~I1~~ | ~~Crew-Module Weight~~ | ~~No interaction explanation between crew weight and module weight budgets~~ ✅ *Resolved in [[Crew-Module-Mechanics]] and [[Tetris-Fitting-Mechanics]]* |
 | I2 | Offline Training + Economy | Training facility fees undefined; free training devalues paid methods |
-| I3 | Ammunition + Combat | No mid-combat depletion mechanic; magazine vs cargo undefined |
+| ~~I3~~ | ~~Ammunition + Combat~~ | ~~No mid-combat depletion mechanic; magazine vs cargo undefined~~ ✅ *Resolved 2025-12-11: Cargo-only, stacks by caliber, manual switching* |
 | I4 | Fuel + Economy | Fuel efficiency vs distance calculation; long-distance trade viability |
-| I5 | Permadeath + Insurance | No provider system, claim triggers, cost calculation |
+| ~~I5~~ | ~~Permadeath + Insurance~~ | ~~No provider system, claim triggers, cost calculation~~ ✅ *Resolved 2025-12-11: NPC + Player providers, level-based costs, days processing* |
 | I6 | Reputation + Economy | "Nation Standing" vs "Reputation" terminology; inheritance after death |
 | I7 | Detection + Combat | No "sprint to break contact" mechanic; detection vs engagement range mismatch |
-| I8 | Crew Casualty + Combat | No visual feedback; no damage control priority system; no automation explanation |
-| I9 | Submarine Sonar + Surface Radar | Can surface ships detect submerged subs? Asymmetrical advantage? |
+| ~~I8~~ | ~~Crew Casualty + Combat~~ | ~~No visual feedback; no damage control priority system; no automation explanation~~ ✅ *Resolved 2025-12-11: Station goes red/disabled, real-time casualties* |
+| ~~I9~~ | ~~Submarine Sonar + Surface Radar~~ | ~~Can surface ships detect submerged subs? Asymmetrical advantage?~~ ✅ *Resolved 2025-12-11: Radar cannot detect submerged subs - sonar only* |
 | I10 | Crafting Quality + Market | How does quality affect pricing? Certification system? |
 
 ### Minor Gaps
