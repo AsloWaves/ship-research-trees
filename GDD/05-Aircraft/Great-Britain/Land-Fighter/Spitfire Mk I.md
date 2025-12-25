@@ -17,16 +17,16 @@ completeness: partial
 **Year**: 1940
 
 ## Physical Specifications
-- **Wingspan**: 36.1 ft
-- **Length**: 41.5 ft
-- **Empty Weight**: 8000 lbs
-- **Max Takeoff Weight**: 4800 lbs
+- **Wingspan**: 36.8 ft
+- **Length**: 29.9 ft
+- **Empty Weight**: 5,065 lbs
+- **Max Takeoff Weight**: 6,050 lbs
 
 ## Performance
-- **Maximum Speed**: 378 mph
+- **Maximum Speed**: 362 mph
 - **Cruise Speed**: 264 mph
-- **Service Ceiling**: 35000 ft
-- **Range**: 1 nm
+- **Service Ceiling**: 36,500 ft
+- **Range**: 395 miles
 
 ## Powerplant
 - **Engine**: Piston

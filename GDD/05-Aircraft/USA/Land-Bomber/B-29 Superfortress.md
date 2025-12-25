@@ -18,15 +18,15 @@ completeness: partial
 
 ## Physical Specifications
 - **Wingspan**: 141.3 ft
-- **Length**: 91.8 ft
-- **Empty Weight**: 141100 lbs
-- **Max Takeoff Weight**: 84660 lbs
+- **Length**: 99.0 ft
+- **Empty Weight**: 74,500 lbs
+- **Max Takeoff Weight**: 141,100 lbs
 
 ## Performance
-- **Maximum Speed**: 550 mph
-- **Cruise Speed**: 385 mph
-- **Service Ceiling**: 41000 ft
-- **Range**: 8 nm
+- **Maximum Speed**: 357 mph
+- **Cruise Speed**: 220 mph
+- **Service Ceiling**: 31,850 ft
+- **Range**: 3,250 miles
 
 ## Powerplant
 - **Engine**: Piston

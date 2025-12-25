@@ -1,7 +1,7 @@
 # Pennsylvania-Class Armored Cruisers
 
 ---
-class_name: Pennsylvania-Class
+class_name: Pennsylvania-Class-1905
 hull_numbers: ACR-4 to ACR-8 (later CA-4 to CA-8)
 ships_built: 5
 commissioned: 1905-1908

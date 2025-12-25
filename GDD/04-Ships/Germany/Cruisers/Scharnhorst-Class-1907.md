@@ -1,7 +1,7 @@
 # Scharnhorst-Class Armored Cruisers
 
 ---
-class_name: Scharnhorst-Class
+class_name: Scharnhorst-Class-1907
 hull_numbers: Scharnhorst, Gneisenau
 ships_built: 2
 commissioned: 1907-1908

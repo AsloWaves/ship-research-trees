@@ -1,7 +1,7 @@
 # Katori-Class Battleships
 
 ---
-class_name: Katori-Class
+class_name: Katori-Class-1906
 hull_numbers: Katori, Kashima
 ships_built: 2
 commissioned: 1906
