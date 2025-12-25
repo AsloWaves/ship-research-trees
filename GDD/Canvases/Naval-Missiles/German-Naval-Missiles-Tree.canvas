@@ -3,7 +3,7 @@
 		{
 			"id": "148",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/RAM Block 0 (German).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/RAM Block 0 (German).md",
 			"x": 0,
 			"y": 0,
 			"width": 400,
@@ -12,7 +12,7 @@
 		{
 			"id": "149",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/Kormoran Mk 1.md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/Kormoran Mk 1.md",
 			"x": 450,
 			"y": 0,
 			"width": 400,
@@ -21,7 +21,7 @@
 		{
 			"id": "150",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/RAM Block 1.md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/RAM Block 1.md",
 			"x": 900,
 			"y": 0,
 			"width": 400,
@@ -30,7 +30,7 @@
 		{
 			"id": "151",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/SM-1MR Block VI (German).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/SM-1MR Block VI (German).md",
 			"x": 1350,
 			"y": 0,
 			"width": 400,
@@ -39,7 +39,7 @@
 		{
 			"id": "152",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/Kormoran Mk 2.md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/Kormoran Mk 2.md",
 			"x": 1800,
 			"y": 0,
 			"width": 400,
@@ -48,7 +48,7 @@
 		{
 			"id": "153",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/RAM Block 2.md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/RAM Block 2.md",
 			"x": 2250,
 			"y": 0,
 			"width": 400,
@@ -57,7 +57,7 @@
 		{
 			"id": "154",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/RAM Block 2A.md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/RAM Block 2A.md",
 			"x": 2700,
 			"y": 0,
 			"width": 400,
@@ -66,7 +66,7 @@
 		{
 			"id": "155",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/RIM-24B Tartar (German).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/RIM-24B Tartar (German).md",
 			"x": 3150,
 			"y": 0,
 			"width": 400,
@@ -75,7 +75,7 @@
 		{
 			"id": "156",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/MM38 Exocet (German).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/MM38 Exocet (German).md",
 			"x": 3600,
 			"y": 0,
 			"width": 400,
@@ -84,7 +84,7 @@
 		{
 			"id": "157",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/MM40 Block 3 (German).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/MM40 Block 3 (German).md",
 			"x": 4050,
 			"y": 0,
 			"width": 400,
@@ -93,7 +93,7 @@
 		{
 			"id": "158",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/MM40 Exocet Block 2.md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/MM40 Exocet Block 2.md",
 			"x": 4500,
 			"y": 0,
 			"width": 400,
@@ -102,7 +102,7 @@
 		{
 			"id": "159",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/RIM-66A Standard MR (German).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/RIM-66A Standard MR (German).md",
 			"x": 4950,
 			"y": 0,
 			"width": 400,
@@ -111,7 +111,7 @@
 		{
 			"id": "160",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/RGM-84 Harpoon (German).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/RGM-84 Harpoon (German).md",
 			"x": 5400,
 			"y": 0,
 			"width": 400,
@@ -120,7 +120,7 @@
 		{
 			"id": "161",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/RUM-139C (NATO).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/RUM-139C (NATO).md",
 			"x": 5850,
 			"y": 0,
 			"width": 400,
@@ -129,7 +129,7 @@
 		{
 			"id": "162",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/ESSM Block I (German).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/ESSM Block I (German).md",
 			"x": 6300,
 			"y": 0,
 			"width": 400,
@@ -138,7 +138,7 @@
 		{
 			"id": "163",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/ESSM Block II (German).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/ESSM Block II (German).md",
 			"x": 6750,
 			"y": 0,
 			"width": 400,
@@ -147,7 +147,7 @@
 		{
 			"id": "164",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/Harpoon Block II (German).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/Harpoon Block II (German).md",
 			"x": 7200,
 			"y": 0,
 			"width": 400,
@@ -156,7 +156,7 @@
 		{
 			"id": "165",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/IDAS (Sub-Launched).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/IDAS (Sub-Launched).md",
 			"x": 7650,
 			"y": 0,
 			"width": 400,
@@ -165,7 +165,7 @@
 		{
 			"id": "166",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/IRIS-T SLM.md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/IRIS-T SLM.md",
 			"x": 8100,
 			"y": 0,
 			"width": 400,
@@ -174,7 +174,7 @@
 		{
 			"id": "167",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/IRIS-T SLM Block II.md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/IRIS-T SLM Block II.md",
 			"x": 8550,
 			"y": 0,
 			"width": 400,
@@ -183,7 +183,7 @@
 		{
 			"id": "168",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/NSM (German).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/NSM (German).md",
 			"x": 9000,
 			"y": 0,
 			"width": 400,
@@ -192,7 +192,7 @@
 		{
 			"id": "169",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/NSM Block II.md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/NSM Block II.md",
 			"x": 9450,
 			"y": 0,
 			"width": 400,
@@ -201,7 +201,7 @@
 		{
 			"id": "170",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/Sea Sparrow NATO.md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/Sea Sparrow NATO.md",
 			"x": 9900,
 			"y": 0,
 			"width": 400,
@@ -210,7 +210,7 @@
 		{
 			"id": "171",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/Sea Urchin (License).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/Sea Urchin (License).md",
 			"x": 10350,
 			"y": 0,
 			"width": 400,
@@ -219,7 +219,7 @@
 		{
 			"id": "172",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/VL-ASROC (German).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/VL-ASROC (German).md",
 			"x": 10800,
 			"y": 0,
 			"width": 400,
@@ -228,7 +228,7 @@
 		{
 			"id": "173",
 			"type": "file",
-			"file": "Weapons/Naval-Weapons/Missiles/German/VL-ASROC Block II (German).md",
+			"file": "GDD/06-Weapons/Naval-Weapons/Missiles/German/VL-ASROC Block II (German).md",
 			"x": 11250,
 			"y": 0,
 			"width": 400,
