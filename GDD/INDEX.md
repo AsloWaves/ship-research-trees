@@ -8,7 +8,7 @@ tags: [index, navigation, gdd]
 **Project**: Fathoms Deep - Tactical Naval MMO
 **Version**: 0.3.0-alpha (Phase 3 Development)
 **Engine**: Unity 6000.0.55f1 (2D/URP)
-**Last Updated**: 2025-12-03
+**Last Updated**: 2025-12-24
 
 ---
 
@@ -66,14 +66,36 @@ tags: [index, navigation, gdd]
 - [[03-Combat-Systems/Submarine-Warfare|Submarine Warfare]] 📋 PLANNED
 - [[03-Combat-Systems/Damage-Model|Damage Model]] 📋 PLANNED
 
-### 04 - Ship Customization
-- [[04-Ship-Customization/Module-System|Module System]] 📋 PLANNED
-- [[04-Ship-Customization/Armor-Configuration|Armor Configuration]] 📋 PLANNED
-- [[04-Ship-Customization/Utility-Modules|Utility Modules]] 📋 PLANNED
-- [[04-Ship-Customization/Technology-Integration|Technology Integration]] 📋 PLANNED
-- [[04-Ship-Customization/Ship-Fitting-UI|Ship Fitting UI]] 📋 PLANNED
+### 04 - Ships (Research + Customization)
+- [[04-Ships/USA/|USA Ships]] - 247 ships ✅ **RESEARCH DATA**
+- [[04-Ships/Germany/|Germany Ships]] - 223 ships ✅ **RESEARCH DATA**
+- [[04-Ships/Great-Britain/|Great Britain Ships]] - 188 ships ✅ **RESEARCH DATA**
+- [[04-Ships/Japan/|Japan Ships]] - 160 ships ✅ **RESEARCH DATA**
+- [[04-Ships/Module-System|Module System]] 📋 PLANNED
+- [[04-Ships/Armor-Configuration|Armor Configuration]] 📋 PLANNED
+- [[04-Ships/Ship-Fitting-UI|Ship Fitting UI]] 📋 PLANNED
 
-### 05 - UI Systems
+### 05 - Aircraft (Research + Modules)
+- [[05-Aircraft/USA/|USA Aircraft]] - 178 aircraft ✅ **RESEARCH DATA**
+- [[05-Aircraft/Great-Britain/|Great Britain Aircraft]] - 92 aircraft ✅ **RESEARCH DATA**
+- [[05-Aircraft/Japan/|Japan Aircraft]] - 88 aircraft ✅ **RESEARCH DATA**
+- [[05-Aircraft/Germany/|Germany Aircraft]] - 75 aircraft ✅ **RESEARCH DATA**
+- [[05-Aircraft/Research-Trees/|Research Trees]] 📋 PLANNED
+
+### 06 - Weapons (Research + Modules)
+- [[06-Weapons/Naval-Weapons/Naval-Guns/|Naval Guns]] - 372 guns, 2,857 turrets ✅ **RESEARCH DATA**
+- [[06-Weapons/Naval-Weapons/Torpedoes/|Torpedoes]] - 234 torpedoes ✅ **RESEARCH DATA**
+- [[06-Weapons/Naval-Weapons/Missiles/|Missiles]] - 202 missiles ✅ **RESEARCH DATA**
+- [[06-Weapons/Naval-Weapons/Bombs/|Bombs]] - 107 bombs ✅ **RESEARCH DATA**
+- [[06-Weapons/Aircraft-Weapons/|Aircraft Weapons]] ✅ **RESEARCH DATA**
+
+### 07 - Economy & Trading
+- [[07-Economy/Economy-Overview|Economy Overview]] 📋 PLANNED
+- [[07-Economy/Trading-System|Trading System]] 📋 PLANNED
+- [[07-Economy/Market-Dynamics|Market Dynamics]] 📋 PLANNED
+- [[07-Economy/Resources/|Resources]] - 257 resource types ✅ **DESIGNED**
+
+### 08 - UI Systems
 - [[08-UI-Systems/UI-Overview|UI Overview]] ✅ **IMPLEMENTED**
 - [[08-UI-Systems/Menu-System|Menu System]] ✅ **IMPLEMENTED**
 - [[08-UI-Systems/Settings-Options|Settings & Options]] 📋 PLANNED
@@ -81,7 +103,7 @@ tags: [index, navigation, gdd]
 - [[08-UI-Systems/HUD-Design|HUD Design]] 🚧 PARTIAL
 - [[08-UI-Systems/Accessibility|Accessibility]] ✅ **IMPLEMENTED** (WCAG 2.1 AA)
 
-### 06 - Multiplayer & Networking
+### 09 - Multiplayer & Networking
 - [[09-Multiplayer/Network-Architecture|Network Architecture]] ✅ **IMPLEMENTED**
 - [[09-Multiplayer/Authentication|Authentication]] ✅ **IMPLEMENTED** (JWT)
 - [[09-Multiplayer/Chat-System|Chat System]] ✅ **IMPLEMENTED**
@@ -89,14 +111,7 @@ tags: [index, navigation, gdd]
 - [[09-Multiplayer/Save-Reconnection|Save & Reconnection]] 📋 PLANNED
 - [[09-Multiplayer/Scalability-Plan|Scalability Plan]] 📋 PLANNED (300+ players)
 
-### 07 - Economy & Trading
-- [[07-Economy/Economy-Overview|Economy Overview]] 📋 PLANNED
-- [[07-Economy/Trading-System|Trading System]] 📋 PLANNED
-- [[07-Economy/Market-Dynamics|Market Dynamics]] 📋 PLANNED
-- [[07-Economy/Currency-System|Currency System]] 📋 PLANNED
-- [[07-Economy/Loot-Distribution|Loot Distribution]] 📋 PLANNED
-
-### 08 - World Design
+### 10 - World Design
 - [[10-World-Design/Ocean-Environment|Ocean Environment]] ✅ **IMPLEMENTED**
 - [[10-World-Design/Biome-System|Biome System]] ✅ **IMPLEMENTED**
 - [[10-World-Design/Zone-System|Zone System]] 📋 PLANNED (T1-T10 tiers)
@@ -104,26 +119,26 @@ tags: [index, navigation, gdd]
 - [[10-World-Design/Map-Layout|Map Layout]] 📋 PLANNED
 - [[10-World-Design/Weather-System|Weather System]] 📋 PLANNED
 
-### 09 - Faction & Nation System
+### 11 - Factions & Nations
 - [[11-Factions/Nation-Overview|Nation Overview]] 📋 PLANNED
 - [[11-Factions/Reputation-System|Reputation System]] 📋 PLANNED
 - [[11-Factions/Diplomacy-States|Diplomacy States]] 📋 PLANNED
 - [[11-Factions/Faction-Missions|Faction Missions]] 📋 PLANNED
 
-### 10 - Progression & Research
+### 12 - Progression & Research
 - [[12-Progression/Player-Progression|Player Progression]] 📋 PLANNED
 - [[12-Progression/Ship-Unlocks|Ship Unlocks]] 📋 PLANNED
 - [[12-Progression/Research-Trees|Research Trees]] 📋 DESIGNED
 - [[12-Progression/Account-System|Account System]] ✅ **IMPLEMENTED**
 
-### 11 - Technical Documentation
+### 13 - Technical Documentation
 - [[13-Technical/Tech-Stack|Tech Stack]] ✅ **DOCUMENTED**
 - [[13-Technical/Performance-Targets|Performance Targets]] 📋 PLANNED
 - [[13-Technical/Database-Schema|Database Schema]] 🚧 PARTIAL
 - [[13-Technical/API-Endpoints|API Endpoints]] 🚧 PARTIAL
 - [[13-Technical/Network-Protocol|Network Protocol]] ✅ **DOCUMENTED**
 
-### 12 - Art & Audio
+### 14 - Art & Audio
 - [[14-Art-Audio/Visual-Design|Visual Design]] 📋 PLANNED
 - [[14-Art-Audio/Audio-Design|Audio Design]] ⭕ NOT STARTED
 - [[14-Art-Audio/Asset-Pipeline|Asset Pipeline]] 📋 PLANNED
@@ -277,6 +292,6 @@ Creating new documentation? Use these templates:
 
 ---
 
-**Last Updated**: 2025-12-03
+**Last Updated**: 2025-12-24
 **Maintained By**: Project lead + Claude Code
 **Questions?** Start with the relevant section above or use Obsidian search

@@ -1,7 +1,7 @@
 ---
 tags: [meta, overview, introduction]
 status: 📚 MASTER DOCUMENT
-last-updated: 2025-11-17
+last-updated: 2025-12-24
 related: [[Development-Status]], [[Game-Vision]], [[Phase-1-Complete]]
 ---
 
@@ -782,11 +782,25 @@ Individual sailors die from combat damage **separate from crew card permadeath**
 - [[Submarine-Warfare]] - Underwater combat
 - [[Damage-Model]] - Damage calculations
 
-#### Ship Customization (04-Ship-Customization/)
+#### Ships (04-Ships/)
 - [[Module-System]] - Tetris inventory
 - [[Armor-Configuration]] - Armor systems
-- [[Utility-Modules]] - Non-weapon modules
-- [[Ship-Fitting-UI]] - Fitting interface
+- Ship research data: USA (247), Germany (223), GB (188), Japan (160)
+
+#### Aircraft (05-Aircraft/)
+- Aircraft research data: USA (178), GB (92), Japan (88), Germany (75)
+- [[Research-Trees]] - Tech progression
+
+#### Weapons (06-Weapons/)
+- [[Naval-Guns]] - 372 guns, 2,857 turrets
+- [[Torpedoes]] - 234 torpedo types
+- [[Missiles]] - 202 missile types
+- [[Aircraft-Weapons]] - Air-launched ordnance
+
+#### Economy (07-Economy/)
+- [[Economy-Overview]] - Economy design
+- [[Trading-System]] - Trading mechanics
+- [[Resources]] - 257 resource types
 
 #### UI Systems (08-UI-Systems/)
 - [[UI-Overview]] - UI architecture
@@ -796,11 +810,6 @@ Individual sailors die from combat damage **separate from crew card permadeath**
 - [[Network-Architecture]] - Mirror setup
 - [[Authentication]] - JWT login
 - [[Chat-System]] - Chat implementation
-
-#### Economy (07-Economy/)
-- [[Economy-Overview]] - Economy design
-- [[Trading-System]] - Trading mechanics
-- [[Market-Dynamics]] - Supply and demand
 
 #### World Design (10-World-Design/)
 - [[Ocean-Environment]] - Infinite ocean
@@ -813,9 +822,19 @@ Individual sailors die from combat damage **separate from crew card permadeath**
 - [[Reputation-System]] - Standing mechanics
 - [[Diplomacy-States]] - Peace/War states
 
+#### Progression (12-Progression/)
+- [[Player-Progression]] - XP and leveling
+- [[Ship-Unlocks]] - Ship acquisition
+- [[Research-Trees]] - Tech progression
+
 #### Technical (13-Technical/)
 - [[Tech-Stack]] - All technologies
 - [[Performance-Targets]] - Optimization goals
+
+#### Art & Audio (14-Art-Audio/)
+- [[Visual-Design]] - Art direction
+- [[Audio-Design]] - Sound design
+- [[Asset-Pipeline]] - Asset workflow
 
 ---
 
