@@ -1,190 +1,100 @@
-# Naval Warfare Research Database
+# Fathoms Deep - Game Design Document
 
-Comprehensive research database for naval warfare systems including ships, aircraft, and weapons. Organized for Obsidian workflow with integrated Game Design Document (GDD) for **Fathoms Deep** naval game development.
+Unified GDD and naval warfare research database for the Fathoms Deep / Waves of Steel naval MMO.
 
+**Format**: Obsidian vault
+**Files**: ~6,000 markdown documents
 **Last Updated**: December 2025
-**Organization**: Dual-structure (Research Database + Game Design Document)
 
 ---
 
 ## Repository Structure
 
 ```
-C:\Research/
-├── Fathoms Deep Research/          # Game Design Document (GDD)
-│   ├── GDD/                        # 12-section game design
-│   │   ├── 00-Meta/                # Project overview & status
-│   │   ├── 01-Core-Concepts/       # Vision, audience, mechanics
-│   │   ├── 02-Core-Gameplay/       # Crew, missions, physics
-│   │   ├── 03-Combat-Systems/      # Combat, ammunition, carriers
-│   │   ├── 04-Ship-Customization/  # Modules, armor, ship database
-│   │   ├── 05-UI-Systems/          # Menus, controls, settings
-│   │   ├── 06-Multiplayer/         # Networking, guilds, chat
-│   │   ├── 07-Economy/             # Resources (252 files), trading
-│   │   ├── Modules/                # Aircraft, weapons, utilities
-│   │   └── [08-12 sections...]     # Additional systems
-│   ├── Scripts/                    # Unity script documentation
-│   ├── Scripts-Reference/          # Implementation references
-│   └── Canvases/                   # Visual design canvases
-│
-├── Ships/                          # Historical ship research (794 files)
-│   ├── USA/                        # 246 ships
-│   ├── Japan/                      # 140 ships
-│   ├── Germany/                    # 221 ships
-│   ├── Great-Britain/              # 187 ships
-│   └── Overviews/                  # Nation summaries
-│
-├── Aircraft/                       # Aircraft research (399 files)
-│   ├── USA/                        # 177 aircraft
-│   ├── Japan/                      # 87 aircraft
-│   ├── Germany/                    # 44 aircraft
-│   ├── Great-Britain/              # 91 aircraft
-│   └── Research-Trees/             # Tech progression trees
-│
-├── Weapons/                        # Weapons research
-│   ├── Naval-Weapons/
-│   │   ├── Naval-Guns/             # 372 guns + 1,132 turrets
-│   │   ├── Torpedoes/              # 234 torpedoes
-│   │   ├── Missiles/               # 192 missiles
-│   │   └── Bombs/                  # 107 bombs
-│   └── Aircraft-Weapons/           # Air-launched ordnance
-│
-├── _Archive/                       # Historical backups
-├── _DBs/                           # SQLite databases
-├── _Documentation/                 # Guides & audit reports
-├── _Reports/                       # Analysis summaries
-├── _Scripts/                       # Utility scripts (49 files)
-└── _Templates/                     # Markdown templates (15 files)
+ship-research-trees/
+├── GDD/                          # Game Design Document
+│   ├── 00-Meta/                  # Project overview & status
+│   ├── 01-Core-Concepts/         # Vision, audience, mechanics
+│   ├── 02-Core-Gameplay/         # Crew, missions, physics
+│   ├── 03-Combat-Systems/        # Combat, ballistics, detection
+│   ├── 04-Ships/                 # Ship database (842 files)
+│   ├── 05-Aircraft/              # Aircraft database (437 files)
+│   ├── 06-Weapons/               # Weapons database (4,100+ files)
+│   ├── 07-Economy/               # Resources & trading (257 files)
+│   ├── 08-UI-Systems/            # Controls, menus, settings
+│   ├── 09-Multiplayer/           # Networking, guilds, chat
+│   ├── 10-World-Design/          # Map, biomes, weather
+│   ├── 11-Factions/              # Nations, diplomacy
+│   ├── 12-Progression/           # Crew specialization, research
+│   ├── 13-Technical/             # Tech stack, performance
+│   ├── 14-Art-Audio/             # Visual design, audio
+│   ├── Modules/                  # Ship modules (Engines, Bridge, Support)
+│   ├── Scripts/                  # Unity implementation scripts
+│   └── Canvases/                 # Visual design diagrams
+├── _Templates/                   # Markdown templates
+├── _Reports/                     # Audit reports
+└── _Archive/                     # Historical backups
 ```
 
 ---
 
-## Content Statistics
+## Content Summary
 
-### Research Database
+| Category | Count | Nations |
+|----------|-------|---------|
+| **Ships** | 842 | USA (247), Germany (223), GB (188), Japan (160) |
+| **Aircraft** | 437 | USA (178), GB (92), Japan (88), Germany (75) |
+| **Naval Guns** | 372 | All nations |
+| **Turrets** | 2,857 | All nations |
+| **Torpedoes** | 234 | All nations |
+| **Missiles** | 202 | All nations |
+| **Economy Resources** | 257 | Game-specific |
 
-| Category | USA | Japan | Germany | GB | Total |
-|----------|-----|-------|---------|-----|-------|
-| **Ships** | 246 | 140 | 221 | 187 | **794** |
-| **Aircraft** | 177 | 87 | 44 | 91 | **399** |
-| **Naval Guns** | 83 | 100 | 96 | 93 | **372** |
-| **Torpedoes** | 62 | 62 | 54 | 56 | **234** |
-
-### Game Design Document
-
-| Section | Files | Status |
-|---------|-------|--------|
-| Economy Resources | 252 | Complete |
-| Ship Database | 794 indexed | Linked |
-| Weapons Modules | 372 indexed | Linked |
-| Aircraft Modules | 399 indexed | Linked |
-| Ammunition | 234 indexed | Linked |
-
-**Total Files**: ~3,800 markdown files
-**Nations**: USA, Great Britain, Japan, Germany
 **Time Period**: 1890-2020
 
 ---
 
-## GDD Integration
+## Getting Started
 
-The Game Design Document links to the research database through comprehensive index files:
+### For Game Development
+1. Start with `GDD/00-Meta/` for project overview
+2. Reference ship/weapon data in sections 04-06
+3. See `GDD/Scripts/` for Unity implementation
 
-| Index | Location | Entries |
-|-------|----------|---------|
-| Ships | `GDD/04-Ship-Customization/Ship-Database/_Complete-Ships-Index.md` | 794 |
-| Guns | `GDD/Modules/Weapons/Main-Guns/_Complete-Guns-Index.md` | 372 |
-| Aircraft | `GDD/Modules/Aircraft/_Complete-Aircraft-Index.md` | 399 |
-| Torpedoes | `GDD/03-Combat-Systems/Ammunition/Torpedoes/_Complete-Torpedoes-Index.md` | 234 |
-
-> **Design Philosophy**: Research folders contain comprehensive historical data. The GDD contains game-focused interpretations with links back to detailed research.
+### For Obsidian
+1. Open vault at repository root
+2. Enable Dataview plugin for queries
+3. Use Canvases for visual research trees
 
 ---
 
-## Obsidian Integration
+## File Format
 
-### File Format
-All markdown files include YAML frontmatter:
+All files use YAML frontmatter:
 ```yaml
 ---
 designation: Iowa-Class
 nation: USA
 type: Battleship
 commissioned: 1943
-tags: [battleship, fast-battleship, wwii]
+tags: [battleship, wwii]
 ---
 ```
 
-### Linking Conventions
-- Ships: `[[Ship-Class-Name]]`
-- Aircraft: `[[Designation]]`
-- Weapons: `[[Weapon-Designation]]`
-- Cross-links: `[[/Ships/USA/Battleships/Iowa-Class.md|Iowa Class]]`
+## Linking Conventions
+
+- Ships: `[[/GDD/04-Ships/USA/Battleships/Iowa-Class.md|Iowa Class]]`
+- Aircraft: `[[/GDD/05-Aircraft/USA/Naval-Fighter/F4U-Corsair.md|F4U Corsair]]`
+- Weapons: `[[/GDD/06-Weapons/Naval-Weapons/...]]`
 
 ---
 
-## Getting Started
+## Related
 
-### For Research
-1. Browse research in `Ships/`, `Aircraft/`, `Weapons/`
-2. Use index files in GDD for quick navigation
-3. Cross-reference using Obsidian links
-
-### For Game Development
-1. Start with `Fathoms Deep Research/GDD/00-Meta/GDD-Overview.md`
-2. Reference module indexes for asset data
-3. See `Scripts-Reference/` for implementation details
-
-### For Obsidian
-1. Open vault at `C:\Research`
-2. Enable Dataview plugin for queries
-3. Use Canvas for visual research trees
+- **Game Repository**: [WOS2.3_V2](https://github.com/AsloWaves/WOS2.3_V2)
+- **Engine**: Unity 6000.0.55f1 with Mirror networking
 
 ---
 
-## Key Documents
-
-### Game Design
-- `Fathoms Deep Research/GDD/CLAUDE.md` - AI assistant context
-- `Fathoms Deep Research/GDD/00-Meta/GDD-Overview.md` - Project overview
-- `Fathoms Deep Research/GDD/00-Meta/Development-Status.md` - Progress tracking
-
-### Research Reference
-- `Ships/Overviews/` - Nation ship summaries
-- `Aircraft/Research-Trees/` - Aircraft tech trees
-- `Weapons/*/Research-Trees/` - Weapon progression
-
-### Technical
-- `_Documentation/DATABASE_AUDIT_REPORT.md` - Data quality analysis
-- `_Documentation/OBSIDIAN_GUIDE.md` - Obsidian best practices
-- `_Reports/PROJECT_SUMMARY.md` - Standardization history
-
----
-
-## Scripts
-
-Utility scripts are organized in `_Scripts/`:
-
-| Category | Purpose |
-|----------|---------|
-| `generate_*.py` | Markdown generation from databases |
-| `validate_*.py` | File format validation |
-| `analyze_*.py` | Content analysis tools |
-| `fix_*.py` | Auto-correction utilities |
-
-Run index generator:
-```bash
-python _Scripts/generate_gdd_indexes.py
-```
-
----
-
-## Related Links
-
-- **Repository**: https://github.com/AsloWaves/ship-research-trees
-- **Game Project**: Fathoms Deep (Unity naval MMO)
-
----
-
-**Version**: 4.0 (GDD Integration)
-**Last Major Update**: December 2025 - GDD consolidation, comprehensive index generation, folder cleanup
+**Version**: 5.0 (Unified GDD Structure)
+**Restructured**: December 2025
