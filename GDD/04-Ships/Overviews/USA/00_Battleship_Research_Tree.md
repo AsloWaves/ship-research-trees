@@ -109,7 +109,7 @@ graph LR
 
 ### Pre-Dreadnought Battleships (1895-1906)
 1. [[Indiana-Class-BB]] (BB-1 to BB-3, 1895) - **First US battleships, 3 ships**
-2. [[Iowa-Class-BB-4]] (BB-4, 1897) - Improved Indiana
+2. [[USS-Iowa-BB-4]] (BB-4, 1897) - Improved Indiana
 3. [[Kearsarge-Class]] (BB-5/6, 1900) - Superimposed turrets
 4. [[Illinois-Class]] (BB-7/8, 1901) - Improved Kearsarge
 5. [[Maine-Class-BB]] (BB-10, 1902) - Named after lost cruiser

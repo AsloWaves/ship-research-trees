@@ -35,7 +35,7 @@ armor_belt: 18 inches
 
 # Relationships
 predecessor: null
-successor: "[[Iowa-Class-BB-4]]"
+successor: "[[USS-Iowa-BB-4]]"
 
 # Innovation
 firsts:
@@ -63,6 +63,6 @@ tags: [battleship, indiana, bb-1, bb-2, bb-3, first-battleship, pre-dreadnought,
 **Service:** Spanish-American War - Battle of Santiago de Cuba July 1898. WWI training ships. Oregon preserved as memorial until 1956 (scrapped). Massachusetts used as target 1921.
 
 ---
-**Tree:** [[00_Battleship_Research_Tree]] | **Previous:** None (first) | **Next:** [[Iowa-Class-BB-4]]
+**Tree:** [[00_Battleship_Research_Tree]] | **Previous:** None (first) | **Next:** [[USS-Iowa-BB-4]]
 
 #battleship #indiana #bb-1 #bb-2 #bb-3 #first-battleship #pre-dreadnought #1895 #spanish-american-war #milestone

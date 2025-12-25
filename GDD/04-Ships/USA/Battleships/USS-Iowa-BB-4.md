@@ -1,7 +1,9 @@
-# Iowa-Class Battleship (BB-4)
+# USS Iowa (BB-4) - Pre-Dreadnought
+
+> **Note:** This is the 1897 pre-dreadnought USS Iowa (BB-4), a single-ship class. Not to be confused with the famous WWII [[Iowa-Class|Iowa-class fast battleships]] (BB-61 through BB-66).
 
 ---
-class_name: Iowa-Class-BB-4
+ship_name: USS Iowa (BB-4)
 hull_numbers: BB-4
 ships_built: 1
 commissioned: 1897

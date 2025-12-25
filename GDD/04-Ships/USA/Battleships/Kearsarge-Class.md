@@ -35,7 +35,7 @@ armor_belt: 16.5
 armor_deck: 3
 
 # Relationships
-predecessor: "[[Iowa-Class-BB-4]]"
+predecessor: "[[USS-Iowa-BB-4]]"
 successor: "[[Illinois-Class]]"
 
 # Innovation
@@ -64,6 +64,6 @@ tags: [battleship, pre-dreadnought, bb-5, bb-6, superimposed-turrets, 1900, grea
 **Legacy:** Proved superimposed turret concept workable but flawed. Later ships used superfiring arrangements instead.
 
 ---
-**Tree:** [[00_Battleship_Research_Tree]] | **Previous:** [[Iowa-Class-BB-4]] | **Next:** [[Illinois-Class]]
+**Tree:** [[00_Battleship_Research_Tree]] | **Previous:** [[USS-Iowa-BB-4]] | **Next:** [[Illinois-Class]]
 
 #battleship #pre-dreadnought #bb-5 #bb-6 #superimposed-turrets #1900 #great-white-fleet
